@@ -1,0 +1,45 @@
+{
+  "sourceId": "elchupi-animswapper",
+  "url": "https://raw.githubusercontent.com/elchupi/AnimSwapper/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "elchupi",
+      "Name": "AnimSwapper",
+      "InternalName": "AnimSwapper",
+      "AssemblyVersion": "1.0.1.0",
+      "Description": "Swap walk/run animations between races. Swap weapon hold, movement, and auto-attack animations between jobs. Auto-apply Glamourer designs by territory.\n\nRequires Penumbra (for animation swaps) and Glamourer (for glamour automation).",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/elchupi/AnimSwapper",
+      "Tags": [
+        "animation",
+        "swap",
+        "glamourer",
+        "penumbra",
+        "race",
+        "job"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "Punchline": "Race/job animation swaps + Glamourer territory automation",
+      "IconUrl": "https://raw.githubusercontent.com/elchupi/AnimSwapper/main/images/icon.png",
+      "DownloadLinkInstall": "https://github.com/elchupi/AnimSwapper/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/elchupi/AnimSwapper/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/elchupi/AnimSwapper/releases/latest/download/latest.zip",
+      "Changelog": "Fix idle pose passthrough from Penumbra. Race swap targets now resolve through Penumbra so user mods chain correctly on redraw.",
+      "AcceptsFeedback": true,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "elchupi-animswapper",
+      "_SourceName": "AnimSwapper",
+      "_SourceUrl": "https://raw.githubusercontent.com/elchupi/AnimSwapper/main/pluginmaster.json"
+    }
+  ]
+}

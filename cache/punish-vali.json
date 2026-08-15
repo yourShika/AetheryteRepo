@@ -1,0 +1,122 @@
+{
+  "sourceId": "punish-vali",
+  "url": "https://puni.sh/api/repository/vali",
+  "fetchedAt": "2026-08-15",
+  "count": 4,
+  "plugins": [
+    {
+      "Author": "Valenth Siveria",
+      "Name": "I Am Ready",
+      "Punchline": "Automatically accept or decline Duty Finder ready checks based on a configurable counter.",
+      "Description": "# I Am Ready\n\n**I Am Ready** is a Dalamud plugin for Final Fantasy XIV that automatically accepts or declines Party and Alliance Ready Checks based on a customizable counter. \n\nWhether you are stepping away for a moment or just tired of clicking, this plugin handles ready checks for you while mimicking human reaction times.\n\n## ✨ Features\n\n* **Auto-Answer Ready Checks:** Automatically clicks \"Yes\" or \"No\" when a ready check appears.\n* **Configurable \"Yes\" Counter:** Set a specific number of times you want to automatically answer \"Yes\". Once that limit is reached, the plugin will automatically start answering \"No\" to prevent pulling when you are actually away.\n* **Natural Delay:** Enable a randomized delay (0.7 to 2.5 seconds) before the plugin answers, making it look like a natural human reaction.\n* **Smart Chat Triggers (Regex):** Add custom text phrases to the plugin. If someone says one of these phrases in Party or Alliance chat (e.g., \"reset\", \"pulling\"), your counter will automatically reset back to zero.\n* **Bilingual Support:** The user interface is available in both English and German.\n\n## 🚀 Usage\n\n1. Type `/iar` in the in-game chat to open the configuration window.\n2. Click the **Inactive/Active** button at the top to turn the auto-responder on or off.\n3. Adjust the **Yes Count** slider. For example, if set to `5`, the plugin will answer \"Yes\" to the next 5 ready checks, and \"No\" to any checks after that.\n4. Click the **Start** button at any time to manually reset your current counter back to zero.\n\n### Chat Triggers (Regex Patterns)\nAt the bottom of the window, you can expand the **Regex Patterns** section. Here you can add simple words or complex regex patterns. \nIf the plugin reads a matching message in your Party or Cross-World Party chat, it will instantly reset your counter to zero, assuming a new pull or instance is starting!\n\n/iar - opens the I Am Ready tool",
+      "Tags": [
+        "DutyFinder",
+        "Auto",
+        "Ready"
+      ],
+      "InternalName": "IAmReady",
+      "RepoUrl": "https://github.com/NeoGriever/IAmReady",
+      "DownloadCount": 164,
+      "LastUpdate": 1778900353,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/121/IAmReady/versions/1.1.0.0/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/121/IAmReady/versions/1.1.0.0/update/latest.zip",
+      "AssemblyVersion": "1.1.0.0",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "API15 finally",
+      "IconUrl": "https://puni.sh/api/plugins/icon/121",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-vali",
+      "_SourceName": "Vali's Repo",
+      "_SourceUrl": "https://puni.sh/api/repository/vali"
+    },
+    {
+      "Author": "Valenth Siveria",
+      "Name": "Burnout",
+      "Punchline": "Don't get a burnout by using burnout",
+      "Description": "Don't get a burnout by using burnout",
+      "Tags": [
+        "helper",
+        "calendar"
+      ],
+      "InternalName": "Burnout",
+      "RepoUrl": "https://github.com/NeoGriever/Burnout",
+      "DownloadCount": 223,
+      "LastUpdate": 1780417356,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/123/Burnout/versions/1.0.0.1/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/123/Burnout/versions/1.0.0.1/update/latest.zip",
+      "AssemblyVersion": "1.0.0.1",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "v1.0.0.1:\n- Maintenance release",
+      "IconUrl": "https://puni.sh/api/plugins/icon/123",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-vali",
+      "_SourceName": "Vali's Repo",
+      "_SourceUrl": "https://puni.sh/api/repository/vali"
+    },
+    {
+      "Author": "Valenth Siveria",
+      "Name": "Active Venue Finder",
+      "Punchline": "Browse FFXIV venues and teleport to them with one click.",
+      "Description": "Discover active FFXIV venues with data powered by the FFXIV Venues API. Browse currently open and upcoming venues in a sortable table featuring color-coded data centers, opening times, and a visual timeline. Filter by region, search by name, and adjust the lookahead window to find venues opening soon.\n\nSave favorites, blacklist venues, and add your own custom venues with custom schedules and tags. Lifestream integration lets you teleport directly to any venue, while a compact popout window gives you a quick overview at a glance.\n\nUse /avf to open.",
+      "Tags": [
+        "Venue",
+        "RP",
+        "Teleport",
+        "Lifestream"
+      ],
+      "InternalName": "ActiveVenueFinder",
+      "RepoUrl": "https://github.com/NeoGriever/ActiveVenueFinder",
+      "DownloadCount": 516,
+      "LastUpdate": 1785713245,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/129/ActiveVenueFinder/versions/2.1.0.2/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/129/ActiveVenueFinder/versions/2.1.0.2/update/latest.zip",
+      "AssemblyVersion": "2.1.0.2",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "## Version 2.1.0.2\n\n- Fixed a crash caused by venue entries with missing Data Center data.\n- Added support for API-provided custom location overrides.\n- Override locations now display their address correctly.\n- Prevented Lifestream travel commands from being generated for non-travelable override locations.\n",
+      "IconUrl": "https://puni.sh/api/plugins/icon/129",
+      "ImageUrls": [
+        "https://s3.puni.sh/media/plugin/129/image-f40fot6m5jm.png"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-vali",
+      "_SourceName": "Vali's Repo",
+      "_SourceUrl": "https://puni.sh/api/repository/vali"
+    },
+    {
+      "Author": "Valenth Siveria",
+      "Name": "BlackJack Buttler",
+      "Punchline": "Good evening. I'm your BlackJack Buttler - quietly tracking the table and offering the right hint at the right time.",
+      "Description": "/bjb - opens the blackjack buttler tool",
+      "Tags": [
+        "BlackJack",
+        "Helper",
+        "Chat"
+      ],
+      "InternalName": "BlackJackButtler",
+      "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
+      "DownloadCount": 2189,
+      "LastUpdate": 1786318071,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/118/BlackJackButtler/versions/1.9.0.0/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/118/BlackJackButtler/versions/1.9.0.0/update/latest.zip",
+      "AssemblyVersion": "1.9.0.0",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "# BlackJack Buttler – Version 1.9.0.0\n\n## Version 1.9.0.0 and configuration\n\n- Added the third view variant with its own Version 3 Settings layout while keeping the Classic and Version 2 views available.\n- Version 3 reorganizes Settings into dedicated General, Automation, Rules, Betting, Time & Delay, Nearby Players, Visual, Alliance, Preset Setup, and System tabs.\n- General navigation now uses the labels **Side**, **Burger**, and **Tabs**; **Top Tabs** no longer carries an experimental marker.\n- New structured configuration values are migrated safely from existing data. New data takes priority after migration while legacy values remain compatible with imports, exports, and presets.\n- The version is now **1.9.0.0** in the plugin metadata and in this in-game changelog.\n\n## Automation and payouts\n\n- Automation separates **Message Reaction**, **Dealer Draw**, **Player Draw**, and **Continue after**. The continuation delay accepts 10–300 seconds even when the feature is off.\n- Message Reaction gates only manually configured gameplay regex actions; system, trade, and variable regex processing remains available independently.\n- **Insert regular Regex entries** adds the standard Draw, Stand, Double Down, Split, Ready, Set Bet, Bank Tell, and Withdraw groups without duplicating existing entries.\n- Command-after-bet-change and insufficient-bank command selection moved to Automation. Command Speed remains a multiplier, and Recall Unlock remains configurable with reset controls.\n- **Auto Activate Trading Players** is enabled by default in all views. Members who join after the initial group snapshot are activated once upon their first detected trade; manual removal opts them out until they leave and join again.\n- Added the **Withdraw** regex action. It supports numeric amounts, `k`/`m`, `all`, and `everything`; validates the bank balance; and pays exactly the requested amount across normal payout chunks.\n\n## Regexes, messages, and commands\n\n- Regexes are split into **Standard Regex Entries** and **Custom Regex Entries** tabs.\n- Messages are split into **Standard Message Batches** and **Custom Message Batches** tabs.\n- Message batches support a multiline editor with Save and Back confirmation. Empty lines are ignored.\n- Multiline Anti-Double notation is explicit: `[AD]Message` enables Anti-Double, while `\\[AD]Message` writes a literal `[AD]Message`.\n- Message Settings was removed. Anti-Double and second-snapping behavior are now always active while older configuration files remain readable.\n\n## Own buttons\n\n- Own-button groups, breaks, and their order now share one integrated, filterable list.\n- Entries can be moved, deleted with CTRL, shown or hidden, and edited from the expandable list. Breaks are non-expandable entries that affect the button-bar line break only when visible.\n- Group names and optional labels save immediately without closing or rebuilding an open editor.\n- Hidden or inactive entries are visually distinct, and legacy order data and breaks are migrated safely.\n\n## Rules and betting\n\n- Rules use consistent On/Off controls. **First Deal, then play**, **Player self-rolling**, **Hide card suits**, and **Soft** use direct toggle buttons.\n- Rules terminology was clarified, including **Short Result Messages**, the Blackjack tie-rule labels, and the Version 3 dealer row order.\n- Result preview now demonstrates four winner, push, loss, and bust combinations separated by `---`.\n- Betting uses explicit **Minimum**, **Normal**, and **VIP** entry types. Minimum cannot be deleted, and legacy VIP entries with rank zero migrate to Normal.\n- Betting presets can be saved with an automatic name, renamed, colored, deleted, and loaded by clicking the same preset twice within two seconds.\n\n## Time, nearby players, and sound\n\n- Time & Delay provides a large named city/UTC-offset selection, including half-hour and quarter-hour offsets. Legacy offsets migrate to the first matching entry; unmatched values use an editable Custom UTC value.\n- A separate **Summer/Winter Time** switch applies the deliberate one-hour adjustment.\n- Nearby Players uses **Enabled** and **Columns**. Range-circle visibility and the nearby custom command moved to Range Settings, while automatic dequeue remains disabled.\n- Nearby sound entries show their full path, enabled state, individual volume, and removal control. Playback multiplies global and per-file volume, and Test reports missing or unplayable files.\n- Sound cooldown supports 0.02–30.00 seconds and a double-click numeric editor with OK.\n\n## Statistics and main view\n\n- Tip shortcuts are ordered from **1k** through **1m**, and the displayed tip total supports double-click editing with OK.\n- Non-fixed wages support Gil per minute, 15 minutes, 30 minutes, hour, or two hours; the selected interval is persisted and used for the calculation.\n- Gil displays are clickable, right-aligned formatted labels that switch to a selected plain-integer editor and return to the configured display after Enter.\n- Rotation is configured from the main header with an editable current slider and a read-only saved-value slider.\n- Disabling Nearby Players hides the nearby popout, configuration, and sticky-order controls. The **NEARBY PLAYERS** title toggles the list for the current session.\n\n## Minor fixes\n\n- Different minor optical and logical fixes.\n",
+      "IconUrl": "https://puni.sh/api/plugins/icon/118",
+      "ImageUrls": [
+        "https://s3.puni.sh/media/plugin/118/image-ydfv2p5hx9s.png"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-vali",
+      "_SourceName": "Vali's Repo",
+      "_SourceUrl": "https://puni.sh/api/repository/vali"
+    }
+  ]
+}

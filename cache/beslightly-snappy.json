@@ -1,0 +1,45 @@
+{
+  "sourceId": "beslightly-snappy",
+  "url": "https://raw.githubusercontent.com/BeSlightly/Snappy/refs/heads/master/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Eqbot, ViviAshe, astrodoobs, BeSlightly",
+      "Name": "Snappy",
+      "InternalName": "Snappy",
+      "AssemblyVersion": "0.5.2.10",
+      "Description": "Want to export your character and mods exactly as-is in a single collection *without* Mare? This plugin saves and loads your character's current appearance, and allows you to share modded characters without relying on MCDF.",
+      "RepoUrl": "https://github.com/BeSlightly/Snappy",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "utility",
+        "snappy",
+        "snapper",
+        "mare",
+        "snapshot"
+      ],
+      "DalamudApiLevel": 15,
+      "TestingDalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "Punchline": "Plugin to save current appearance and applied mods of a character",
+      "AcceptsFeedback": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/BeSlightly/Snappy/releases/download/v0.5.2.10/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/BeSlightly/Snappy/releases/download/v0.5.2.10/latest.zip",
+      "DownloadLinkTesting": "https://github.com/BeSlightly/Snappy/releases/download/v0.5.2.6/latest.zip",
+      "IconUrl": "https://raw.githubusercontent.com/BeSlightly/Snappy/refs/heads/master/snappy.png",
+      "LastUpdate": 1785400892,
+      "Changelog": "Added sorting options to snapshot selector and glamourer/customize+ entries",
+      "DownloadCount": 10011,
+      "TestingAssemblyVersion": "0.5.2.6",
+      "IsHide": false,
+      "_SourceId": "beslightly-snappy",
+      "_SourceName": "Snappy",
+      "_SourceUrl": "https://raw.githubusercontent.com/BeSlightly/Snappy/refs/heads/master/repo.json"
+    }
+  ]
+}

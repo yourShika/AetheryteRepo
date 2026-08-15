@@ -1,0 +1,33 @@
+{
+  "sourceId": "shiftykiwi-kiwirichpresence",
+  "url": "https://raw.githubusercontent.com/ShiftyKiwi/KiwiRichPresence/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "goat, maintained by Franze, edited by ShiftyKiwi",
+      "Name": "KiwiRichPresence",
+      "Punchline": "Customizable Discord Rich Presence for FFXIV",
+      "Description": "Forked and expanded Discord Rich Presence for FFXIV with templates, job/context presets, custom images, privacy controls, and live preview tools.",
+      "InternalName": "KiwiRichPresence",
+      "AssemblyVersion": "3.1.1.0",
+      "RepoUrl": "https://github.com/ShiftyKiwi/KiwiRichPresence",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "Discord",
+        "Rich Presence",
+        "Customization"
+      ],
+      "DalamudApiLevel": 15,
+      "DownloadLinkInstall": "https://github.com/ShiftyKiwi/KiwiRichPresence/releases/latest/download/KiwiRichPresence-latest.zip",
+      "DownloadLinkUpdate": "https://github.com/ShiftyKiwi/KiwiRichPresence/releases/latest/download/KiwiRichPresence-latest.zip",
+      "IconUrl": "https://raw.githubusercontent.com/ShiftyKiwi/KiwiRichPresence/main/KiwiRichPresence/icon.png",
+      "Changelog": "Updated for FFXIV Patch 7.5 and Dalamud API15.",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "shiftykiwi-kiwirichpresence",
+      "_SourceName": "KiwiRichPresence",
+      "_SourceUrl": "https://raw.githubusercontent.com/ShiftyKiwi/KiwiRichPresence/main/pluginmaster.json"
+    }
+  ]
+}

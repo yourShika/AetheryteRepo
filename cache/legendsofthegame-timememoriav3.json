@@ -1,0 +1,45 @@
+{
+  "sourceId": "legendsofthegame-timememoriav3",
+  "url": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Legends of the Game",
+      "Name": "Time Memoria",
+      "InternalName": "TimeMemoriaV3",
+      "AssemblyVersion": "3.1.0.15",
+      "Description": "Quest progression and pacing — a reflective notebook for your story journey, not a scoreboard.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/LegendsOfTheGame/TimeMemoriaV3",
+      "Tags": [
+        "quest",
+        "quests",
+        "progression",
+        "pacing",
+        "tracker"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "Punchline": "Remember every step, Warriors of Light.",
+      "AcceptsFeedback": true,
+      "CategoryTags": [
+        "utility"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/LegendsOfTheGame/TimeMemoriaV3/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/LegendsOfTheGame/TimeMemoriaV3/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/LegendsOfTheGame/TimeMemoriaV3/releases/latest/download/latest.zip",
+      "IconUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/assets/icon.png",
+      "DownloadCount": 0,
+      "Changelog": "Tracks allied society standing - rank, points and what the next rank needs - read from the game rather than entered by hand. Adds /tm ledger to copy your progress straight to the clipboard.",
+      "_SourceId": "legendsofthegame-timememoriav3",
+      "_SourceName": "LegendsOfTheGame / TimeMemoriaV3",
+      "_SourceUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json"
+    }
+  ]
+}

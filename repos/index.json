@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-08-15T10:02:06.725Z",
-  "contentHash": "e4f84ee7557c5504",
-  "totalPlugins": 85,
-  "masterPlugins": 85,
+  "generatedAt": "2026-08-15T10:09:36.604Z",
+  "contentHash": "0fc90efd3a64f062",
+  "totalPlugins": 364,
+  "masterPlugins": 360,
+  "currentApiLevel": 15,
+  "minApiLevel": 13,
+  "legacyPlugins": 326,
   "sources": [
     {
       "id": "penumbra",
@@ -171,6 +174,1542 @@
       "status": "ok",
       "count": 2,
       "note": null
+    },
+    {
+      "id": "44451516-ffxiv-bossmod",
+      "name": "44451516 / ffxiv_bossmod",
+      "url": "https://raw.githubusercontent.com/44451516/ffxiv_bossmod/CN/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "44451516-ff14-bossmodreborncn",
+      "name": "44451516-ff14 / BossmodRebornCN",
+      "url": "https://raw.githubusercontent.com/44451516-ff14/BossmodRebornCN/refs/heads/main/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "sebane1-aquestreborn",
+      "name": "A Quest Reborn",
+      "url": "https://raw.githubusercontent.com/Sebane1/AQuestReborn/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "a1hena-pluginrepository",
+      "name": "a1hena/PluginRepository",
+      "url": "https://raw.githubusercontent.com/a1hena/PluginRepository/master/dist/pluginmaster.json",
+      "status": "ok",
+      "count": 4,
+      "note": null
+    },
+    {
+      "id": "serifas-absolute-roleplay",
+      "name": "Absolute Roleplay",
+      "url": "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/main/absolute_rp.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "punish-abe",
+      "name": "Abyeon's Repo",
+      "url": "https://puni.sh/api/repository/abe",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "link-0402-advanced-penumbra-item-converter",
+      "name": "Advanced Penumbra Item Converter",
+      "url": "https://raw.githubusercontent.com/link-0402/Advanced-Penumbra-Item-Converter/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "aetherremote-aetherremote",
+      "name": "Aether Remote",
+      "url": "https://raw.githubusercontent.com/aetherremote/AetherRemote/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "aether-tools-dalamudplugins",
+      "name": "Aether Tools",
+      "url": "https://raw.githubusercontent.com/Aether-Tools/DalamudPlugins/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "kussie-aetherfit",
+      "name": "Aetherfit",
+      "url": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/repo.json",
+      "status": "ok",
+      "count": 2,
+      "note": null
+    },
+    {
+      "id": "aetherment-sevii-dev-plugin",
+      "name": "Aetherment",
+      "url": "https://aetherment.sevii.dev/plugin",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "aida-enna-xivplugins",
+      "name": "Aida-Enna XIVPlugins",
+      "url": "https://raw.githubusercontent.com/Aida-Enna/XIVPlugins/main/repo.json",
+      "status": "ok",
+      "count": 4,
+      "note": null
+    },
+    {
+      "id": "aireil-mydalamudplugins",
+      "name": "Aireil's MyDalamudPlugins",
+      "url": "https://raw.githubusercontent.com/Aireil/MyDalamudPlugins/master/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "akira0245-dalamudplugins",
+      "name": "akira0245/DalamudPlugins",
+      "url": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/pluginmaster.json",
+      "status": "ok",
+      "count": 10,
+      "note": null
+    },
+    {
+      "id": "punish-aly",
+      "name": "Aly",
+      "url": "https://puni.sh/api/repository/aly",
+      "status": "ok",
+      "count": 2,
+      "note": null
+    },
+    {
+      "id": "elchupi-animswapper",
+      "name": "AnimSwapper",
+      "url": "https://raw.githubusercontent.com/elchupi/AnimSwapper/main/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "anomek-mydalamudplugins",
+      "name": "anomek MyDalamudPlugins",
+      "url": "https://raw.githubusercontent.com/anomek/MyDalamudPlugins/master/pluginmaster.json",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "anya-hichu-dalamudpluginrepo",
+      "name": "anya-hichu/DalamudPluginRepo",
+      "url": "https://raw.githubusercontent.com/anya-hichu/DalamudPluginRepo/main/custom.json",
+      "status": "ok",
+      "count": 8,
+      "note": null
+    },
+    {
+      "id": "arcticnw-dalamudplugins",
+      "name": "arcticnw/DalamudPlugins",
+      "url": "https://raw.githubusercontent.com/arcticnw/DalamudPlugins/main/repo.json",
+      "status": "ok",
+      "count": 4,
+      "note": null
+    },
+    {
+      "id": "almerisbe-armoire",
+      "name": "Armoire",
+      "url": "https://raw.githubusercontent.com/AlmerisBE/Armoire/production/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "selken-ixx-selkendalamud",
+      "name": "Armoire Butler / Fashion Check",
+      "url": "https://raw.githubusercontent.com/selken-ixx/SelkenDalamud/main/pluginmaster.json",
+      "status": "ok",
+      "count": 2,
+      "note": null
+    },
+    {
+      "id": "sebane1-roleplayingvoicedalamud",
+      "name": "Artemis Roleplaying Kit",
+      "url": "https://raw.githubusercontent.com/Sebane1/RoleplayingVoiceDalamud/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "punish-asuna",
+      "name": "Asuna's Repo",
+      "url": "https://puni.sh/api/repository/asuna",
+      "status": "ok",
+      "count": 4,
+      "note": null
+    },
+    {
+      "id": "athavar-athavar-ffxiv-dalarepo",
+      "name": "Athavar / Athavar.FFXIV.DalaRepo",
+      "url": "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "atmoomen-dalamudplugins",
+      "name": "AtmoOmen / DalamudPlugins",
+      "url": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
+      "status": "ok",
+      "count": 14,
+      "note": null
+    },
+    {
+      "id": "foxshadow10-autoemotion",
+      "name": "Auto Emotion",
+      "url": "https://raw.githubusercontent.com/FoxShadow10/AutoEmotion/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "awgil-ffxiv-plugin-distribution",
+      "name": "awgil plugin distribution",
+      "url": "https://raw.githubusercontent.com/awgil/ffxiv_plugin_distribution/master/pluginmaster.json",
+      "status": "ok",
+      "count": 4,
+      "note": null
+    },
+    {
+      "id": "azure-agst-dalamudrepo",
+      "name": "Azure-Agst / DalamudRepo",
+      "url": "https://raw.githubusercontent.com/Azure-Agst/DalamudRepo/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "bardtoolbox-bardtoolbox-release",
+      "name": "BardToolbox / BardToolbox-Release",
+      "url": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "bees-xiv-bees-repo",
+      "name": "bees-repo",
+      "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
+      "status": "ok",
+      "count": 51,
+      "note": null
+    },
+    {
+      "id": "bluefissure-dalamudplugins",
+      "name": "Bluefissure DalamudPlugins",
+      "url": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
+      "status": "ok",
+      "count": 6,
+      "note": null
+    },
+    {
+      "id": "miragiumxiv-bodyflux",
+      "name": "Body Flux",
+      "url": "https://raw.githubusercontent.com/miragiumxiv/BodyFlux/master/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "etheirys-brio",
+      "name": "Brio",
+      "url": "https://raw.githubusercontent.com/Etheirys/Brio/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "valentine-tools-brio",
+      "name": "Brio",
+      "url": "https://raw.githubusercontent.com/Valentine-Tools/Brio/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "gist-githubusercontent-com-caiclone-0aad66569dbf",
+      "name": "CaiClone gist repo",
+      "url": "https://gist.githubusercontent.com/CaiClone/0aad66569dbf63a9bbeec6a8e95a123f/raw/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "caraxi-dalamudplugins",
+      "name": "Caraxi / DalamudPlugins",
+      "url": "https://raw.githubusercontent.com/Caraxi/DalamudPlugins/master/pluginmaster.json",
+      "status": "ok",
+      "count": 177,
+      "note": null
+    },
+    {
+      "id": "caraxi-myplugins",
+      "name": "Caraxi / MyPlugins",
+      "url": "https://raw.githubusercontent.com/Caraxi/MyPlugins/main/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "repo-caraxian-com",
+      "name": "Caraxi plugin repo",
+      "url": "https://repo.caraxian.com",
+      "status": "ok",
+      "count": 2,
+      "note": null
+    },
+    {
+      "id": "catboyengineering-plugins",
+      "name": "CatboyEngineering",
+      "url": "https://raw.githubusercontent.com/CatboyEngineering/Plugins/main/repo.json",
+      "status": "ok",
+      "count": 2,
+      "note": null
+    },
+    {
+      "id": "icarusxiv-character-select",
+      "name": "Character Select+",
+      "url": "https://raw.githubusercontent.com/IcarusXIV/Character-Select-/master/CharacterSelectPlugin/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "junie-774-craftinglist",
+      "name": "CraftingList",
+      "url": "https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "seventity7-createxiv",
+      "name": "CreateXIV",
+      "url": "https://raw.githubusercontent.com/seventity7/CreateXIV/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "critical-impact-pluginrepo",
+      "name": "Critical-Impact PluginRepo",
+      "url": "https://raw.githubusercontent.com/Critical-Impact/PluginRepo/main/plugins.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "punish-croizat",
+      "name": "Croizat's Repo",
+      "url": "https://puni.sh/api/repository/croizat",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "aether-tools-customizeplus",
+      "name": "CustomizePlus",
+      "url": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "kabojnk-repo-repo",
+      "name": "Cyprus Synchronos",
+      "url": "https://raw.githubusercontent.com/kabojnk/repo-repo/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "daemitus-mydalamudplugins",
+      "name": "daemitus MyDalamudPlugins",
+      "url": "https://github.com/daemitus/MyDalamudPlugins/raw/master/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "deccentric-dalamud-depot",
+      "name": "Dalamud-Depot",
+      "url": "https://raw.githubusercontent.com/Deccentric/Dalamud-Depot/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "ml-astra-dalamud-plugins",
+      "name": "dalamud-plugins (ML-Astra) - RP-TBX",
+      "url": "https://raw.githubusercontent.com/ML-Astra/dalamud-plugins/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "a08381-dalamud-skipcutscene",
+      "name": "Dalamud.SkipCutscene",
+      "url": "https://raw.githubusercontent.com/a08381/Dalamud.SkipCutscene/dist/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "psychicnoodles-dalamudpluginrepo",
+      "name": "DalamudPluginRepo",
+      "url": "https://raw.githubusercontent.com/PsychicNoodles/DalamudPluginRepo/master/pluginmaster.json",
+      "status": "ok",
+      "count": 6,
+      "note": null
+    },
+    {
+      "id": "stephenneale-dalamudrepocollection",
+      "name": "DalamudRepoCollection",
+      "url": "https://raw.githubusercontent.com/stephenneale/DalamudRepoCollection/main/ffxiv_custom_repo.json",
+      "status": "ok",
+      "count": 173,
+      "note": null
+    },
+    {
+      "id": "decorwdyun-dalamudplugins",
+      "name": "decorwdyun / DalamudPlugins",
+      "url": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/pluginmaster.json",
+      "status": "ok",
+      "count": 5,
+      "note": null
+    },
+    {
+      "id": "drakansoul-displace",
+      "name": "DisPlace",
+      "url": "https://raw.githubusercontent.com/Drakansoul/DisPlace/master/DisPlacePlugin.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "limiana-dynamicbridgestandalone",
+      "name": "DynamicBridge Standalone",
+      "url": "https://raw.githubusercontent.com/Limiana/DynamicBridgeStandalone/main/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "echoxiv-com-pluginmaster-json",
+      "name": "EchoXIV",
+      "url": "https://echoxiv.com/pluginmaster.json",
+      "status": "ok",
+      "count": 5,
+      "note": null
+    },
+    {
+      "id": "eisenhuth-trustworthydalamudplugins",
+      "name": "Eisenhuth / TrustworthyDalamudPlugins",
+      "url": "https://raw.githubusercontent.com/Eisenhuth/TrustworthyDalamudPlugins/master/pluginmaster.json",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "icarusxiv-encore",
+      "name": "Encore",
+      "url": "https://raw.githubusercontent.com/IcarusXIV/Encore/master/Encore/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "murakumo-jp-escape",
+      "name": "eScape",
+      "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
+      "status": "ok",
+      "count": 13,
+      "note": null
+    },
+    {
+      "id": "etheirys-worldofetheirys",
+      "name": "Etheirys/WorldOfEtheirys",
+      "url": "https://raw.githubusercontent.com/Etheirys/WorldOfEtheirys/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "fr4nsson-mydalamudplugins",
+      "name": "Fr4nsson / MyDalamudPlugins",
+      "url": "https://raw.githubusercontent.com/Fr4nsson/MyDalamudPlugins/main/pluginmaster.json",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "frogworks-interactive-pluginrepository",
+      "name": "Frogworks-Interactive / PluginRepository",
+      "url": "https://raw.githubusercontent.com/Frogworks-Interactive/PluginRepository/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "fyteclubplugin-fyteclub",
+      "name": "FyteClub",
+      "url": "https://raw.githubusercontent.com/fyteclubplugin/fyteclub/main/plugin/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "cordeliamist-dalamud-gagspeak",
+      "name": "GagSpeak legacy",
+      "url": "https://raw.githubusercontent.com/CordeliaMist/Dalamud-GagSpeak/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "punish-gid",
+      "name": "Gid's Little Beach",
+      "url": "https://puni.sh/api/repository/gid",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "punish-akechi",
+      "name": "gigachad gamer hours",
+      "url": "https://puni.sh/api/repository/akechi",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "gir-zippo-hypnotoad-plugin",
+      "name": "GiR-Zippo / Hypnotoad-Plugin",
+      "url": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "bimilbimil-glamshuffle",
+      "name": "Glam Shuffle",
+      "url": "https://raw.githubusercontent.com/bimilbimil/GlamShuffle/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "lichie567-glamapply",
+      "name": "GlamApply",
+      "url": "https://raw.githubusercontent.com/lichie567/GlamApply/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "elyfura-glamourdocumenter",
+      "name": "Glamour Documenter",
+      "url": "https://raw.githubusercontent.com/ElyFura/GlamourDocumenter/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "aspher0-glammaster",
+      "name": "Glamour Master",
+      "url": "https://raw.githubusercontent.com/Aspher0/GlamMaster/main/GlamMaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "tiberius1ooo-glamour-this",
+      "name": "Glamour This",
+      "url": "https://raw.githubusercontent.com/Tiberius1OOO/glamour_this/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "hgd-angelyx-glamourerbackup",
+      "name": "Glamourer Backup",
+      "url": "https://raw.githubusercontent.com/HGD-Angelyx/GlamourerBackup/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "punish-glyceri",
+      "name": "Glyceri's Repo",
+      "url": "https://puni.sh/api/repository/glyceri",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "laboon2501-gposecamerasaver",
+      "name": "Gpose Camera Saver",
+      "url": "https://raw.githubusercontent.com/Laboon2501/GposeCameraSaver/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "reyalexffxiv-gposecast",
+      "name": "Gpose Cast",
+      "url": "https://raw.githubusercontent.com/reyalexffxiv/GposeCast/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "cazzar-gposeutils",
+      "name": "GPose Utils",
+      "url": "https://raw.githubusercontent.com/Cazzar/GposeUtils/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "punish-boxu",
+      "name": "Hako / 箱",
+      "url": "https://puni.sh/api/repository/boxu",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "haselnussbomber-mydalamudplugins",
+      "name": "Haselnussbomber",
+      "url": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "punish-herc",
+      "name": "Herculezz's Repo",
+      "url": "https://puni.sh/api/repository/herc",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "horoscope-dev-dalamud-divinationpluginrepo",
+      "name": "horoscope-dev / Dalamud.DivinationPluginRepo",
+      "url": "https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json",
+      "status": "ok",
+      "count": 11,
+      "note": null
+    },
+    {
+      "id": "enceladeum-houtfits",
+      "name": "HOutfits",
+      "url": "https://raw.githubusercontent.com/Enceladeum/HOutfits/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "marzent-iinact",
+      "name": "IINACT",
+      "url": "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "krisanthyme-illusio-vitae",
+      "name": "Illusio Vitae",
+      "url": "https://raw.githubusercontent.com/KrisanThyme/Illusio-Vitae/main/IVPlugin/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "initialdet-mydalamudplugins",
+      "name": "InitialDet / MyDalamudPlugins",
+      "url": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "punish-jukka",
+      "name": "Jukka's repo",
+      "url": "https://puni.sh/api/repository/jukka",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "juntalis-dalamudplugins",
+      "name": "juntalis/DalamudPlugins",
+      "url": "https://raw.githubusercontent.com/juntalis/DalamudPlugins/main/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "punish-justbees",
+      "name": "justbees",
+      "url": "https://puni.sh/api/repository/justbees",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "kaciexx-ffxiv-vibe-plugin",
+      "name": "kaciexx / FFXIV_Vibe_Plugin",
+      "url": "https://raw.githubusercontent.com/kaciexx/FFXIV_Vibe_Plugin/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "kangasz-dalamudpluginrepository",
+      "name": "KangasZ / DalamudPluginRepository",
+      "url": "https://raw.githubusercontent.com/KangasZ/DalamudPluginRepository/main/plugin_repository.json",
+      "status": "ok",
+      "count": 5,
+      "note": null
+    },
+    {
+      "id": "punish-kawaii",
+      "name": "kawaii's repo",
+      "url": "https://puni.sh/api/repository/kawaii",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "lnjanos-peepingtim",
+      "name": "kcuY plugins",
+      "url": "https://raw.githubusercontent.com/lnjanos/peepingtim/refs/heads/master/SamplePlugin/yuck.json",
+      "status": "ok",
+      "count": 5,
+      "note": null
+    },
+    {
+      "id": "shiftykiwi-kiwirichpresence",
+      "name": "KiwiRichPresence",
+      "url": "https://raw.githubusercontent.com/ShiftyKiwi/KiwiRichPresence/main/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "kouzukii-dalamudplugins",
+      "name": "Kouzukii DalamudPlugins",
+      "url": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/pluginmaster.json",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "ktisis-tools-ktisis",
+      "name": "Ktisis",
+      "url": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "lacisynchroni-repo",
+      "name": "Laci Synchroni",
+      "url": "https://raw.githubusercontent.com/LaciSynchroni/repo/main/plogonmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "legendsofthegame-timememoriav3",
+      "name": "LegendsOfTheGame / TimeMemoriaV3",
+      "url": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "leonblade-dalamudplugins",
+      "name": "LeonBlade",
+      "url": "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "lichie567-lmeter",
+      "name": "lichie567 / LMeter",
+      "url": "https://raw.githubusercontent.com/lichie567/LMeter/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "lichie567-xivauras",
+      "name": "lichie567 / XIVAuras",
+      "url": "https://raw.githubusercontent.com/lichie567/XIVAuras/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "cordeliamist-loci",
+      "name": "Loci",
+      "url": "https://raw.githubusercontent.com/CordeliaMist/Loci/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "plugin-lop-sync-com-repo-json",
+      "name": "Loporrit Sync",
+      "url": "https://plugin.lop-sync.com/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "loporrit-loporritsync",
+      "name": "Loporrit Sync",
+      "url": "https://raw.githubusercontent.com/loporrit/LoporritSync/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "jawslouis-makeplaceplugin",
+      "name": "MakePlace Plugin",
+      "url": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "glorou-mare-client",
+      "name": "Mare Synchronos",
+      "url": "https://raw.githubusercontent.com/Glorou/mare.client/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "gorditosupreme-mareclient",
+      "name": "Mare Synchronos",
+      "url": "https://raw.githubusercontent.com/GorditoSupreme/MareClient/main/repo.json",
+      "status": "ok",
+      "count": 2,
+      "note": null
+    },
+    {
+      "id": "chalkos-marketbuddy",
+      "name": "Marketbuddy",
+      "url": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "maxunit-mydalamudplugins",
+      "name": "Maxunit / MyDalamudPlugins",
+      "url": "https://raw.githubusercontent.com/Maxunit/MyDalamudPlugins/master/pluginmaster.json",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "nanakhide-mcdexport",
+      "name": "MCDFExport",
+      "url": "https://raw.githubusercontent.com/NanaKhide/MCDExport/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "passivemodding-meddle",
+      "name": "Meddle",
+      "url": "https://raw.githubusercontent.com/PassiveModding/Meddle/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "williamw1979-ffxiv",
+      "name": "MEGA Repository",
+      "url": "https://raw.githubusercontent.com/WilliamW1979/FFXIV/main/repository.json",
+      "status": "ok",
+      "count": 111,
+      "note": null
+    },
+    {
+      "id": "meisterlala-nekofans",
+      "name": "Meisterlala / NekoFans",
+      "url": "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/repo.json",
+      "status": "ok",
+      "count": 2,
+      "note": null
+    },
+    {
+      "id": "meowzwr-dalamudplugin",
+      "name": "MeowZWR / DalamudPlugin",
+      "url": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
+      "status": "ok",
+      "count": 15,
+      "note": null
+    },
+    {
+      "id": "reckhou-dalamudplugins-ori",
+      "name": "MidiBard 2",
+      "url": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "ghosy27-mingi-synchronos-repo",
+      "name": "Mingi Synchronos",
+      "url": "https://raw.githubusercontent.com/ghosy27/Mingi-Synchronos-repo/main/plogonmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "kawaii-moodles",
+      "name": "Moodles",
+      "url": "https://raw.githubusercontent.com/kawaii/Moodles/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "ursabear-mydalamudplugins",
+      "name": "MyDalamudPlugins",
+      "url": "https://raw.githubusercontent.com/UrsaBear/MyDalamudPlugins/master/pluginmaster.json",
+      "status": "ok",
+      "count": 4,
+      "note": null
+    },
+    {
+      "id": "grammernatzi-mydalamudplugins",
+      "name": "MyDalamudPlugins",
+      "url": "https://raw.githubusercontent.com/Grammernatzi/MyDalamudPlugins/master/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "plogon-camora-dev-unofficial",
+      "name": "MyDalamudPlugins (WorkingRobot) / plogon.camora.dev",
+      "url": "https://plogon.camora.dev/unofficial",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "tssailzz8-myplugins",
+      "name": "MyPlugins",
+      "url": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
+      "status": "ok",
+      "count": 5,
+      "note": null
+    },
+    {
+      "id": "punish-nainai",
+      "name": "nainai's repo",
+      "url": "https://puni.sh/api/repository/nainai",
+      "status": "ok",
+      "count": 4,
+      "note": null
+    },
+    {
+      "id": "punish-nala",
+      "name": "Nala's Repo",
+      "url": "https://puni.sh/api/repository/nala",
+      "status": "ok",
+      "count": 2,
+      "note": null
+    },
+    {
+      "id": "friendly-namazu-dalamud-repo",
+      "name": "Namazu Sync",
+      "url": "https://raw.githubusercontent.com/Friendly-Namazu/dalamud-repo/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "punish-nexai",
+      "name": "Nexai's Repo",
+      "url": "https://puni.sh/api/repository/nexai",
+      "status": "ok",
+      "count": 2,
+      "note": null
+    },
+    {
+      "id": "nexusffxiv-dalamudrepo",
+      "name": "NexusFFXIV DalamudRepo",
+      "url": "https://raw.githubusercontent.com/NexusFFXIV/DalamudRepo/main/all-repo.json",
+      "status": "ok",
+      "count": 81,
+      "note": null
+    },
+    {
+      "id": "nexzro-github-io-repo-repo-json",
+      "name": "NeXzRo/Repo",
+      "url": "https://nexzro.github.io/Repo/repo.json",
+      "status": "ok",
+      "count": 2,
+      "note": null
+    },
+    {
+      "id": "eternita-s-mydalamudplugins",
+      "name": "NightmareXIV / Eternita-S alt repo",
+      "url": "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json",
+      "status": "ok",
+      "count": 15,
+      "note": null
+    },
+    {
+      "id": "niguangowo-dalamudplugins",
+      "name": "NiGuangOwO / DalamudPlugins",
+      "url": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+      "status": "ok",
+      "count": 41,
+      "note": null
+    },
+    {
+      "id": "nite-cat-the-giga-repo",
+      "name": "nite-cat / the-giga-repo",
+      "url": "https://raw.githubusercontent.com/nite-cat/the-giga-repo/main/the-one.json",
+      "status": "ok",
+      "count": 79,
+      "note": null
+    },
+    {
+      "id": "nnekoplugins-nnekotriggers",
+      "name": "NNekoPlugins / NNekoTriggers",
+      "url": "https://raw.githubusercontent.com/NNekoPlugins/NNekoTriggers/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "nukoooooooo-dalamudplugins",
+      "name": "NukoOoOoOoO / DalamudPlugins",
+      "url": "https://raw.githubusercontent.com/NukoOoOoOoO/DalamudPlugins/dev/pluginmaster.json",
+      "status": "ok",
+      "count": 5,
+      "note": null
+    },
+    {
+      "id": "punish-oof-games",
+      "name": "OOF Games",
+      "url": "https://puni.sh/api/repository/oof-games",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "oorzkws-dalamudplugins",
+      "name": "oorzkws/DalamudPlugins",
+      "url": "https://raw.githubusercontent.com/oorzkws/DalamudPlugins/master/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "ottermandias-autovisor",
+      "name": "Ottermandias / AutoVisor",
+      "url": "https://raw.githubusercontent.com/Ottermandias/AutoVisor/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "paissaheavyindustries-dalamud-repo",
+      "name": "Paissa Heavy Industries",
+      "url": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/repo.json",
+      "status": "ok",
+      "count": 5,
+      "note": null
+    },
+    {
+      "id": "chirpxiv-paletteplus",
+      "name": "PalettePlus",
+      "url": "https://raw.githubusercontent.com/chirpxiv/PalettePlus/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "sebane1-penumbramodforwarder",
+      "name": "Penumbra Mod Forwarder",
+      "url": "https://raw.githubusercontent.com/Sebane1/PenumbraModForwarder/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "monstersghost-penumbraorganizerplugin",
+      "name": "Penumbra Organizer",
+      "url": "https://raw.githubusercontent.com/monstersghost/PenumbraOrganizerPlugin/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "moralfiberffxiv-penumbrasort",
+      "name": "PenumbraSort",
+      "url": "https://raw.githubusercontent.com/moralfiberffxiv/PenumbraSort/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "phenrei-dalamudplugins",
+      "name": "Phenrei/DalamudPlugins",
+      "url": "https://raw.githubusercontent.com/Phenrei/DalamudPlugins/main/repo.json",
+      "status": "ok",
+      "count": 2,
+      "note": null
+    },
+    {
+      "id": "playersync-io-download-plugin-repo-json",
+      "name": "PlayerSync",
+      "url": "https://playersync.io/download/plugin/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "beslightly-portraitstealer2",
+      "name": "Portrait Stealer 2",
+      "url": "https://raw.githubusercontent.com/BeSlightly/PortraitStealer2/refs/heads/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "emyxiv-posebrowser",
+      "name": "Pose Browser",
+      "url": "https://raw.githubusercontent.com/emyxiv/PoseBrowser/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "princessrtfm-mydalamudplugins",
+      "name": "PrincessRTFM / MyDalamudPlugins",
+      "url": "https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json",
+      "status": "ok",
+      "count": 5,
+      "note": null
+    },
+    {
+      "id": "project-gagspeak-repo",
+      "name": "Project GagSpeak",
+      "url": "https://raw.githubusercontent.com/Project-GagSpeak/repo/main/projectgagspeak.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "dodingdaga-dalamudplugins",
+      "name": "PuppetMaster",
+      "url": "https://raw.githubusercontent.com/dodingdaga/DalamudPlugins/main/PuppetMaster.json",
+      "status": "ok",
+      "count": 2,
+      "note": null
+    },
+    {
+      "id": "raimere-com-plugin-repo-json",
+      "name": "Raimere",
+      "url": "https://raimere.com/plugin/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "punish-raya",
+      "name": "Raya's Repo",
+      "url": "https://puni.sh/api/repository/raya",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "dalamud-xiv-zone",
+      "name": "redstrate's DalamudPlugins",
+      "url": "https://dalamud.xiv.zone",
+      "status": "ok",
+      "count": 6,
+      "note": null
+    },
+    {
+      "id": "rubyblaire-pluginmaster",
+      "name": "Ruby Blaire Plugin Collective",
+      "url": "https://raw.githubusercontent.com/rubyblaire/pluginmaster/main/pluginmaster.json",
+      "status": "ok",
+      "count": 4,
+      "note": null
+    },
+    {
+      "id": "saltycog-dalamudplugins",
+      "name": "SaltyCog DalamudPlugins",
+      "url": "https://raw.githubusercontent.com/SaltyCog/DalamudPlugins/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "serifine-xiv-chat-scanner",
+      "name": "serifine/XIV-Chat-Scanner",
+      "url": "https://raw.githubusercontent.com/serifine/XIV-Chat-Scanner/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "sevii77-ffxiv-materialui-accent",
+      "name": "Sevii77/ffxiv_materialui_accent",
+      "url": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "shoegazessb-dalamudpluginrepo",
+      "name": "SHOEGAZEssb DalamudPluginRepo",
+      "url": "https://raw.githubusercontent.com/SHOEGAZEssb/DalamudPluginRepo/master/pluginmaster.json",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "juiposa-simple-character-select",
+      "name": "Simple Character Select",
+      "url": "https://raw.githubusercontent.com/juiposa/Simple-Character-Select/main/Releases/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "thedeathdragon-skintattoo",
+      "name": "SkinTattoo",
+      "url": "https://raw.githubusercontent.com/TheDeathDragon/SkinTattoo/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "beslightly-snappy",
+      "name": "Snappy",
+      "url": "https://raw.githubusercontent.com/BeSlightly/Snappy/refs/heads/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "git-snowcloak-sync-com-eauldane-snowcloakclient-",
+      "name": "Snowcloak",
+      "url": "https://git.snowcloak-sync.com/Eauldane/SnowcloakClient/raw/branch/main/repo.json",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "punish-sourpuh",
+      "name": "Sourpuh",
+      "url": "https://puni.sh/api/repository/sourpuh",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "soyax-soyaplugins",
+      "name": "SoyaX / SoyaPlugins",
+      "url": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "sphenedev-repo",
+      "name": "Sphene",
+      "url": "https://raw.githubusercontent.com/SpheneDev/repo/main/plogonmaster.json",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "punish-spider",
+      "name": "Spider's Repo",
+      "url": "https://puni.sh/api/repository/spider",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "bluntexe-starfallstudio",
+      "name": "Starfall Studio",
+      "url": "https://raw.githubusercontent.com/BluntEXE/StarfallStudio/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "unlostworld-studiofourteen",
+      "name": "Studio Fourteen",
+      "url": "https://raw.githubusercontent.com/UnlostWorld/StudioFourteen/Live/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "sundouleia-repo",
+      "name": "Sundouleia/repo",
+      "url": "https://raw.githubusercontent.com/Sundouleia/repo/main/sundouleia.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "punish-taurenkey",
+      "name": "taurenkey's repo",
+      "url": "https://puni.sh/api/repository/taurenkey",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "rubyblaire-theatelier",
+      "name": "The Atelier",
+      "url": "https://raw.githubusercontent.com/rubyblaire/TheAtelier/main/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "thesuccubus-repo",
+      "name": "thesuccubus/repo",
+      "url": "https://raw.githubusercontent.com/thesuccubus/repo/main/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "tigurand-dalamudplugins",
+      "name": "tigurand/DalamudPlugins",
+      "url": "https://raw.githubusercontent.com/tigurand/DalamudPlugins/refs/heads/main/repo.json",
+      "status": "ok",
+      "count": 4,
+      "note": null
+    },
+    {
+      "id": "nohideout-timelineanimator",
+      "name": "TimelineAnimator",
+      "url": "https://raw.githubusercontent.com/NoHideout/TimelineAnimator/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "tomestonegg-dalamud-tomestone",
+      "name": "TomestoneGG / Dalamud.Tomestone",
+      "url": "https://raw.githubusercontent.com/TomestoneGG/Dalamud.Tomestone/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "kararemy-tomokplugins",
+      "name": "TomokPlugins",
+      "url": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/pluginmaster.json",
+      "status": "ok",
+      "count": 6,
+      "note": null
+    },
+    {
+      "id": "blooym-dalamud-travelcase",
+      "name": "Travelcase",
+      "url": "https://raw.githubusercontent.com/Blooym/Dalamud.Travelcase/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "unknownx7-dalamudpluginrepo",
+      "name": "UnknownX7",
+      "url": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
+      "status": "ok",
+      "count": 6,
+      "note": null
+    },
+    {
+      "id": "punish-vali",
+      "name": "Vali's Repo",
+      "url": "https://puni.sh/api/repository/vali",
+      "status": "ok",
+      "count": 4,
+      "note": null
+    },
+    {
+      "id": "valiice-dalamudpluginrepo",
+      "name": "Valiice DalamudPluginRepo",
+      "url": "https://raw.githubusercontent.com/Valiice/DalamudPluginRepo/master/repo.json",
+      "status": "ok",
+      "count": 10,
+      "note": null
+    },
+    {
+      "id": "variablevixen-mydalamudplugins",
+      "name": "VariableVixen (PrincessRTFM) / MyDalamudPlugins",
+      "url": "https://raw.githubusercontent.com/VariableVixen/MyDalamudPlugins/master/pluginmaster.json",
+      "status": "ok",
+      "count": 5,
+      "note": null
+    },
+    {
+      "id": "punish-vera",
+      "name": "Vera's Repo",
+      "url": "https://puni.sh/api/repository/vera",
+      "status": "ok",
+      "count": 8,
+      "note": null
+    },
+    {
+      "id": "punish-wah",
+      "name": "wah",
+      "url": "https://puni.sh/api/repository/wah",
+      "status": "ok",
+      "count": 4,
+      "note": null
+    },
+    {
+      "id": "thatkwistine-wardrobeplugin",
+      "name": "Wardrobe",
+      "url": "https://raw.githubusercontent.com/ThatKwistine/WardrobePlugin/main/pluginmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "warpholomey-dalamudplugins",
+      "name": "Warpholomey / DalamudPlugins",
+      "url": "https://raw.githubusercontent.com/Warpholomey/DalamudPlugins/master/repository.json",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "wesbosch-rebuff",
+      "name": "WesBosch ReBuff",
+      "url": "https://raw.githubusercontent.com/WesBosch/ReBuff/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "workingrobot-mydalamudplugins",
+      "name": "WorkingRobot (Asriel) / MyDalamudPlugins",
+      "url": "https://raw.githubusercontent.com/WorkingRobot/MyDalamudPlugins/main/plogon.json",
+      "status": "ok",
+      "count": 4,
+      "note": null
+    },
+    {
+      "id": "punish-xan",
+      "name": "xan's repo",
+      "url": "https://puni.sh/api/repository/xan",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "noevain-modarchivebrowser",
+      "name": "XIV Mod Archive Browser",
+      "url": "https://raw.githubusercontent.com/Noevain/ModArchiveBrowser/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "plugin-xivrolladeck-com-repo-json",
+      "name": "XIV Rolladeck",
+      "url": "https://plugin.xivrolladeck.com/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "xivsync-repo",
+      "name": "XIV Sync",
+      "url": "https://raw.githubusercontent.com/xivsync/repo/main/plogonmaster.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "xiv-tools-dalamudplugins",
+      "name": "XIV-Tools",
+      "url": "https://raw.githubusercontent.com/XIV-Tools/DalamudPlugins/main/repo.json",
+      "status": "ok",
+      "count": 2,
+      "note": null
+    },
+    {
+      "id": "xivv-keifufu-dev-repo",
+      "name": "XivVoices",
+      "url": "https://xivv.keifufu.dev/repo",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "yocopk-moghouse-dalamud",
+      "name": "yocopk/moghouse-dalamud",
+      "url": "https://raw.githubusercontent.com/yocopk/moghouse-dalamud/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "zhouhuichen741-dalamud-plugins",
+      "name": "zhouhuichen741/dalamud-plugins",
+      "url": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
+      "status": "ok",
+      "count": 20,
+      "note": null
+    },
+    {
+      "id": "zhudotexe-ffxiv-dalamudplugins",
+      "name": "zhudotexe / FFXIV_DalamudPlugins",
+      "url": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json",
+      "status": "ok",
+      "count": 2,
+      "note": null
     }
   ],
   "categories": [
@@ -179,7 +1718,7 @@
       "name": "Glamour & Charakter",
       "emoji": "👗",
       "description": "Mods, Aussehen, Posing, Sync",
-      "count": 14,
+      "count": 78,
       "file": "repos/glamour.json"
     },
     {
@@ -187,7 +1726,7 @@
       "name": "Kampf & Rotation",
       "emoji": "⚔️",
       "description": "Rotationen, Boss-Timeline, Combos, PvP",
-      "count": 12,
+      "count": 40,
       "file": "repos/combat.json"
     },
     {
@@ -195,7 +1734,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 27,
+      "count": 74,
       "file": "repos/automation.json"
     },
     {
@@ -203,7 +1742,7 @@
       "name": "Crafting & Gathering",
       "emoji": "⚒️",
       "description": "Handwerk, Sammeln, Marktbrett",
-      "count": 6,
+      "count": 15,
       "file": "repos/crafting.json"
     },
     {
@@ -211,7 +1750,7 @@
       "name": "Quality of Life & UI",
       "emoji": "✨",
       "description": "Tweaks, Interface, Chat, Inventar, Karten",
-      "count": 16,
+      "count": 73,
       "file": "repos/qol.json"
     },
     {
@@ -219,7 +1758,7 @@
       "name": "Social & Roleplay",
       "emoji": "🎭",
       "description": "RP-Profile, Emotes, Free Company, Discord",
-      "count": 3,
+      "count": 26,
       "file": "repos/social.json"
     },
     {
@@ -227,7 +1766,7 @@
       "name": "Adult (18+)",
       "emoji": "🔞",
       "description": "Nur fuer Erwachsene – standardmaessig NICHT im Master",
-      "count": 0,
+      "count": 4,
       "file": "repos/nsfw.json"
     },
     {
@@ -235,7 +1774,7 @@
       "name": "Housing & Deko",
       "emoji": "🏡",
       "description": "Moebel, Layouts, Grundstuecke",
-      "count": 1,
+      "count": 9,
       "file": "repos/housing.json"
     },
     {
@@ -243,7 +1782,7 @@
       "name": "Audio & Voice",
       "emoji": "🔊",
       "description": "Voicechat, TTS, Musik, Sound",
-      "count": 2,
+      "count": 10,
       "file": "repos/audio.json"
     },
     {
@@ -251,7 +1790,7 @@
       "name": "Developer & Data",
       "emoji": "🛠️",
       "description": "Debugging, Datenexplorer, Editoren",
-      "count": 3,
+      "count": 15,
       "file": "repos/dev.json"
     },
     {
@@ -259,7 +1798,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 1,
+      "count": 20,
       "file": "repos/misc.json"
     }
   ],
@@ -284,6 +1823,3842 @@
       "dropped": "NightmareXIV",
       "keptVersion": "1.0.8.8",
       "droppedVersion": "1.0.8.8"
+    },
+    {
+      "internalName": "BossMod",
+      "kept": "Veyn (BossMod)",
+      "dropped": "44451516 / ffxiv_bossmod",
+      "keptVersion": "7.5.1.38",
+      "droppedVersion": "7.5.1.3"
+    },
+    {
+      "internalName": "BossModReborn",
+      "kept": "CombatReborn",
+      "dropped": "44451516-ff14 / BossmodRebornCN",
+      "keptVersion": "7.5.5.44",
+      "droppedVersion": "7.5.0.39"
+    },
+    {
+      "internalName": "CustomizePlus",
+      "kept": "Sea of Stars",
+      "dropped": "Aether Tools",
+      "keptVersion": "2.2.0.3",
+      "droppedVersion": "2.2.0.3"
+    },
+    {
+      "internalName": "Armoire",
+      "kept": "ElfShelf",
+      "dropped": "Armoire",
+      "keptVersion": "0.0.171",
+      "droppedVersion": "0.1.1.3"
+    },
+    {
+      "internalName": "DailyRoutines",
+      "kept": "AtmoOmen / DalamudPlugins",
+      "dropped": "AtmoOmen / DalamudPlugins",
+      "keptVersion": "2.1.6.1",
+      "droppedVersion": "2.0.4.4"
+    },
+    {
+      "internalName": "DailyRoutines",
+      "kept": "AtmoOmen / DalamudPlugins",
+      "dropped": "AtmoOmen / DalamudPlugins",
+      "keptVersion": "2.1.6.1",
+      "droppedVersion": "1.9.3.3"
+    },
+    {
+      "internalName": "vnavmesh",
+      "kept": "Veyn (BossMod)",
+      "dropped": "AtmoOmen / DalamudPlugins",
+      "keptVersion": "1.2.3.13",
+      "droppedVersion": "0.8.0.0"
+    },
+    {
+      "internalName": "GatherBuddyReborn",
+      "kept": "CombatReborn",
+      "dropped": "AtmoOmen / DalamudPlugins",
+      "keptVersion": "7.5.5.0",
+      "droppedVersion": "7.5.0.4"
+    },
+    {
+      "internalName": "BossMod",
+      "kept": "Veyn (BossMod)",
+      "dropped": "awgil plugin distribution",
+      "keptVersion": "7.5.1.38",
+      "droppedVersion": "0.0.0.122"
+    },
+    {
+      "internalName": "vfaux",
+      "kept": "Veyn (BossMod)",
+      "dropped": "awgil plugin distribution",
+      "keptVersion": "0.0.0.12",
+      "droppedVersion": "0.0.0.4"
+    },
+    {
+      "internalName": "visland",
+      "kept": "Veyn (BossMod)",
+      "dropped": "awgil plugin distribution",
+      "keptVersion": "0.0.0.150",
+      "droppedVersion": "0.0.0.16"
+    },
+    {
+      "internalName": "AntiAfkKick-Dalamud",
+      "kept": "NightmareXIV",
+      "dropped": "bees-repo",
+      "keptVersion": "2.1.0.11",
+      "droppedVersion": "2.1.0.11"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "bees-repo",
+      "keptVersion": "4.0.5.18",
+      "droppedVersion": "4.0.5.18"
+    },
+    {
+      "internalName": "AutoDuty",
+      "kept": "erdelf",
+      "dropped": "bees-repo",
+      "keptVersion": "0.0.0.330",
+      "droppedVersion": "0.0.0.330"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "bees-repo",
+      "keptVersion": "6.0.0.90",
+      "droppedVersion": "6.0.0.90"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "bees-repo",
+      "keptVersion": "4.6.1.27",
+      "droppedVersion": "4.6.1.27"
+    },
+    {
+      "internalName": "BossMod",
+      "kept": "Veyn (BossMod)",
+      "dropped": "bees-repo",
+      "keptVersion": "7.5.1.38",
+      "droppedVersion": "7.5.1.38"
+    },
+    {
+      "internalName": "Brio",
+      "kept": "Sea of Stars",
+      "dropped": "bees-repo",
+      "keptVersion": "0.8.0.11",
+      "droppedVersion": "0.8.0.11"
+    },
+    {
+      "internalName": "CustomizePlus",
+      "kept": "Sea of Stars",
+      "dropped": "bees-repo",
+      "keptVersion": "2.2.0.3",
+      "droppedVersion": "2.2.0.3"
+    },
+    {
+      "internalName": "GatherBuddyReborn",
+      "kept": "CombatReborn",
+      "dropped": "bees-repo",
+      "keptVersion": "7.5.5.0",
+      "droppedVersion": "7.5.5.0"
+    },
+    {
+      "internalName": "Glamourer",
+      "kept": "Glamourer",
+      "dropped": "bees-repo",
+      "keptVersion": "1.6.1.7",
+      "droppedVersion": "1.6.1.7"
+    },
+    {
+      "internalName": "HaselDebug",
+      "kept": "AtmoOmen / DalamudPlugins",
+      "dropped": "bees-repo",
+      "keptVersion": "1.66.0.0",
+      "droppedVersion": "1.70.0.0"
+    },
+    {
+      "internalName": "ICE",
+      "kept": "ICE (Island Sanctuary)",
+      "dropped": "bees-repo",
+      "keptVersion": "1.0.0.1",
+      "droppedVersion": "1.0.0.1"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "bees-repo",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "Lifestream",
+      "kept": "NightmareXIV",
+      "dropped": "bees-repo",
+      "keptVersion": "2.5.4.16",
+      "droppedVersion": "2.5.4.16"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "bees-repo",
+      "keptVersion": "0.2.4.2",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "Orbwalker",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "bees-repo",
+      "keptVersion": "1.0.1.10",
+      "droppedVersion": "1.0.1.10"
+    },
+    {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "bees-repo",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
+    },
+    {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "bees-repo",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
+    },
+    {
+      "internalName": "Penumbra",
+      "kept": "Penumbra",
+      "dropped": "bees-repo",
+      "keptVersion": "1.6.1.12",
+      "droppedVersion": "1.6.1.12"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "bees-repo",
+      "keptVersion": "2.1.1.17",
+      "droppedVersion": "2.1.1.17"
+    },
+    {
+      "internalName": "SimpleHeels",
+      "kept": "Sea of Stars",
+      "dropped": "bees-repo",
+      "keptVersion": "0.11.1.8",
+      "droppedVersion": "0.11.1.8"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "bees-repo",
+      "keptVersion": "3.9.2.21",
+      "droppedVersion": "3.9.2.21"
+    },
+    {
+      "internalName": "UnloadErrorFuckOff",
+      "kept": "NightmareXIV",
+      "dropped": "bees-repo",
+      "keptVersion": "1.0.0.10",
+      "droppedVersion": "1.0.0.10"
+    },
+    {
+      "internalName": "visland",
+      "kept": "Veyn (BossMod)",
+      "dropped": "bees-repo",
+      "keptVersion": "0.0.0.150",
+      "droppedVersion": "0.0.0.150"
+    },
+    {
+      "internalName": "vnavmesh",
+      "kept": "Veyn (BossMod)",
+      "dropped": "bees-repo",
+      "keptVersion": "1.2.3.13",
+      "droppedVersion": "1.2.3.13"
+    },
+    {
+      "internalName": "WrathCombo",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "bees-repo",
+      "keptVersion": "1.0.4.19",
+      "droppedVersion": "1.0.4.19"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "bees-repo",
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
+    },
+    {
+      "internalName": "Brio",
+      "kept": "Sea of Stars",
+      "dropped": "Brio",
+      "keptVersion": "0.8.0.11",
+      "droppedVersion": "0.8.0.11"
+    },
+    {
+      "internalName": "Brio",
+      "kept": "Sea of Stars",
+      "dropped": "Brio",
+      "keptVersion": "0.8.0.11",
+      "droppedVersion": "0.2.1.9"
+    },
+    {
+      "internalName": "JobBars",
+      "kept": "Caraxi / DalamudPlugins",
+      "dropped": "a1hena/PluginRepository",
+      "keptVersion": "1.2.2.1",
+      "droppedVersion": "1.3.2.0"
+    },
+    {
+      "internalName": "AutoLogin",
+      "kept": "Aida-Enna XIVPlugins",
+      "dropped": "Caraxi / MyPlugins",
+      "keptVersion": "1.3.1.4",
+      "droppedVersion": "1.0.0.5"
+    },
+    {
+      "internalName": "SimpleHeels",
+      "kept": "Sea of Stars",
+      "dropped": "Caraxi plugin repo",
+      "keptVersion": "0.11.1.8",
+      "droppedVersion": "0.11.1.8"
+    },
+    {
+      "internalName": "CustomizePlus",
+      "kept": "Sea of Stars",
+      "dropped": "CustomizePlus",
+      "keptVersion": "2.2.0.3",
+      "droppedVersion": "2.2.0.3"
+    },
+    {
+      "internalName": "Cammy",
+      "kept": "DalamudPluginRepo",
+      "dropped": "bees-repo",
+      "keptVersion": "2.0.3.5",
+      "droppedVersion": "2.1.1.2"
+    },
+    {
+      "internalName": "NoClippy",
+      "kept": "DalamudPluginRepo",
+      "dropped": "bees-repo",
+      "keptVersion": "0.4.0.12",
+      "droppedVersion": "0.5.0.24"
+    },
+    {
+      "internalName": "ReAction",
+      "kept": "DalamudPluginRepo",
+      "dropped": "bees-repo",
+      "keptVersion": "1.1.6.6",
+      "droppedVersion": "1.3.5.1"
+    },
+    {
+      "internalName": "ActionEffectRange",
+      "kept": "DalamudRepoCollection",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.4.6.2",
+      "droppedVersion": "1.4.6.1"
+    },
+    {
+      "internalName": "AetherCompassPreview",
+      "kept": "DalamudRepoCollection",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.6.0.0",
+      "droppedVersion": "1.5.2.0"
+    },
+    {
+      "internalName": "AntiAfkKick-Dalamud",
+      "kept": "NightmareXIV",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.1.0.11",
+      "droppedVersion": "2.1.0.2"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "4.0.5.18",
+      "droppedVersion": "1.0.6.1"
+    },
+    {
+      "internalName": "Athavar.FFXIV.Plugin",
+      "kept": "Athavar / Athavar.FFXIV.DalaRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.5.0.1",
+      "droppedVersion": "1.4.11"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "6.0.0.90",
+      "droppedVersion": "2.3.0.3"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "4.6.1.27",
+      "droppedVersion": "2.2.0.0"
+    },
+    {
+      "internalName": "Avarice",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.2.0.12",
+      "droppedVersion": "2.0.0.0"
+    },
+    {
+      "internalName": "BDTHPlugin",
+      "kept": "bees-repo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.7.4.1",
+      "droppedVersion": "1.5.7"
+    },
+    {
+      "internalName": "BardToolbox",
+      "kept": "BardToolbox / BardToolbox-Release",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.2.7.0",
+      "droppedVersion": "1.2.3.0"
+    },
+    {
+      "internalName": "BossMod",
+      "kept": "Veyn (BossMod)",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "7.5.1.38",
+      "droppedVersion": "0.0.0.77"
+    },
+    {
+      "internalName": "Cammy",
+      "kept": "DalamudPluginRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.0.3.5",
+      "droppedVersion": "2.0.3.5"
+    },
+    {
+      "internalName": "CraftingList",
+      "kept": "CraftingList",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.5.8",
+      "droppedVersion": "1.7.0"
+    },
+    {
+      "internalName": "CustomizePlus",
+      "kept": "Sea of Stars",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.2.0.3",
+      "droppedVersion": "0.0.1.2"
+    },
+    {
+      "internalName": "DSREyeLocator",
+      "kept": "NightmareXIV",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.0.1.10",
+      "droppedVersion": "2.0.0.8"
+    },
+    {
+      "internalName": "DalamudRepoBrowser",
+      "kept": "DalamudPluginRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.0.1.1",
+      "droppedVersion": "2.0.2.1"
+    },
+    {
+      "internalName": "DoubleWeaver",
+      "kept": "Bluefissure DalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.0.8.0",
+      "droppedVersion": "1.0.6.0"
+    },
+    {
+      "internalName": "FFLogsViewer",
+      "kept": "Aireil's MyDalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.5.3.0",
+      "droppedVersion": "2.0.8.1"
+    },
+    {
+      "internalName": "Fractionality",
+      "kept": "DalamudPluginRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.0.1.3",
+      "droppedVersion": "1.0.1.3"
+    },
+    {
+      "internalName": "GCDTracker",
+      "kept": "CaiClone gist repo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.0.4.11",
+      "droppedVersion": "1.0.2.4"
+    },
+    {
+      "internalName": "Glamourer",
+      "kept": "Glamourer",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.6.1.7",
+      "droppedVersion": "0.1.1.1"
+    },
+    {
+      "internalName": "HaselTweaks",
+      "kept": "bees-repo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "49.4.1.0",
+      "droppedVersion": "0.7.6"
+    },
+    {
+      "internalName": "HousingPos",
+      "kept": "Bluefissure DalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.3.2.0",
+      "droppedVersion": "1.2.1.0"
+    },
+    {
+      "internalName": "HypnotoadPlugin",
+      "kept": "DalamudRepoCollection",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.0.1.1",
+      "droppedVersion": "0.0.0.4"
+    },
+    {
+      "internalName": "Imagenation",
+      "kept": "NightmareXIV",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.0.0.11",
+      "droppedVersion": "1.0.0.2"
+    },
+    {
+      "internalName": "Inviter",
+      "kept": "Bluefissure DalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.1.4.0",
+      "droppedVersion": "1.1.0.0"
+    },
+    {
+      "internalName": "JobIcons",
+      "kept": "Caraxi / DalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "3.2.0.0",
+      "droppedVersion": "0.0.0.0"
+    },
+    {
+      "internalName": "LMeter",
+      "kept": "bees-repo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.4.4.0",
+      "droppedVersion": "0.1.7.0"
+    },
+    {
+      "internalName": "LootMaster",
+      "kept": "akira0245/DalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.0.2.2",
+      "droppedVersion": "2.0.0.1"
+    },
+    {
+      "internalName": "MakePlacePlugin",
+      "kept": "DalamudRepoCollection",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.18",
+      "droppedVersion": "2.18"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.2.4.2",
+      "droppedVersion": "0.3.0.0"
+    },
+    {
+      "internalName": "MidiBard",
+      "kept": "akira0245/DalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.16.3.0",
+      "droppedVersion": "1.13.0.0"
+    },
+    {
+      "internalName": "MidiBard",
+      "kept": "akira0245/DalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.16.3.0",
+      "droppedVersion": "1.12.6.2"
+    },
+    {
+      "internalName": "NesswensChatTools",
+      "kept": "arcticnw/DalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.0.9.0",
+      "droppedVersion": "1.0.7.0"
+    },
+    {
+      "internalName": "NesswensMacroRepeater",
+      "kept": "arcticnw/DalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.0.9.0",
+      "droppedVersion": "1.0.7.0"
+    },
+    {
+      "internalName": "NesswensRetainerNotes",
+      "kept": "arcticnw/DalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.0.9.0",
+      "droppedVersion": "1.0.7.0"
+    },
+    {
+      "internalName": "NoClippy",
+      "kept": "DalamudPluginRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.4.0.12",
+      "droppedVersion": "0.4.0.10"
+    },
+    {
+      "internalName": "OOBlugin",
+      "kept": "DalamudPluginRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.1.2.7",
+      "droppedVersion": "1.1.2.7"
+    },
+    {
+      "internalName": "ObjectExplorer",
+      "kept": "NightmareXIV",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.0.0.11",
+      "droppedVersion": "1.0.0.1"
+    },
+    {
+      "internalName": "Prioritizer",
+      "kept": "NightmareXIV",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.0.1.4",
+      "droppedVersion": "2.0.0.6"
+    },
+    {
+      "internalName": "ReAction",
+      "kept": "DalamudPluginRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.1.6.6",
+      "droppedVersion": "1.1.6.6"
+    },
+    {
+      "internalName": "ReAction",
+      "kept": "DalamudPluginRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.1.6.6",
+      "droppedVersion": "69.1.6.5"
+    },
+    {
+      "internalName": "RoleplayersToolbox",
+      "kept": "dalamud-plugins (ML-Astra) - RP-TBX",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.3.5",
+      "droppedVersion": "0.3.5"
+    },
+    {
+      "internalName": "SelectString",
+      "kept": "NightmareXIV",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.0.1.12",
+      "droppedVersion": "1.0.0.4"
+    },
+    {
+      "internalName": "SliceIsRight",
+      "kept": "DalamudRepoCollection",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "4.1.0.1",
+      "droppedVersion": "4.0"
+    },
+    {
+      "internalName": "SomethingNeedDoing",
+      "kept": "Croizat's Repo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "15.8",
+      "droppedVersion": "1.3.0.8"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "3.9.2.21",
+      "droppedVersion": "3.1.0.0"
+    },
+    {
+      "internalName": "Telesto",
+      "kept": "DalamudRepoCollection",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.9.6.0",
+      "droppedVersion": "0.9.5.0"
+    },
+    {
+      "internalName": "TextAdvance",
+      "kept": "NightmareXIV",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "3.3.0.1",
+      "droppedVersion": "3.0.0.4"
+    },
+    {
+      "internalName": "TitleRenamed",
+      "kept": "DalamudRepoCollection",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.0.4.2",
+      "droppedVersion": "1.0.4.1"
+    },
+    {
+      "internalName": "UnloadErrorFuckOff",
+      "kept": "NightmareXIV",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.0.0.10",
+      "droppedVersion": "1.0.0.2"
+    },
+    {
+      "internalName": "WExtras",
+      "kept": "NightmareXIV",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.0.0.10",
+      "droppedVersion": "1.0.0.2"
+    },
+    {
+      "internalName": "XIVComboExpanded",
+      "kept": "daemitus MyDalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.0.6.2",
+      "droppedVersion": "1.3.4.1"
+    },
+    {
+      "internalName": "XIVComboExpanded",
+      "kept": "daemitus MyDalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.0.6.2",
+      "droppedVersion": "1.3.4.1"
+    },
+    {
+      "internalName": "XIVComboExpandedest",
+      "kept": "DalamudRepoCollection",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.4.0.6",
+      "droppedVersion": "1.4.0.2"
+    },
+    {
+      "internalName": "XIVComboExpandedest",
+      "kept": "DalamudRepoCollection",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.4.0.6",
+      "droppedVersion": "1.4.0.3"
+    },
+    {
+      "internalName": "XIVComboExpandedest",
+      "kept": "DalamudRepoCollection",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.4.0.6",
+      "droppedVersion": "1.0.1.3"
+    },
+    {
+      "internalName": "XIVITAGuide",
+      "kept": "DalamudRepoCollection",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.5.0.21",
+      "droppedVersion": "1.5.0.13"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.2.2.3"
+    },
+    {
+      "internalName": "vsatisfy",
+      "kept": "Veyn (BossMod)",
+      "dropped": "decorwdyun / DalamudPlugins",
+      "keptVersion": "0.0.0.37",
+      "droppedVersion": "0.0.0.37"
+    },
+    {
+      "internalName": "Accountant",
+      "kept": "Caraxi / DalamudPlugins",
+      "dropped": "decorwdyun / DalamudPlugins",
+      "keptVersion": "1.3.0.0",
+      "droppedVersion": "1.8.3.0"
+    },
+    {
+      "internalName": "DisPlacePlugin",
+      "kept": "DisPlace",
+      "dropped": "bees-repo",
+      "keptVersion": "7.5.1.0",
+      "droppedVersion": "7.5.1.0"
+    },
+    {
+      "internalName": "DynamicBridge",
+      "kept": "Sea of Stars",
+      "dropped": "DynamicBridge Standalone",
+      "keptVersion": "1.0.8.8",
+      "droppedVersion": "1.0.8.8"
+    },
+    {
+      "internalName": "NaelPlugin",
+      "kept": "Eisenhuth / TrustworthyDalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.5.0.4",
+      "droppedVersion": "1.1.2.0"
+    },
+    {
+      "internalName": "ChatGPTPlugin",
+      "kept": "Eisenhuth / TrustworthyDalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.1.2.6",
+      "droppedVersion": "1.0.0.0"
+    },
+    {
+      "internalName": "Penumbra",
+      "kept": "Penumbra",
+      "dropped": "eScape",
+      "keptVersion": "1.6.1.12",
+      "droppedVersion": "1.6.1.12"
+    },
+    {
+      "internalName": "Glamourer",
+      "kept": "Glamourer",
+      "dropped": "eScape",
+      "keptVersion": "1.6.1.7",
+      "droppedVersion": "1.6.1.7"
+    },
+    {
+      "internalName": "SimpleHeels",
+      "kept": "Sea of Stars",
+      "dropped": "eScape",
+      "keptVersion": "0.11.1.8",
+      "droppedVersion": "0.11.1.8"
+    },
+    {
+      "internalName": "Brio",
+      "kept": "Sea of Stars",
+      "dropped": "eScape",
+      "keptVersion": "0.8.0.11",
+      "droppedVersion": "0.8.0.11"
+    },
+    {
+      "internalName": "BDTHPlugin",
+      "kept": "eScape",
+      "dropped": "bees-repo",
+      "keptVersion": "1.7.4.1",
+      "droppedVersion": "1.7.4.1"
+    },
+    {
+      "internalName": "visland",
+      "kept": "Veyn (BossMod)",
+      "dropped": "eScape",
+      "keptVersion": "0.0.0.150",
+      "droppedVersion": "0.0.0.150"
+    },
+    {
+      "internalName": "vnavmesh",
+      "kept": "Veyn (BossMod)",
+      "dropped": "eScape",
+      "keptVersion": "1.2.3.13",
+      "droppedVersion": "1.2.3.13"
+    },
+    {
+      "internalName": "AntiAfkKick-Dalamud",
+      "kept": "NightmareXIV",
+      "dropped": "eScape",
+      "keptVersion": "2.1.0.11",
+      "droppedVersion": "2.1.0.11"
+    },
+    {
+      "internalName": "Lifestream",
+      "kept": "NightmareXIV",
+      "dropped": "eScape",
+      "keptVersion": "2.5.4.16",
+      "droppedVersion": "2.5.4.16"
+    },
+    {
+      "internalName": "TextAdvance",
+      "kept": "NightmareXIV",
+      "dropped": "eScape",
+      "keptVersion": "3.3.0.1",
+      "droppedVersion": "3.3.0.1"
+    },
+    {
+      "internalName": "DynamicBridge",
+      "kept": "Sea of Stars",
+      "dropped": "eScape",
+      "keptVersion": "1.0.8.8",
+      "droppedVersion": "1.0.8.8"
+    },
+    {
+      "internalName": "GatherBuddyReborn",
+      "kept": "CombatReborn",
+      "dropped": "eScape",
+      "keptVersion": "7.5.5.0",
+      "droppedVersion": "7.5.5.0"
+    },
+    {
+      "internalName": "AutoDuty",
+      "kept": "erdelf",
+      "dropped": "eScape",
+      "keptVersion": "0.0.0.330",
+      "droppedVersion": "0.0.0.330"
+    },
+    {
+      "internalName": "Brio",
+      "kept": "Sea of Stars",
+      "dropped": "Etheirys/WorldOfEtheirys",
+      "keptVersion": "0.8.0.11",
+      "droppedVersion": "0.8.0.11"
+    },
+    {
+      "internalName": "HidePadlock",
+      "kept": "Caraxi / DalamudPlugins",
+      "dropped": "Fr4nsson / MyDalamudPlugins",
+      "keptVersion": "1.3.0.0",
+      "droppedVersion": "1.4.0.0"
+    },
+    {
+      "internalName": "EasySort",
+      "kept": "Frogworks-Interactive / PluginRepository",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.0.0.5",
+      "droppedVersion": "0.0.0.4"
+    },
+    {
+      "internalName": "HypnotoadPlugin",
+      "kept": "GiR-Zippo / Hypnotoad-Plugin",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.0.3.2",
+      "droppedVersion": "0.0.1.1"
+    },
+    {
+      "internalName": "SilenceNoMore",
+      "kept": "Glyceri's Repo",
+      "dropped": "bees-repo",
+      "keptVersion": "1.4.0.1",
+      "droppedVersion": "1.4.0.1"
+    },
+    {
+      "internalName": "HaselDebug",
+      "kept": "Haselnussbomber",
+      "dropped": "AtmoOmen / DalamudPlugins",
+      "keptVersion": "1.70.0.0",
+      "droppedVersion": "1.66.0.0"
+    },
+    {
+      "internalName": "HaselTweaks",
+      "kept": "Haselnussbomber",
+      "dropped": "bees-repo",
+      "keptVersion": "49.4.1.0",
+      "droppedVersion": "49.4.1.0"
+    },
+    {
+      "internalName": "LeveHelper",
+      "kept": "Haselnussbomber",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.5.6.0",
+      "droppedVersion": "0.1.3"
+    },
+    {
+      "internalName": "Divination.AetheryteLinkInChat",
+      "kept": "horoscope-dev / Dalamud.DivinationPluginRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.1.0.100",
+      "droppedVersion": "0.1.0.100"
+    },
+    {
+      "internalName": "Divination.Calculator",
+      "kept": "horoscope-dev / Dalamud.DivinationPluginRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.1.0.45",
+      "droppedVersion": "0.1.0.45"
+    },
+    {
+      "internalName": "Divination.Debugger",
+      "kept": "horoscope-dev / Dalamud.DivinationPluginRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.1.0.71",
+      "droppedVersion": "0.1.0.71"
+    },
+    {
+      "internalName": "Divination.DiscordIntegration",
+      "kept": "horoscope-dev / Dalamud.DivinationPluginRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.1.0.73",
+      "droppedVersion": "0.1.0.73"
+    },
+    {
+      "internalName": "Divination.FaloopIntegration",
+      "kept": "horoscope-dev / Dalamud.DivinationPluginRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.1.0.17",
+      "droppedVersion": "0.1.0.17"
+    },
+    {
+      "internalName": "Divination.InstanceIDViewer",
+      "kept": "horoscope-dev / Dalamud.DivinationPluginRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "6.11.1.0",
+      "droppedVersion": "6.11.1.0"
+    },
+    {
+      "internalName": "Divination.PowerUtils",
+      "kept": "horoscope-dev / Dalamud.DivinationPluginRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.1.0.63",
+      "droppedVersion": "0.1.0.63"
+    },
+    {
+      "internalName": "Divination.Template",
+      "kept": "horoscope-dev / Dalamud.DivinationPluginRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.1.0.0",
+      "droppedVersion": "0.1.0.0"
+    },
+    {
+      "internalName": "Divination.TwitterIntegration",
+      "kept": "horoscope-dev / Dalamud.DivinationPluginRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.1.0.60",
+      "droppedVersion": "0.1.0.60"
+    },
+    {
+      "internalName": "Divination.Voiceroid2Talker",
+      "kept": "horoscope-dev / Dalamud.DivinationPluginRepo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.1.0.56",
+      "droppedVersion": "0.1.0.56"
+    },
+    {
+      "internalName": "IINACT",
+      "kept": "IINACT",
+      "dropped": "bees-repo",
+      "keptVersion": "2.10.3.6",
+      "droppedVersion": "2.10.3.6"
+    },
+    {
+      "internalName": "MinionRoulette",
+      "kept": "InitialDet / MyDalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.2.0.3",
+      "droppedVersion": "1.1.2.0"
+    },
+    {
+      "internalName": "NecroLens",
+      "kept": "Jukka's repo",
+      "dropped": "bees-repo",
+      "keptVersion": "1.0.8.12",
+      "droppedVersion": "1.0.8.12"
+    },
+    {
+      "internalName": "Islander",
+      "kept": "juntalis/DalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.5.0.0",
+      "droppedVersion": "0.5.0.0"
+    },
+    {
+      "internalName": "ARControl",
+      "kept": "a1hena/PluginRepository",
+      "dropped": "justbees",
+      "keptVersion": "14.2",
+      "droppedVersion": "8.5"
+    },
+    {
+      "internalName": "FFXIV_Vibe_Plugin",
+      "kept": "kaciexx / FFXIV_Vibe_Plugin",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.4.1.0",
+      "droppedVersion": "1.7.0.0"
+    },
+    {
+      "internalName": "SkipCutscene",
+      "kept": "KangasZ / DalamudPluginRepository",
+      "dropped": "Dalamud.SkipCutscene",
+      "keptVersion": "3.0.1.5",
+      "droppedVersion": "1.2.3.2"
+    },
+    {
+      "internalName": "RadarPlugin",
+      "kept": "KangasZ / DalamudPluginRepository",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.2.1.3",
+      "droppedVersion": "0.3.0.0"
+    },
+    {
+      "internalName": "Hyperborea",
+      "kept": "kawaii's repo",
+      "dropped": "bees-repo",
+      "keptVersion": "1.0.0.37",
+      "droppedVersion": "1.0.0.37"
+    },
+    {
+      "internalName": "DeathRecap",
+      "kept": "Caraxi / DalamudPlugins",
+      "dropped": "Kouzukii DalamudPlugins",
+      "keptVersion": "1.8.0.0",
+      "droppedVersion": "1.8.0.0"
+    },
+    {
+      "internalName": "CharacterPanelRefined",
+      "kept": "Caraxi / DalamudPlugins",
+      "dropped": "Kouzukii DalamudPlugins",
+      "keptVersion": "1.1.1.0",
+      "droppedVersion": "1.1.1.0"
+    },
+    {
+      "internalName": "Ktisis",
+      "kept": "Sea of Stars",
+      "dropped": "Ktisis",
+      "keptVersion": "0.4.0.5",
+      "droppedVersion": "0.4.0.5"
+    },
+    {
+      "internalName": "LaciSynchroni",
+      "kept": "Laci Synchroni",
+      "dropped": "bees-repo",
+      "keptVersion": "2.0.17.0",
+      "droppedVersion": "2.0.17.0"
+    },
+    {
+      "internalName": "BDTHPlugin",
+      "kept": "eScape",
+      "dropped": "LeonBlade",
+      "keptVersion": "1.7.4.1",
+      "droppedVersion": "1.7.4.1"
+    },
+    {
+      "internalName": "LMeter",
+      "kept": "lichie567 / LMeter",
+      "dropped": "bees-repo",
+      "keptVersion": "0.4.4.0",
+      "droppedVersion": "0.4.4.0"
+    },
+    {
+      "internalName": "XIVAuras",
+      "kept": "lichie567 / XIVAuras",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "0.2.5.0",
+      "droppedVersion": "0.2.4.0"
+    },
+    {
+      "internalName": "Loci",
+      "kept": "Loci",
+      "dropped": "bees-repo",
+      "keptVersion": "0.1.3.6",
+      "droppedVersion": "0.1.3.6"
+    },
+    {
+      "internalName": "LoporritSync",
+      "kept": "Loporrit Sync",
+      "dropped": "Loporrit Sync",
+      "keptVersion": "1.15.1.0",
+      "droppedVersion": "1.15.0.0"
+    },
+    {
+      "internalName": "MakePlacePlugin",
+      "kept": "MakePlace Plugin",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "3.7.3",
+      "droppedVersion": "2.18"
+    },
+    {
+      "internalName": "MareSynchronos",
+      "kept": "Mare Synchronos",
+      "dropped": "Mare Synchronos",
+      "keptVersion": "1.11.0",
+      "droppedVersion": "1.11.0.0"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "Marketbuddy",
+      "keptVersion": "0.2.4.2",
+      "droppedVersion": "0.2.4.1"
+    },
+    {
+      "internalName": "StartupCommands",
+      "kept": "Maxunit / MyDalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.3.0.1",
+      "droppedVersion": "1.1.0.2"
+    },
+    {
+      "internalName": "Orbwalker",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.1.10",
+      "droppedVersion": "1.0.1.10"
+    },
+    {
+      "internalName": "Avarice",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.0.12",
+      "droppedVersion": "2.2.0.12"
+    },
+    {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
+    },
+    {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.0.90",
+      "droppedVersion": "6.0.0.90"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.2.4.2",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.1.27",
+      "droppedVersion": "4.6.1.27"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.1.56",
+      "droppedVersion": "15.306.1.56"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.21",
+      "droppedVersion": "3.9.2.21"
+    },
+    {
+      "internalName": "WrathCombo",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.4.19",
+      "droppedVersion": "1.0.4.19"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.18",
+      "droppedVersion": "4.0.5.18"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.1.17",
+      "droppedVersion": "2.1.1.17"
+    },
+    {
+      "internalName": "XIVComboExpanded",
+      "kept": "daemitus MyDalamudPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.0.6.2",
+      "droppedVersion": "2.0.6.2"
+    },
+    {
+      "internalName": "AutoLogin",
+      "kept": "Aida-Enna XIVPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.3.1.4",
+      "droppedVersion": "1.3.1.4"
+    },
+    {
+      "internalName": "AutoPillion",
+      "kept": "Aida-Enna XIVPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.0.5",
+      "droppedVersion": "1.0.0.5"
+    },
+    {
+      "internalName": "MacroChainRedux",
+      "kept": "Aida-Enna XIVPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.1.6",
+      "droppedVersion": "2.1.1.6"
+    },
+    {
+      "internalName": "PortraitFixer",
+      "kept": "Aida-Enna XIVPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.1.4",
+      "droppedVersion": "1.0.1.4"
+    },
+    {
+      "internalName": "DynamicBridge",
+      "kept": "Sea of Stars",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.8.8",
+      "droppedVersion": "1.0.8.8"
+    },
+    {
+      "internalName": "HuntTrainAssistant",
+      "kept": "NightmareXIV",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.2.15",
+      "droppedVersion": "1.0.2.15"
+    },
+    {
+      "internalName": "Lifestream",
+      "kept": "NightmareXIV",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.5.4.16",
+      "droppedVersion": "2.5.4.16"
+    },
+    {
+      "internalName": "DSREyeLocator",
+      "kept": "NightmareXIV",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.0.1.10",
+      "droppedVersion": "2.0.1.10"
+    },
+    {
+      "internalName": "WExtras",
+      "kept": "NightmareXIV",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.0.10",
+      "droppedVersion": "1.0.0.10"
+    },
+    {
+      "internalName": "TextAdvance",
+      "kept": "NightmareXIV",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.3.0.1",
+      "droppedVersion": "3.3.0.1"
+    },
+    {
+      "internalName": "AntiAfkKick-Dalamud",
+      "kept": "NightmareXIV",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.0.11",
+      "droppedVersion": "2.1.0.11"
+    },
+    {
+      "internalName": "SelectString",
+      "kept": "NightmareXIV",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.1.12",
+      "droppedVersion": "1.0.1.12"
+    },
+    {
+      "internalName": "Prioritizer",
+      "kept": "NightmareXIV",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.0.1.4",
+      "droppedVersion": "2.0.1.4"
+    },
+    {
+      "internalName": "UnloadErrorFuckOff",
+      "kept": "NightmareXIV",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.0.10",
+      "droppedVersion": "1.0.0.10"
+    },
+    {
+      "internalName": "Imagenation",
+      "kept": "NightmareXIV",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.0.11",
+      "droppedVersion": "1.0.0.11"
+    },
+    {
+      "internalName": "ObjectExplorer",
+      "kept": "NightmareXIV",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.0.11",
+      "droppedVersion": "1.0.0.11"
+    },
+    {
+      "internalName": "StandalonePluginManager",
+      "kept": "NightmareXIV",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.0.4",
+      "droppedVersion": "1.0.0.4"
+    },
+    {
+      "internalName": "Battlevest",
+      "kept": "NightmareXIV",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.2.3",
+      "droppedVersion": "1.0.2.3"
+    },
+    {
+      "internalName": "Stylist",
+      "kept": "NightmareXIV",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.0.15",
+      "droppedVersion": "1.0.0.15"
+    },
+    {
+      "internalName": "MinionRoulette",
+      "kept": "InitialDet / MyDalamudPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.2.0.3",
+      "droppedVersion": "1.2.0.3"
+    },
+    {
+      "internalName": "MidiBard2",
+      "kept": "MEGA Repository",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "3.2.4.5",
+      "droppedVersion": "2.2.3.1"
+    },
+    {
+      "internalName": "BDTHPlugin",
+      "kept": "eScape",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.7.4.1",
+      "droppedVersion": "1.7.4.1"
+    },
+    {
+      "internalName": "NoClippy",
+      "kept": "DalamudPluginRepo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.4.0.12",
+      "droppedVersion": "0.5.0.24"
+    },
+    {
+      "internalName": "ReAction",
+      "kept": "DalamudPluginRepo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.1.6.6",
+      "droppedVersion": "1.3.5.1"
+    },
+    {
+      "internalName": "Cammy",
+      "kept": "DalamudPluginRepo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.0.3.5",
+      "droppedVersion": "2.1.1.2"
+    },
+    {
+      "internalName": "OOBlugin",
+      "kept": "DalamudPluginRepo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.1.2.7",
+      "droppedVersion": "1.1.2.11"
+    },
+    {
+      "internalName": "Fractionality",
+      "kept": "DalamudPluginRepo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.1.3",
+      "droppedVersion": "1.0.1.5"
+    },
+    {
+      "internalName": "DalamudRepoBrowser",
+      "kept": "DalamudPluginRepo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.0.1.1",
+      "droppedVersion": "2.0.3.3"
+    },
+    {
+      "internalName": "ARControl",
+      "kept": "a1hena/PluginRepository",
+      "dropped": "MEGA Repository",
+      "keptVersion": "14.2",
+      "droppedVersion": "7.1"
+    },
+    {
+      "internalName": "HaselDebug",
+      "kept": "Haselnussbomber",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.70.0.0",
+      "droppedVersion": "1.70.0.0"
+    },
+    {
+      "internalName": "HaselTweaks",
+      "kept": "Haselnussbomber",
+      "dropped": "MEGA Repository",
+      "keptVersion": "49.4.1.0",
+      "droppedVersion": "49.4.1.0"
+    },
+    {
+      "internalName": "LeveHelper",
+      "kept": "Haselnussbomber",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.5.6.0",
+      "droppedVersion": "2.5.6.0"
+    },
+    {
+      "internalName": "vsatisfy",
+      "kept": "Veyn (BossMod)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.37",
+      "droppedVersion": "0.0.0.37"
+    },
+    {
+      "internalName": "visland",
+      "kept": "Veyn (BossMod)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.150",
+      "droppedVersion": "0.0.0.150"
+    },
+    {
+      "internalName": "vfaux",
+      "kept": "Veyn (BossMod)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.12",
+      "droppedVersion": "0.0.0.12"
+    },
+    {
+      "internalName": "BossMod",
+      "kept": "Veyn (BossMod)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "7.5.1.38",
+      "droppedVersion": "7.5.1.38"
+    },
+    {
+      "internalName": "vfallguy",
+      "kept": "Veyn (BossMod)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.12",
+      "droppedVersion": "0.0.0.12"
+    },
+    {
+      "internalName": "vnavmesh",
+      "kept": "Veyn (BossMod)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.2.3.13",
+      "droppedVersion": "1.2.3.13"
+    },
+    {
+      "internalName": "MBT",
+      "kept": "Herculezz's Repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.16",
+      "droppedVersion": "0.0.0.16"
+    },
+    {
+      "internalName": "RotationSolver",
+      "kept": "CombatReborn",
+      "dropped": "MEGA Repository",
+      "keptVersion": "7.5.5.30",
+      "droppedVersion": "7.5.5.30"
+    },
+    {
+      "internalName": "BossModReborn",
+      "kept": "CombatReborn",
+      "dropped": "MEGA Repository",
+      "keptVersion": "7.5.5.44",
+      "droppedVersion": "7.5.5.44"
+    },
+    {
+      "internalName": "ActionTimelineReborn",
+      "kept": "CombatReborn",
+      "dropped": "MEGA Repository",
+      "keptVersion": "7.5.5.1",
+      "droppedVersion": "7.5.5.1"
+    },
+    {
+      "internalName": "EasyZoomReborn",
+      "kept": "CombatReborn",
+      "dropped": "MEGA Repository",
+      "keptVersion": "7.5.0.3",
+      "droppedVersion": "7.5.0.3"
+    },
+    {
+      "internalName": "GatherBuddyReborn",
+      "kept": "CombatReborn",
+      "dropped": "MEGA Repository",
+      "keptVersion": "7.5.5.0",
+      "droppedVersion": "7.5.5.0"
+    },
+    {
+      "internalName": "RebornToolbox",
+      "kept": "CombatReborn",
+      "dropped": "MEGA Repository",
+      "keptVersion": "7.5.0.0",
+      "droppedVersion": "7.5.0.0"
+    },
+    {
+      "internalName": "ZodiacBuddyReborn",
+      "kept": "CombatReborn",
+      "dropped": "MEGA Repository",
+      "keptVersion": "7.5.0.1",
+      "droppedVersion": "7.5.0.1"
+    },
+    {
+      "internalName": "PassportCheckerReborn",
+      "kept": "CombatReborn",
+      "dropped": "MEGA Repository",
+      "keptVersion": "7.5.5.1",
+      "droppedVersion": "7.5.5.1"
+    },
+    {
+      "internalName": "NoSillyReborn",
+      "kept": "CombatReborn",
+      "dropped": "MEGA Repository",
+      "keptVersion": "7.5.5.0",
+      "droppedVersion": "7.5.5.0"
+    },
+    {
+      "internalName": "Understudy",
+      "kept": "CombatReborn",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.0.8",
+      "droppedVersion": "1.0.0.8"
+    },
+    {
+      "internalName": "SomethingNeedDoing",
+      "kept": "Croizat's Repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.8",
+      "droppedVersion": "15.8"
+    },
+    {
+      "internalName": "Automaton",
+      "kept": "Croizat's Repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "69.204",
+      "droppedVersion": "69.204"
+    },
+    {
+      "internalName": "GlamourLog",
+      "kept": "Croizat's Repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.64",
+      "droppedVersion": "15.64"
+    },
+    {
+      "internalName": "BattleLog",
+      "kept": "KangasZ / DalamudPluginRepository",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.7",
+      "droppedVersion": "0.0.0.7"
+    },
+    {
+      "internalName": "SkipCutscene",
+      "kept": "KangasZ / DalamudPluginRepository",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.0.1.5",
+      "droppedVersion": "3.0.1.5"
+    },
+    {
+      "internalName": "UIAntiAfkKick",
+      "kept": "KangasZ / DalamudPluginRepository",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.2.6.7",
+      "droppedVersion": "3.2.6.7"
+    },
+    {
+      "internalName": "RadarPlugin",
+      "kept": "KangasZ / DalamudPluginRepository",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.1.3",
+      "droppedVersion": "2.2.1.3"
+    },
+    {
+      "internalName": "KangasTweaks",
+      "kept": "KangasZ / DalamudPluginRepository",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.7.6",
+      "droppedVersion": "0.0.7.6"
+    },
+    {
+      "internalName": "Athavar.FFXIV.Plugin",
+      "kept": "Athavar / Athavar.FFXIV.DalaRepo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.5.0.1",
+      "droppedVersion": "2.5.0.1"
+    },
+    {
+      "internalName": "DoubleWeaver",
+      "kept": "Bluefissure DalamudPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.8.0",
+      "droppedVersion": "1.0.8.0"
+    },
+    {
+      "internalName": "HousingPos",
+      "kept": "Bluefissure DalamudPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.3.2.0",
+      "droppedVersion": "1.3.2.0"
+    },
+    {
+      "internalName": "IMEPlugin",
+      "kept": "Bluefissure DalamudPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.8.0",
+      "droppedVersion": "1.0.8.0"
+    },
+    {
+      "internalName": "Inviter",
+      "kept": "Bluefissure DalamudPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.1.4.0",
+      "droppedVersion": "1.1.4.0"
+    },
+    {
+      "internalName": "SmartVote",
+      "kept": "Bluefissure DalamudPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.3.1",
+      "droppedVersion": "1.0.3.1"
+    },
+    {
+      "internalName": "WindowLocker",
+      "kept": "Bluefissure DalamudPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.1.0",
+      "droppedVersion": "1.0.1.0"
+    },
+    {
+      "internalName": "HuntAlerts",
+      "kept": "Asuna's Repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.4.1.4",
+      "droppedVersion": "1.4.1.4"
+    },
+    {
+      "internalName": "HypnotoadPlugin",
+      "kept": "GiR-Zippo / Hypnotoad-Plugin",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.3.2",
+      "droppedVersion": "0.0.3.2"
+    },
+    {
+      "internalName": "Glamourer",
+      "kept": "Glamourer",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.1.7",
+      "droppedVersion": "1.6.1.7"
+    },
+    {
+      "internalName": "Penumbra",
+      "kept": "Penumbra",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.1.12",
+      "droppedVersion": "1.6.1.12"
+    },
+    {
+      "internalName": "CustomizePlus",
+      "kept": "Sea of Stars",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.0.3",
+      "droppedVersion": "2.2.0.3"
+    },
+    {
+      "internalName": "SimpleHeels",
+      "kept": "Sea of Stars",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.11.1.8",
+      "droppedVersion": "0.11.1.8"
+    },
+    {
+      "internalName": "heliosphere-plugin",
+      "kept": "Sea of Stars",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.10.3.0",
+      "droppedVersion": "4.10.3.0"
+    },
+    {
+      "internalName": "Ktisis",
+      "kept": "Sea of Stars",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.4.0.5",
+      "droppedVersion": "0.4.0.5"
+    },
+    {
+      "internalName": "Brio",
+      "kept": "Sea of Stars",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.8.0.11",
+      "droppedVersion": "0.8.0.11"
+    },
+    {
+      "internalName": "Moodles",
+      "kept": "Sea of Stars",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.1.3.5",
+      "droppedVersion": "1.1.3.5"
+    },
+    {
+      "internalName": "MakePlacePlugin",
+      "kept": "MakePlace Plugin",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.7.3",
+      "droppedVersion": "3.7.3"
+    },
+    {
+      "internalName": "BardToolbox",
+      "kept": "BardToolbox / BardToolbox-Release",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.7.0",
+      "droppedVersion": "2.2.7.0"
+    },
+    {
+      "internalName": "ProjectGagSpeak",
+      "kept": "bees-repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.3.2",
+      "droppedVersion": "2.1.3.2"
+    },
+    {
+      "internalName": "PuppetMaster",
+      "kept": "MEGA Repository",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "7.5.5.4",
+      "droppedVersion": "0.1.6.7"
+    },
+    {
+      "internalName": "Copycat",
+      "kept": "MEGA Repository",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "7.5.0.0",
+      "droppedVersion": "6.2.51.0"
+    },
+    {
+      "internalName": "XIVComboVX",
+      "kept": "MEGA Repository",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "9.35.3",
+      "droppedVersion": "7.0.8381.8868"
+    },
+    {
+      "internalName": "TinyCmds",
+      "kept": "MEGA Repository",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "8.10.4",
+      "droppedVersion": "6.0.8356.19977"
+    },
+    {
+      "internalName": "NekoLewd",
+      "kept": "Meisterlala / NekoFans",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.0.11",
+      "droppedVersion": "1.0.1"
+    },
+    {
+      "internalName": "Penumbra",
+      "kept": "Penumbra",
+      "dropped": "MeowZWR / DalamudPlugin",
+      "keptVersion": "1.6.1.12",
+      "droppedVersion": "1.6.1.12"
+    },
+    {
+      "internalName": "Glamourer",
+      "kept": "Glamourer",
+      "dropped": "MeowZWR / DalamudPlugin",
+      "keptVersion": "1.6.1.7",
+      "droppedVersion": "1.6.1.8"
+    },
+    {
+      "internalName": "SimpleHeels",
+      "kept": "Sea of Stars",
+      "dropped": "MeowZWR / DalamudPlugin",
+      "keptVersion": "0.11.1.8",
+      "droppedVersion": "0.11.1.5"
+    },
+    {
+      "internalName": "CustomizePlus",
+      "kept": "Sea of Stars",
+      "dropped": "MeowZWR / DalamudPlugin",
+      "keptVersion": "2.2.0.3",
+      "droppedVersion": "2.2.0.2"
+    },
+    {
+      "internalName": "Brio",
+      "kept": "Sea of Stars",
+      "dropped": "MeowZWR / DalamudPlugin",
+      "keptVersion": "0.8.0.11",
+      "droppedVersion": "0.8.0.10"
+    },
+    {
+      "internalName": "Ktisis",
+      "kept": "Sea of Stars",
+      "dropped": "MeowZWR / DalamudPlugin",
+      "keptVersion": "0.4.0.5",
+      "droppedVersion": "0.4.0.5"
+    },
+    {
+      "internalName": "Moodles",
+      "kept": "Sea of Stars",
+      "dropped": "MeowZWR / DalamudPlugin",
+      "keptVersion": "1.1.3.5",
+      "droppedVersion": "2.1.0.1"
+    },
+    {
+      "internalName": "DynamicBridge",
+      "kept": "Sea of Stars",
+      "dropped": "MeowZWR / DalamudPlugin",
+      "keptVersion": "1.0.8.8",
+      "droppedVersion": "1.0.8.8"
+    },
+    {
+      "internalName": "AQuestReborn",
+      "kept": "A Quest Reborn",
+      "dropped": "MeowZWR / DalamudPlugin",
+      "keptVersion": "0.2.9.8",
+      "droppedVersion": "0.1.6.3"
+    },
+    {
+      "internalName": "Cammy",
+      "kept": "DalamudPluginRepo",
+      "dropped": "MeowZWR / DalamudPlugin",
+      "keptVersion": "2.0.3.5",
+      "droppedVersion": "2.1.1.2"
+    },
+    {
+      "internalName": "BDTHPlugin",
+      "kept": "eScape",
+      "dropped": "MeowZWR / DalamudPlugin",
+      "keptVersion": "1.7.4.1",
+      "droppedVersion": "1.7.3"
+    },
+    {
+      "internalName": "SkipCutscene",
+      "kept": "KangasZ / DalamudPluginRepository",
+      "dropped": "MeowZWR / DalamudPlugin",
+      "keptVersion": "3.0.1.5",
+      "droppedVersion": "1.2.3.2"
+    },
+    {
+      "internalName": "AntiAfkKick-Dalamud",
+      "kept": "NightmareXIV",
+      "dropped": "MeowZWR / DalamudPlugin",
+      "keptVersion": "2.1.0.11",
+      "droppedVersion": "2.1.0.12"
+    },
+    {
+      "internalName": "MidiBard2",
+      "kept": "MidiBard 2",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.2.4.5",
+      "droppedVersion": "3.2.4.5"
+    },
+    {
+      "internalName": "Moodles",
+      "kept": "Sea of Stars",
+      "dropped": "Moodles",
+      "keptVersion": "1.1.3.5",
+      "droppedVersion": "1.1.3.5"
+    },
+    {
+      "internalName": "WondrousTailsSolver",
+      "kept": "Caraxi / DalamudPlugins",
+      "dropped": "MyDalamudPlugins",
+      "keptVersion": "2.1.2.0",
+      "droppedVersion": "2.1.2.0"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MyDalamudPlugins",
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.2.2.1"
+    },
+    {
+      "internalName": "XIVComboExpanded",
+      "kept": "daemitus MyDalamudPlugins",
+      "dropped": "MyDalamudPlugins",
+      "keptVersion": "2.0.6.2",
+      "droppedVersion": "1.3.4.1"
+    },
+    {
+      "internalName": "SomethingNeedDoing",
+      "kept": "Croizat's Repo",
+      "dropped": "MyDalamudPlugins",
+      "keptVersion": "15.8",
+      "droppedVersion": "1.3.0.5"
+    },
+    {
+      "internalName": "XIVComboExpandedest",
+      "kept": "MyDalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.5.0.95",
+      "droppedVersion": "1.4.0.6"
+    },
+    {
+      "internalName": "Lock",
+      "kept": "MyPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.0.3.0",
+      "droppedVersion": "1.0.1.6"
+    },
+    {
+      "internalName": "IINACT",
+      "kept": "IINACT",
+      "dropped": "MyPlugins",
+      "keptVersion": "2.10.3.6",
+      "droppedVersion": "2.1.4.3"
+    },
+    {
+      "internalName": "ActionTimelineReborn",
+      "kept": "CombatReborn",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "7.5.5.1",
+      "droppedVersion": "7.5.5.1"
+    },
+    {
+      "internalName": "Aetherment",
+      "kept": "Aetherment",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.8.9.0",
+      "droppedVersion": "0.8.9.0"
+    },
+    {
+      "internalName": "AntiAfkKick-Dalamud",
+      "kept": "NightmareXIV",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.1.0.11",
+      "droppedVersion": "2.1.0.11"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "4.0.5.18",
+      "droppedVersion": "4.0.5.18"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "6.0.0.90",
+      "droppedVersion": "6.0.0.90"
+    },
+    {
+      "internalName": "AutoLogin",
+      "kept": "Aida-Enna XIVPlugins",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.3.1.4",
+      "droppedVersion": "1.3.1.4"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "4.6.1.27",
+      "droppedVersion": "4.6.1.27"
+    },
+    {
+      "internalName": "Avarice",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.2.0.12",
+      "droppedVersion": "2.2.0.12"
+    },
+    {
+      "internalName": "Battlevest",
+      "kept": "NightmareXIV",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.2.3",
+      "droppedVersion": "1.0.2.3"
+    },
+    {
+      "internalName": "BDTHPlugin",
+      "kept": "eScape",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.7.4.1",
+      "droppedVersion": "1.7.4.1"
+    },
+    {
+      "internalName": "BossMod",
+      "kept": "Veyn (BossMod)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "7.5.1.38",
+      "droppedVersion": "7.5.1.38"
+    },
+    {
+      "internalName": "BossModReborn",
+      "kept": "CombatReborn",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "7.5.5.44",
+      "droppedVersion": "7.5.5.43"
+    },
+    {
+      "internalName": "Brio",
+      "kept": "Sea of Stars",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.8.0.11",
+      "droppedVersion": "0.8.0.11"
+    },
+    {
+      "internalName": "ChatDeathRoll",
+      "kept": "anya-hichu/DalamudPluginRepo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.6.0",
+      "droppedVersion": "0.0.6.0"
+    },
+    {
+      "internalName": "ChilledLeves",
+      "kept": "ICE (Island Sanctuary)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.1.24",
+      "droppedVersion": "1.0.1.24"
+    },
+    {
+      "internalName": "CustomizePlus",
+      "kept": "Sea of Stars",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.2.0.3",
+      "droppedVersion": "2.2.0.3"
+    },
+    {
+      "internalName": "DeterministicPose",
+      "kept": "anya-hichu/DalamudPluginRepo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.5.0",
+      "droppedVersion": "0.0.5.0"
+    },
+    {
+      "internalName": "DiscordActivityHonorific",
+      "kept": "anya-hichu/DalamudPluginRepo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.5.0",
+      "droppedVersion": "0.0.5.0"
+    },
+    {
+      "internalName": "DisPlacePlugin",
+      "kept": "DisPlace",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "7.5.1.0",
+      "droppedVersion": "7.5.1.0"
+    },
+    {
+      "internalName": "DSREyeLocator",
+      "kept": "NightmareXIV",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.0.1.10",
+      "droppedVersion": "2.0.1.10"
+    },
+    {
+      "internalName": "DynamicBridge",
+      "kept": "Sea of Stars",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.8.8",
+      "droppedVersion": "1.0.8.8"
+    },
+    {
+      "internalName": "EasyZoomReborn",
+      "kept": "CombatReborn",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "7.5.0.3",
+      "droppedVersion": "7.5.0.3"
+    },
+    {
+      "internalName": "ExplorersIcebox",
+      "kept": "ICE (Island Sanctuary)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.1.0.3",
+      "droppedVersion": "1.1.0.3"
+    },
+    {
+      "internalName": "GatherBuddyReborn",
+      "kept": "CombatReborn",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "7.5.5.0",
+      "droppedVersion": "7.5.5.0"
+    },
+    {
+      "internalName": "Glamourer",
+      "kept": "Glamourer",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.6.1.7",
+      "droppedVersion": "1.6.1.7"
+    },
+    {
+      "internalName": "heliosphere-plugin",
+      "kept": "Sea of Stars",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "4.10.3.0",
+      "droppedVersion": "4.10.3.0"
+    },
+    {
+      "internalName": "HuntTrainAssistant",
+      "kept": "NightmareXIV",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.2.15",
+      "droppedVersion": "1.0.2.15"
+    },
+    {
+      "internalName": "ICE",
+      "kept": "ICE (Island Sanctuary)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.1",
+      "droppedVersion": "1.0.0.1"
+    },
+    {
+      "internalName": "Imagenation",
+      "kept": "NightmareXIV",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.11",
+      "droppedVersion": "1.0.0.11"
+    },
+    {
+      "internalName": "Ktisis",
+      "kept": "Sea of Stars",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.4.0.5",
+      "droppedVersion": "0.4.0.5"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "Lifestream",
+      "kept": "NightmareXIV",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.5.4.16",
+      "droppedVersion": "2.5.4.16"
+    },
+    {
+      "internalName": "LightlessSync",
+      "kept": "Lightless Sync",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "3.2.4.0",
+      "droppedVersion": "3.2.4.0"
+    },
+    {
+      "internalName": "LMeter",
+      "kept": "lichie567 / LMeter",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.4.4.0",
+      "droppedVersion": "0.4.4.0"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.2.4.2",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "Meddle.Plugin",
+      "kept": "Meddle",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.1.55.0",
+      "droppedVersion": "0.1.55.0"
+    },
+    {
+      "internalName": "MidiBard2",
+      "kept": "MidiBard 2",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "3.2.4.5",
+      "droppedVersion": "3.2.4.5"
+    },
+    {
+      "internalName": "ModSettingCommands",
+      "kept": "anya-hichu/DalamudPluginRepo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.6.0",
+      "droppedVersion": "0.0.6.0"
+    },
+    {
+      "internalName": "Moodles",
+      "kept": "Sea of Stars",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.1.3.5",
+      "droppedVersion": "1.1.3.5"
+    },
+    {
+      "internalName": "NecroLens",
+      "kept": "Jukka's repo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.8.12",
+      "droppedVersion": "1.0.8.12"
+    },
+    {
+      "internalName": "NoSillyReborn",
+      "kept": "CombatReborn",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "7.5.5.0",
+      "droppedVersion": "7.5.5.0"
+    },
+    {
+      "internalName": "ObjectExplorer",
+      "kept": "NightmareXIV",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.11",
+      "droppedVersion": "1.0.0.11"
+    },
+    {
+      "internalName": "Orbwalker",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.1.10",
+      "droppedVersion": "1.0.1.10"
+    },
+    {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
+    },
+    {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
+    },
+    {
+      "internalName": "PassportCheckerReborn",
+      "kept": "CombatReborn",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "7.5.5.1",
+      "droppedVersion": "7.5.5.1"
+    },
+    {
+      "internalName": "PatMeHonorific",
+      "kept": "anya-hichu/DalamudPluginRepo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.7.0",
+      "droppedVersion": "0.0.7.0"
+    },
+    {
+      "internalName": "Penumbra",
+      "kept": "Penumbra",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.6.1.12",
+      "droppedVersion": "1.6.1.12"
+    },
+    {
+      "internalName": "Prioritizer",
+      "kept": "NightmareXIV",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.0.1.4",
+      "droppedVersion": "2.0.1.4"
+    },
+    {
+      "internalName": "ProximityVoiceChat",
+      "kept": "Proximity Voice Chat",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.5.16.0",
+      "droppedVersion": "0.5.16.0"
+    },
+    {
+      "internalName": "Quack",
+      "kept": "anya-hichu/DalamudPluginRepo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.1.5.0",
+      "droppedVersion": "0.1.5.0"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "15.306.1.56",
+      "droppedVersion": "15.306.1.56"
+    },
+    {
+      "internalName": "RaidsRewritten",
+      "kept": "Proximity Voice Chat",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.2.2.0",
+      "droppedVersion": "1.2.2.0"
+    },
+    {
+      "internalName": "RebornToolbox",
+      "kept": "CombatReborn",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "7.5.0.0",
+      "droppedVersion": "7.5.0.0"
+    },
+    {
+      "internalName": "RecruitmentRefresher",
+      "kept": "anya-hichu/DalamudPluginRepo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.5.0",
+      "droppedVersion": "0.0.5.0"
+    },
+    {
+      "internalName": "Reggiex",
+      "kept": "anya-hichu/DalamudPluginRepo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.3.0",
+      "droppedVersion": "0.0.3.0"
+    },
+    {
+      "internalName": "RotationSolver",
+      "kept": "CombatReborn",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "7.5.5.30",
+      "droppedVersion": "7.5.5.30"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.1.1.17",
+      "droppedVersion": "2.1.1.17"
+    },
+    {
+      "internalName": "SelectString",
+      "kept": "NightmareXIV",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.1.12",
+      "droppedVersion": "1.0.1.12"
+    },
+    {
+      "internalName": "SimpleHeels",
+      "kept": "Sea of Stars",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.11.1.8",
+      "droppedVersion": "0.11.1.8"
+    },
+    {
+      "internalName": "SkipCutscene",
+      "kept": "KangasZ / DalamudPluginRepository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "3.0.1.5",
+      "droppedVersion": "1.2.3.2"
+    },
+    {
+      "internalName": "SmartPings",
+      "kept": "Proximity Voice Chat",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.3.12.0",
+      "droppedVersion": "0.3.12.0"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "3.9.2.21",
+      "droppedVersion": "3.9.2.21"
+    },
+    {
+      "internalName": "StandalonePluginManager",
+      "kept": "NightmareXIV",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.4",
+      "droppedVersion": "1.0.0.4"
+    },
+    {
+      "internalName": "Stylist",
+      "kept": "NightmareXIV",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.15",
+      "droppedVersion": "1.0.0.15"
+    },
+    {
+      "internalName": "TextAdvance",
+      "kept": "NightmareXIV",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "3.3.0.1",
+      "droppedVersion": "3.3.0.1"
+    },
+    {
+      "internalName": "Understudy",
+      "kept": "CombatReborn",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.8",
+      "droppedVersion": "1.0.0.8"
+    },
+    {
+      "internalName": "UnloadErrorFuckOff",
+      "kept": "NightmareXIV",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.10",
+      "droppedVersion": "1.0.0.10"
+    },
+    {
+      "internalName": "vfallguy",
+      "kept": "Veyn (BossMod)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.0.12",
+      "droppedVersion": "0.0.0.12"
+    },
+    {
+      "internalName": "vfaux",
+      "kept": "Veyn (BossMod)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.0.12",
+      "droppedVersion": "0.0.0.12"
+    },
+    {
+      "internalName": "visland",
+      "kept": "Veyn (BossMod)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.0.150",
+      "droppedVersion": "0.0.0.150"
+    },
+    {
+      "internalName": "vnavmesh",
+      "kept": "Veyn (BossMod)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.2.3.13",
+      "droppedVersion": "1.2.3.13"
+    },
+    {
+      "internalName": "vsatisfy",
+      "kept": "Veyn (BossMod)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.0.37",
+      "droppedVersion": "0.0.0.37"
+    },
+    {
+      "internalName": "WExtras",
+      "kept": "NightmareXIV",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.10",
+      "droppedVersion": "1.0.0.10"
+    },
+    {
+      "internalName": "WrathCombo",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.4.19",
+      "droppedVersion": "1.0.4.19"
+    },
+    {
+      "internalName": "XIVComboExpanded",
+      "kept": "daemitus MyDalamudPlugins",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.0.6.2",
+      "droppedVersion": "2.0.6.2"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
+    },
+    {
+      "internalName": "ZodiacBuddyReborn",
+      "kept": "CombatReborn",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "7.5.0.1",
+      "droppedVersion": "7.5.0.1"
+    },
+    {
+      "internalName": "DynamicBridge",
+      "kept": "Sea of Stars",
+      "dropped": "NightmareXIV / Eternita-S alt repo",
+      "keptVersion": "1.0.8.8",
+      "droppedVersion": "1.0.8.8"
+    },
+    {
+      "internalName": "HuntTrainAssistant",
+      "kept": "NightmareXIV",
+      "dropped": "NightmareXIV / Eternita-S alt repo",
+      "keptVersion": "1.0.2.15",
+      "droppedVersion": "1.0.2.15"
+    },
+    {
+      "internalName": "Lifestream",
+      "kept": "NightmareXIV",
+      "dropped": "NightmareXIV / Eternita-S alt repo",
+      "keptVersion": "2.5.4.16",
+      "droppedVersion": "2.5.4.16"
+    },
+    {
+      "internalName": "DSREyeLocator",
+      "kept": "NightmareXIV",
+      "dropped": "NightmareXIV / Eternita-S alt repo",
+      "keptVersion": "2.0.1.10",
+      "droppedVersion": "2.0.1.10"
+    },
+    {
+      "internalName": "WExtras",
+      "kept": "NightmareXIV",
+      "dropped": "NightmareXIV / Eternita-S alt repo",
+      "keptVersion": "1.0.0.10",
+      "droppedVersion": "1.0.0.10"
+    },
+    {
+      "internalName": "TextAdvance",
+      "kept": "NightmareXIV",
+      "dropped": "NightmareXIV / Eternita-S alt repo",
+      "keptVersion": "3.3.0.1",
+      "droppedVersion": "3.3.0.1"
+    },
+    {
+      "internalName": "AntiAfkKick-Dalamud",
+      "kept": "NightmareXIV",
+      "dropped": "NightmareXIV / Eternita-S alt repo",
+      "keptVersion": "2.1.0.11",
+      "droppedVersion": "2.1.0.11"
+    },
+    {
+      "internalName": "SelectString",
+      "kept": "NightmareXIV",
+      "dropped": "NightmareXIV / Eternita-S alt repo",
+      "keptVersion": "1.0.1.12",
+      "droppedVersion": "1.0.1.12"
+    },
+    {
+      "internalName": "Prioritizer",
+      "kept": "NightmareXIV",
+      "dropped": "NightmareXIV / Eternita-S alt repo",
+      "keptVersion": "2.0.1.4",
+      "droppedVersion": "2.0.1.4"
+    },
+    {
+      "internalName": "UnloadErrorFuckOff",
+      "kept": "NightmareXIV",
+      "dropped": "NightmareXIV / Eternita-S alt repo",
+      "keptVersion": "1.0.0.10",
+      "droppedVersion": "1.0.0.10"
+    },
+    {
+      "internalName": "Imagenation",
+      "kept": "NightmareXIV",
+      "dropped": "NightmareXIV / Eternita-S alt repo",
+      "keptVersion": "1.0.0.11",
+      "droppedVersion": "1.0.0.11"
+    },
+    {
+      "internalName": "ObjectExplorer",
+      "kept": "NightmareXIV",
+      "dropped": "NightmareXIV / Eternita-S alt repo",
+      "keptVersion": "1.0.0.11",
+      "droppedVersion": "1.0.0.11"
+    },
+    {
+      "internalName": "StandalonePluginManager",
+      "kept": "NightmareXIV",
+      "dropped": "NightmareXIV / Eternita-S alt repo",
+      "keptVersion": "1.0.0.4",
+      "droppedVersion": "1.0.0.4"
+    },
+    {
+      "internalName": "Battlevest",
+      "kept": "NightmareXIV",
+      "dropped": "NightmareXIV / Eternita-S alt repo",
+      "keptVersion": "1.0.2.3",
+      "droppedVersion": "1.0.2.3"
+    },
+    {
+      "internalName": "Stylist",
+      "kept": "NightmareXIV",
+      "dropped": "NightmareXIV / Eternita-S alt repo",
+      "keptVersion": "1.0.0.15",
+      "droppedVersion": "1.0.0.15"
+    },
+    {
+      "internalName": "AetheryteLinkInChat",
+      "kept": "MEGA Repository",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "7.5.0.0",
+      "droppedVersion": "7.5.0.0"
+    },
+    {
+      "internalName": "AetheryteLinkInChat",
+      "kept": "MEGA Repository",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "7.5.0.0",
+      "droppedVersion": "7.3.0.0"
+    },
+    {
+      "internalName": "AetheryteLinkInChat",
+      "kept": "MEGA Repository",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "7.5.0.0",
+      "droppedVersion": "7.3.1.41"
+    },
+    {
+      "internalName": "BOCCHI",
+      "kept": "OhKannaDuh",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "4.0.2.27",
+      "droppedVersion": "3.3.3.0"
+    },
+    {
+      "internalName": "BOCCHI",
+      "kept": "OhKannaDuh",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "4.0.2.27",
+      "droppedVersion": "0.69.1.12"
+    },
+    {
+      "internalName": "BOCCHI",
+      "kept": "OhKannaDuh",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "4.0.2.27",
+      "droppedVersion": "2.1.1.4"
+    },
+    {
+      "internalName": "BossModReborn",
+      "kept": "CombatReborn",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "7.5.5.44",
+      "droppedVersion": "7.5.5.43"
+    },
+    {
+      "internalName": "BossModReborn",
+      "kept": "CombatReborn",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "7.5.5.44",
+      "droppedVersion": "7.3.5.27"
+    },
+    {
+      "internalName": "BossModReborn",
+      "kept": "CombatReborn",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "7.5.5.44",
+      "droppedVersion": "7.4.5.18"
+    },
+    {
+      "internalName": "FuckAnimationLock",
+      "kept": "NiGuangOwO / DalamudPlugins",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "3.0.17.1",
+      "droppedVersion": "3.0.12.4"
+    },
+    {
+      "internalName": "FuckAnimationLock",
+      "kept": "NiGuangOwO / DalamudPlugins",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "3.0.17.1",
+      "droppedVersion": "3.0.13.0"
+    },
+    {
+      "internalName": "FuckAnimationLock",
+      "kept": "NiGuangOwO / DalamudPlugins",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "3.0.17.1",
+      "droppedVersion": "3.0.14.6"
+    },
+    {
+      "internalName": "Inviter",
+      "kept": "Bluefissure DalamudPlugins",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "1.1.4.0",
+      "droppedVersion": "1.1.5.0"
+    },
+    {
+      "internalName": "Inviter",
+      "kept": "Bluefissure DalamudPlugins",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "1.1.4.0",
+      "droppedVersion": "1.1.4.0"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.2.0"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.2.2"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.2.5"
+    },
+    {
+      "internalName": "Lifestream",
+      "kept": "NightmareXIV",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "2.5.4.16",
+      "droppedVersion": "2.5.4.14"
+    },
+    {
+      "internalName": "Lifestream",
+      "kept": "NightmareXIV",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "2.5.4.16",
+      "droppedVersion": "2.5.3.3"
+    },
+    {
+      "internalName": "Lifestream",
+      "kept": "NightmareXIV",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "2.5.4.16",
+      "droppedVersion": "2.5.4.8"
+    },
+    {
+      "internalName": "LuckyStar",
+      "kept": "NiGuangOwO / DalamudPlugins",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "1.2.0.0",
+      "droppedVersion": "1.0.0.0"
+    },
+    {
+      "internalName": "LuckyStar",
+      "kept": "NiGuangOwO / DalamudPlugins",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "1.2.0.0",
+      "droppedVersion": "1.1.0.0"
+    },
+    {
+      "internalName": "NyaDraw",
+      "kept": "NiGuangOwO / DalamudPlugins",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "1.15.0.12",
+      "droppedVersion": "1.0.12.9992"
+    },
+    {
+      "internalName": "NyaDraw",
+      "kept": "NiGuangOwO / DalamudPlugins",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "1.15.0.12",
+      "droppedVersion": "1.13.1.8"
+    },
+    {
+      "internalName": "NyaDraw",
+      "kept": "NiGuangOwO / DalamudPlugins",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "1.15.0.12",
+      "droppedVersion": "1.14.0.35"
+    },
+    {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.15.0.0"
+    },
+    {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.12.0.0"
+    },
+    {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.14.0.1"
+    },
+    {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.3"
+    },
+    {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.3.6"
+    },
+    {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.3.18"
+    },
+    {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.3.24"
+    },
+    {
+      "internalName": "SSMinionBoradcast",
+      "kept": "NiGuangOwO / DalamudPlugins",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "7.5.0.2",
+      "droppedVersion": "1.0.0.0"
+    },
+    {
+      "internalName": "SSMinionBoradcast",
+      "kept": "NiGuangOwO / DalamudPlugins",
+      "dropped": "NiGuangOwO / DalamudPlugins",
+      "keptVersion": "7.5.0.2",
+      "droppedVersion": "7.4.0.0"
+    },
+    {
+      "internalName": "AntiAfkKick-Dalamud",
+      "kept": "NightmareXIV",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "2.1.0.11",
+      "droppedVersion": "2.1.0.7"
+    },
+    {
+      "internalName": "ARControl",
+      "kept": "a1hena/PluginRepository",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "14.2",
+      "droppedVersion": "6.0"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "4.0.5.18",
+      "droppedVersion": "4.0.2.10"
+    },
+    {
+      "internalName": "AutoDuty",
+      "kept": "erdelf",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "0.0.0.330",
+      "droppedVersion": "0.0.0.182"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "6.0.0.90",
+      "droppedVersion": "4.3.1.10"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "4.6.1.27",
+      "droppedVersion": "4.4.3.9"
+    },
+    {
+      "internalName": "Avarice",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "2.2.0.12",
+      "droppedVersion": "2.1.0.8"
+    },
+    {
+      "internalName": "Battlevest",
+      "kept": "NightmareXIV",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.2.3",
+      "droppedVersion": "1.0.1.5"
+    },
+    {
+      "internalName": "BossMod",
+      "kept": "Veyn (BossMod)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "7.5.1.38",
+      "droppedVersion": "0.0.0.281"
+    },
+    {
+      "internalName": "BossModReborn",
+      "kept": "CombatReborn",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "7.5.5.44",
+      "droppedVersion": "7.2.0.261"
+    },
+    {
+      "internalName": "Brio",
+      "kept": "Sea of Stars",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "0.8.0.11",
+      "droppedVersion": "0.4.3.1"
+    },
+    {
+      "internalName": "Cammy",
+      "kept": "DalamudPluginRepo",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "2.0.3.5",
+      "droppedVersion": "2.1.0.10"
+    },
+    {
+      "internalName": "Automaton",
+      "kept": "Croizat's Repo",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "69.204",
+      "droppedVersion": "69.55"
+    },
+    {
+      "internalName": "CustomizePlus",
+      "kept": "Sea of Stars",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "2.2.0.3",
+      "droppedVersion": "2.0.7.12"
+    },
+    {
+      "internalName": "DalamudRepoBrowser",
+      "kept": "DalamudPluginRepo",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "2.0.1.1",
+      "droppedVersion": "2.0.3.3"
+    },
+    {
+      "internalName": "ARDiscard",
+      "kept": "a1hena/PluginRepository",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "8.3",
+      "droppedVersion": "7.0"
+    },
+    {
+      "internalName": "Dropbox",
+      "kept": "kawaii's repo",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.2.15",
+      "droppedVersion": "1.0.2.0"
+    },
+    {
+      "internalName": "DSREyeLocator",
+      "kept": "NightmareXIV",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "2.0.1.10",
+      "droppedVersion": "2.0.1.5"
+    },
+    {
+      "internalName": "DynamicBridge",
+      "kept": "Sea of Stars",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.8.8",
+      "droppedVersion": "1.0.7.1"
+    },
+    {
+      "internalName": "vfaux",
+      "kept": "Veyn (BossMod)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "0.0.0.12",
+      "droppedVersion": "0.0.0.6"
+    },
+    {
+      "internalName": "EasyZoomReborn",
+      "kept": "CombatReborn",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "7.5.0.3",
+      "droppedVersion": "7.1.0.2"
+    },
+    {
+      "internalName": "FFLogsViewer",
+      "kept": "Aireil's MyDalamudPlugins",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "2.5.3.0",
+      "droppedVersion": "2.2.1.3"
+    },
+    {
+      "internalName": "Fractionality",
+      "kept": "DalamudPluginRepo",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.1.3",
+      "droppedVersion": "1.0.1.5"
+    },
+    {
+      "internalName": "GatherbuddyReborn",
+      "kept": "CombatReborn",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "7.5.5.0",
+      "droppedVersion": "7.2.2.16"
+    },
+    {
+      "internalName": "Gearsetter",
+      "kept": "MEGA Repository",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "3.1",
+      "droppedVersion": "2.3"
+    },
+    {
+      "internalName": "Glamourer",
+      "kept": "Glamourer",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.6.1.7",
+      "droppedVersion": "1.3.4.3"
+    },
+    {
+      "internalName": "HuntTrainAssistant",
+      "kept": "NightmareXIV",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.2.15",
+      "droppedVersion": "1.0.2.0"
+    },
+    {
+      "internalName": "Hyperborea",
+      "kept": "kawaii's repo",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.0.37",
+      "droppedVersion": "1.0.0.17"
+    },
+    {
+      "internalName": "IINACT",
+      "kept": "IINACT",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "2.10.3.6",
+      "droppedVersion": "2.7.3.5"
+    },
+    {
+      "internalName": "Imagenation",
+      "kept": "NightmareXIV",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.0.11",
+      "droppedVersion": "1.0.0.6"
+    },
+    {
+      "internalName": "Influx",
+      "kept": "MEGA Repository",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "4.2",
+      "droppedVersion": "2.0"
+    },
+    {
+      "internalName": "KitchenSink",
+      "kept": "MEGA Repository",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "3.1",
+      "droppedVersion": "2.3"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.1.1"
+    },
+    {
+      "internalName": "Lifestream",
+      "kept": "NightmareXIV",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "2.5.4.16",
+      "droppedVersion": "2.3.2.8"
+    },
+    {
+      "internalName": "LMeter",
+      "kept": "lichie567 / LMeter",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "0.4.4.0",
+      "droppedVersion": "0.4.1.4"
+    },
+    {
+      "internalName": "MakePlacePlugin",
+      "kept": "MakePlace Plugin",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "3.7.3",
+      "droppedVersion": "3.7.3"
+    },
+    {
+      "internalName": "MareSynchronos",
+      "kept": "nite-cat / the-giga-repo",
+      "dropped": "Mare Synchronos",
+      "keptVersion": "0.10.21",
+      "droppedVersion": "1.11.0"
+    },
+    {
+      "internalName": "MBT",
+      "kept": "Herculezz's Repo",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "0.0.0.16",
+      "droppedVersion": "0.0.0.16"
+    },
+    {
+      "internalName": "Moodles",
+      "kept": "Sea of Stars",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.1.3.5",
+      "droppedVersion": "1.0.0.15"
+    },
+    {
+      "internalName": "NoClippy",
+      "kept": "DalamudPluginRepo",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "0.4.0.12",
+      "droppedVersion": "0.5.0.17"
+    },
+    {
+      "internalName": "ObjectExplorer",
+      "kept": "NightmareXIV",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.0.11",
+      "droppedVersion": "1.0.0.5"
+    },
+    {
+      "internalName": "OOBlugin",
+      "kept": "DalamudPluginRepo",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.1.2.7",
+      "droppedVersion": "1.1.2.11"
+    },
+    {
+      "internalName": "Orbwalker",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.1.10",
+      "droppedVersion": "1.0.1.0"
+    },
+    {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.11.0.0"
+    },
+    {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.2.2"
+    },
+    {
+      "internalName": "Penumbra",
+      "kept": "Penumbra",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.6.1.12",
+      "droppedVersion": "1.3.2.0"
+    },
+    {
+      "internalName": "Prioritizer",
+      "kept": "NightmareXIV",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "2.0.1.4",
+      "droppedVersion": "2.0.1.0"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "15.306.1.56",
+      "droppedVersion": "4.13"
+    },
+    {
+      "internalName": "ReAction",
+      "kept": "DalamudPluginRepo",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.1.6.6",
+      "droppedVersion": "1.3.4.0"
+    },
+    {
+      "internalName": "RebornToolbox",
+      "kept": "CombatReborn",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "7.5.0.0",
+      "droppedVersion": "7.1.1.1"
+    },
+    {
+      "internalName": "RotationSolver",
+      "kept": "CombatReborn",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "7.5.5.30",
+      "droppedVersion": "7.1.5.38"
+    },
+    {
+      "internalName": "vsatisfy",
+      "kept": "Veyn (BossMod)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "0.0.0.37",
+      "droppedVersion": "0.0.0.10"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "2.1.1.17",
+      "droppedVersion": "1.4.1.1"
+    },
+    {
+      "internalName": "SelectString",
+      "kept": "NightmareXIV",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.1.12",
+      "droppedVersion": "1.0.1.1"
+    },
+    {
+      "internalName": "SimpleHeels",
+      "kept": "Sea of Stars",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "0.11.1.8",
+      "droppedVersion": "0.10.3.0"
+    },
+    {
+      "internalName": "SliceIsRight",
+      "kept": "nite-cat / the-giga-repo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "9.0",
+      "droppedVersion": "4.1.0.1"
+    },
+    {
+      "internalName": "SomethingNeedDoing",
+      "kept": "Croizat's Repo",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "15.8",
+      "droppedVersion": "1.62"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "3.9.2.21",
+      "droppedVersion": "3.7.4.6"
+    },
+    {
+      "internalName": "Squadronista",
+      "kept": "MEGA Repository",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "6.1",
+      "droppedVersion": "5.0"
+    },
+    {
+      "internalName": "Telesto",
+      "kept": "nite-cat / the-giga-repo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.0.0.6",
+      "droppedVersion": "0.9.6.0"
+    },
+    {
+      "internalName": "TextAdvance",
+      "kept": "NightmareXIV",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "3.3.0.1",
+      "droppedVersion": "3.2.4.0"
+    },
+    {
+      "internalName": "UnloadErrorFuckOff",
+      "kept": "NightmareXIV",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.0.10",
+      "droppedVersion": "1.0.0.6"
+    },
+    {
+      "internalName": "visland",
+      "kept": "Veyn (BossMod)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "0.0.0.150",
+      "droppedVersion": "0.0.0.131"
+    },
+    {
+      "internalName": "vfallguy",
+      "kept": "Veyn (BossMod)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "0.0.0.12",
+      "droppedVersion": "0.0.0.9"
+    },
+    {
+      "internalName": "vnavmesh",
+      "kept": "Veyn (BossMod)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.2.3.13",
+      "droppedVersion": "0.0.0.47"
+    },
+    {
+      "internalName": "WExtras",
+      "kept": "NightmareXIV",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.0.10",
+      "droppedVersion": "1.0.0.6"
+    },
+    {
+      "internalName": "Workshoppa",
+      "kept": "MEGA Repository",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "8.1",
+      "droppedVersion": "7.0"
+    },
+    {
+      "internalName": "WrathCombo",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.4.19",
+      "droppedVersion": "1.0.0.8"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.9.0"
+    },
+    {
+      "internalName": "FFLogsViewer",
+      "kept": "Aireil's MyDalamudPlugins",
+      "dropped": "NukoOoOoOoO / DalamudPlugins",
+      "keptVersion": "2.5.3.0",
+      "droppedVersion": "2.4.1.0"
+    },
+    {
+      "internalName": "RankSSpawnHelper",
+      "kept": "NukoOoOoOoO / DalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.0.14.0",
+      "droppedVersion": "1.2.1.81"
+    },
+    {
+      "internalName": "NeonCastbarPlugin",
+      "kept": "oorzkws/DalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "7.0.1.0",
+      "droppedVersion": "1.4.2.1"
+    },
+    {
+      "internalName": "AutoVisor",
+      "kept": "Ottermandias / AutoVisor",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.4.4.1",
+      "droppedVersion": "1.2.3.0"
+    },
+    {
+      "internalName": "Lemegeton",
+      "kept": "Paissa Heavy Industries",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.8.6",
+      "droppedVersion": "1.0.6.2"
+    },
+    {
+      "internalName": "Telesto",
+      "kept": "Paissa Heavy Industries",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.1.0",
+      "droppedVersion": "1.0.0.6"
+    },
+    {
+      "internalName": "WheresMouse",
+      "kept": "Paissa Heavy Industries",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.0.9",
+      "droppedVersion": "1.0.0.5"
+    },
+    {
+      "internalName": "Chibi Omega",
+      "kept": "Paissa Heavy Industries",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.1.7",
+      "droppedVersion": "1.0.1.3"
+    },
+    {
+      "internalName": "Tallafell",
+      "kept": "Paissa Heavy Industries",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "1.0.0.6",
+      "droppedVersion": "1.0.0.2"
+    },
+    {
+      "internalName": "Penumbra",
+      "kept": "Penumbra",
+      "dropped": "Penumbra Mod Forwarder",
+      "keptVersion": "1.6.1.12",
+      "droppedVersion": "1.0.0.0"
+    },
+    {
+      "internalName": "CustomizePlus",
+      "kept": "Sea of Stars",
+      "dropped": "Phenrei/DalamudPlugins",
+      "keptVersion": "2.2.0.3",
+      "droppedVersion": "1.2.5.2"
+    },
+    {
+      "internalName": "FullscreenToggle",
+      "kept": "Caraxi / DalamudPlugins",
+      "dropped": "Phenrei/DalamudPlugins",
+      "keptVersion": "1.0.0.0",
+      "droppedVersion": "1.0.1.3"
+    },
+    {
+      "internalName": "PortraitStealer",
+      "kept": "Portrait Stealer 2",
+      "dropped": "bees-repo",
+      "keptVersion": "0.0.0.6",
+      "droppedVersion": "0.0.0.6"
+    },
+    {
+      "internalName": "XIVComboVX",
+      "kept": "PrincessRTFM / MyDalamudPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "9.35.3",
+      "droppedVersion": "9.35.3"
+    },
+    {
+      "internalName": "BetterFateList",
+      "kept": "PrincessRTFM / MyDalamudPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.1.4",
+      "droppedVersion": "1.1.4"
+    },
+    {
+      "internalName": "XivEsp",
+      "kept": "PrincessRTFM / MyDalamudPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.11.3",
+      "droppedVersion": "1.11.3"
+    },
+    {
+      "internalName": "TinyCmds",
+      "kept": "PrincessRTFM / MyDalamudPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "8.10.4",
+      "droppedVersion": "8.10.4"
+    },
+    {
+      "internalName": "WoLua",
+      "kept": "PrincessRTFM / MyDalamudPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.3.4",
+      "droppedVersion": "4.3.4"
+    },
+    {
+      "internalName": "ProjectGagSpeak",
+      "kept": "Project GagSpeak",
+      "dropped": "bees-repo",
+      "keptVersion": "2.1.3.2",
+      "droppedVersion": "2.1.3.2"
+    },
+    {
+      "internalName": "PuppetMaster",
+      "kept": "PuppetMaster",
+      "dropped": "MEGA Repository",
+      "keptVersion": "7.5.5.4",
+      "droppedVersion": "7.5.5.4"
+    },
+    {
+      "internalName": "Copycat",
+      "kept": "PuppetMaster",
+      "dropped": "MEGA Repository",
+      "keptVersion": "7.5.0.0",
+      "droppedVersion": "7.5.0.0"
+    },
+    {
+      "internalName": "StartupCommands",
+      "kept": "Maxunit / MyDalamudPlugins",
+      "dropped": "SaltyCog DalamudPlugins",
+      "keptVersion": "1.3.0.1",
+      "droppedVersion": "1.2.1.1"
+    },
+    {
+      "internalName": "MaterialUI",
+      "kept": "Sevii77/ffxiv_materialui_accent",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.4.13",
+      "droppedVersion": "1.4.8"
+    },
+    {
+      "internalName": "Snowcloak",
+      "kept": "ElfShelf",
+      "dropped": "Snowcloak",
+      "keptVersion": "4.0.7.0",
+      "droppedVersion": "4.0.7.0"
+    },
+    {
+      "internalName": "BigMac",
+      "kept": "ElfShelf",
+      "dropped": "Snowcloak",
+      "keptVersion": "1.1.1.0",
+      "droppedVersion": "1.1.1.0"
+    },
+    {
+      "internalName": "Ledger",
+      "kept": "ElfShelf",
+      "dropped": "Snowcloak",
+      "keptVersion": "1.1.0",
+      "droppedVersion": "1.1.0.0"
+    },
+    {
+      "internalName": "DozeAnywhere",
+      "kept": "SoyaX / SoyaPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.2.2.8",
+      "droppedVersion": "0.2.2.8"
+    },
+    {
+      "internalName": "Buttplugin",
+      "kept": "thesuccubus/repo",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "7.1.5.34407",
+      "droppedVersion": "7.1.2.24489"
+    },
+    {
+      "internalName": "NoClippy",
+      "kept": "UnknownX7",
+      "dropped": "DalamudPluginRepo",
+      "keptVersion": "0.5.0.24",
+      "droppedVersion": "0.4.0.12"
+    },
+    {
+      "internalName": "ReAction",
+      "kept": "UnknownX7",
+      "dropped": "DalamudPluginRepo",
+      "keptVersion": "1.3.5.1",
+      "droppedVersion": "1.1.6.6"
+    },
+    {
+      "internalName": "Cammy",
+      "kept": "UnknownX7",
+      "dropped": "DalamudPluginRepo",
+      "keptVersion": "2.1.1.2",
+      "droppedVersion": "2.0.3.5"
+    },
+    {
+      "internalName": "OOBlugin",
+      "kept": "UnknownX7",
+      "dropped": "DalamudPluginRepo",
+      "keptVersion": "1.1.2.11",
+      "droppedVersion": "1.1.2.7"
+    },
+    {
+      "internalName": "Fractionality",
+      "kept": "UnknownX7",
+      "dropped": "DalamudPluginRepo",
+      "keptVersion": "1.0.1.5",
+      "droppedVersion": "1.0.1.3"
+    },
+    {
+      "internalName": "DalamudRepoBrowser",
+      "kept": "UnknownX7",
+      "dropped": "DalamudPluginRepo",
+      "keptVersion": "2.0.3.3",
+      "droppedVersion": "2.0.1.1"
+    },
+    {
+      "internalName": "XIVComboVX",
+      "kept": "PrincessRTFM / MyDalamudPlugins",
+      "dropped": "VariableVixen (PrincessRTFM) / MyDalamudPlugins",
+      "keptVersion": "9.35.3",
+      "droppedVersion": "9.35.3"
+    },
+    {
+      "internalName": "BetterFateList",
+      "kept": "PrincessRTFM / MyDalamudPlugins",
+      "dropped": "VariableVixen (PrincessRTFM) / MyDalamudPlugins",
+      "keptVersion": "1.1.4",
+      "droppedVersion": "1.1.4"
+    },
+    {
+      "internalName": "XivEsp",
+      "kept": "PrincessRTFM / MyDalamudPlugins",
+      "dropped": "VariableVixen (PrincessRTFM) / MyDalamudPlugins",
+      "keptVersion": "1.11.3",
+      "droppedVersion": "1.11.3"
+    },
+    {
+      "internalName": "TinyCmds",
+      "kept": "PrincessRTFM / MyDalamudPlugins",
+      "dropped": "VariableVixen (PrincessRTFM) / MyDalamudPlugins",
+      "keptVersion": "8.10.4",
+      "droppedVersion": "8.10.4"
+    },
+    {
+      "internalName": "WoLua",
+      "kept": "PrincessRTFM / MyDalamudPlugins",
+      "dropped": "VariableVixen (PrincessRTFM) / MyDalamudPlugins",
+      "keptVersion": "4.3.4",
+      "droppedVersion": "4.3.4"
+    },
+    {
+      "internalName": "Deliveroo",
+      "kept": "Vera's Repo",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "7.5.0.2",
+      "droppedVersion": "6.4"
+    },
+    {
+      "internalName": "ARDiscard",
+      "kept": "Vera's Repo",
+      "dropped": "a1hena/PluginRepository",
+      "keptVersion": "8.5",
+      "droppedVersion": "8.3"
+    },
+    {
+      "internalName": "FishNotify",
+      "kept": "Vera's Repo",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "10.1",
+      "droppedVersion": "8.0"
+    },
+    {
+      "internalName": "KitchenSink",
+      "kept": "Vera's Repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0",
+      "droppedVersion": "3.1"
+    },
+    {
+      "internalName": "Workshoppa",
+      "kept": "Vera's Repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "9.2.0.0",
+      "droppedVersion": "8.1"
+    },
+    {
+      "internalName": "Gearsetter",
+      "kept": "Vera's Repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.3",
+      "droppedVersion": "3.1"
+    },
+    {
+      "internalName": "Squadronista",
+      "kept": "Vera's Repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "7.5.0.0",
+      "droppedVersion": "6.1"
+    },
+    {
+      "internalName": "DozeAnywhere",
+      "kept": "Warpholomey / DalamudPlugins",
+      "dropped": "SoyaX / SoyaPlugins",
+      "keptVersion": "15.0.0.0",
+      "droppedVersion": "0.2.2.8"
+    },
+    {
+      "internalName": "XIVAuras",
+      "kept": "lichie567 / XIVAuras",
+      "dropped": "WesBosch ReBuff",
+      "keptVersion": "0.2.5.0",
+      "droppedVersion": "0.3.0.8"
+    },
+    {
+      "internalName": "Waitingway.Dalamud",
+      "kept": "WorkingRobot (Asriel) / MyDalamudPlugins",
+      "dropped": "Caraxi / DalamudPlugins",
+      "keptVersion": "2.4.2.0",
+      "droppedVersion": "1.2.3"
+    },
+    {
+      "internalName": "SomethingNeedDoing",
+      "kept": "WorkingRobot (Asriel) / MyDalamudPlugins",
+      "dropped": "Croizat's Repo",
+      "keptVersion": "1.5.1.0",
+      "droppedVersion": "15.8"
+    },
+    {
+      "internalName": "CustomizePlus",
+      "kept": "Sea of Stars",
+      "dropped": "XIV-Tools",
+      "keptVersion": "2.2.0.3",
+      "droppedVersion": "1.2.6.10"
+    },
+    {
+      "internalName": "FullscreenToggle",
+      "kept": "Caraxi / DalamudPlugins",
+      "dropped": "XIV-Tools",
+      "keptVersion": "1.0.0.0",
+      "droppedVersion": "1.0.1.3"
+    },
+    {
+      "internalName": "XivVoices",
+      "kept": "XivVoices",
+      "dropped": "bees-repo",
+      "keptVersion": "1.5.3.4",
+      "droppedVersion": "1.5.3.4"
+    },
+    {
+      "internalName": "HaselTweaks",
+      "kept": "Haselnussbomber",
+      "dropped": "zhouhuichen741/dalamud-plugins",
+      "keptVersion": "49.4.1.0",
+      "droppedVersion": "49.4.1.0"
+    },
+    {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "zhouhuichen741/dalamud-plugins",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.14"
+    },
+    {
+      "internalName": "FishersIntuition",
+      "kept": "NukoOoOoOoO / DalamudPlugins",
+      "dropped": "zhouhuichen741/dalamud-plugins",
+      "keptVersion": "1.0.0.14",
+      "droppedVersion": "1.0.0.13"
+    },
+    {
+      "internalName": "MidiBard2",
+      "kept": "MidiBard 2",
+      "dropped": "zhouhuichen741/dalamud-plugins",
+      "keptVersion": "3.2.4.5",
+      "droppedVersion": "3.2.4.0"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "zhouhuichen741/dalamud-plugins",
+      "keptVersion": "4.6.1.27",
+      "droppedVersion": "4.6.0.8"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "zhouhuichen741/dalamud-plugins",
+      "keptVersion": "2.1.1.17",
+      "droppedVersion": "1.6.0.0"
+    },
+    {
+      "internalName": "AetheryteLinkInChat",
+      "kept": "MEGA Repository",
+      "dropped": "zhouhuichen741/dalamud-plugins",
+      "keptVersion": "7.5.0.0",
+      "droppedVersion": "7.5.1.2"
+    },
+    {
+      "internalName": "AutoJailMarker",
+      "kept": "DalamudRepoCollection",
+      "dropped": "zhouhuichen741/dalamud-plugins",
+      "keptVersion": "3.2.1.0",
+      "droppedVersion": "3.4.3.1"
+    },
+    {
+      "internalName": "AntiAfkKick-Dalamud",
+      "kept": "NightmareXIV",
+      "dropped": "zhouhuichen741/dalamud-plugins",
+      "keptVersion": "2.1.0.11",
+      "droppedVersion": "2.1.0.11"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "zhouhuichen741/dalamud-plugins",
+      "keptVersion": "6.0.0.90",
+      "droppedVersion": "6.0.0.12"
+    },
+    {
+      "internalName": "BetterFakeName",
+      "kept": "NukoOoOoOoO / DalamudPlugins",
+      "dropped": "zhouhuichen741/dalamud-plugins",
+      "keptVersion": "1.0.0.3",
+      "droppedVersion": "1.0.0.6"
+    },
+    {
+      "internalName": "FFLogsViewer",
+      "kept": "Aireil's MyDalamudPlugins",
+      "dropped": "zhouhuichen741/dalamud-plugins",
+      "keptVersion": "2.5.3.0",
+      "droppedVersion": "2.5.3.5"
+    },
+    {
+      "internalName": "Aetherment",
+      "kept": "Aetherment",
+      "dropped": "zhouhuichen741/dalamud-plugins",
+      "keptVersion": "0.8.9.0",
+      "droppedVersion": "0.8.9.0"
+    },
+    {
+      "internalName": "CountdownMessages",
+      "kept": "zhudotexe / FFXIV_DalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.0.7.0",
+      "droppedVersion": "1.0.4.2"
     }
   ]
 }

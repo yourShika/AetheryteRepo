@@ -1,0 +1,40 @@
+{
+  "sourceId": "xivv-keifufu-dev-repo",
+  "url": "https://xivv.keifufu.dev/repo",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "keifufu",
+      "Name": "XivVoices",
+      "Punchline": "Advanced TTS plugin voicing all dialogue in the game.",
+      "Description": "XivVoices is a text-to-speech plugin that ships with high-quality pre-generated voicelines covering most of the game's content, with built-in local TTS to fill the gaps.",
+      "Tags": [
+        "xivvoices",
+        "xivv",
+        "tts"
+      ],
+      "IsHide": false,
+      "InternalName": "XivVoices",
+      "AssemblyVersion": "1.5.3.4",
+      "TestingAssemblyVersion": null,
+      "IsTestingExclusive": false,
+      "RepoUrl": "https://github.com/keifufu/XivVoices",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "TestingDalamudApiLevel": 0,
+      "DownloadCount": 20345,
+      "LastUpdate": 1785688522,
+      "DownloadLinkInstall": "https://github.com/keifufu/XivVoices/releases/download/1.5.3.4/XivVoices.zip",
+      "DownloadLinkUpdate": "https://github.com/keifufu/XivVoices/releases/download/1.5.3.4/XivVoices.zip",
+      "DownloadLinkTesting": "https://github.com/keifufu/XivVoices/releases/download/1.5.3.4/XivVoices.zip",
+      "LoadRequiredState": 2,
+      "LoadSync": true,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/keifufu/XivVoices/main/XivVoices/assets/logo.png",
+      "_SourceId": "xivv-keifufu-dev-repo",
+      "_SourceName": "XivVoices",
+      "_SourceUrl": "https://xivv.keifufu.dev/repo"
+    }
+  ]
+}

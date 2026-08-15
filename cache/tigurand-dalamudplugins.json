@@ -1,0 +1,107 @@
+{
+  "sourceId": "tigurand-dalamudplugins",
+  "url": "https://raw.githubusercontent.com/tigurand/DalamudPlugins/refs/heads/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 4,
+  "plugins": [
+    {
+      "Author": "Lucille",
+      "Name": "HotKeyIt",
+      "InternalName": "HotKeyIt",
+      "AssemblyVersion": "1.1.0.2",
+      "Description": "Use hotkey on your keyboard to execute macro instead of using hotbar.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/tigurand/HotKeyIt",
+      "Tags": [
+        "hotkey",
+        "macro"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/tigurand/HotKeyIt/refs/heads/main/image/icon.png",
+      "Punchline": "Hotkey your macro.",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/tigurand/HotKeyIt/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/tigurand/HotKeyIt/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/tigurand/HotKeyIt/releases/latest/download/latest.zip",
+      "_SourceId": "tigurand-dalamudplugins",
+      "_SourceName": "tigurand/DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/tigurand/DalamudPlugins/refs/heads/main/repo.json"
+    },
+    {
+      "Author": "Avaflow, Ars Magna, Kelvin, A Fox, Lucille",
+      "Name": "OopsAllNudist",
+      "InternalName": "OopsAllNudist",
+      "AssemblyVersion": "2.3.2.5",
+      "Description": "Turn everyone around you into a nudist.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/tigurand/OopsAllNudist",
+      "Tags": [
+        "nudism"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/tigurand/OopsAllNudist/refs/heads/main/image/icon.png",
+      "Punchline": "Turn everyone around you into a nudist.",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/tigurand/OopsAllNudist/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/tigurand/OopsAllNudist/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/tigurand/OopsAllNudist/releases/latest/download/latest.zip",
+      "_SourceId": "tigurand-dalamudplugins",
+      "_SourceName": "tigurand/DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/tigurand/DalamudPlugins/refs/heads/main/repo.json"
+    },
+    {
+      "Author": "Lucille",
+      "Name": "XIV AI Companion",
+      "InternalName": "XIVAICompanion",
+      "AssemblyVersion": "2.1.1.0",
+      "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires an API key.\nWarning: Avoid sharing sensitive, confidential, or personal info with this AI.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
+      "Tags": [
+        "chat",
+        "ai"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/tigurand/XIVAICompanion/refs/heads/main/image/icon.png",
+      "Punchline": "If you're a loner like me, you probably want a personal AI companion.",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/tigurand/XIVAICompanion/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/tigurand/XIVAICompanion/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/tigurand/XIVAICompanion/releases/latest/download/latest.zip",
+      "_SourceId": "tigurand-dalamudplugins",
+      "_SourceName": "tigurand/DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/tigurand/DalamudPlugins/refs/heads/main/repo.json"
+    },
+    {
+      "Author": "msew11, keifufu, Lucille",
+      "Name": "Fake Name",
+      "InternalName": "FakeName",
+      "AssemblyVersion": "0.3.1.2",
+      "Description": "Change your and other peoples names in various UI elements!",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/tigurand/FakeName",
+      "Tags": [
+        "name",
+        "ui"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadPriority": 128,
+      "IconUrl": "https://raw.githubusercontent.com/tigurand/FakeName/refs/heads/main/icon.png",
+      "Punchline": "Show a fake name on your game ui.",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/tigurand/FakeName/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/tigurand/FakeName/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/tigurand/FakeName/releases/latest/download/latest.zip",
+      "_SourceId": "tigurand-dalamudplugins",
+      "_SourceName": "tigurand/DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/tigurand/DalamudPlugins/refs/heads/main/repo.json"
+    }
+  ]
+}

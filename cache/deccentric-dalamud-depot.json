@@ -1,0 +1,32 @@
+{
+  "sourceId": "deccentric-dalamud-depot",
+  "url": "https://raw.githubusercontent.com/Deccentric/Dalamud-Depot/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Deccentric",
+      "Name": "WhatchaSay",
+      "Description": "The all-in-one translator for your social needs.",
+      "InternalName": "WhatchaSay",
+      "AssemblyVersion": "0.7.1.0",
+      "RepoUrl": "https://github.com/Deccentric/WhatchaSay",
+      "IconUrl": "https://raw.githubusercontent.com/Deccentric/Dalamud-Depot/main/icons/whatchasay.png",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "translate"
+      ],
+      "DalamudApiLevel": 9,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "LastUpdated": 0,
+      "DownloadCount": 0,
+      "DownloadLinkInstall": "https://github.com/Deccentric/WhatchaSay/releases/download/v.0.7.1.0/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Deccentric/WhatchaSay/releases/download/v.0.7.1.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Deccentric/WhatchaSay/releases/download/v.0.7.1.0/latest.zip",
+      "_SourceId": "deccentric-dalamud-depot",
+      "_SourceName": "Dalamud-Depot",
+      "_SourceUrl": "https://raw.githubusercontent.com/Deccentric/Dalamud-Depot/main/repo.json"
+    }
+  ]
+}

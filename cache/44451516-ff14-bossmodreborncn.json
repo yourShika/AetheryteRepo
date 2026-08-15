@@ -1,0 +1,36 @@
+{
+  "sourceId": "44451516-ff14-bossmodreborncn",
+  "url": "https://raw.githubusercontent.com/44451516-ff14/BossmodRebornCN/refs/heads/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "The Combat Reborn Team",
+      "Name": "Bossmod Reborn",
+      "InternalName": "BossModReborn",
+      "AssemblyVersion": "7.5.0.39",
+      "Description": "20260811-请支持逆光喵，谢谢喵-画得更全喵",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/44451516-ff14/BossmodRebornCN",
+      "Changelog": "请支持逆光喵，谢谢喵",
+      "DalamudApiLevel": 15,
+      "LoadPriority": 0,
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image1.png",
+        "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
+        "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+      "Punchline": "不再被副本机制坑倒",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "LastUpdate": "1658532627",
+      "DownloadLinkInstall": "https://github.com/44451516-ff14/BossmodRebornCN/raw/main/release/BossModReborn/latest.zip",
+      "DownloadLinkTesting": "https://github.com/44451516-ff14/BossmodRebornCN/raw/main/release/BossModReborn/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/44451516-ff14/BossmodRebornCN/raw/main/release/BossModReborn/latest.zip",
+      "_SourceId": "44451516-ff14-bossmodreborncn",
+      "_SourceName": "44451516-ff14 / BossmodRebornCN",
+      "_SourceUrl": "https://raw.githubusercontent.com/44451516-ff14/BossmodRebornCN/refs/heads/main/pluginmaster.json"
+    }
+  ]
+}

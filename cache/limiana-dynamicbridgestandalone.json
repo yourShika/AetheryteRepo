@@ -1,0 +1,34 @@
+{
+  "sourceId": "limiana-dynamicbridgestandalone",
+  "url": "https://raw.githubusercontent.com/Limiana/DynamicBridgeStandalone/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "NightmareXIV, AsunaTsuki",
+      "Name": "DynamicBridge",
+      "Punchline": "Allows you to automatically change your appearance based on various conditions.",
+      "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
+      "Changelog": "- 7.5",
+      "IsHide": false,
+      "InternalName": "DynamicBridge",
+      "AssemblyVersion": "1.0.8.8",
+      "TestingAssemblyVersion": "1.0.8.5",
+      "IsTestingExclusive": false,
+      "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "TestingDalamudApiLevel": 13,
+      "DownloadCount": 143751,
+      "LastUpdate": 1777513529,
+      "DownloadLinkInstall": "https://github.com/NightmareXIV/DynamicBridge/releases/download/1.0.8.8/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/NightmareXIV/DynamicBridge/releases/download/1.0.8.8/latest.zip",
+      "DownloadLinkTesting": "https://github.com/NightmareXIV/DynamicBridge/releases/download/1.0.8.5/latest.zip",
+      "SupportsProfiles": true,
+      "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/DynamicBridge/main/DynamicBridge/images/icon.png",
+      "_SourceId": "limiana-dynamicbridgestandalone",
+      "_SourceName": "DynamicBridge Standalone",
+      "_SourceUrl": "https://raw.githubusercontent.com/Limiana/DynamicBridgeStandalone/main/pluginmaster.json"
+    }
+  ]
+}

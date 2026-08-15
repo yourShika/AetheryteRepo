@@ -1,0 +1,39 @@
+{
+  "sourceId": "rubyblaire-theatelier",
+  "url": "https://raw.githubusercontent.com/rubyblaire/TheAtelier/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Ruby Blaire",
+      "Name": "The Atelier",
+      "InternalName": "TheAtelier",
+      "AssemblyVersion": "0.6.3.14",
+      "TestingAssemblyVersion": "0.6.3.14",
+      "Description": "A creator-focused glamour platform for discovering, publishing, saving, and applying FFXIV looks through Aetherweave, with creator profiles, wardrobe management, dependency safety, and Glamourer integration.",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "TestingDalamudApiLevel": 15,
+      "Punchline": "Wear the look. Share the thread.",
+      "RepoUrl": "https://github.com/rubyblaire/TheAtelier",
+      "DownloadLinkInstall": "https://github.com/rubyblaire/TheAtelier/releases/download/0.6.3.14/TheAtelier.zip",
+      "DownloadLinkUpdate": "https://github.com/rubyblaire/TheAtelier/releases/download/0.6.3.14/TheAtelier.zip",
+      "DownloadLinkTesting": "https://github.com/rubyblaire/TheAtelier/releases/download/0.6.3.14/TheAtelier.zip",
+      "IconUrl": "https://raw.githubusercontent.com/rubyblaire/TheAtelier/main/Assets/icon.png",
+      "Tags": [
+        "Glamour",
+        "Fashion",
+        "Glamourer",
+        "Penumbra",
+        "Wardrobe",
+        "Showcase",
+        "Creator Platform"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "rubyblaire-theatelier",
+      "_SourceName": "The Atelier",
+      "_SourceUrl": "https://raw.githubusercontent.com/rubyblaire/TheAtelier/main/pluginmaster.json"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "sourceId": "echoxiv-com-pluginmaster-json",
+  "url": "https://echoxiv.com/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 5,
+  "plugins": [
+    {
+      "Author": "jFray",
+      "Name": "EchoMix",
+      "InternalName": "EchoMix.Plugin",
+      "AssemblyVersion": "1.3.0.2",
+      "Description": "An interactive DJ deck with live mixing tools, custom playlists, and a synced listener mode with an audio visualizer.",
+      "Punchline": "Spin tracks and let the party sync in.",
+      "LastUpdate": 1786725660,
+      "Changelog": "The DJ List now reshuffles once a day (at noon Eastern) instead of staying in the order profiles were created - new DJs used to land at the very end of an ever-growing list and stay there. Whoever's currently live still floats to the front regardless of the day's shuffle.\nAdded 10 new avatar frame styles (Ticks, Chain, Brackets, Stitch, Blocks, Sentry, Anchor, Pendulum, Glitch, Confetti) and 10 new DJ name effects (Outline, Underline, Embossed, Split, Typewriter, Marquee, Glitch, Cascade, Heatwave, Blink), available in the DJ Profile editor alongside the originals.\nThe bug report box now wraps as you type instead of running off the edge.\nAdded 20 new visualizer styles (Waveform, Radial, Rings, Polygon, Peak Bars, Waterfall, Embers, Heat Strip, Orbit Dots, Skyline, Pulse Line, Starfield, Matrix Rain, Kaleidoscope, Comet Ride, Mesh, Pyramid Bars, Ripple Field, Bounce Balls, Aurora) alongside the original seven - pick one under Settings > General > Visualizer, separately for the DJ's own view and for listeners.\nAdded Linked Characters to the DJ Profile editor - link an alt to a listing with a short one-time code generated from the main character, so broadcasts, likes, and follows from either one count toward the same profile. Up to 5 linked characters per listing, each with full edit access. An optional toggle shows the linked names publicly on the profile page under Also Known As.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://echoxiv.com",
+      "Tags": [
+        "dj",
+        "music",
+        "audio",
+        "party"
+      ],
+      "CategoryTags": [
+        "UI",
+        "Sound"
+      ],
+      "DalamudApiLevel": 15,
+      "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/icon.png",
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoMix-latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoMix-latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoMix-latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "echoxiv-com-pluginmaster-json",
+      "_SourceName": "EchoXIV",
+      "_SourceUrl": "https://echoxiv.com/pluginmaster.json"
+    },
+    {
+      "Author": "jFray",
+      "Name": "EchoSim",
+      "InternalName": "EchoSim.Plugin",
+      "AssemblyVersion": "1.0.2.2",
+      "Description": "Simulates a full-length fight for your job using your own gear or a best-in-slot preset, then reports the DPS and shows exactly where it came from. Compares gear, melds and consumables, checks your openers and burst windows, and analyses an FFLogs report against the simulated ceiling. Kills on supported encounters can be scored and submitted to per-job leaderboards.",
+      "Punchline": "Simulate your rotation, then see how your real kills measure up.",
+      "LastUpdate": 1786736681,
+      "Changelog": "The healer leaderboards no longer carry a note about 100 not being reachable. It sat above the board on every visit, and the explanation behind it is already in the Live Score settings.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://echoxiv.com",
+      "Tags": [
+        "dps",
+        "simulator",
+        "rotation",
+        "theorycrafting",
+        "parse",
+        "leaderboard"
+      ],
+      "CategoryTags": [
+        "Utility",
+        "Jobs"
+      ],
+      "DalamudApiLevel": 15,
+      "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echosim-icon.png",
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoSim-latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoSim-latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoSim-latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "echoxiv-com-pluginmaster-json",
+      "_SourceName": "EchoXIV",
+      "_SourceUrl": "https://echoxiv.com/pluginmaster.json"
+    },
+    {
+      "Author": "jFray",
+      "Name": "EchoNav",
+      "InternalName": "EchoNav.Plugin",
+      "AssemblyVersion": "1.0.0.4",
+      "Description": "Lists the Critical Encounters and FATEs running in Occult Crescent: North Horn and walks you to any of them with a single click, choosing between walking, an aetheryte hop and Occult Return. Also tracks the pot cycle, keeps your knowledge-crystal buffs topped up, and can step around monsters and pick up coffers on the way. Does nothing outside North Horn.",
+      "Punchline": "See what's up in North Horn, then click once to get there.",
+      "LastUpdate": 1786725030,
+      "Changelog": "The bug report box now wraps as you type instead of running off the edge.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://echoxiv.com",
+      "Tags": [
+        "fate",
+        "navigation",
+        "occult crescent",
+        "north horn",
+        "field operations"
+      ],
+      "CategoryTags": [
+        "Utility"
+      ],
+      "DalamudApiLevel": 15,
+      "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echonav-icon.png",
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoNav-latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoNav-latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoNav-latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "echoxiv-com-pluginmaster-json",
+      "_SourceName": "EchoXIV",
+      "_SourceUrl": "https://echoxiv.com/pluginmaster.json"
+    },
+    {
+      "Author": "jFray",
+      "Name": "EchoGlam",
+      "InternalName": "EchoGlam.Plugin",
+      "AssemblyVersion": "1.0.0.7",
+      "Description": "Dress your character in any item in the game from a searchable in-game wardrobe, dye every slot, edit full appearance and save named outfits. Then publish the look to a community catalogue you can browse, filter, vote on and favourite without leaving the game - and put anyone else's glamour on with one click, with a revert that is always one click away. No other plugins required.",
+      "Punchline": "Build a glamour, share it, and wear anyone else's.",
+      "LastUpdate": 1786785306,
+      "Changelog": "Redesigned the glamour page. The details sit in cards, Try On leads, and the item list is a two-column grid.\nThe glamour page now shows the author's profile picture.\nItems in a glamour now show whether they are on the market board, from the store, seasonal or exclusive.\nHover the Market label to see the cheapest listing on your world.\nAdded a Sources filter to the item picker, to hide store, seasonal or exclusive gear.\nFixed a published glamour losing the character name and race on it.\nEchoGlam's window no longer opens at the title screen or character select.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://echoxiv.com",
+      "Tags": [
+        "glamour",
+        "fashion",
+        "gear",
+        "wardrobe",
+        "outfit",
+        "dye",
+        "catalogue"
+      ],
+      "CategoryTags": [
+        "Utility"
+      ],
+      "DalamudApiLevel": 15,
+      "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echoglam-icon.png",
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoGlam-latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoGlam-latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoGlam-latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "echoxiv-com-pluginmaster-json",
+      "_SourceName": "EchoXIV",
+      "_SourceUrl": "https://echoxiv.com/pluginmaster.json"
+    },
+    {
+      "Author": "jFray",
+      "Name": "EchoRoleplay",
+      "InternalName": "EchoRoleplay.Plugin",
+      "AssemblyVersion": "1.0.0.1",
+      "Description": "Write a full roleplay profile for your character - name, appearance, backstory, hooks and rumours - and read anyone else's by hovering them. Set statuses that hang under your character for others to read at a glance, and keep private notes on everyone you have met.",
+      "Punchline": "A roleplay profile for your character, readable at a glance.",
+      "LastUpdate": 1786754253,
+      "Changelog": "",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://echoxiv.com",
+      "Tags": [
+        "roleplay",
+        "rp",
+        "profile",
+        "character",
+        "status",
+        "tooltip",
+        "social"
+      ],
+      "CategoryTags": [
+        "Social"
+      ],
+      "DalamudApiLevel": 15,
+      "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echorp-icon.png",
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoRoleplay-latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoRoleplay-latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoRoleplay-latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "echoxiv-com-pluginmaster-json",
+      "_SourceName": "EchoXIV",
+      "_SourceUrl": "https://echoxiv.com/pluginmaster.json"
+    }
+  ]
+}

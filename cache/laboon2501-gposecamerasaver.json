@@ -1,0 +1,29 @@
+{
+  "sourceId": "laboon2501-gposecamerasaver",
+  "url": "https://raw.githubusercontent.com/Laboon2501/GposeCameraSaver/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Eunox",
+      "Name": "Gpose Camera Saver",
+      "Punchline": "Save and restore GPose camera presets.",
+      "Description": "Save, load, and manage GPose camera presets.",
+      "InternalName": "GposeCameraSaver",
+      "AssemblyVersion": "1.0.1.0",
+      "RepoUrl": "https://github.com/Laboon2501/GposeCameraSaver",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IconUrl": "https://raw.githubusercontent.com/Laboon2501/GposeCameraSaver/main/icon.png",
+      "ImageUrls": [],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/Laboon2501/GposeCameraSaver/releases/latest/download/GposeCameraSaver.zip",
+      "DownloadLinkUpdate": "https://github.com/Laboon2501/GposeCameraSaver/releases/latest/download/GposeCameraSaver.zip",
+      "DownloadLinkTesting": "https://github.com/Laboon2501/GposeCameraSaver/releases/latest/download/GposeCameraSaver.zip",
+      "_SourceId": "laboon2501-gposecamerasaver",
+      "_SourceName": "Gpose Camera Saver",
+      "_SourceUrl": "https://raw.githubusercontent.com/Laboon2501/GposeCameraSaver/main/repo.json"
+    }
+  ]
+}

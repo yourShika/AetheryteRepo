@@ -1,0 +1,41 @@
+{
+  "sourceId": "bimilbimil-glamshuffle",
+  "url": "https://raw.githubusercontent.com/bimilbimil/GlamShuffle/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Asphodel",
+      "Name": "Glam Shuffle",
+      "Punchline": "Random glamour, on a timer.",
+      "Description": "Automatically applies a random Glamourer design from your collection every X configurable minutes. Includes a rotation manager to exclude specific designs.",
+      "InternalName": "GlamShuffle",
+      "AssemblyVersion": "1.0.0.8",
+      "RepoUrl": "https://github.com/bimilbimil/GlamShuffle",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 0,
+      "LastUpdate": 1783125474,
+      "LoadPriority": 0,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "DownloadLinkInstall": "https://github.com/bimilbimil/GlamShuffle/releases/download/v1.0.0/GlamShuffle.zip",
+      "DownloadLinkUpdate": "https://github.com/bimilbimil/GlamShuffle/releases/download/v1.0.0/GlamShuffle.zip",
+      "DownloadLinkTesting": "https://github.com/bimilbimil/GlamShuffle/releases/download/v1.0.0/GlamShuffle.zip",
+      "Tags": [
+        "glamourer",
+        "glamour",
+        "fashion",
+        "automation",
+        "rotation"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/bimilbimil/GlamShuffle/main/glamshuffle.png",
+      "_SourceId": "bimilbimil-glamshuffle",
+      "_SourceName": "Glam Shuffle",
+      "_SourceUrl": "https://raw.githubusercontent.com/bimilbimil/GlamShuffle/main/repo.json"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "sourceId": "caraxi-myplugins",
+  "url": "https://raw.githubusercontent.com/Caraxi/MyPlugins/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Caraxi",
+      "Name": "Auto Login",
+      "InternalName": "AutoLogin",
+      "AssemblyVersion": "1.0.0.5",
+      "Description": "No, really... exactly what it says",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/Caraxi/AutoLogin",
+      "DalamudApiLevel": 6,
+      "LoadPriority": 1,
+      "Punchline": "Does exactly what it says",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 0,
+      "LastUpdate": "1650071929",
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/Caraxi/MyPlugins/main/plugins/AutoLogin/latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/Caraxi/MyPlugins/main/plugins/AutoLogin/latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/Caraxi/MyPlugins/main/plugins/AutoLogin/latest.zip",
+      "_SourceId": "caraxi-myplugins",
+      "_SourceName": "Caraxi / MyPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/Caraxi/MyPlugins/main/pluginmaster.json"
+    }
+  ]
+}

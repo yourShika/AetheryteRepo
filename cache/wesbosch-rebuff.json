@@ -1,0 +1,31 @@
+{
+  "sourceId": "wesbosch-rebuff",
+  "url": "https://raw.githubusercontent.com/WesBosch/ReBuff/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Lichie, Wisteria",
+      "Name": "ReBuff",
+      "Description": "Customizable status and cooldown tracking.",
+      "InternalName": "XIVAuras",
+      "AssemblyVersion": "0.3.0.8",
+      "TestingAssemblyVersion": "0.3.0.8",
+      "RepoUrl": "https://github.com/WesBosch/ReBuff",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 9,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 0,
+      "LastUpdate": 0,
+      "LoadPriority": 69420,
+      "DownloadLinkInstall": "https://github.com/WesBosch/ReBuff/releases/download/0.3.0.8/latest.zip",
+      "DownloadLinkTesting": "https://github.com/WesBosch/ReBuff/releases/download/0.3.0.8/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/WesBosch/ReBuff/releases/download/0.3.0.8/latest.zip",
+      "IconUrl": "https://raw.githubusercontent.com/lichie567/XIVAuras/main/XIVAuras/Media/Images/icon.png",
+      "_SourceId": "wesbosch-rebuff",
+      "_SourceName": "WesBosch ReBuff",
+      "_SourceUrl": "https://raw.githubusercontent.com/WesBosch/ReBuff/main/repo.json"
+    }
+  ]
+}

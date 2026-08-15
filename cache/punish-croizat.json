@@ -1,0 +1,83 @@
+{
+  "sourceId": "punish-croizat",
+  "url": "https://puni.sh/api/repository/croizat",
+  "fetchedAt": "2026-08-15",
+  "count": 3,
+  "plugins": [
+    {
+      "Author": "daemitus, croizat",
+      "Name": "Something Need Doing",
+      "Punchline": "Work work.",
+      "Description": "Now for more than crafting!",
+      "Tags": [],
+      "InternalName": "SomethingNeedDoing",
+      "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
+      "DownloadCount": 797108,
+      "LastUpdate": 1785939473,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.8/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.8/update/latest.zip",
+      "AssemblyVersion": "15.8",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "",
+      "IconUrl": "https://puni.sh/api/plugins/icon/25",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-croizat",
+      "_SourceName": "Croizat's Repo",
+      "_SourceUrl": "https://puni.sh/api/repository/croizat"
+    },
+    {
+      "Author": "croizat",
+      "Name": "CBT 🐎",
+      "Punchline": "Extra illegal",
+      "Description": "Yet another tweaks collection plugin.",
+      "Tags": [
+        "automation",
+        "plugin",
+        "tweaks"
+      ],
+      "InternalName": "Automaton",
+      "RepoUrl": "https://github.com/Jaksuhn/Automaton",
+      "DownloadCount": 859767,
+      "LastUpdate": 1786039509,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.204/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.204/update/latest.zip",
+      "AssemblyVersion": "69.204",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "",
+      "IconUrl": "https://puni.sh/api/plugins/icon/34",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-croizat",
+      "_SourceName": "Croizat's Repo",
+      "_SourceUrl": "https://puni.sh/api/repository/croizat"
+    },
+    {
+      "Author": "croizat",
+      "Name": "Glamour Log",
+      "Punchline": "Gotta collect 'em all",
+      "Description": "A log for all your glamours and other glam-related tweaks",
+      "Tags": [
+        "glamour"
+      ],
+      "InternalName": "GlamourLog",
+      "RepoUrl": "https://github.com/Jaksuhn/ffxiv_glamourlog",
+      "DownloadCount": 20884,
+      "LastUpdate": 1786656132,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.64/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.64/update/latest.zip",
+      "AssemblyVersion": "15.64",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "fixed some achievement gated items as being wrongly marked unobtainable",
+      "IconUrl": "https://puni.sh/api/plugins/icon/136",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-croizat",
+      "_SourceName": "Croizat's Repo",
+      "_SourceUrl": "https://puni.sh/api/repository/croizat"
+    }
+  ]
+}

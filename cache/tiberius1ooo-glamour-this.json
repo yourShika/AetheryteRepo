@@ -1,0 +1,38 @@
+{
+  "sourceId": "tiberius1ooo-glamour-this",
+  "url": "https://raw.githubusercontent.com/Tiberius1OOO/glamour_this/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Tiberius",
+      "Name": "Glamour This",
+      "InternalName": "GlamourThis",
+      "AssemblyVersion": "0.1.0.0",
+      "Description": "Puts a searchable, sortable overlay over your Glamour Dresser. Find armor and outfit sets instantly, spot duplicates, filter by location, slot or expansion, group pieces into their outfit glamour sets, and pull pieces out of the dresser into your bags at a dresser.",
+      "Punchline": "A fast, filterable replacement for the Glamour Dresser and Armoire.",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "RepoUrl": "https://github.com/Tiberius1OOO/glamour_this",
+      "Tags": [
+        "glamour",
+        "dresser",
+        "armoire",
+        "outfit",
+        "inventory"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "IconUrl": "",
+      "DownloadLinkInstall": "https://github.com/Tiberius1OOO/glamour_this/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Tiberius1OOO/glamour_this/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Tiberius1OOO/glamour_this/releases/latest/download/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "tiberius1ooo-glamour-this",
+      "_SourceName": "Glamour This",
+      "_SourceUrl": "https://raw.githubusercontent.com/Tiberius1OOO/glamour_this/main/repo.json"
+    }
+  ]
+}

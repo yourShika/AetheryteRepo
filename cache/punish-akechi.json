@@ -1,0 +1,36 @@
+{
+  "sourceId": "punish-akechi",
+  "url": "https://puni.sh/api/repository/akechi",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Akechi",
+      "Name": "Chroma",
+      "Punchline": "Taste the rainbow.",
+      "Description": "Chroma is a simple accessibility tool that allows full color customization of all AOE omens/indicators - and then some.",
+      "Tags": [
+        "accessibility",
+        "omens",
+        "indicators",
+        "color"
+      ],
+      "InternalName": "Chroma",
+      "RepoUrl": "https://github.com/Akechi-kun/Chroma",
+      "DownloadCount": 929,
+      "LastUpdate": 1777745911,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/102/Chroma/versions/1.2.0.2/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/102/Chroma/versions/1.2.0.2/update/latest.zip",
+      "AssemblyVersion": "1.2.0.2",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "- Updated dependencies",
+      "IconUrl": "https://puni.sh/api/plugins/icon/102",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-akechi",
+      "_SourceName": "gigachad gamer hours",
+      "_SourceUrl": "https://puni.sh/api/repository/akechi"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "sourceId": "sevii77-ffxiv-materialui-accent",
+  "url": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Sevii",
+      "Name": "Material UI",
+      "Description": "Auto updating Material UI with customizable accent color and more. Icon by Mek",
+      "InternalName": "MaterialUI",
+      "AssemblyVersion": "1.4.13",
+      "TestingAssemblyVersion": "1.4.13",
+      "RepoUrl": "https://github.com/Sevii77/ffxiv_materialui_accent",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 9,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 0,
+      "LastUpdate": 0,
+      "DownloadLinkInstall": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
+      "DownloadLinkTesting": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
+      "DownloadLinkUpdate": "https://github.com/Sevii77/ffxiv_materialui_accent/raw/master/release.zip",
+      "IconUrl": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/images/icon.png",
+      "Tags": [
+        "ui",
+        "penumbra",
+        "material",
+        "skotlex",
+        "sevii",
+        "accent",
+        "color"
+      ],
+      "_SourceId": "sevii77-ffxiv-materialui-accent",
+      "_SourceName": "Sevii77/ffxiv_materialui_accent",
+      "_SourceUrl": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/repo.json"
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 {
   "repository": "yourShika/AetheryteRepo",
+  "apiLevelWindow": 2,
   "$comment": "Quellen für den Aetheryte Master-Repo. 'category' ist nur der Fallback, wenn die Auto-Kategorisierung eines Plugins nichts findet. 'priority' entscheidet bei Versions-Gleichstand (höher gewinnt).",
   "sources": [
     {
@@ -35,7 +36,7 @@
       "maintainer": "0ceal0t",
       "url": "https://raw.githubusercontent.com/0ceal0t/Dalamud-VFXEditor/main/repo.json",
       "category": "dev",
-      "priority": 50,
+      "priority": 90,
       "enabled": true
     },
     {
@@ -44,7 +45,7 @@
       "maintainer": "Puni.sh",
       "url": "https://love.puni.sh/ment.json",
       "category": "automation",
-      "priority": 80,
+      "priority": 90,
       "enabled": true
     },
     {
@@ -53,7 +54,7 @@
       "maintainer": "Eauldane",
       "url": "https://raw.githubusercontent.com/Eauldane/ElfShelf/main/repo.json",
       "category": "social",
-      "priority": 50,
+      "priority": 90,
       "enabled": true
     },
     {
@@ -62,7 +63,7 @@
       "maintainer": "Veyn",
       "url": "https://puni.sh/api/repository/veyn",
       "category": "combat",
-      "priority": 70,
+      "priority": 90,
       "enabled": true
     },
     {
@@ -71,7 +72,7 @@
       "maintainer": "Lightless",
       "url": "https://repo.lightless-sync.org/",
       "category": "glamour",
-      "priority": 50,
+      "priority": 90,
       "enabled": true
     },
     {
@@ -80,7 +81,7 @@
       "maintainer": "Puni.sh",
       "url": "https://puni.sh/api/repository/ice",
       "category": "automation",
-      "priority": 60,
+      "priority": 90,
       "enabled": true
     },
     {
@@ -89,7 +90,7 @@
       "maintainer": "Ricimon",
       "url": "https://raw.githubusercontent.com/Ricimon/FFXIV-ProximityVoiceChat/refs/heads/master/repo.json",
       "category": "audio",
-      "priority": 50,
+      "priority": 90,
       "enabled": true
     },
     {
@@ -98,7 +99,7 @@
       "maintainer": "Puni.sh",
       "url": "https://puni.sh/api/repository/aetherlove",
       "category": "social",
-      "priority": 50,
+      "priority": 90,
       "enabled": true
     },
     {
@@ -107,7 +108,7 @@
       "maintainer": "erdelf",
       "url": "https://puni.sh/api/repository/erdelf",
       "category": "misc",
-      "priority": 50,
+      "priority": 90,
       "enabled": true
     },
     {
@@ -116,7 +117,7 @@
       "maintainer": "NightmareXIV",
       "url": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
       "category": "automation",
-      "priority": 80,
+      "priority": 90,
       "enabled": true
     },
     {
@@ -125,7 +126,7 @@
       "maintainer": "FFXIV-CombatReborn",
       "url": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
       "category": "combat",
-      "priority": 70,
+      "priority": 90,
       "enabled": true
     },
     {
@@ -134,7 +135,7 @@
       "maintainer": "Knightmore",
       "url": "https://puni.sh/api/repository/knightmore",
       "category": "misc",
-      "priority": 50,
+      "priority": 90,
       "enabled": true
     },
     {
@@ -143,7 +144,7 @@
       "maintainer": "XeldarAlz",
       "url": "https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/main/repo.json",
       "category": "misc",
-      "priority": 50,
+      "priority": 90,
       "enabled": true
     },
     {
@@ -152,7 +153,7 @@
       "maintainer": "ReMakePlace Maintainers",
       "url": "https://raw.githubusercontent.com/RemakePlace/plugin/master/ReMakePlacePlugin.json",
       "category": "housing",
-      "priority": 50,
+      "priority": 90,
       "enabled": true
     },
     {
@@ -161,7 +162,7 @@
       "maintainer": "baanderson40",
       "url": "https://raw.githubusercontent.com/baanderson40/dalamud_plugins/master/repo.json",
       "category": "misc",
-      "priority": 50,
+      "priority": 90,
       "enabled": true
     },
     {
@@ -170,7 +171,7 @@
       "maintainer": "OhKannaDuh / Faye",
       "url": "https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json",
       "category": "automation",
-      "priority": 50,
+      "priority": 90,
       "enabled": true
     },
     {
@@ -179,7 +180,7 @@
       "maintainer": "Joshua-XIV",
       "url": "https://raw.githubusercontent.com/Joshua-XIV/MyDalamudPlugin/main/repo.json",
       "category": "misc",
-      "priority": 50,
+      "priority": 90,
       "enabled": true
     },
     {
@@ -188,7 +189,1735 @@
       "maintainer": "Kage",
       "url": "https://puni.sh/api/repository/kage",
       "category": "misc",
-      "priority": 50,
+      "priority": 90,
+      "enabled": true
+    },
+    {
+      "id": "44451516-ffxiv-bossmod",
+      "name": "44451516 / ffxiv_bossmod",
+      "maintainer": "44451516 (fork of awgil/veyn)",
+      "url": "https://raw.githubusercontent.com/44451516/ffxiv_bossmod/CN/pluginmaster.json",
+      "category": "combat",
+      "priority": 15,
+      "enabled": true
+    },
+    {
+      "id": "44451516-ff14-bossmodreborncn",
+      "name": "44451516-ff14 / BossmodRebornCN",
+      "maintainer": "44451516-ff14 (fork of FFXIV-CombatReborn)",
+      "url": "https://raw.githubusercontent.com/44451516-ff14/BossmodRebornCN/refs/heads/main/pluginmaster.json",
+      "category": "combat",
+      "priority": 15,
+      "enabled": true
+    },
+    {
+      "id": "sebane1-aquestreborn",
+      "name": "A Quest Reborn",
+      "maintainer": "Sebastina (Sebane1)",
+      "url": "https://raw.githubusercontent.com/Sebane1/AQuestReborn/master/repo.json",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "a1hena-pluginrepository",
+      "name": "a1hena/PluginRepository",
+      "maintainer": "a1hena",
+      "url": "https://raw.githubusercontent.com/a1hena/PluginRepository/master/dist/pluginmaster.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "serifas-absolute-roleplay",
+      "name": "Absolute Roleplay",
+      "maintainer": "Lynie / serifas",
+      "url": "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/main/absolute_rp.json",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "punish-abe",
+      "name": "Abyeon's Repo",
+      "maintainer": "Abyeon",
+      "url": "https://puni.sh/api/repository/abe",
+      "category": "housing",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "link-0402-advanced-penumbra-item-converter",
+      "name": "Advanced Penumbra Item Converter",
+      "maintainer": "link-0402",
+      "url": "https://raw.githubusercontent.com/link-0402/Advanced-Penumbra-Item-Converter/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "aetherremote-aetherremote",
+      "name": "Aether Remote",
+      "maintainer": "Mora (aetherremote org)",
+      "url": "https://raw.githubusercontent.com/aetherremote/AetherRemote/main/repo.json",
+      "category": "nsfw",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "aether-tools-dalamudplugins",
+      "name": "Aether Tools",
+      "maintainer": "Aether Tools",
+      "url": "https://raw.githubusercontent.com/Aether-Tools/DalamudPlugins/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "kussie-aetherfit",
+      "name": "Aetherfit",
+      "maintainer": "Kussie",
+      "url": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "aetherment-sevii-dev-plugin",
+      "name": "Aetherment",
+      "maintainer": "sevii / Aetherment",
+      "url": "https://aetherment.sevii.dev/plugin",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "aida-enna-xivplugins",
+      "name": "Aida-Enna XIVPlugins",
+      "maintainer": "Aida-Enna",
+      "url": "https://raw.githubusercontent.com/Aida-Enna/XIVPlugins/main/repo.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "aireil-mydalamudplugins",
+      "name": "Aireil's MyDalamudPlugins",
+      "maintainer": "Aireil",
+      "url": "https://raw.githubusercontent.com/Aireil/MyDalamudPlugins/master/pluginmaster.json",
+      "category": "qol",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "akira0245-dalamudplugins",
+      "name": "akira0245/DalamudPlugins",
+      "maintainer": "akira0245",
+      "url": "https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/pluginmaster.json",
+      "category": "audio",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "punish-aly",
+      "name": "Aly",
+      "maintainer": "alydev",
+      "url": "https://puni.sh/api/repository/aly",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "elchupi-animswapper",
+      "name": "AnimSwapper",
+      "maintainer": "elchupi",
+      "url": "https://raw.githubusercontent.com/elchupi/AnimSwapper/main/pluginmaster.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "anomek-mydalamudplugins",
+      "name": "anomek MyDalamudPlugins",
+      "maintainer": "anomek",
+      "url": "https://raw.githubusercontent.com/anomek/MyDalamudPlugins/master/pluginmaster.json",
+      "category": "combat",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "anya-hichu-dalamudpluginrepo",
+      "name": "anya-hichu/DalamudPluginRepo",
+      "maintainer": "anya-hichu",
+      "url": "https://raw.githubusercontent.com/anya-hichu/DalamudPluginRepo/main/custom.json",
+      "category": "misc",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "arcticnw-dalamudplugins",
+      "name": "arcticnw/DalamudPlugins",
+      "maintainer": "N'esswen Latteh",
+      "url": "https://raw.githubusercontent.com/arcticnw/DalamudPlugins/main/repo.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "almerisbe-armoire",
+      "name": "Armoire",
+      "maintainer": "AlmerisBE",
+      "url": "https://raw.githubusercontent.com/AlmerisBE/Armoire/production/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "selken-ixx-selkendalamud",
+      "name": "Armoire Butler / Fashion Check",
+      "maintainer": "selken-ixx",
+      "url": "https://raw.githubusercontent.com/selken-ixx/SelkenDalamud/main/pluginmaster.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "sebane1-roleplayingvoicedalamud",
+      "name": "Artemis Roleplaying Kit",
+      "maintainer": "Sebastina (Sebane1)",
+      "url": "https://raw.githubusercontent.com/Sebane1/RoleplayingVoiceDalamud/master/repo.json",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "punish-asuna",
+      "name": "Asuna's Repo",
+      "maintainer": "Asuna",
+      "url": "https://puni.sh/api/repository/asuna",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "athavar-athavar-ffxiv-dalarepo",
+      "name": "Athavar / Athavar.FFXIV.DalaRepo",
+      "maintainer": "Athavar",
+      "url": "https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/pluginmaster.json",
+      "category": "automation",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "atmoomen-dalamudplugins",
+      "name": "AtmoOmen / DalamudPlugins",
+      "maintainer": "AtmoOmen",
+      "url": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
+      "category": "automation",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "foxshadow10-autoemotion",
+      "name": "Auto Emotion",
+      "maintainer": "FoxShadow10",
+      "url": "https://raw.githubusercontent.com/FoxShadow10/AutoEmotion/main/repo.json",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "awgil-ffxiv-plugin-distribution",
+      "name": "awgil plugin distribution",
+      "maintainer": "awgil / veyn",
+      "url": "https://raw.githubusercontent.com/awgil/ffxiv_plugin_distribution/master/pluginmaster.json",
+      "category": "combat",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "azure-agst-dalamudrepo",
+      "name": "Azure-Agst / DalamudRepo",
+      "maintainer": "Azure-Agst",
+      "url": "https://raw.githubusercontent.com/Azure-Agst/DalamudRepo/master/repo.json",
+      "category": "misc",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bardtoolbox-bardtoolbox-release",
+      "name": "BardToolbox / BardToolbox-Release",
+      "maintainer": "BardToolbox",
+      "url": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/pluginmaster.json",
+      "category": "audio",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bees-xiv-bees-repo",
+      "name": "bees-repo",
+      "maintainer": "bees-xiv",
+      "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
+      "category": "misc",
+      "priority": 20,
+      "enabled": true
+    },
+    {
+      "id": "bluefissure-dalamudplugins",
+      "name": "Bluefissure DalamudPlugins",
+      "maintainer": "Bluefissure",
+      "url": "https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json",
+      "category": "misc",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "miragiumxiv-bodyflux",
+      "name": "Body Flux",
+      "maintainer": "miragiumxiv",
+      "url": "https://raw.githubusercontent.com/miragiumxiv/BodyFlux/master/pluginmaster.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "etheirys-brio",
+      "name": "Brio",
+      "maintainer": "Minmoose, Asgard and contributors",
+      "url": "https://raw.githubusercontent.com/Etheirys/Brio/main/repo.json",
+      "category": "glamour",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "valentine-tools-brio",
+      "name": "Brio",
+      "maintainer": "Valentine-Tools",
+      "url": "https://raw.githubusercontent.com/Valentine-Tools/Brio/main/repo.json",
+      "category": "glamour",
+      "priority": 15,
+      "enabled": true
+    },
+    {
+      "id": "gist-githubusercontent-com-caiclone-0aad66569dbf",
+      "name": "CaiClone gist repo",
+      "maintainer": "CaiClone",
+      "url": "https://gist.githubusercontent.com/CaiClone/0aad66569dbf63a9bbeec6a8e95a123f/raw/pluginmaster.json",
+      "category": "misc",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "caraxi-dalamudplugins",
+      "name": "Caraxi / DalamudPlugins",
+      "maintainer": "Caraxi",
+      "url": "https://raw.githubusercontent.com/Caraxi/DalamudPlugins/master/pluginmaster.json",
+      "category": "qol",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "caraxi-myplugins",
+      "name": "Caraxi / MyPlugins",
+      "maintainer": "Caraxi",
+      "url": "https://raw.githubusercontent.com/Caraxi/MyPlugins/main/pluginmaster.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "repo-caraxian-com",
+      "name": "Caraxi plugin repo",
+      "maintainer": "Caraxi",
+      "url": "https://repo.caraxian.com",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "catboyengineering-plugins",
+      "name": "CatboyEngineering",
+      "maintainer": "CatboyEngineering",
+      "url": "https://raw.githubusercontent.com/CatboyEngineering/Plugins/main/repo.json",
+      "category": "nsfw",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "icarusxiv-character-select",
+      "name": "Character Select+",
+      "maintainer": "IcarusXIV",
+      "url": "https://raw.githubusercontent.com/IcarusXIV/Character-Select-/master/CharacterSelectPlugin/repo.json",
+      "category": "glamour",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "junie-774-craftinglist",
+      "name": "CraftingList",
+      "maintainer": "Junie-774 / Meowdy-do",
+      "url": "https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/repo.json",
+      "category": "automation",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "seventity7-createxiv",
+      "name": "CreateXIV",
+      "maintainer": "Bryer (seventity7)",
+      "url": "https://raw.githubusercontent.com/seventity7/CreateXIV/main/repo.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "critical-impact-pluginrepo",
+      "name": "Critical-Impact PluginRepo",
+      "maintainer": "Critical-Impact",
+      "url": "https://raw.githubusercontent.com/Critical-Impact/PluginRepo/main/plugins.json",
+      "category": "qol",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "punish-croizat",
+      "name": "Croizat's Repo",
+      "maintainer": "croizat",
+      "url": "https://puni.sh/api/repository/croizat",
+      "category": "automation",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "aether-tools-customizeplus",
+      "name": "CustomizePlus",
+      "maintainer": "Aether-Tools",
+      "url": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "kabojnk-repo-repo",
+      "name": "Cyprus Synchronos",
+      "maintainer": "kabojnk",
+      "url": "https://raw.githubusercontent.com/kabojnk/repo-repo/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "daemitus-mydalamudplugins",
+      "name": "daemitus MyDalamudPlugins",
+      "maintainer": "daemitus",
+      "url": "https://github.com/daemitus/MyDalamudPlugins/raw/master/pluginmaster.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "deccentric-dalamud-depot",
+      "name": "Dalamud-Depot",
+      "maintainer": "Deccentric",
+      "url": "https://raw.githubusercontent.com/Deccentric/Dalamud-Depot/main/repo.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "ml-astra-dalamud-plugins",
+      "name": "dalamud-plugins (ML-Astra) - RP-TBX",
+      "maintainer": "ML-Astra",
+      "url": "https://raw.githubusercontent.com/ML-Astra/dalamud-plugins/main/repo.json",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "a08381-dalamud-skipcutscene",
+      "name": "Dalamud.SkipCutscene",
+      "maintainer": "a08381",
+      "url": "https://raw.githubusercontent.com/a08381/Dalamud.SkipCutscene/dist/repo.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "psychicnoodles-dalamudpluginrepo",
+      "name": "DalamudPluginRepo",
+      "maintainer": "PsychicNoodles",
+      "url": "https://raw.githubusercontent.com/PsychicNoodles/DalamudPluginRepo/master/pluginmaster.json",
+      "category": "dev",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "stephenneale-dalamudrepocollection",
+      "name": "DalamudRepoCollection",
+      "maintainer": "stephenneale (fork of Akurosia's)",
+      "url": "https://raw.githubusercontent.com/stephenneale/DalamudRepoCollection/main/ffxiv_custom_repo.json",
+      "category": "misc",
+      "priority": 20,
+      "enabled": true
+    },
+    {
+      "id": "decorwdyun-dalamudplugins",
+      "name": "decorwdyun / DalamudPlugins",
+      "maintainer": "decorwdyun",
+      "url": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/pluginmaster.json",
+      "category": "automation",
+      "priority": 15,
+      "enabled": true
+    },
+    {
+      "id": "drakansoul-displace",
+      "name": "DisPlace",
+      "maintainer": "Drakansoul",
+      "url": "https://raw.githubusercontent.com/Drakansoul/DisPlace/master/DisPlacePlugin.json",
+      "category": "housing",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "limiana-dynamicbridgestandalone",
+      "name": "DynamicBridge Standalone",
+      "maintainer": "Limiana",
+      "url": "https://raw.githubusercontent.com/Limiana/DynamicBridgeStandalone/main/pluginmaster.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "echoxiv-com-pluginmaster-json",
+      "name": "EchoXIV",
+      "maintainer": "EchoXIV",
+      "url": "https://echoxiv.com/pluginmaster.json",
+      "category": "misc",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "eisenhuth-trustworthydalamudplugins",
+      "name": "Eisenhuth / TrustworthyDalamudPlugins",
+      "maintainer": "Eisenhuth",
+      "url": "https://raw.githubusercontent.com/Eisenhuth/TrustworthyDalamudPlugins/master/pluginmaster.json",
+      "category": "misc",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "icarusxiv-encore",
+      "name": "Encore",
+      "maintainer": "Kid Icarus (IcarusXIV)",
+      "url": "https://raw.githubusercontent.com/IcarusXIV/Encore/master/Encore/repo.json",
+      "category": "social",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "murakumo-jp-escape",
+      "name": "eScape",
+      "maintainer": "Murakumo-JP",
+      "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
+      "category": "misc",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "etheirys-worldofetheirys",
+      "name": "Etheirys/WorldOfEtheirys",
+      "maintainer": "Etheirys",
+      "url": "https://raw.githubusercontent.com/Etheirys/WorldOfEtheirys/main/repo.json",
+      "category": "glamour",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "fr4nsson-mydalamudplugins",
+      "name": "Fr4nsson / MyDalamudPlugins",
+      "maintainer": "Fr4nsson",
+      "url": "https://raw.githubusercontent.com/Fr4nsson/MyDalamudPlugins/main/pluginmaster.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "frogworks-interactive-pluginrepository",
+      "name": "Frogworks-Interactive / PluginRepository",
+      "maintainer": "Frogworks Interactive",
+      "url": "https://raw.githubusercontent.com/Frogworks-Interactive/PluginRepository/main/repo.json",
+      "category": "misc",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "fyteclubplugin-fyteclub",
+      "name": "FyteClub",
+      "maintainer": "fyteclubplugin",
+      "url": "https://raw.githubusercontent.com/fyteclubplugin/fyteclub/main/plugin/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "cordeliamist-dalamud-gagspeak",
+      "name": "GagSpeak legacy",
+      "maintainer": "Cordelia (CordeliaMist)",
+      "url": "https://raw.githubusercontent.com/CordeliaMist/Dalamud-GagSpeak/main/repo.json",
+      "category": "nsfw",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "punish-gid",
+      "name": "Gid's Little Beach",
+      "maintainer": "Gid",
+      "url": "https://puni.sh/api/repository/gid",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "punish-akechi",
+      "name": "gigachad gamer hours",
+      "maintainer": "Akechi",
+      "url": "https://puni.sh/api/repository/akechi",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "gir-zippo-hypnotoad-plugin",
+      "name": "GiR-Zippo / Hypnotoad-Plugin",
+      "maintainer": "GiR-Zippo",
+      "url": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/pluginmaster.json",
+      "category": "audio",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bimilbimil-glamshuffle",
+      "name": "Glam Shuffle",
+      "maintainer": "bimilbimil",
+      "url": "https://raw.githubusercontent.com/bimilbimil/GlamShuffle/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "lichie567-glamapply",
+      "name": "GlamApply",
+      "maintainer": "lichie567 (LMeter/XIVAuras author)",
+      "url": "https://raw.githubusercontent.com/lichie567/GlamApply/main/repo.json",
+      "category": "glamour",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "elyfura-glamourdocumenter",
+      "name": "Glamour Documenter",
+      "maintainer": "ElyFura",
+      "url": "https://raw.githubusercontent.com/ElyFura/GlamourDocumenter/master/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "aspher0-glammaster",
+      "name": "Glamour Master",
+      "maintainer": "Aspher0",
+      "url": "https://raw.githubusercontent.com/Aspher0/GlamMaster/main/GlamMaster.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "tiberius1ooo-glamour-this",
+      "name": "Glamour This",
+      "maintainer": "Tiberius1OOO",
+      "url": "https://raw.githubusercontent.com/Tiberius1OOO/glamour_this/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "hgd-angelyx-glamourerbackup",
+      "name": "Glamourer Backup",
+      "maintainer": "HGD-Angelyx",
+      "url": "https://raw.githubusercontent.com/HGD-Angelyx/GlamourerBackup/main/repo.json",
+      "category": "glamour",
+      "priority": 15,
+      "enabled": true
+    },
+    {
+      "id": "punish-glyceri",
+      "name": "Glyceri's Repo",
+      "maintainer": "glyceri",
+      "url": "https://puni.sh/api/repository/glyceri",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "laboon2501-gposecamerasaver",
+      "name": "Gpose Camera Saver",
+      "maintainer": "Laboon2501",
+      "url": "https://raw.githubusercontent.com/Laboon2501/GposeCameraSaver/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "reyalexffxiv-gposecast",
+      "name": "Gpose Cast",
+      "maintainer": "reyalexffxiv",
+      "url": "https://raw.githubusercontent.com/reyalexffxiv/GposeCast/master/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "cazzar-gposeutils",
+      "name": "GPose Utils",
+      "maintainer": "Cazzar",
+      "url": "https://raw.githubusercontent.com/Cazzar/GposeUtils/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "punish-boxu",
+      "name": "Hako / 箱",
+      "maintainer": "Boxu",
+      "url": "https://puni.sh/api/repository/boxu",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "haselnussbomber-mydalamudplugins",
+      "name": "Haselnussbomber",
+      "maintainer": "Haselnussbomber",
+      "url": "https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json",
+      "category": "qol",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "punish-herc",
+      "name": "Herculezz's Repo",
+      "maintainer": "Herculezz",
+      "url": "https://puni.sh/api/repository/herc",
+      "category": "automation",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "horoscope-dev-dalamud-divinationpluginrepo",
+      "name": "horoscope-dev / Dalamud.DivinationPluginRepo",
+      "maintainer": "horoscope-dev",
+      "url": "https://raw.githubusercontent.com/horoscope-dev/Dalamud.DivinationPluginRepo/master/dist/pluginmaster.json",
+      "category": "automation",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "enceladeum-houtfits",
+      "name": "HOutfits",
+      "maintainer": "Enceladeum",
+      "url": "https://raw.githubusercontent.com/Enceladeum/HOutfits/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "marzent-iinact",
+      "name": "IINACT",
+      "maintainer": "marzent",
+      "url": "https://raw.githubusercontent.com/marzent/IINACT/main/repo.json",
+      "category": "combat",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "krisanthyme-illusio-vitae",
+      "name": "Illusio Vitae",
+      "maintainer": "KrisanThyme",
+      "url": "https://raw.githubusercontent.com/KrisanThyme/Illusio-Vitae/main/IVPlugin/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "initialdet-mydalamudplugins",
+      "name": "InitialDet / MyDalamudPlugins",
+      "maintainer": "InitialDet",
+      "url": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json",
+      "category": "automation",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "punish-jukka",
+      "name": "Jukka's repo",
+      "maintainer": "jukka",
+      "url": "https://puni.sh/api/repository/jukka",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "juntalis-dalamudplugins",
+      "name": "juntalis/DalamudPlugins",
+      "maintainer": "juntalis",
+      "url": "https://raw.githubusercontent.com/juntalis/DalamudPlugins/main/pluginmaster.json",
+      "category": "automation",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "punish-justbees",
+      "name": "justbees",
+      "maintainer": "zbee",
+      "url": "https://puni.sh/api/repository/justbees",
+      "category": "automation",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "kaciexx-ffxiv-vibe-plugin",
+      "name": "kaciexx / FFXIV_Vibe_Plugin",
+      "maintainer": "kaciexx",
+      "url": "https://raw.githubusercontent.com/kaciexx/FFXIV_Vibe_Plugin/master/repo.json",
+      "category": "nsfw",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "kangasz-dalamudpluginrepository",
+      "name": "KangasZ / DalamudPluginRepository",
+      "maintainer": "KangasZ",
+      "url": "https://raw.githubusercontent.com/KangasZ/DalamudPluginRepository/main/plugin_repository.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "punish-kawaii",
+      "name": "kawaii's repo",
+      "maintainer": "kawaii",
+      "url": "https://puni.sh/api/repository/kawaii",
+      "category": "automation",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "lnjanos-peepingtim",
+      "name": "kcuY plugins",
+      "maintainer": "kcuY (lnjanos)",
+      "url": "https://raw.githubusercontent.com/lnjanos/peepingtim/refs/heads/master/SamplePlugin/yuck.json",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "shiftykiwi-kiwirichpresence",
+      "name": "KiwiRichPresence",
+      "maintainer": "ShiftyKiwi (fork of goat's Dalamud.RichPresence)",
+      "url": "https://raw.githubusercontent.com/ShiftyKiwi/KiwiRichPresence/main/pluginmaster.json",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "kouzukii-dalamudplugins",
+      "name": "Kouzukii DalamudPlugins",
+      "maintainer": "Kouzukii",
+      "url": "https://raw.githubusercontent.com/Kouzukii/DalamudPlugins/master/pluginmaster.json",
+      "category": "qol",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "ktisis-tools-ktisis",
+      "name": "Ktisis",
+      "maintainer": "ktisis-tools",
+      "url": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "lacisynchroni-repo",
+      "name": "Laci Synchroni",
+      "maintainer": "LaciSynchroni",
+      "url": "https://raw.githubusercontent.com/LaciSynchroni/repo/main/plogonmaster.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "legendsofthegame-timememoriav3",
+      "name": "LegendsOfTheGame / TimeMemoriaV3",
+      "maintainer": "LegendsOfTheGame",
+      "url": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json",
+      "category": "misc",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "leonblade-dalamudplugins",
+      "name": "LeonBlade",
+      "maintainer": "LeonBlade",
+      "url": "https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "lichie567-lmeter",
+      "name": "lichie567 / LMeter",
+      "maintainer": "lichie567",
+      "url": "https://raw.githubusercontent.com/lichie567/LMeter/main/repo.json",
+      "category": "combat",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "lichie567-xivauras",
+      "name": "lichie567 / XIVAuras",
+      "maintainer": "lichie567",
+      "url": "https://raw.githubusercontent.com/lichie567/XIVAuras/main/repo.json",
+      "category": "combat",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "cordeliamist-loci",
+      "name": "Loci",
+      "maintainer": "Cordelia, AndrielChaoti",
+      "url": "https://raw.githubusercontent.com/CordeliaMist/Loci/main/repo.json",
+      "category": "social",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "plugin-lop-sync-com-repo-json",
+      "name": "Loporrit Sync",
+      "maintainer": "Huggingway (loporrit)",
+      "url": "https://plugin.lop-sync.com/repo.json",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "loporrit-loporritsync",
+      "name": "Loporrit Sync",
+      "maintainer": "loporrit",
+      "url": "https://raw.githubusercontent.com/loporrit/LoporritSync/master/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "jawslouis-makeplaceplugin",
+      "name": "MakePlace Plugin",
+      "maintainer": "jawslouis",
+      "url": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json",
+      "category": "housing",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "glorou-mare-client",
+      "name": "Mare Synchronos",
+      "maintainer": "Glorou",
+      "url": "https://raw.githubusercontent.com/Glorou/mare.client/main/repo.json",
+      "category": "glamour",
+      "priority": 15,
+      "enabled": true
+    },
+    {
+      "id": "gorditosupreme-mareclient",
+      "name": "Mare Synchronos",
+      "maintainer": "GorditoSupreme",
+      "url": "https://raw.githubusercontent.com/GorditoSupreme/MareClient/main/repo.json",
+      "category": "glamour",
+      "priority": 15,
+      "enabled": true
+    },
+    {
+      "id": "chalkos-marketbuddy",
+      "name": "Marketbuddy",
+      "maintainer": "Chalkos",
+      "url": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
+      "category": "automation",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "maxunit-mydalamudplugins",
+      "name": "Maxunit / MyDalamudPlugins",
+      "maintainer": "Maxunit",
+      "url": "https://raw.githubusercontent.com/Maxunit/MyDalamudPlugins/master/pluginmaster.json",
+      "category": "misc",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "nanakhide-mcdexport",
+      "name": "MCDFExport",
+      "maintainer": "NanaKhide",
+      "url": "https://raw.githubusercontent.com/NanaKhide/MCDExport/master/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "passivemodding-meddle",
+      "name": "Meddle",
+      "maintainer": "PassiveModding / Ramen",
+      "url": "https://raw.githubusercontent.com/PassiveModding/Meddle/main/repo.json",
+      "category": "glamour",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "williamw1979-ffxiv",
+      "name": "MEGA Repository",
+      "maintainer": "WilliamW1979",
+      "url": "https://raw.githubusercontent.com/WilliamW1979/FFXIV/main/repository.json",
+      "category": "misc",
+      "priority": 20,
+      "enabled": true
+    },
+    {
+      "id": "meisterlala-nekofans",
+      "name": "Meisterlala / NekoFans",
+      "maintainer": "Meisterlala",
+      "url": "https://raw.githubusercontent.com/Meisterlala/NekoFans/master/repo.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "meowzwr-dalamudplugin",
+      "name": "MeowZWR / DalamudPlugin",
+      "maintainer": "MeowZWR",
+      "url": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
+      "category": "misc",
+      "priority": 15,
+      "enabled": true
+    },
+    {
+      "id": "reckhou-dalamudplugins-ori",
+      "name": "MidiBard 2",
+      "maintainer": "reckhou",
+      "url": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json",
+      "category": "audio",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "ghosy27-mingi-synchronos-repo",
+      "name": "Mingi Synchronos",
+      "maintainer": "Ghosy",
+      "url": "https://raw.githubusercontent.com/ghosy27/Mingi-Synchronos-repo/main/plogonmaster.json",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "kawaii-moodles",
+      "name": "Moodles",
+      "maintainer": "kawaii",
+      "url": "https://raw.githubusercontent.com/kawaii/Moodles/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "ursabear-mydalamudplugins",
+      "name": "MyDalamudPlugins",
+      "maintainer": "UrsaBear",
+      "url": "https://raw.githubusercontent.com/UrsaBear/MyDalamudPlugins/master/pluginmaster.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "grammernatzi-mydalamudplugins",
+      "name": "MyDalamudPlugins",
+      "maintainer": "Grammernatzi",
+      "url": "https://raw.githubusercontent.com/Grammernatzi/MyDalamudPlugins/master/pluginmaster.json",
+      "category": "combat",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "plogon-camora-dev-unofficial",
+      "name": "MyDalamudPlugins (WorkingRobot) / plogon.camora.dev",
+      "maintainer": "WorkingRobot (Asriel Camora)",
+      "url": "https://plogon.camora.dev/unofficial",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "tssailzz8-myplugins",
+      "name": "MyPlugins",
+      "maintainer": "tssailzz8",
+      "url": "https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json",
+      "category": "misc",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "punish-nainai",
+      "name": "nainai's repo",
+      "maintainer": "nainaiowo",
+      "url": "https://puni.sh/api/repository/nainai",
+      "category": "misc",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "punish-nala",
+      "name": "Nala's Repo",
+      "maintainer": "Nala Praline",
+      "url": "https://puni.sh/api/repository/nala",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "friendly-namazu-dalamud-repo",
+      "name": "Namazu Sync",
+      "maintainer": "Friendly-Namazu",
+      "url": "https://raw.githubusercontent.com/Friendly-Namazu/dalamud-repo/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "punish-nexai",
+      "name": "Nexai's Repo",
+      "maintainer": "Nexai",
+      "url": "https://puni.sh/api/repository/nexai",
+      "category": "automation",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "nexusffxiv-dalamudrepo",
+      "name": "NexusFFXIV DalamudRepo",
+      "maintainer": "NexusFFXIV",
+      "url": "https://raw.githubusercontent.com/NexusFFXIV/DalamudRepo/main/all-repo.json",
+      "category": "misc",
+      "priority": 20,
+      "enabled": true
+    },
+    {
+      "id": "nexzro-github-io-repo-repo-json",
+      "name": "NeXzRo/Repo",
+      "maintainer": "NeXzRo",
+      "url": "https://nexzro.github.io/Repo/repo.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "eternita-s-mydalamudplugins",
+      "name": "NightmareXIV / Eternita-S alt repo",
+      "maintainer": "Eternita-S (NightmareXIV)",
+      "url": "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json",
+      "category": "automation",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "niguangowo-dalamudplugins",
+      "name": "NiGuangOwO / DalamudPlugins",
+      "maintainer": "NiGuangOwO",
+      "url": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+      "category": "combat",
+      "priority": 15,
+      "enabled": true
+    },
+    {
+      "id": "nite-cat-the-giga-repo",
+      "name": "nite-cat / the-giga-repo",
+      "maintainer": "nite-cat",
+      "url": "https://raw.githubusercontent.com/nite-cat/the-giga-repo/main/the-one.json",
+      "category": "misc",
+      "priority": 20,
+      "enabled": true
+    },
+    {
+      "id": "nnekoplugins-nnekotriggers",
+      "name": "NNekoPlugins / NNekoTriggers",
+      "maintainer": "NaughtyNeko",
+      "url": "https://raw.githubusercontent.com/NNekoPlugins/NNekoTriggers/main/repo.json",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "nukoooooooo-dalamudplugins",
+      "name": "NukoOoOoOoO / DalamudPlugins",
+      "maintainer": "NukoOoOoOoO",
+      "url": "https://raw.githubusercontent.com/NukoOoOoOoO/DalamudPlugins/dev/pluginmaster.json",
+      "category": "misc",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "punish-oof-games",
+      "name": "OOF Games",
+      "maintainer": "OOF Games",
+      "url": "https://puni.sh/api/repository/oof-games",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "oorzkws-dalamudplugins",
+      "name": "oorzkws/DalamudPlugins",
+      "maintainer": "oorzkws",
+      "url": "https://raw.githubusercontent.com/oorzkws/DalamudPlugins/master/pluginmaster.json",
+      "category": "combat",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "ottermandias-autovisor",
+      "name": "Ottermandias / AutoVisor",
+      "maintainer": "Ottermandias",
+      "url": "https://raw.githubusercontent.com/Ottermandias/AutoVisor/master/repo.json",
+      "category": "glamour",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "paissaheavyindustries-dalamud-repo",
+      "name": "Paissa Heavy Industries",
+      "maintainer": "Paissa Heavy Industries",
+      "url": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/repo.json",
+      "category": "housing",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "chirpxiv-paletteplus",
+      "name": "PalettePlus",
+      "maintainer": "chirpxiv",
+      "url": "https://raw.githubusercontent.com/chirpxiv/PalettePlus/main/repo.json",
+      "category": "glamour",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "sebane1-penumbramodforwarder",
+      "name": "Penumbra Mod Forwarder",
+      "maintainer": "Sebane1",
+      "url": "https://raw.githubusercontent.com/Sebane1/PenumbraModForwarder/master/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "monstersghost-penumbraorganizerplugin",
+      "name": "Penumbra Organizer",
+      "maintainer": "monstersghost",
+      "url": "https://raw.githubusercontent.com/monstersghost/PenumbraOrganizerPlugin/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "moralfiberffxiv-penumbrasort",
+      "name": "PenumbraSort",
+      "maintainer": "moralfiberffxiv",
+      "url": "https://raw.githubusercontent.com/moralfiberffxiv/PenumbraSort/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "phenrei-dalamudplugins",
+      "name": "Phenrei/DalamudPlugins",
+      "maintainer": "Phenrei",
+      "url": "https://raw.githubusercontent.com/Phenrei/DalamudPlugins/main/repo.json",
+      "category": "glamour",
+      "priority": 15,
+      "enabled": true
+    },
+    {
+      "id": "playersync-io-download-plugin-repo-json",
+      "name": "PlayerSync",
+      "maintainer": "Caraxi",
+      "url": "https://playersync.io/download/plugin/repo.json",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "beslightly-portraitstealer2",
+      "name": "Portrait Stealer 2",
+      "maintainer": "BeSlightly",
+      "url": "https://raw.githubusercontent.com/BeSlightly/PortraitStealer2/refs/heads/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "emyxiv-posebrowser",
+      "name": "Pose Browser",
+      "maintainer": "emyxiv",
+      "url": "https://raw.githubusercontent.com/emyxiv/PoseBrowser/master/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "princessrtfm-mydalamudplugins",
+      "name": "PrincessRTFM / MyDalamudPlugins",
+      "maintainer": "PrincessRTFM",
+      "url": "https://raw.githubusercontent.com/PrincessRTFM/MyDalamudPlugins/master/pluginmaster.json",
+      "category": "qol",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "project-gagspeak-repo",
+      "name": "Project GagSpeak",
+      "maintainer": "Project-GagSpeak",
+      "url": "https://raw.githubusercontent.com/Project-GagSpeak/repo/main/projectgagspeak.json",
+      "category": "nsfw",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "dodingdaga-dalamudplugins",
+      "name": "PuppetMaster",
+      "maintainer": "dodingdaga",
+      "url": "https://raw.githubusercontent.com/dodingdaga/DalamudPlugins/main/PuppetMaster.json",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "raimere-com-plugin-repo-json",
+      "name": "Raimere",
+      "maintainer": "Raimere",
+      "url": "https://raimere.com/plugin/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "punish-raya",
+      "name": "Raya's Repo",
+      "maintainer": "Raya",
+      "url": "https://puni.sh/api/repository/raya",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "dalamud-xiv-zone",
+      "name": "redstrate's DalamudPlugins",
+      "maintainer": "redstrate",
+      "url": "https://dalamud.xiv.zone",
+      "category": "dev",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "rubyblaire-pluginmaster",
+      "name": "Ruby Blaire Plugin Collective",
+      "maintainer": "Ruby Blaire",
+      "url": "https://raw.githubusercontent.com/rubyblaire/pluginmaster/main/pluginmaster.json",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "saltycog-dalamudplugins",
+      "name": "SaltyCog DalamudPlugins",
+      "maintainer": "SaltyCog",
+      "url": "https://raw.githubusercontent.com/SaltyCog/DalamudPlugins/main/repo.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "serifine-xiv-chat-scanner",
+      "name": "serifine/XIV-Chat-Scanner",
+      "maintainer": "serifine",
+      "url": "https://raw.githubusercontent.com/serifine/XIV-Chat-Scanner/main/repo.json",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "sevii77-ffxiv-materialui-accent",
+      "name": "Sevii77/ffxiv_materialui_accent",
+      "maintainer": "Sevii",
+      "url": "https://raw.githubusercontent.com/Sevii77/ffxiv_materialui_accent/master/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "shoegazessb-dalamudpluginrepo",
+      "name": "SHOEGAZEssb DalamudPluginRepo",
+      "maintainer": "SHOEGAZEssb",
+      "url": "https://raw.githubusercontent.com/SHOEGAZEssb/DalamudPluginRepo/master/pluginmaster.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "juiposa-simple-character-select",
+      "name": "Simple Character Select",
+      "maintainer": "juiposa",
+      "url": "https://raw.githubusercontent.com/juiposa/Simple-Character-Select/main/Releases/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "thedeathdragon-skintattoo",
+      "name": "SkinTattoo",
+      "maintainer": "TheDeathDragon",
+      "url": "https://raw.githubusercontent.com/TheDeathDragon/SkinTattoo/master/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "beslightly-snappy",
+      "name": "Snappy",
+      "maintainer": "BeSlightly",
+      "url": "https://raw.githubusercontent.com/BeSlightly/Snappy/refs/heads/master/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "git-snowcloak-sync-com-eauldane-snowcloakclient-",
+      "name": "Snowcloak",
+      "maintainer": "Eauldane",
+      "url": "https://git.snowcloak-sync.com/Eauldane/SnowcloakClient/raw/branch/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "punish-sourpuh",
+      "name": "Sourpuh",
+      "maintainer": "sourpuh",
+      "url": "https://puni.sh/api/repository/sourpuh",
+      "category": "combat",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "soyax-soyaplugins",
+      "name": "SoyaX / SoyaPlugins",
+      "maintainer": "SoyaX",
+      "url": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/repo.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "sphenedev-repo",
+      "name": "Sphene",
+      "maintainer": "SpheneDev",
+      "url": "https://raw.githubusercontent.com/SpheneDev/repo/main/plogonmaster.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "punish-spider",
+      "name": "Spider's Repo",
+      "maintainer": "spider",
+      "url": "https://puni.sh/api/repository/spider",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "bluntexe-starfallstudio",
+      "name": "Starfall Studio",
+      "maintainer": "BluntEXE",
+      "url": "https://raw.githubusercontent.com/BluntEXE/StarfallStudio/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "unlostworld-studiofourteen",
+      "name": "Studio Fourteen",
+      "maintainer": "UnlostWorld (Anamnesis maintainer)",
+      "url": "https://raw.githubusercontent.com/UnlostWorld/StudioFourteen/Live/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "sundouleia-repo",
+      "name": "Sundouleia/repo",
+      "maintainer": "Sundouleia",
+      "url": "https://raw.githubusercontent.com/Sundouleia/repo/main/sundouleia.json",
+      "category": "nsfw",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "punish-taurenkey",
+      "name": "taurenkey's repo",
+      "maintainer": "Taurenkey",
+      "url": "https://puni.sh/api/repository/taurenkey",
+      "category": "combat",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "rubyblaire-theatelier",
+      "name": "The Atelier",
+      "maintainer": "rubyblaire",
+      "url": "https://raw.githubusercontent.com/rubyblaire/TheAtelier/main/pluginmaster.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "thesuccubus-repo",
+      "name": "thesuccubus/repo",
+      "maintainer": "thesuccubus / 'buttplug'",
+      "url": "https://raw.githubusercontent.com/thesuccubus/repo/main/pluginmaster.json",
+      "category": "nsfw",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "tigurand-dalamudplugins",
+      "name": "tigurand/DalamudPlugins",
+      "maintainer": "tigurand",
+      "url": "https://raw.githubusercontent.com/tigurand/DalamudPlugins/refs/heads/main/repo.json",
+      "category": "misc",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "nohideout-timelineanimator",
+      "name": "TimelineAnimator",
+      "maintainer": "NoHideout",
+      "url": "https://raw.githubusercontent.com/NoHideout/TimelineAnimator/master/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "tomestonegg-dalamud-tomestone",
+      "name": "TomestoneGG / Dalamud.Tomestone",
+      "maintainer": "TomestoneGG",
+      "url": "https://raw.githubusercontent.com/TomestoneGG/Dalamud.Tomestone/master/repo.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "kararemy-tomokplugins",
+      "name": "TomokPlugins",
+      "maintainer": "KaraRemy / Tomok",
+      "url": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/pluginmaster.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "blooym-dalamud-travelcase",
+      "name": "Travelcase",
+      "maintainer": "Blooym",
+      "url": "https://raw.githubusercontent.com/Blooym/Dalamud.Travelcase/main/repo.json",
+      "category": "glamour",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "unknownx7-dalamudpluginrepo",
+      "name": "UnknownX7",
+      "maintainer": "UnknownX7",
+      "url": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json",
+      "category": "qol",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "punish-vali",
+      "name": "Vali's Repo",
+      "maintainer": "Valenth Siveria",
+      "url": "https://puni.sh/api/repository/vali",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "valiice-dalamudpluginrepo",
+      "name": "Valiice DalamudPluginRepo",
+      "maintainer": "Valiice",
+      "url": "https://raw.githubusercontent.com/Valiice/DalamudPluginRepo/master/repo.json",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "variablevixen-mydalamudplugins",
+      "name": "VariableVixen (PrincessRTFM) / MyDalamudPlugins",
+      "maintainer": "VariableVixen / PrincessRTFM",
+      "url": "https://raw.githubusercontent.com/VariableVixen/MyDalamudPlugins/master/pluginmaster.json",
+      "category": "misc",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "punish-vera",
+      "name": "Vera's Repo",
+      "maintainer": "vera.lyn",
+      "url": "https://puni.sh/api/repository/vera",
+      "category": "automation",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "punish-wah",
+      "name": "wah",
+      "maintainer": "wah",
+      "url": "https://puni.sh/api/repository/wah",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "thatkwistine-wardrobeplugin",
+      "name": "Wardrobe",
+      "maintainer": "ThatKwistine",
+      "url": "https://raw.githubusercontent.com/ThatKwistine/WardrobePlugin/main/pluginmaster.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "warpholomey-dalamudplugins",
+      "name": "Warpholomey / DalamudPlugins",
+      "maintainer": "Warpholomey",
+      "url": "https://raw.githubusercontent.com/Warpholomey/DalamudPlugins/master/repository.json",
+      "category": "misc",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "wesbosch-rebuff",
+      "name": "WesBosch ReBuff",
+      "maintainer": "WesBosch",
+      "url": "https://raw.githubusercontent.com/WesBosch/ReBuff/main/repo.json",
+      "category": "combat",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "workingrobot-mydalamudplugins",
+      "name": "WorkingRobot (Asriel) / MyDalamudPlugins",
+      "maintainer": "Asriel (WorkingRobot)",
+      "url": "https://raw.githubusercontent.com/WorkingRobot/MyDalamudPlugins/main/plogon.json",
+      "category": "automation",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "punish-xan",
+      "name": "xan's repo",
+      "maintainer": "xan",
+      "url": "https://puni.sh/api/repository/xan",
+      "category": "misc",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "noevain-modarchivebrowser",
+      "name": "XIV Mod Archive Browser",
+      "maintainer": "Noevain",
+      "url": "https://raw.githubusercontent.com/Noevain/ModArchiveBrowser/master/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "plugin-xivrolladeck-com-repo-json",
+      "name": "XIV Rolladeck",
+      "maintainer": "XIVRolladeck",
+      "url": "https://plugin.xivrolladeck.com/repo.json",
+      "category": "social",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "xivsync-repo",
+      "name": "XIV Sync",
+      "maintainer": "xivsync",
+      "url": "https://raw.githubusercontent.com/xivsync/repo/main/plogonmaster.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "xiv-tools-dalamudplugins",
+      "name": "XIV-Tools",
+      "maintainer": "XIV-Tools",
+      "url": "https://raw.githubusercontent.com/XIV-Tools/DalamudPlugins/main/repo.json",
+      "category": "glamour",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "xivv-keifufu-dev-repo",
+      "name": "XivVoices",
+      "maintainer": "keifufu",
+      "url": "https://xivv.keifufu.dev/repo",
+      "category": "audio",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "yocopk-moghouse-dalamud",
+      "name": "yocopk/moghouse-dalamud",
+      "maintainer": "yocopk",
+      "url": "https://raw.githubusercontent.com/yocopk/moghouse-dalamud/main/repo.json",
+      "category": "qol",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "zhouhuichen741-dalamud-plugins",
+      "name": "zhouhuichen741/dalamud-plugins",
+      "maintainer": "zhouhuichen741",
+      "url": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
+      "category": "misc",
+      "priority": 15,
+      "enabled": true
+    },
+    {
+      "id": "zhudotexe-ffxiv-dalamudplugins",
+      "name": "zhudotexe / FFXIV_DalamudPlugins",
+      "maintainer": "zhudotexe",
+      "url": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json",
+      "category": "dev",
+      "priority": 60,
       "enabled": true
     }
   ]

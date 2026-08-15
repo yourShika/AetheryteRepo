@@ -1,0 +1,86 @@
+{
+  "sourceId": "kussie-aetherfit",
+  "url": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 2,
+  "plugins": [
+    {
+      "Author": "Kussie ",
+      "Name": "Aetherfit",
+      "InternalName": "Aetherfit",
+      "TestingAssemblyVersion": "1.3.2608.359",
+      "AssemblyVersion": "1.3.2608.365",
+      "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
+      "IconUrl": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/Data/icon-square.png",
+      "RepoUrl": "https://github.com/Kussie/Aetherfit",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "glamour",
+        "glamourer",
+        "glamaholic",
+        "outfits",
+        "glam",
+        "fashion",
+        "clothes",
+        "style",
+        "wardrobe",
+        "aesthetic",
+        "designs"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "DalamudApiLevel": 15,
+      "TestingDalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/Kussie/Aetherfit/releases/latest/download/latest-stable.zip",
+      "DownloadLinkTesting": "https://github.com/Kussie/Aetherfit/releases/download/testing-1.3.2608.359/latest-testing.zip",
+      "DownloadCount": 425,
+      "LastUpdate": 1786771586,
+      "Punchline": "An alternative simple frontend for Glamourer, because glamour is the real endgame.",
+      "AcceptsFeedback": true,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "DownloadLinkUpdate": "https://github.com/Kussie/Aetherfit/releases/latest/download/latest-stable.zip",
+      "_SourceId": "kussie-aetherfit",
+      "_SourceName": "Aetherfit",
+      "_SourceUrl": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/repo.json"
+    },
+    {
+      "Author": "Kussie",
+      "Name": "AnimationLog",
+      "InternalName": "AnimationLog",
+      "AssemblyVersion": "1.0.2607.9",
+      "Description": "A minimal utility that displays your character's currently running animation and keeps a log of recent animations for as long as the window stays open.",
+      "RepoUrl": "https://github.com/Kussie/FFXIVAnimationLog",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "animation",
+        "debug",
+        "utility"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/Kussie/FFXIVAnimationLog/releases/latest/download/latest-stable.zip",
+      "DownloadCount": 1,
+      "LastUpdate": 1785374332,
+      "Punchline": "Shows the animation currently playing and a session log of recent ones.",
+      "AcceptsFeedback": true,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "DownloadLinkUpdate": "https://github.com/Kussie/FFXIVAnimationLog/releases/latest/download/latest-stable.zip",
+      "_SourceId": "kussie-aetherfit",
+      "_SourceName": "Aetherfit",
+      "_SourceUrl": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/repo.json"
+    }
+  ]
+}

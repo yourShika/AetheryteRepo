@@ -1,0 +1,35 @@
+{
+  "sourceId": "ml-astra-dalamud-plugins",
+  "url": "https://raw.githubusercontent.com/ML-Astra/dalamud-plugins/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Astralis Novae",
+      "Name": "RP-TBX",
+      "InternalName": "RoleplayersToolbox",
+      "Description": "RP'ers toolbox - Kitsune Release\n Just a gal tryna fix a plugin.",
+      "AssemblyVersion": "0.3.5",
+      "RepoUrl": "https://github.com/ML-Astra/RP-TBX",
+      "IconUrl": "https://raw.githubusercontent.com/ML-Astra/RP-TBX/main/icon.png",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "roleplayers",
+        "toolbox",
+        "emote",
+        "glitch"
+      ],
+      "DalamudApiLevel": 8,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "LastUpdate": 0,
+      "DownloadCount": 0,
+      "DownloadLinkInstall": "https://github.com/ML-Astra/RP-TBX/releases/download/Latest/latest.zip",
+      "DownloadLinkTesting": "https://github.com/ML-Astra/RP-TBX/releases/download/Latest/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/ML-Astra/RP-TBX/releases/download/Latest/latest.zip",
+      "_SourceId": "ml-astra-dalamud-plugins",
+      "_SourceName": "dalamud-plugins (ML-Astra) - RP-TBX",
+      "_SourceUrl": "https://raw.githubusercontent.com/ML-Astra/dalamud-plugins/main/repo.json"
+    }
+  ]
+}

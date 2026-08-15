@@ -1,0 +1,36 @@
+{
+  "sourceId": "serifine-xiv-chat-scanner",
+  "url": "https://raw.githubusercontent.com/serifine/XIV-Chat-Scanner/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Serifine",
+      "Name": "Chat Tools",
+      "Punchline": "Filter messages in crowded environments, bringing some sanity back to RP.",
+      "Description": "Chat Tools was developed to cut through the cluttered chat that can happen at large RP events, or in crowded environments.\n\nJust some of the things you can do with Chat Tools is:\n- Filter messages in crowded environments\n- Set up windows to watch specific characters of your choice\n- Set up windows to watch for messages from a group of characters\n- Quickly scan what your selected or hovered targets have said\n- Search through your message history\n- Preserve messages on logout",
+      "InternalName": "ChatTools",
+      "AssemblyVersion": "5.0.2.0",
+      "Tags": [
+        "Social",
+        "UI",
+        "Chat",
+        "RP"
+      ],
+      "RepoUrl": "https://github.com/serifine/XIV-Chat-Tools",
+      "IconUrl": "https://raw.githubusercontent.com/serifine/XIV-Chat-Tools/main/ChatTools/images/icon.png",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "LastUpdate": 1777573804615,
+      "DownloadCount": 10236,
+      "DownloadLinkInstall": "https://github.com/serifine/XIV-Chat-Tools/releases/download/5.0.2/ChatTools.zip",
+      "DownloadLinkTesting": "https://github.com/serifine/XIV-Chat-Tools/releases/download/5.0.2/ChatTools.zip",
+      "DownloadLinkUpdate": "https://github.com/serifine/XIV-Chat-Tools/releases/download/5.0.2/ChatTools.zip",
+      "_SourceId": "serifine-xiv-chat-scanner",
+      "_SourceName": "serifine/XIV-Chat-Scanner",
+      "_SourceUrl": "https://raw.githubusercontent.com/serifine/XIV-Chat-Scanner/main/repo.json"
+    }
+  ]
+}

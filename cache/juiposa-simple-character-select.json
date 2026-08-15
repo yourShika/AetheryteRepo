@@ -1,0 +1,37 @@
+{
+  "sourceId": "juiposa-simple-character-select",
+  "url": "https://raw.githubusercontent.com/juiposa/Simple-Character-Select/main/Releases/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Juiposa",
+      "Name": "Simple Character Select",
+      "InternalName": "SimpleCharacterSelectPlugin",
+      "AssemblyVersion": "0.1.2.0",
+      "Description": "Simple Character Select",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "character",
+        "select",
+        "ocs"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/juiposa/Simple-Character-Select/refs/heads/main/SimpleCharacterSelectPlugin/Assets/Icon.png",
+      "Punchline": "Straightforward character selection, no fluff or hassle",
+      "AcceptsFeedback": true,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/juiposa/Simple-Character-Select/releases/download/0.1.2/latest.zip",
+      "DownloadLinkTesting": "https://github.com/juiposa/Simple-Character-Select/releases/download/0.1.2/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Juiposa/Simple-Character-Select/releases/download/0.1.2/latest.zip",
+      "IsHide": false,
+      "_SourceId": "juiposa-simple-character-select",
+      "_SourceName": "Simple Character Select",
+      "_SourceUrl": "https://raw.githubusercontent.com/juiposa/Simple-Character-Select/main/Releases/repo.json"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "sourceId": "frogworks-interactive-pluginrepository",
+  "url": "https://raw.githubusercontent.com/Frogworks-Interactive/PluginRepository/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Frogworks Interactive",
+      "Name": "Easy Inventory Sort",
+      "Punchline": "sort your inventory a little faster",
+      "Description": "description",
+      "InternalName": "EasySort",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "sort",
+        "plugin",
+        "inventory"
+      ],
+      "DalamudApiLevel": 8,
+      "RepoUrl": "https://github.com/Frogworks-Interactive/EasySort",
+      "AssemblyVersion": "0.0.0.5",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "LastUpdated": 1684918732,
+      "DownloadCount": 0,
+      "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.5-alpha/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.5-alpha/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.5-alpha/latest.zip",
+      "_SourceId": "frogworks-interactive-pluginrepository",
+      "_SourceName": "Frogworks-Interactive / PluginRepository",
+      "_SourceUrl": "https://raw.githubusercontent.com/Frogworks-Interactive/PluginRepository/main/repo.json"
+    }
+  ]
+}

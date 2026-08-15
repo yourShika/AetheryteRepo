@@ -1,0 +1,32 @@
+{
+  "sourceId": "xivsync-repo",
+  "url": "https://raw.githubusercontent.com/xivsync/repo/main/plogonmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Lutherian",
+      "Name": "XIV Sync",
+      "InternalName": "XIVSync",
+      "AssemblyVersion": "1.41.0.0 ",
+      "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/xivsync/repo",
+      "Tags": [
+        "customization"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/images/icon.png",
+      "Punchline": "Let others see you as you see yourself.",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/xivsync/repo/raw/refs/heads/main/XIVSync/latest.zip",
+      "DownloadLinkTesting": "https://github.com/xivsync/repo/raw/refs/heads/main/XIVSync/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/xivsync/repo/raw/refs/heads/main/XIVSync/latest.zip",
+      "_SourceId": "xivsync-repo",
+      "_SourceName": "XIV Sync",
+      "_SourceUrl": "https://raw.githubusercontent.com/xivsync/repo/main/plogonmaster.json"
+    }
+  ]
+}

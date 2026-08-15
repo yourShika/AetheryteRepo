@@ -1,0 +1,33 @@
+{
+  "sourceId": "punish-xan",
+  "url": "https://puni.sh/api/repository/xan",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "xan_0",
+      "Name": "Cope, Seethe, Meld",
+      "Punchline": "Why would you make a plugin for something you do once or twice an expansion?",
+      "Description": "Auto melds your gear",
+      "Tags": [
+        "melding",
+        "automation"
+      ],
+      "InternalName": "CopeSeetheMeld",
+      "RepoUrl": "https://github.com/xanunderscore/CopeSeetheMeld",
+      "DownloadCount": 6395,
+      "LastUpdate": 1783019821,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/69/CopeSeetheMeld/versions/0.0.3.1/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/69/CopeSeetheMeld/versions/0.0.3.1/update/latest.zip",
+      "AssemblyVersion": "0.0.3.1",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-xan",
+      "_SourceName": "xan's repo",
+      "_SourceUrl": "https://puni.sh/api/repository/xan"
+    }
+  ]
+}

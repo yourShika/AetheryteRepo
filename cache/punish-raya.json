@@ -1,0 +1,38 @@
+{
+  "sourceId": "punish-raya",
+  "url": "https://puni.sh/api/repository/raya",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Raya",
+      "Name": "Better Discord Rich Presence",
+      "Punchline": "Discord Rich Presence that allows you to utilize everything discord has to offer, including custom images, custom buttons, widgets, and more!",
+      "Description": "Discord Rich Presence that allows you to utilize everything discord has to offer, including custom images, custom buttons, widgets, and more!",
+      "Tags": [
+        "better",
+        "raya",
+        "discord",
+        "serahill",
+        "widget",
+        "Rich Presence"
+      ],
+      "InternalName": "BetterDiscordRichPresence",
+      "RepoUrl": "https://github.com/RayaSerahill/BetterDiscordRichpresence",
+      "DownloadCount": 136,
+      "LastUpdate": 1785366664,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/164/BetterDiscordRichPresence/versions/1.0.5.0/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/164/BetterDiscordRichPresence/versions/1.0.5.0/update/latest.zip",
+      "AssemblyVersion": "1.0.5.0",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "Fixed a bug where default configuration prevented Rich Presence use",
+      "IconUrl": "https://puni.sh/api/plugins/icon/164",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-raya",
+      "_SourceName": "Raya's Repo",
+      "_SourceUrl": "https://puni.sh/api/repository/raya"
+    }
+  ]
+}

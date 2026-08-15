@@ -1,0 +1,35 @@
+{
+  "sourceId": "valentine-tools-brio",
+  "url": "https://raw.githubusercontent.com/Valentine-Tools/Brio/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Kisa Valentine",
+      "Name": "Brio",
+      "Punchline": "Enhanced GPosing.",
+      "Description": "Control actors during GPose sessions.",
+      "InternalName": "Brio",
+      "AssemblyVersion": "0.2.1.9",
+      "TestingAssemblyVersion": "0.2.1.9",
+      "RepoUrl": "https://github.com/Valentine-Tools/Brio",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 9,
+      "DownloadLinkInstall": "https://github.com/Valentine-Tools/Brio/releases/download/v0.2.1.9/Brio.zip",
+      "DownloadLinkTesting": "https://github.com/Valentine-Tools/Brio/releases/download/v0.2.1.9/Brio.zip",
+      "DownloadLinkUpdate": "https://github.com/Valentine-Tools/Brio/releases/download/v0.2.1.9/Brio.zip",
+      "IconUrl": "https://raw.githubusercontent.com/Valentine-Tools/Brio/main/Resources/Images/BrioIcon.png",
+      "Tags": [
+        "gpose",
+        "brio",
+        "posing",
+        "animation"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "valentine-tools-brio",
+      "_SourceName": "Brio",
+      "_SourceUrl": "https://raw.githubusercontent.com/Valentine-Tools/Brio/main/repo.json"
+    }
+  ]
+}

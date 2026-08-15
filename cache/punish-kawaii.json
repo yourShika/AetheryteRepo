@@ -1,0 +1,92 @@
+{
+  "sourceId": "punish-kawaii",
+  "url": "https://puni.sh/api/repository/kawaii",
+  "fetchedAt": "2026-08-15",
+  "count": 3,
+  "plugins": [
+    {
+      "Author": "kawaii, NightmareXIV",
+      "Name": "Hyperborea",
+      "Punchline": "What if we GPosed in the Mordion Gaol?",
+      "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
+      "Tags": [
+        "gpose"
+      ],
+      "InternalName": "Hyperborea",
+      "RepoUrl": "https://github.com/kawaii/Hyperborea",
+      "DownloadCount": 43858,
+      "LastUpdate": 1781710078,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.37/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.0.37/update/latest.zip",
+      "AssemblyVersion": "1.0.0.37",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "",
+      "TestingAssemblyVersion": "1.0.1.1",
+      "DownloadLinkTesting": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.1/install/testing.zip",
+      "TestingDalamudApiLevel": "15",
+      "IconUrl": "https://puni.sh/api/plugins/icon/45",
+      "ImageUrls": [
+        "https://s3.puni.sh/media/plugin/45/image-qh8re4eb0f.png"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-kawaii",
+      "_SourceName": "kawaii's repo",
+      "_SourceUrl": "https://puni.sh/api/repository/kawaii"
+    },
+    {
+      "Author": "kawaii",
+      "Name": "Chocoholic",
+      "Punchline": "Kweh!",
+      "Description": "Chocoholic is a plugin to automatically queue for and complete Chocobo races in FFXIV.",
+      "Tags": [
+        "chocobo",
+        "gold saucer",
+        "race",
+        "mgp"
+      ],
+      "InternalName": "Chocoholic",
+      "RepoUrl": "https://github.com/kawaii/Chocoholic",
+      "DownloadCount": 5106,
+      "LastUpdate": 1778089832,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/116/Chocoholic/versions/0.0.0.3/update/latest.zip",
+      "AssemblyVersion": "0.0.0.3",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "Update for Dalamud API 15 and 2026.04.21.0000.0000.",
+      "IconUrl": "https://puni.sh/api/plugins/icon/116",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-kawaii",
+      "_SourceName": "kawaii's repo",
+      "_SourceUrl": "https://puni.sh/api/repository/kawaii"
+    },
+    {
+      "Author": "kawaii",
+      "Name": "Dropbox",
+      "Punchline": "Your personal vending machine.",
+      "Description": "Your personal vending machine.",
+      "Tags": [],
+      "InternalName": "Dropbox",
+      "RepoUrl": "https://github.com/kawaii/Dropbox",
+      "DownloadCount": 47976,
+      "LastUpdate": 1783980806,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.15/update/latest.zip",
+      "AssemblyVersion": "1.0.2.15",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "Finally fix whitelist and detect full inventory",
+      "TestingAssemblyVersion": "1.0.2.14",
+      "DownloadLinkTesting": "https://puni.sh/api/plugins/download/27/Dropbox/versions/1.0.2.14/install/testing.zip",
+      "TestingDalamudApiLevel": "15",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-kawaii",
+      "_SourceName": "kawaii's repo",
+      "_SourceUrl": "https://puni.sh/api/repository/kawaii"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "sourceId": "junie-774-craftinglist",
+  "url": "https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Meowdy-do",
+      "Name": "Crafting List",
+      "Punchline": "Craft stuffs",
+      "Description": "Craft your things",
+      "InternalName": "CraftingList",
+      "AssemblyVersion": "2.5.8",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "craft"
+      ],
+      "RepoUrl": "https://github.com/Junie-774/CraftingList",
+      "LoadPriority": 69,
+      "IsHide": false,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/latest.zip",
+      "IsTestingExclusive": false,
+      "_SourceId": "junie-774-craftinglist",
+      "_SourceName": "CraftingList",
+      "_SourceUrl": "https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/repo.json"
+    }
+  ]
+}

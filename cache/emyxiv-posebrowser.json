@@ -1,0 +1,32 @@
+{
+  "sourceId": "emyxiv-posebrowser",
+  "url": "https://raw.githubusercontent.com/emyxiv/PoseBrowser/master/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "emyxiv",
+      "Name": "Pose Browser",
+      "Punchline": "A pose browser to work with Brio.",
+      "Description": "A pose browser interfacing with brio.",
+      "InternalName": "PoseBrowse",
+      "AssemblyVersion": "0.0.0.22",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 12,
+      "Tags": [
+        "gpose",
+        "brio",
+        "posing"
+      ],
+      "RepoUrl": "https://github.com/emyxiv/PoseBrowser",
+      "DownloadCount": 16,
+      "DownloadLinkInstall": "https://github.com/emyxiv/PoseBrowser/releases/download/v0.0.0.22/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/emyxiv/PoseBrowser/releases/download/v0.0.0.22/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "emyxiv-posebrowser",
+      "_SourceName": "Pose Browser",
+      "_SourceUrl": "https://raw.githubusercontent.com/emyxiv/PoseBrowser/master/repo.json"
+    }
+  ]
+}

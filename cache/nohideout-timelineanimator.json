@@ -1,0 +1,39 @@
+{
+  "sourceId": "nohideout-timelineanimator",
+  "url": "https://raw.githubusercontent.com/NoHideout/TimelineAnimator/master/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "DarkmodeLeyla",
+      "Name": "TimelineAnimator",
+      "InternalName": "TimelineAnimator",
+      "AssemblyVersion": "1.1.7.0",
+      "TestingAssemblyVersion": "1.1.7.0",
+      "Description": "A simple keyframe editor to create and play back animations using Ktisis. Use /animator to open the plugin window.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/NoHideout/TimelineAnimator",
+      "Tags": [
+        "posing",
+        "animation",
+        "timeline"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/NoHideout/TimelineAnimator/master/Icon.png",
+      "DownloadLinkInstall": "https://github.com/NoHideout/TimelineAnimator/releases/download/v1.1.7.0/TimelineAnimator.zip",
+      "DownloadLinkTesting": "https://github.com/NoHideout/TimelineAnimator/releases/download/v1.1.7.0/TimelineAnimator.zip",
+      "DownloadLinkUpdate": "https://github.com/NoHideout/TimelineAnimator/releases/download/v1.1.7.0/TimelineAnimator.zip",
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "Punchline": "A keyframe animator for in-game animation.",
+      "AcceptsFeedback": false,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "nohideout-timelineanimator",
+      "_SourceName": "TimelineAnimator",
+      "_SourceUrl": "https://raw.githubusercontent.com/NoHideout/TimelineAnimator/master/repo.json"
+    }
+  ]
+}

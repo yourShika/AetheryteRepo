@@ -1,0 +1,37 @@
+{
+  "sourceId": "blooym-dalamud-travelcase",
+  "url": "https://raw.githubusercontent.com/Blooym/Dalamud.Travelcase/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Blooym",
+      "Name": "Travelcase",
+      "InternalName": "Travelcase",
+      "AssemblyVersion": "0.3.1.1",
+      "ApplicableVersion": "any",
+      "Punchline": "Automatically switch gearsets & glamours when entering specified zones.",
+      "Description": "Allows for automatic changing of Gearsets/Glamours upon entering new zones, with a 'Roleplay Only' mode for those who want to only use it for RP purposes.",
+      "RepoUrl": "https://github.com/Blooym/Travelcase",
+      "Tags": [
+        "utility",
+        "gearset"
+      ],
+      "CategoryTags": [
+        "Utility",
+        "Other"
+      ],
+      "DalamudApiLevel": 13,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/Blooym/Travelcase/main/.assets/icon.png",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/Blooym/Dalamud.Travelcase/releases/download/v0.3.1.1/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Blooym/Dalamud.Travelcase/releases/download/v0.3.1.1/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Blooym/Dalamud.Travelcase/releases/download/v0.3.1.1/latest.zip",
+      "_SourceId": "blooym-dalamud-travelcase",
+      "_SourceName": "Travelcase",
+      "_SourceUrl": "https://raw.githubusercontent.com/Blooym/Dalamud.Travelcase/main/repo.json"
+    }
+  ]
+}

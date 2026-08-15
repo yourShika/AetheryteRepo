@@ -1,0 +1,31 @@
+{
+  "sourceId": "lacisynchroni-repo",
+  "url": "https://raw.githubusercontent.com/LaciSynchroni/repo/main/plogonmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Laci Synchroni Team and Contributors",
+      "Name": "Laci Synchroni",
+      "Punchline": "Let others see you as you see yourself.",
+      "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
+      "InternalName": "LaciSynchroni",
+      "AssemblyVersion": "2.0.17.0",
+      "TestingAssemblyVersion": "2.0.15.3",
+      "IsTestingExclusive": false,
+      "RepoUrl": "https://github.com/LaciSynchroni/client",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "TestingDalamudApiLevel": 15,
+      "LastUpdate": 1786745263,
+      "DownloadLinkInstall": "https://github.com/LaciSynchroni/client/releases/download/2.0.17.0/LaciSynchroni_v2.0.17.0.zip",
+      "DownloadLinkUpdate": "https://github.com/LaciSynchroni/client/releases/download/2.0.17.0/LaciSynchroni_v2.0.17.0.zip",
+      "DownloadLinkTesting": "https://github.com/LaciSynchroni/client/releases/download/testing_2.0.15.3/LaciSynchroni_v2.0.15.3.zip",
+      "IconUrl": "https://raw.githubusercontent.com/LaciSynchroni/repo/main/images/icon.png",
+      "IsHide": false,
+      "_SourceId": "lacisynchroni-repo",
+      "_SourceName": "Laci Synchroni",
+      "_SourceUrl": "https://raw.githubusercontent.com/LaciSynchroni/repo/main/plogonmaster.json"
+    }
+  ]
+}

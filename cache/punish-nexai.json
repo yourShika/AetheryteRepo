@@ -1,0 +1,70 @@
+{
+  "sourceId": "punish-nexai",
+  "url": "https://puni.sh/api/repository/nexai",
+  "fetchedAt": "2026-08-15",
+  "count": 2,
+  "plugins": [
+    {
+      "Author": "Nexai",
+      "Name": "Mogmail",
+      "Punchline": "\"Nice mailbox. It would be a shame if someone... emptied it, kupo.\"",
+      "Description": "A better mail service. Bulk attachment claiming, bulk delete, and inventory pop.",
+      "Tags": [
+        "mail",
+        "letters",
+        "moogle",
+        "automation"
+      ],
+      "InternalName": "Mogmail",
+      "RepoUrl": "https://github.com/Nexaii/Mogmail",
+      "DownloadCount": 1642,
+      "LastUpdate": 1785790748,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/148/Mogmail/versions/1.2.5.0/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/148/Mogmail/versions/1.2.5.0/update/latest.zip",
+      "AssemblyVersion": "1.2.5.0",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "Fix: Tooltips.",
+      "IconUrl": "https://puni.sh/api/plugins/icon/148",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-nexai",
+      "_SourceName": "Nexai's Repo",
+      "_SourceUrl": "https://puni.sh/api/repository/nexai"
+    },
+    {
+      "Author": "Nexai",
+      "Name": "FCCH",
+      "Punchline": "Automate Free Company chest deposits, withdrawals, organization, and workshop material pulls.",
+      "Description": "Free Company Chest Helper. Automate deposits, withdrawals, organization, crystals, workshop project pulls, and custom item lists.",
+      "Tags": [
+        "free company",
+        "fc",
+        "chest",
+        "inventory",
+        "workshop",
+        "crystals",
+        "deposit",
+        "withdraw",
+        "utility",
+        "automation"
+      ],
+      "InternalName": "FCCH",
+      "RepoUrl": "https://github.com/Nexaii/FCCH",
+      "DownloadCount": 1687,
+      "LastUpdate": 1785790722,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/149/FCCH/versions/2.4.6.0/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/149/FCCH/versions/2.4.6.0/update/latest.zip",
+      "AssemblyVersion": "2.4.6.0",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "Fix: Specific HQ condition bug.",
+      "IconUrl": "https://puni.sh/api/plugins/icon/149",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-nexai",
+      "_SourceName": "Nexai's Repo",
+      "_SourceUrl": "https://puni.sh/api/repository/nexai"
+    }
+  ]
+}

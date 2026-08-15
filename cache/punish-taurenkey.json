@@ -1,0 +1,30 @@
+{
+  "sourceId": "punish-taurenkey",
+  "url": "https://puni.sh/api/repository/taurenkey",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Taurenkey, NightmareXIV",
+      "Name": "ReActionEx",
+      "Punchline": "QoL for the battle system.",
+      "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings. Now with more devious features.",
+      "Tags": [],
+      "InternalName": "ReActionEx",
+      "RepoUrl": "https://puni.sh/api/repository/taurenkey",
+      "DownloadCount": 7663,
+      "LastUpdate": 1777883909,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/55/ReActionEx/versions/1.0.1.2/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/55/ReActionEx/versions/1.0.1.2/update/latest.zip",
+      "AssemblyVersion": "1.0.1.2",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "- Fix queue more crashing",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-taurenkey",
+      "_SourceName": "taurenkey's repo",
+      "_SourceUrl": "https://puni.sh/api/repository/taurenkey"
+    }
+  ]
+}

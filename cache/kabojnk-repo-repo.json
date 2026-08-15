@@ -1,0 +1,33 @@
+{
+  "sourceId": "kabojnk-repo-repo",
+  "url": "https://raw.githubusercontent.com/kabojnk/repo-repo/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Theodore Danson",
+      "Name": "Cyprus Synchronos",
+      "InternalName": "CyprusSynchronos",
+      "AssemblyVersion": "0.11.22",
+      "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/kabojnk/client",
+      "Tags": [
+        "customization",
+        "Sea Of Stars"
+      ],
+      "DalamudApiLevel": 13,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/kabojnk/client/refs/heads/main/MareSynchronos/images/icon.png",
+      "Punchline": "Let others see you as you see yourself.",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/kabojnk/client/releases/download/0.11.23/0.11.23.zip",
+      "DownloadLinkTesting": "https://github.com/kabojnk/client/releases/download/0.11.23/0.11.23.zip",
+      "DownloadLinkUpdate": "https://github.com/kabojnk/client/releases/download/0.11.23/0.11.23.zip",
+      "_SourceId": "kabojnk-repo-repo",
+      "_SourceName": "Cyprus Synchronos",
+      "_SourceUrl": "https://raw.githubusercontent.com/kabojnk/repo-repo/main/repo.json"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "sourceId": "anomek-mydalamudplugins",
+  "url": "https://raw.githubusercontent.com/anomek/MyDalamudPlugins/master/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 3,
+  "plugins": [
+    {
+      "Author": "Anomek",
+      "Name": "AnoMech",
+      "Punchline": "Another FFXIV mechanics simulator. Go to an inn and start practice.",
+      "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.",
+      "InternalName": "AnoMech",
+      "AssemblyVersion": "0.3.12.0",
+      "RepoUrl": "https://github.com/anomek/AnoMech",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "top",
+        "umad",
+        "dmu",
+        "kefka",
+        "omega",
+        "protocol",
+        "ultimate",
+        "practice",
+        "simulator"
+      ],
+      "DalamudApiLevel": 15,
+      "IconUrl": "https://raw.githubusercontent.com/anomek/AnoMech/master/images/icon.png",
+      "DownloadLinkInstall": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
+      "DownloadCount": 3613,
+      "LastUpdate": "1783890715",
+      "_SourceId": "anomek-mydalamudplugins",
+      "_SourceName": "anomek MyDalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/anomek/MyDalamudPlugins/master/pluginmaster.json"
+    },
+    {
+      "Author": "Anomek",
+      "Name": "Auto Travel",
+      "Punchline": "Travel between Data Centers with single click.",
+      "Description": "Automates Data Center travel process. Select your destination and enjoy, while plugin is going through all menus.",
+      "Changelog": "https://github.com/anomek/AutoTravel/releases",
+      "InternalName": "AutoTravel",
+      "AssemblyVersion": "0.0.8.1",
+      "RepoUrl": "https://github.com/Anomek/AutoTravel",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "dc",
+        "data",
+        "center",
+        "travel"
+      ],
+      "DalamudApiLevel": 15,
+      "IconUrl": "https://github.com/Anomek/AutoTravel/raw/master/images/icon.png",
+      "ImageUrls": [
+        "https://github.com/anomek/AutoTravel/raw/master/images/image1.png",
+        "https://github.com/anomek/AutoTravel/raw/master/images/image2.png"
+      ],
+      "DownloadLinkInstall": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
+      "DownloadCount": 711,
+      "LastUpdate": "1782589111",
+      "_SourceId": "anomek-mydalamudplugins",
+      "_SourceName": "anomek MyDalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/anomek/MyDalamudPlugins/master/pluginmaster.json"
+    },
+    {
+      "Author": "Anomek",
+      "Name": "Tomestone Viewer",
+      "Punchline": "View Tomestone.gg in-game.",
+      "Description": "View high-end content prog from Tomestone.gg in-game. Add a context menu to open someone's logs.",
+      "Changelog": "https://github.com/anomek/TomestoneViewer/releases",
+      "InternalName": "TomestoneViewer",
+      "AssemblyVersion": "0.2.8.0",
+      "RepoUrl": "https://github.com/Anomek/TomestoneViewer",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "FFLogs",
+        "Tomestone"
+      ],
+      "DalamudApiLevel": 15,
+      "IconUrl": "https://github.com/Anomek/TomestoneViewer/raw/master/images/icon.png",
+      "ImageUrls": [
+        "https://github.com/anomek/TomestoneViewer/raw/master/images/image1.png",
+        "https://github.com/anomek/TomestoneViewer/raw/master/images/image2.png"
+      ],
+      "DownloadLinkInstall": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
+      "DownloadCount": 2052,
+      "LastUpdate": "1782586241",
+      "_SourceId": "anomek-mydalamudplugins",
+      "_SourceName": "anomek MyDalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/anomek/MyDalamudPlugins/master/pluginmaster.json"
+    }
+  ]
+}

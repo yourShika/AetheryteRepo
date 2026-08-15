@@ -1,0 +1,29 @@
+{
+  "sourceId": "almerisbe-armoire",
+  "url": "https://raw.githubusercontent.com/AlmerisBE/Armoire/production/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Almeris",
+      "Name": "Armoire",
+      "InternalName": "Armoire",
+      "AssemblyVersion": "0.1.1.3",
+      "TestingAssemblyVersion": "0.1.1.3",
+      "Description": "Gestionnaire de tenues et résolution de conflits pour Penumbra.",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "TestingDalamudApiLevel": 15,
+      "LoadPriority": 0,
+      "Punchline": "Gérez vos conflits de mods en toute simplicité.",
+      "DownloadLinkInstall": "https://github.com/AlmerisBE/Armoire/releases/download/v0.1.1.3/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/AlmerisBE/Armoire/releases/download/v0.1.1.3/latest.zip",
+      "DownloadLinkTesting": "https://github.com/AlmerisBE/Armoire/releases/download/v0.1.1.3/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "almerisbe-armoire",
+      "_SourceName": "Armoire",
+      "_SourceUrl": "https://raw.githubusercontent.com/AlmerisBE/Armoire/production/repo.json"
+    }
+  ]
+}

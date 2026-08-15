@@ -1,0 +1,33 @@
+{
+  "sourceId": "juntalis-dalamudplugins",
+  "url": "https://raw.githubusercontent.com/juntalis/DalamudPlugins/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "juntalis",
+      "Name": "Island Optimizer",
+      "Punchline": "Plugin to optimize workshop production.",
+      "Description": "Plugin to optimize workshop production.",
+      "Changelog": "",
+      "InternalName": "Islander",
+      "AssemblyVersion": "0.5.0.0",
+      "RepoUrl": "https://github.com/juntalis/IslandOptimizerPlugin",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "utility"
+      ],
+      "DalamudApiLevel": 7,
+      "DownloadLinkInstall": "https://github.com/juntalis/DalamudPlugins/raw/main/plugins/Islander/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/juntalis/DalamudPlugins/raw/main/plugins/Islander/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/juntalis/DalamudPlugins/raw/main/plugins/Islander/latest.zip",
+      "DownloadCount": 0,
+      "LastUpdate": "1662818169",
+      "_SourceId": "juntalis-dalamudplugins",
+      "_SourceName": "juntalis/DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/juntalis/DalamudPlugins/main/pluginmaster.json"
+    }
+  ]
+}

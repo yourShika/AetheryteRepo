@@ -1,0 +1,39 @@
+{
+  "sourceId": "raimere-com-plugin-repo-json",
+  "url": "https://raimere.com/plugin/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Rian M☆",
+      "Name": "Raimere",
+      "InternalName": "Raimere",
+      "AssemblyVersion": "1.1.4.0",
+      "Description": "Browse the Raimere catalog in-game, apply a look's glamour with one click via Glamourer, and open links to the component mods. Links only, no mod files are hosted or installed by this plugin.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://raimere.com",
+      "Tags": [
+        "glamour",
+        "glamourer",
+        "catalog",
+        "mods"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "IconUrl": "https://raimere.com/raimere-icon.png",
+      "Punchline": "Browse and one-click apply FFXIV modded looks.",
+      "AcceptsFeedback": true,
+      "DownloadLinkInstall": "https://raimere.com/plugin/Raimere/latest.zip",
+      "DownloadLinkUpdate": "https://raimere.com/plugin/Raimere/latest.zip",
+      "DownloadLinkTesting": "https://raimere.com/plugin/Raimere/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "raimere-com-plugin-repo-json",
+      "_SourceName": "Raimere",
+      "_SourceUrl": "https://raimere.com/plugin/repo.json"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "sourceId": "punish-abe",
+  "url": "https://puni.sh/api/repository/abe",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Abyeon",
+      "Name": "Buildingway",
+      "Punchline": "/gamemode creative",
+      "Description": "Build anything, anywhere. Jump puzzles, castles, whatever you can think of.",
+      "Tags": [
+        "housing",
+        "pose",
+        "util",
+        "jump"
+      ],
+      "InternalName": "Buildingway",
+      "RepoUrl": "https://github.com/Abyeon/Buildingway",
+      "DownloadCount": 1176,
+      "LastUpdate": 1781761294,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/120/Buildingway/versions/1.0.1.6/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/120/Buildingway/versions/1.0.1.6/update/latest.zip",
+      "AssemblyVersion": "1.0.1.6",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "- Stop nuking layouts when enabled plugins change",
+      "IconUrl": "https://puni.sh/api/plugins/icon/120",
+      "ImageUrls": [
+        "https://s3.puni.sh/media/plugin/120/image-dbn113ijmti.png",
+        "https://s3.puni.sh/media/plugin/120/image-yhh6m0frx1d.png",
+        "https://s3.puni.sh/media/plugin/120/image-zigc0q28b1m.png"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-abe",
+      "_SourceName": "Abyeon's Repo",
+      "_SourceUrl": "https://puni.sh/api/repository/abe"
+    }
+  ]
+}

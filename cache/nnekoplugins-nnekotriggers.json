@@ -1,0 +1,45 @@
+{
+  "sourceId": "nnekoplugins-nnekotriggers",
+  "url": "https://raw.githubusercontent.com/NNekoPlugins/NNekoTriggers/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "NaughtyNeko",
+      "Name": "NNeko's Conditional Triggers",
+      "InternalName": "NNekoTriggers",
+      "AssemblyVersion": "0.0.4.8",
+      "Version": "0.0.4.8",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "LoadPriority": 0,
+      "LoadRequiredState": 0,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "Punchline": "Modular trigger system with DTR integration.",
+      "Description": "Provides zone triggers, RNG triggers, job-swap triggers, login triggers, and more.",
+      "Tags": [
+        "NNeko",
+        "NaughtyNeko",
+        "Triggers",
+        "RP",
+        "Conditional",
+        "Commands",
+        "Utility",
+        "Other"
+      ],
+      "CategoryTags": [
+        "Utility",
+        "Other"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/NNekoPlugins/NNekoTriggers/main/NNekoTriggers/Data/NNeko.png",
+      "RepoUrl": "https://github.com/NNekoPlugins/NNekoTriggers",
+      "DownloadLinkInstall": "https://github.com/NNekoPlugins/NNekoTriggers/releases/download/v0.0.4.8/latest.zip",
+      "DownloadLinkTesting": "https://github.com/NNekoPlugins/NNekoTriggers/releases/download/v0.0.4.8/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/NNekoPlugins/NNekoTriggers/releases/download/v0.0.4.8/latest.zip",
+      "_SourceId": "nnekoplugins-nnekotriggers",
+      "_SourceName": "NNekoPlugins / NNekoTriggers",
+      "_SourceUrl": "https://raw.githubusercontent.com/NNekoPlugins/NNekoTriggers/main/repo.json"
+    }
+  ]
+}

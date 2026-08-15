@@ -1,0 +1,33 @@
+{
+  "sourceId": "seventity7-createxiv",
+  "url": "https://raw.githubusercontent.com/seventity7/CreateXIV/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Bryer",
+      "Name": "CreateXIV",
+      "Punchline": "Create your own custom slash commands.",
+      "Description": "Lets players create custom slash command aliases from an in-game UI.",
+      "InternalName": "CreateXIV",
+      "AssemblyVersion": "1.0.6.9",
+      "RepoUrl": "https://github.com/seventity7/CreateXIV",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "TestingDalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 0,
+      "LastUpdate": 0,
+      "LoadPriority": 69420,
+      "LoadRequiredState": 2,
+      "LoadSync": true,
+      "DownloadLinkInstall": "https://github.com/seventity7/CreateXIV/releases/latest/download/CreateXIV.zip",
+      "IconUrl": "https://raw.githubusercontent.com/seventity7/CreateXIV/main/icon.png",
+      "DownloadLinkUpdate": "https://github.com/seventity7/CreateXIV/releases/latest/download/CreateXIV.zip",
+      "_SourceId": "seventity7-createxiv",
+      "_SourceName": "CreateXIV",
+      "_SourceUrl": "https://raw.githubusercontent.com/seventity7/CreateXIV/main/repo.json"
+    }
+  ]
+}

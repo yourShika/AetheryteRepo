@@ -1,0 +1,39 @@
+{
+  "sourceId": "cazzar-gposeutils",
+  "url": "https://raw.githubusercontent.com/Cazzar/GposeUtils/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Cazzar",
+      "Name": "GPose Utils",
+      "InternalName": "GposeUtils",
+      "AssemblyVersion": "0.0.2",
+      "TestingAssemblyVersion": "0.0.2",
+      "Description": "A set of useful tools for gposing",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/Cazzar/GposeUtils",
+      "Tags": [
+        "gpose",
+        "minion",
+        "utility",
+        "tools"
+      ],
+      "DownloadLinkInstall": "https://github.com/Cazzar/GposeUtils/releases/download/v0.0.2/GposeUtils.zip",
+      "DownloadLinkTesting": "https://github.com/Cazzar/GposeUtils/releases/download/v0.0.2/GposeUtils.zip",
+      "DownloadLinkUpdate": "https://github.com/Cazzar/GposeUtils/releases/download/v0.0.2/GposeUtils.zip",
+      "DalamudApiLevel": 13,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "Punchline": "A set of useful tools for gposing",
+      "AcceptsFeedback": false,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "cazzar-gposeutils",
+      "_SourceName": "GPose Utils",
+      "_SourceUrl": "https://raw.githubusercontent.com/Cazzar/GposeUtils/main/repo.json"
+    }
+  ]
+}

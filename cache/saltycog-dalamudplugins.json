@@ -1,0 +1,35 @@
+{
+  "sourceId": "saltycog-dalamudplugins",
+  "url": "https://raw.githubusercontent.com/SaltyCog/DalamudPlugins/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Name": "Startup Commands",
+      "InternalName": "StartupCommands",
+      "Author": "SaltyCog",
+      "Description": "Perform various behaviors/commands right after logging into a character.",
+      "Tags": [
+        "startup",
+        "login",
+        "commands",
+        "saltycog"
+      ],
+      "RepoUrl": "https://github.com/saltycog/ffxiv-startup-commands",
+      "AssemblyVersion": "1.2.1.1",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 11,
+      "IconUrl": "https://raw.githubusercontent.com/saltycog/ffxiv-startup-commands/master/icon.png",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 0,
+      "LastUpdate": 1732659340,
+      "DownloadLinkInstall": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.2.1.0/ffxiv-startup-commands.zip",
+      "DownloadLinkTesting": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.2.1.0/ffxiv-startup-commands.zip",
+      "DownloadLinkUpdate": "https://github.com/saltycog/ffxiv-startup-commands/releases/download/1.2.1.0/ffxiv-startup-commands.zip",
+      "_SourceId": "saltycog-dalamudplugins",
+      "_SourceName": "SaltyCog DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/SaltyCog/DalamudPlugins/main/repo.json"
+    }
+  ]
+}

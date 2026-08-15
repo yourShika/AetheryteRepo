@@ -1,0 +1,34 @@
+{
+  "sourceId": "foxshadow10-autoemotion",
+  "url": "https://raw.githubusercontent.com/FoxShadow10/AutoEmotion/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "FoxShadow10",
+      "Name": "Auto Emotion",
+      "Punchline": "Auto-execute configured emotes as you chat!",
+      "Description": "This plugin lets you assign a keyword to an emote. When the keyword is typed in the chat, the corresponding emote is automatically triggered.\n\nThe plugin icon was created by https://twitter.com/AlcielCroix",
+      "InternalName": "AutoEmotion",
+      "AssemblyVersion": "2.2.3",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "Chat",
+        "Emote",
+        "RP"
+      ],
+      "LoadPriority": 90,
+      "IconUrl": "https://raw.githubusercontent.com/FoxShadow10/AutoEmotion/main/AutoEmotion/images/plugin_icon.png",
+      "RepoUrl": "https://github.com/FoxShadow10/AutoEmotion",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 1,
+      "LastUpdate": 1618608322,
+      "DownloadLinkInstall": "https://github.com/FoxShadow10/AutoEmotion/releases/download/2.2.3/AutoEmotion.zip",
+      "DownloadLinkUpdate": "https://github.com/FoxShadow10/AutoEmotion/releases/download/2.2.3/AutoEmotion.zip",
+      "_SourceId": "foxshadow10-autoemotion",
+      "_SourceName": "Auto Emotion",
+      "_SourceUrl": "https://raw.githubusercontent.com/FoxShadow10/AutoEmotion/main/repo.json"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "sourceId": "aetherment-sevii-dev-plugin",
+  "url": "https://aetherment.sevii.dev/plugin",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "AcceptsFeedback": false,
+      "ApplicableVersion": "any",
+      "AssemblyVersion": "0.8.9.0",
+      "Author": "Sevii",
+      "DalamudApiLevel": 15,
+      "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
+      "DownloadCount": 258876,
+      "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
+      "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
+      "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
+      "IconUrl": "https://aetherment.sevii.dev/plugin/logo",
+      "InternalName": "Aetherment",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "Name": "Aetherment",
+      "Punchline": "Auto-updating and more customizable mods",
+      "RepoUrl": "https://github.com/Sevii77/aetherment",
+      "Tags": [
+        "Ui",
+        "Modding"
+      ],
+      "_SourceId": "aetherment-sevii-dev-plugin",
+      "_SourceName": "Aetherment",
+      "_SourceUrl": "https://aetherment.sevii.dev/plugin"
+    }
+  ]
+}

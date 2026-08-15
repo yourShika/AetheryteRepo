@@ -1,0 +1,41 @@
+{
+  "sourceId": "serifas-absolute-roleplay",
+  "url": "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/main/absolute_rp.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Lynie",
+      "Name": "Absolute Roleplay",
+      "Punchline": "Create and share roleplay profiles in game",
+      "Description": "Create and share roleplay profiles in game.",
+      "InternalName": "AbsoluteRP",
+      "AssemblyVersion": "0.0.2.25",
+      "TestingAssemblyVersion": "0.0.2.25",
+      "RepoUrl": "https://github.com/serifas/AbsoluteRP",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 14,
+      "TestingDalamudApiLevel": 14,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 0,
+      "LastUpdate": 1755942406,
+      "LoadPriority": 69420,
+      "LoadRequiredState": 2,
+      "LoadSync": true,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/refs/heads/main/latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/refs/heads/main/latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/refs/heads/main/latest.zip",
+      "IconUrl": "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/refs/heads/main/images/icon.png",
+      "Tags": [
+        "Roleplay",
+        "RP",
+        "Absolute Roleplay",
+        "Profiles"
+      ],
+      "_SourceId": "serifas-absolute-roleplay",
+      "_SourceName": "Absolute Roleplay",
+      "_SourceUrl": "https://raw.githubusercontent.com/serifas/Absolute-Roleplay/main/absolute_rp.json"
+    }
+  ]
+}

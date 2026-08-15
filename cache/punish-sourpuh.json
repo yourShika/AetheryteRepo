@@ -1,0 +1,97 @@
+{
+  "sourceId": "punish-sourpuh",
+  "url": "https://puni.sh/api/repository/sourpuh",
+  "fetchedAt": "2026-08-15",
+  "count": 3,
+  "plugins": [
+    {
+      "Author": "sourpuh",
+      "Name": "Fidget Spinner",
+      "Punchline": "like a record baby",
+      "Description": "spin in place",
+      "Tags": [
+        "spin"
+      ],
+      "InternalName": "FidgetSpinner",
+      "RepoUrl": "https://github.com/sourpuh/ffxiv_fidgetspinner",
+      "DownloadCount": 498,
+      "LastUpdate": 1783714139,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/133/FidgetSpinner/versions/0.0.0.4/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/133/FidgetSpinner/versions/0.0.0.4/update/latest.zip",
+      "AssemblyVersion": "0.0.0.4",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "hyperspin! Spin speeds can now go up to 10x which is way higher than other people can even see.",
+      "TestingAssemblyVersion": "0.0.0.4",
+      "DownloadLinkTesting": "https://puni.sh/api/plugins/download/133/FidgetSpinner/versions/0.0.0.4/install/testing.zip",
+      "TestingDalamudApiLevel": "15",
+      "IconUrl": "https://puni.sh/api/plugins/icon/133",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-sourpuh",
+      "_SourceName": "Sourpuh",
+      "_SourceUrl": "https://puni.sh/api/repository/sourpuh"
+    },
+    {
+      "Author": "sourpuh",
+      "Name": "Waymark Studio",
+      "Punchline": "The Ultimate FFXIV Waymark Plugin",
+      "Description": "A total replacement for the in-game waymark editor and Waymark Preset plugin. It provides a suite of tools to make placing and loading waymark presets simple, fast, and accurate.",
+      "Tags": [
+        "waymark",
+        "studio",
+        "preset",
+        "marker"
+      ],
+      "InternalName": "WaymarkStudio",
+      "RepoUrl": "https://github.com/sourpuh/ffxiv_waymarkstudio",
+      "DownloadCount": 70647,
+      "LastUpdate": 1781651989,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/62/WaymarkStudio/versions/0.0.0.53/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/62/WaymarkStudio/versions/0.0.0.53/update/latest.zip",
+      "AssemblyVersion": "0.0.0.53",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "",
+      "TestingAssemblyVersion": "0.0.0.53",
+      "DownloadLinkTesting": "https://puni.sh/api/plugins/download/62/WaymarkStudio/versions/0.0.0.53/install/testing.zip",
+      "TestingDalamudApiLevel": "15",
+      "IconUrl": "https://puni.sh/api/plugins/icon/62",
+      "ImageUrls": [
+        "https://s3.puni.sh/media/plugin/62/image-3wzsk69fih2.png",
+        "https://s3.puni.sh/media/plugin/62/image-cz33a2rx09l.png"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-sourpuh",
+      "_SourceName": "Sourpuh",
+      "_SourceUrl": "https://puni.sh/api/repository/sourpuh"
+    },
+    {
+      "Author": "sourpuh",
+      "Name": "Interjection",
+      "Punchline": "Better interrupt and enmity tracking",
+      "Description": "Show which casts are interruptible in the Enemy List. Color enmity gems when enemies are targeting other tanks.",
+      "Tags": [],
+      "InternalName": "Interjection",
+      "RepoUrl": "https://github.com/sourpuh/ffxiv_interjection",
+      "DownloadCount": 980,
+      "LastUpdate": 1777663581,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/63/Interjection/versions/0.0.0.5/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/63/Interjection/versions/0.0.0.5/update/latest.zip",
+      "AssemblyVersion": "0.0.0.5",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "",
+      "IconUrl": "https://puni.sh/api/plugins/icon/63",
+      "ImageUrls": [
+        "https://s3.puni.sh/media/plugin/63/image-w9qpjb1phr.png"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-sourpuh",
+      "_SourceName": "Sourpuh",
+      "_SourceUrl": "https://puni.sh/api/repository/sourpuh"
+    }
+  ]
+}

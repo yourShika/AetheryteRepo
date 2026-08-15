@@ -1,0 +1,33 @@
+{
+  "sourceId": "ghosy27-mingi-synchronos-repo",
+  "url": "https://raw.githubusercontent.com/ghosy27/Mingi-Synchronos-repo/main/plogonmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Ghosy",
+      "Name": "Mingi Synchronos",
+      "InternalName": "MingiSynchronos",
+      "AssemblyVersion": "1.0.4.1",
+      "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/ghosy27/Mingi-Synchronos-client",
+      "Tags": [
+        "synchronize",
+        "mods"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/ghosy27/Mingi-Synchronos-repo/main/MingiSynchronos/images/icon.png",
+      "Punchline": "Let others see you as you see yourself.",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/ghosy27/Mingi-Synchronos-client/releases/download/v1.0.4.1/MingiSynchronos.zip",
+      "DownloadLinkTesting": "https://github.com/ghosy27/Mingi-Synchronos-client/releases/download/v1.0.4.1/MingiSynchronos.zip",
+      "DownloadLinkUpdate": "https://github.com/ghosy27/Mingi-Synchronos-client/releases/download/v1.0.4.1/MingiSynchronos.zip",
+      "_SourceId": "ghosy27-mingi-synchronos-repo",
+      "_SourceName": "Mingi Synchronos",
+      "_SourceUrl": "https://raw.githubusercontent.com/ghosy27/Mingi-Synchronos-repo/main/plogonmaster.json"
+    }
+  ]
+}

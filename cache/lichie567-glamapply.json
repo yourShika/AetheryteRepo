@@ -1,0 +1,31 @@
+{
+  "sourceId": "lichie567-glamapply",
+  "url": "https://raw.githubusercontent.com/lichie567/GlamApply/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Lichie",
+      "Name": "GlamApply",
+      "Description": "Plugin to display ACT combat log data.",
+      "InternalName": "GlamApply",
+      "AssemblyVersion": "0.1.0.3",
+      "TestingAssemblyVersion": "0.1.0.3",
+      "RepoUrl": "https://github.com/lichie567/GlamApply",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 0,
+      "LastUpdate": 0,
+      "LoadPriority": 69420,
+      "DownloadLinkInstall": "https://github.com/lichie567/GlamApply/releases/download/0.1.0.3/GlamApply.zip",
+      "DownloadLinkTesting": "https://github.com/lichie567/GlamApply/releases/download/0.1.0.3/GlamApply.zip",
+      "DownloadLinkUpdate": "https://github.com/lichie567/GlamApply/releases/download/0.1.0.3/GlamApply.zip",
+      "IconUrl": "https://raw.githubusercontent.com/lichie567/GlamApply/main/GlamApply/Media/Images/icon.png",
+      "_SourceId": "lichie567-glamapply",
+      "_SourceName": "GlamApply",
+      "_SourceUrl": "https://raw.githubusercontent.com/lichie567/GlamApply/main/repo.json"
+    }
+  ]
+}

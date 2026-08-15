@@ -1,0 +1,48 @@
+{
+  "sourceId": "enceladeum-houtfits",
+  "url": "https://raw.githubusercontent.com/Enceladeum/HOutfits/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "The Enceladeum",
+      "Name": "HOutfits",
+      "InternalName": "HOutfits",
+      "Punchline": "Apply full sets to your character in Glamourer with a single click.",
+      "Description": "Lists the game's complete named sets and applies a whole set or any single piece to your character through Glamourer, instead of picking each item from a dropdown.",
+      "Changelog": "0.3.0: adds optional NPC weapon copying. Turn on \"Include weapons\" and applying a whole NPC also copies its main-hand and off-hand (experimental: Glamourer may skip a weapon that isn't valid for your current class, and clicking a single weapon icon always applies it). The \"Include accessories\" toggle now sits on each tab beside that tab's own options; on the NPC tab, \"Apply name\", \"Include weapons\" and \"Include accessories\" now share one row.",
+      "Tags": [
+        "glamour",
+        "glamourer",
+        "outfit",
+        "outfits",
+        "fashion",
+        "wardrobe",
+        "qol"
+      ],
+      "CategoryTags": [
+        "other"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/Enceladeum/HOutfits",
+      "AssemblyVersion": "0.3.0.0",
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "AcceptsFeedback": true,
+      "DownloadCount": 0,
+      "LastUpdate": 1785031283,
+      "DownloadLinkInstall": "https://github.com/Enceladeum/HOutfits/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Enceladeum/HOutfits/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Enceladeum/HOutfits/releases/latest/download/latest.zip",
+      "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HOutfits/main/images/icon.png",
+      "_SourceId": "enceladeum-houtfits",
+      "_SourceName": "HOutfits",
+      "_SourceUrl": "https://raw.githubusercontent.com/Enceladeum/HOutfits/main/repo.json"
+    }
+  ]
+}

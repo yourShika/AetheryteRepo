@@ -1,0 +1,33 @@
+{
+  "sourceId": "punish-glyceri",
+  "url": "https://puni.sh/api/repository/glyceri",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "glyceri",
+      "Name": "Silence No More",
+      "Punchline": "Shows whispers normally blocked during duties.",
+      "Description": "Shows whispers normally blocked during duties.",
+      "Tags": [
+        "Duty",
+        "Chat"
+      ],
+      "InternalName": "SilenceNoMore",
+      "RepoUrl": "https://github.com/Glyceri/SilenceNoMore",
+      "DownloadCount": 2254,
+      "LastUpdate": 1778738818,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/106/SilenceNoMore/versions/1.4.0.1/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/106/SilenceNoMore/versions/1.4.0.1/update/latest.zip",
+      "AssemblyVersion": "1.4.0.1",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "API16=5",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-glyceri",
+      "_SourceName": "Glyceri's Repo",
+      "_SourceUrl": "https://puni.sh/api/repository/glyceri"
+    }
+  ]
+}

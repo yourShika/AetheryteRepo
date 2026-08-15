@@ -1,0 +1,39 @@
+{
+  "sourceId": "nanakhide-mcdexport",
+  "url": "https://raw.githubusercontent.com/NanaKhide/MCDExport/master/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "your name here",
+      "Name": "MCDFExport",
+      "InternalName": "MCDExport",
+      "AssemblyVersion": "1.0.0",
+      "TestingAssemblyVersion": "1.1.2",
+      "Description": "Allows you to export your character as a MCDF File.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/NanaKhide/MCDExport",
+      "Tags": [
+        "gpose",
+        "utility",
+        "tools"
+      ],
+      "DownloadLinkInstall": "https://github.com/NanaKhide/MCDExport/releases/download/v1.0.0/MCDExport.zip",
+      "DownloadLinkTesting": "https://github.com/NanaKhide/MCDExport/releases/download/v1.1.2/MCDExport.zip",
+      "DownloadLinkUpdate": "https://github.com/NanaKhide/MCDExport/releases/download/v1.0.0/MCDExport.zip",
+      "DalamudApiLevel": 13,
+      "TestingDalamudApiLevel": 13,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "Punchline": "Rest well little moon ♥",
+      "AcceptsFeedback": false,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "nanakhide-mcdexport",
+      "_SourceName": "MCDFExport",
+      "_SourceUrl": "https://raw.githubusercontent.com/NanaKhide/MCDExport/master/repo.json"
+    }
+  ]
+}

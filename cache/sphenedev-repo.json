@@ -1,0 +1,86 @@
+{
+  "sourceId": "sphenedev-repo",
+  "url": "https://raw.githubusercontent.com/SpheneDev/repo/main/plogonmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 3,
+  "plugins": [
+    {
+      "Author": "SpheneDev",
+      "Name": "Sphene",
+      "InternalName": "Sphene",
+      "AssemblyVersion": "1.1.16.0",
+      "Description": "Through the power of Living Memory, this plugin harmonizes your Penumbra modifications and Glamourer configurations across all connected souls, ensuring endless synchronization in your shared digital realm.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/SpheneDev/SpheneClient",
+      "Tags": [
+        "customization"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/SpheneDev/repo/main/images/Sphene.png",
+      "Punchline": "Become Endless. Return to Living Memory.",
+      "DownloadLinkInstall": "https://github.com/SpheneDev/SpheneClient/releases/download/v1.1.16.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/SpheneDev/SpheneClient/releases/download/v1.1.16.0/latest.zip",
+      "DownloadLinkTesting": "https://github.com/SpheneDev/SpheneClient/releases/download/v1.1.15.11/latest.zip",
+      "TestingChangelog": "Note: Testing Build is not stable. Use at your own risk.(Added Features may only work on Testserver)",
+      "TestingAssemblyVersion": "1.1.15.11",
+      "TestingDalamudApiLevel": "15",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "sphenedev-repo",
+      "_SourceName": "Sphene",
+      "_SourceUrl": "https://raw.githubusercontent.com/SpheneDev/repo/main/plogonmaster.json"
+    },
+    {
+      "Author": "SpheneDev",
+      "Name": "ShrinkU",
+      "InternalName": "ShrinkU",
+      "AssemblyVersion": "0.0.9",
+      "Description": "Manage your Mods. Back them up. Restore them when needed.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/SpheneDev/ShrinkU",
+      "Tags": [
+        "customization"
+      ],
+      "DalamudApiLevel": 14,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/SpheneDev/repo/main/images/ShrinkU.png",
+      "Punchline": "Manage your Mods. Back them up. Restore them when needed.",
+      "DownloadLinkInstall": "https://github.com/SpheneDev/ShrinkU/releases/download/v.0.0.9/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/SpheneDev/ShrinkU/releases/download/v.0.0.9/latest.zip",
+      "DownloadLinkTesting": "https://sphene.online/dev/latest.zip",
+      "TestingChangelog": "",
+      "TestingAssemblyVersion": "0.0.3",
+      "TestingDalamudApiLevel": "14",
+      "IsHide": true,
+      "IsTestingExclusive": false,
+      "_SourceId": "sphenedev-repo",
+      "_SourceName": "Sphene",
+      "_SourceUrl": "https://raw.githubusercontent.com/SpheneDev/repo/main/plogonmaster.json"
+    },
+    {
+      "Author": "SpheneDev & Keq.Art",
+      "Name": "Venue Plus",
+      "InternalName": "VenuePlus",
+      "AssemblyVersion": "0.0.6.5",
+      "Description": "Easily manage your staff members, create VIP lists, and register your DJs for your event. Register your club and support your staff with this tool",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/SpheneDev/VenuePlus",
+      "Tags": [
+        "customization"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/SpheneDev/repo/main/images/venueplus.png",
+      "Punchline": "Easily manage your staff members, create VIP lists, and register your DJs for your event. Register your club and support your staff with this tool",
+      "DownloadLinkInstall": "https://github.com/SpheneDev/VenuePlus/releases/download/0.0.6.5/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/SpheneDev/VenuePlus/releases/download/0.0.6.5/latest.zip",
+      "TestingDalamudApiLevel": "15",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "sphenedev-repo",
+      "_SourceName": "Sphene",
+      "_SourceUrl": "https://raw.githubusercontent.com/SpheneDev/repo/main/plogonmaster.json"
+    }
+  ]
+}

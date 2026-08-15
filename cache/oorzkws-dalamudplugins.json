@@ -1,0 +1,34 @@
+{
+  "sourceId": "oorzkws-dalamudplugins",
+  "url": "https://raw.githubusercontent.com/oorzkws/DalamudPlugins/master/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "oorzkws",
+      "Name": "Neon Castbars",
+      "Punchline": "Colors enemy castbars based on progress",
+      "Description": "Colors your target and/or focus target castbars based on their progress.",
+      "InternalName": "NeonCastbarPlugin",
+      "AssemblyVersion": "7.0.1.0",
+      "RepoUrl": "https://github.com/oorzkws/NeonCastbarPlugin",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "cast bars",
+        "castbars"
+      ],
+      "DalamudApiLevel": 10,
+      "LoadPriority": 0,
+      "DownloadLinkInstall": "https://github.com/oorzkws/DalamudPlugins/raw/master/plugins/NeonCastbarPlugin/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/oorzkws/DalamudPlugins/raw/master/plugins/NeonCastbarPlugin/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/oorzkws/DalamudPlugins/raw/master/plugins/NeonCastbarPlugin/latest.zip",
+      "DownloadCount": 0,
+      "LastUpdated": "1722202532",
+      "_SourceId": "oorzkws-dalamudplugins",
+      "_SourceName": "oorzkws/DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/oorzkws/DalamudPlugins/master/pluginmaster.json"
+    }
+  ]
+}

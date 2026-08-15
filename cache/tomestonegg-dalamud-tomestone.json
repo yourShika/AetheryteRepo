@@ -1,0 +1,31 @@
+{
+  "sourceId": "tomestonegg-dalamud-tomestone",
+  "url": "https://raw.githubusercontent.com/TomestoneGG/Dalamud.Tomestone/master/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "TomestoneGG",
+      "Name": "Tomestone",
+      "Description": "A presence and gear tracker that syncs your in-game job, zone, level and gear changes to the tomestone.gg web site.",
+      "InternalName": "Dalamud.Tomestone",
+      "AssemblyVersion": "0.4.0.14",
+      "TestingAssemblyVersion": "0.4.0.14",
+      "RepoUrl": "https://github.com/TomestoneGG/Dalamud.Tomestone",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 0,
+      "LastUpdate": 0,
+      "LoadPriority": 69420,
+      "DownloadLinkInstall": "https://github.com/TomestoneGG/Dalamud.Tomestone/releases/download/0.4.0.14/Dalamud.Tomestone.zip",
+      "DownloadLinkTesting": "https://github.com/TomestoneGG/Dalamud.Tomestone/releases/download/0.4.0.14/Dalamud.Tomestone.zip",
+      "DownloadLinkUpdate": "https://github.com/TomestoneGG/Dalamud.Tomestone/releases/download/0.4.0.14/Dalamud.Tomestone.zip",
+      "IconUrl": "https://raw.githubusercontent.com/TomestoneGG/Dalamud.Tomestone/master/Data/tomestone.png",
+      "_SourceId": "tomestonegg-dalamud-tomestone",
+      "_SourceName": "TomestoneGG / Dalamud.Tomestone",
+      "_SourceUrl": "https://raw.githubusercontent.com/TomestoneGG/Dalamud.Tomestone/master/repo.json"
+    }
+  ]
+}

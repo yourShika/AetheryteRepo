@@ -1,0 +1,38 @@
+{
+  "sourceId": "aspher0-glammaster",
+  "url": "https://raw.githubusercontent.com/Aspher0/GlamMaster/main/GlamMaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Aspher0",
+      "Name": "Glamour Master",
+      "InternalName": "GlamMaster",
+      "AssemblyVersion": "0.0.2.0",
+      "Description": "Let others control your fashion.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/Aspher0/GlamMaster",
+      "Tags": [
+        "glamour",
+        "control",
+        "master",
+        "puppet",
+        "fashion"
+      ],
+      "DalamudApiLevel": 11,
+      "LoadPriority": 0,
+      "Punchline": "Let others control your fashion.",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 0,
+      "LastUpdated": 0,
+      "Changelog": "",
+      "DownloadLinkInstall": "https://github.com/Aspher0/GlamMaster/releases/download/v0.0.2.0_pre-alpha_8/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Aspher0/GlamMaster/releases/download/v0.0.2.0_pre-alpha_8/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Aspher0/GlamMaster/releases/download/v0.0.2.0_pre-alpha_8/latest.zip",
+      "_SourceId": "aspher0-glammaster",
+      "_SourceName": "Glamour Master",
+      "_SourceUrl": "https://raw.githubusercontent.com/Aspher0/GlamMaster/main/GlamMaster.json"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "sourceId": "moralfiberffxiv-penumbrasort",
+  "url": "https://raw.githubusercontent.com/moralfiberffxiv/PenumbraSort/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "moralfiberffxiv",
+      "Name": "PenumbraSort",
+      "InternalName": "PenumbraSort",
+      "AssemblyVersion": "1.2.3.0",
+      "TestingAssemblyVersion": "1.2.3.0",
+      "Description": "Sort and tag your Penumbra mods by clothing type, season, and occasion. Keep your glamour collection perfectly organized.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/moralfiberffxiv/PenumbraSort",
+      "Tags": [
+        "penumbra",
+        "mods",
+        "glamour",
+        "organization",
+        "fashion",
+        "sorting"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": true,
+      "SupportsProfiles": true,
+      "DownloadLinkInstall": "https://github.com/moralfiberffxiv/PenumbraSort/releases/latest/download/PenumbraSort.zip",
+      "DownloadLinkUpdate": "https://github.com/moralfiberffxiv/PenumbraSort/releases/latest/download/PenumbraSort.zip",
+      "DownloadLinkTesting": "https://github.com/moralfiberffxiv/PenumbraSort/releases/latest/download/PenumbraSort.zip",
+      "DownloadCount": 0,
+      "LastUpdated": 0,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "moralfiberffxiv-penumbrasort",
+      "_SourceName": "PenumbraSort",
+      "_SourceUrl": "https://raw.githubusercontent.com/moralfiberffxiv/PenumbraSort/main/repo.json"
+    }
+  ]
+}

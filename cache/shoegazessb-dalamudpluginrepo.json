@@ -1,0 +1,95 @@
+{
+  "sourceId": "shoegazessb-dalamudpluginrepo",
+  "url": "https://raw.githubusercontent.com/SHOEGAZEssb/DalamudPluginRepo/master/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 3,
+  "plugins": [
+    {
+      "Author": "SHOEGAZEssb",
+      "Name": "AchManager",
+      "Punchline": "Get notifications for achievement progress!",
+      "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
+      "Changelog": "",
+      "InternalName": "AchManager",
+      "AssemblyVersion": "1.7.0.0",
+      "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "achievements"
+      ],
+      "DalamudApiLevel": 15,
+      "IconUrl": "",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.7.0.0/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.7.0.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.7.0.0/latest.zip",
+      "DownloadCount": 1409,
+      "LastUpdate": "1777995656",
+      "_SourceId": "shoegazessb-dalamudpluginrepo",
+      "_SourceName": "SHOEGAZEssb DalamudPluginRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/SHOEGAZEssb/DalamudPluginRepo/master/pluginmaster.json"
+    },
+    {
+      "Author": "SHOEGAZEssb",
+      "Name": "Dagobert",
+      "Punchline": "Penny pinching to the extreme",
+      "Description": "Automates market board penny pinching",
+      "Changelog": "",
+      "InternalName": "Dagobert",
+      "AssemblyVersion": "1.14.1.0",
+      "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "Utility"
+      ],
+      "DalamudApiLevel": 15,
+      "IconUrl": "",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.14.1.0/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.14.1.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.14.1.0/latest.zip",
+      "DownloadCount": 22728,
+      "LastUpdate": "1781336152",
+      "_SourceId": "shoegazessb-dalamudpluginrepo",
+      "_SourceName": "SHOEGAZEssb DalamudPluginRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/SHOEGAZEssb/DalamudPluginRepo/master/pluginmaster.json"
+    },
+    {
+      "Author": "SHOEGAZEssb",
+      "Name": "DutyLanguage",
+      "Punchline": "Diversify your ingame voice acting experience",
+      "Description": "Lets you configure voice acting language on a per-duty basis.",
+      "Changelog": "",
+      "InternalName": "DutyLanguage",
+      "AssemblyVersion": "1.0.2.0",
+      "RepoUrl": "https://github.com/SHOEGAZEssb/DutyLanguage",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "other"
+      ],
+      "DalamudApiLevel": 12,
+      "IconUrl": "https://github.com/SHOEGAZEssb/DutyLanguage/blob/master/DutyLanguage/images/icon.png",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/DutyLanguage/releases/download/v1.0.2.0/latest.zip",
+      "DownloadCount": 69,
+      "LastUpdate": "1743618189",
+      "_SourceId": "shoegazessb-dalamudpluginrepo",
+      "_SourceName": "SHOEGAZEssb DalamudPluginRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/SHOEGAZEssb/DalamudPluginRepo/master/pluginmaster.json"
+    }
+  ]
+}

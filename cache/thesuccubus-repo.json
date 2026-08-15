@@ -1,0 +1,28 @@
+{
+  "sourceId": "thesuccubus-repo",
+  "url": "https://raw.githubusercontent.com/thesuccubus/repo/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "buttplug",
+      "Name": "buttplugin",
+      "Description": "One time my squat plug ricocheted into someones head",
+      "InternalName": "Buttplugin",
+      "AssemblyVersion": "7.1.5.34407",
+      "RepoUrl": "",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 8,
+      "DownloadLinkInstall": "https://github.com/thesuccubus/repo/raw/main/plugins/Buttplugin/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/thesuccubus/repo/raw/main/plugins/Buttplugin/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/thesuccubus/repo/raw/main/plugins/Buttplugin/latest.zip",
+      "DownloadCount": 0,
+      "LastUpdated": "1673809647",
+      "_SourceId": "thesuccubus-repo",
+      "_SourceName": "thesuccubus/repo",
+      "_SourceUrl": "https://raw.githubusercontent.com/thesuccubus/repo/main/pluginmaster.json"
+    }
+  ]
+}

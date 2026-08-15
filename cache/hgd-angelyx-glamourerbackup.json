@@ -1,0 +1,40 @@
+{
+  "sourceId": "hgd-angelyx-glamourerbackup",
+  "url": "https://raw.githubusercontent.com/HGD-Angelyx/GlamourerBackup/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "HGD-Angelyx",
+      "Name": "Glamourer Backup",
+      "Punchline": "Automatically backs up your Glamourer designs at user-set intervals.",
+      "Description": "Periodically creates timestamped backups of all your Glamourer designs to prevent outfit loss on crashes. Also saves your currently equipped outfit via the Glamourer API. Configure the backup interval in settings.",
+      "InternalName": "GlamourerBackup",
+      "AssemblyVersion": "0.2.0.0",
+      "TestingAssemblyVersion": "0.2.0.0",
+      "RepoUrl": "https://github.com/HGD-Angelyx/GlamourerBackup",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Tags": [
+        "glamourer",
+        "backup",
+        "appearance",
+        "utility"
+      ],
+      "IconUrl": "",
+      "ImageUrls": [],
+      "DownloadLinkInstall": "https://github.com/HGD-Angelyx/GlamourerBackup/releases/download/v0.2.0/GlamourerBackup.zip",
+      "DownloadLinkTesting": "https://github.com/HGD-Angelyx/GlamourerBackup/releases/download/v0.2.0/GlamourerBackup.zip",
+      "DownloadLinkUpdate": "https://github.com/HGD-Angelyx/GlamourerBackup/releases/download/v0.2.0/GlamourerBackup.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": true,
+      "SupportsProfiles": true,
+      "_SourceId": "hgd-angelyx-glamourerbackup",
+      "_SourceName": "Glamourer Backup",
+      "_SourceUrl": "https://raw.githubusercontent.com/HGD-Angelyx/GlamourerBackup/main/repo.json"
+    }
+  ]
+}

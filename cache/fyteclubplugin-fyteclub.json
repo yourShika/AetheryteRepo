@@ -1,0 +1,42 @@
+{
+  "sourceId": "fyteclubplugin-fyteclub",
+  "url": "https://raw.githubusercontent.com/fyteclubplugin/fyteclub/main/plugin/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "FyteClub Team",
+      "Name": "FyteClub",
+      "Punchline": "Share your mods with friends",
+      "Description": "Sync mods between players using Penumbra, Glamourer, and other plugins",
+      "InternalName": "FyteClub",
+      "AssemblyVersion": "5.0.14",
+      "RepoUrl": "https://github.com/fyteclubplugin/fyteclub",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "mods",
+        "sharing",
+        "character",
+        "customization"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "IconUrl": "",
+      "ImageUrls": [],
+      "AcceptsFeedback": true,
+      "DownloadLinkInstall": "https://github.com/fyteclubplugin/fyteclub/releases/latest/download/FyteClub-Plugin.zip",
+      "DownloadLinkTesting": "https://github.com/fyteclubplugin/fyteclub/releases/latest/download/FyteClub-Plugin.zip",
+      "DownloadLinkUpdate": "https://github.com/fyteclubplugin/fyteclub/releases/latest/download/FyteClub-Plugin.zip",
+      "DownloadCount": 0,
+      "LastUpdated": "2026-08-09T00:25:59.000Z",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "fyteclubplugin-fyteclub",
+      "_SourceName": "FyteClub",
+      "_SourceUrl": "https://raw.githubusercontent.com/fyteclubplugin/fyteclub/main/plugin/repo.json"
+    }
+  ]
+}

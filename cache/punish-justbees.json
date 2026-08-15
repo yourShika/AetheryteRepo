@@ -1,0 +1,39 @@
+{
+  "sourceId": "punish-justbees",
+  "url": "https://puni.sh/api/repository/justbees",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "zbee",
+      "Name": "ARC",
+      "Punchline": "Better AutoRetainer Venture Planner",
+      "Description": "Instead of manually managing retainer plans for each individual character, which can get fairly tedious fairly quickly, we optimize this a bit and only manage \"high-level\" plans.\n\nOriginally made by Liza Carvelli - thank you for your work.",
+      "Tags": [
+        "ar",
+        "autoretainer",
+        "retainers",
+        "retainer",
+        "venture",
+        "ventures",
+        "venture lists"
+      ],
+      "InternalName": "ARControl",
+      "RepoUrl": "https://github.com/zbee/ARC",
+      "DownloadCount": 3428,
+      "LastUpdate": 1777656078,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/99/ARControl/versions/8.5/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/99/ARControl/versions/8.5/update/latest.zip",
+      "AssemblyVersion": "8.5",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "Update for 7.5",
+      "IconUrl": "https://puni.sh/api/plugins/icon/99",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-justbees",
+      "_SourceName": "justbees",
+      "_SourceUrl": "https://puni.sh/api/repository/justbees"
+    }
+  ]
+}

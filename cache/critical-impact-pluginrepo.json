@@ -1,0 +1,39 @@
+{
+  "sourceId": "critical-impact-pluginrepo",
+  "url": "https://raw.githubusercontent.com/Critical-Impact/PluginRepo/main/plugins.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Critical_Impact",
+      "Name": "Allagan Tools (Custom Repo)",
+      "Description": "Debug active.",
+      "InternalName": "InventoryTools2",
+      "AssemblyVersion": "1.2.0.9",
+      "RepoUrl": "https://github.com/Critical-Impact/InventoryTools2",
+      "ApplicableVersion": "any",
+      "TestingAssemblyVersion": "1.2.0.9",
+      "DalamudApiLevel": 7,
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/Images/banner1.png"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/Images/icon.png",
+      "Punchline": "Clean up your messy inventories.",
+      "Tags": [
+        "Inventory",
+        "Sorting",
+        "Filtering"
+      ],
+      "DownloadLinkInstall": "https://github.com/Critical-Impact/PluginRepo/raw/main/plugins/InventoryTools/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/Critical-Impact/PluginRepo/raw/main/plugins/InventoryTools/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Critical-Impact/PluginRepo/raw/main/plugins/InventoryTools/latest.zip",
+      "DownloadCount": 0,
+      "LastUpdated": "1632990607",
+      "_SourceId": "critical-impact-pluginrepo",
+      "_SourceName": "Critical-Impact PluginRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/Critical-Impact/PluginRepo/main/plugins.json"
+    }
+  ]
+}

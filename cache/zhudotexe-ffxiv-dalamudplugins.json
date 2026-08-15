@@ -1,0 +1,65 @@
+{
+  "sourceId": "zhudotexe-ffxiv-dalamudplugins",
+  "url": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json",
+  "fetchedAt": "2026-08-15",
+  "count": 2,
+  "plugins": [
+    {
+      "Author": "zhudotexe",
+      "Name": "Arc Sys Countdown Messages",
+      "InternalName": "CountdownMessages",
+      "AssemblyVersion": "1.0.7.0",
+      "Description": "Generates a random Arc Sys countdown message on /rcd <time>. Time must be between 5 and 30 seconds.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/zhudotexe/FFXIV_CountdownMessages",
+      "Tags": [
+        "meme"
+      ],
+      "DalamudApiLevel": 10,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "Punchline": "Can't escape from crossing Michigan! The lazy Susan of fate is turning! Third fish! Eviscerate!",
+      "AcceptsFeedback": true,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "LastUpdated": 1720413151,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_CountdownMessages/CountdownMessages.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_CountdownMessages/CountdownMessages.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_CountdownMessages/CountdownMessages.zip",
+      "_SourceId": "zhudotexe-ffxiv-dalamudplugins",
+      "_SourceName": "zhudotexe / FFXIV_DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json"
+    },
+    {
+      "Author": "zhudotexe",
+      "Name": "YEAAAAAAHT",
+      "InternalName": "VieraVoice4",
+      "AssemblyVersion": "1.0.0.0",
+      "Description": "YEAAAAAAAAHT",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/zhudotexe/FFXIV_VieraVoice4",
+      "Tags": [
+        "meme"
+      ],
+      "DalamudApiLevel": 10,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_VieraVoice4/images/icon.png",
+      "Punchline": "YEAAAAAAAAHT",
+      "AcceptsFeedback": true,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "LastUpdated": 1720415119,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_VieraVoice4/VieraVoice4.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_VieraVoice4/VieraVoice4.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/plugins/FFXIV_VieraVoice4/VieraVoice4.zip",
+      "_SourceId": "zhudotexe-ffxiv-dalamudplugins",
+      "_SourceName": "zhudotexe / FFXIV_DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json"
+    }
+  ]
+}

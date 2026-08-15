@@ -1,0 +1,34 @@
+{
+  "sourceId": "ktisis-tools-ktisis",
+  "url": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Chirp, Cazzar, Bwuny, Karou, and contributors",
+      "Name": "Ktisis",
+      "InternalName": "Ktisis",
+      "Description": "A robust posing tool for creating screenshots in GPose.",
+      "AssemblyVersion": "0.4.0.5",
+      "TestingAssemblyVersion": "0.4.0.5",
+      "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "TestingDalamudApiLevel": 15,
+      "Tags": [
+        "gpose",
+        "posing",
+        "ktisis"
+      ],
+      "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
+      "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.5/latest.zip",
+      "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.5/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.5/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "ktisis-tools-ktisis",
+      "_SourceName": "Ktisis",
+      "_SourceUrl": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/repo.json"
+    }
+  ]
+}

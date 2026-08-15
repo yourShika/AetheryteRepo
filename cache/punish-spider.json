@@ -1,0 +1,35 @@
+{
+  "sourceId": "punish-spider",
+  "url": "https://puni.sh/api/repository/spider",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "spider",
+      "Name": "CCAnonymizer",
+      "Punchline": "Preserving your mental since season 11",
+      "Description": "Hides Adventurer plates, Usernames, and Player Appearance when in Crystaline Conflict. Enjoy worry-free laddering!",
+      "Tags": [
+        "pvp",
+        "cc",
+        "anonymizer"
+      ],
+      "InternalName": "CCAnonymizer",
+      "RepoUrl": "https://github.com/spide-r/CCAnonymizer",
+      "DownloadCount": 348,
+      "LastUpdate": 1777571150,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/72/CCAnonymizer/versions/0.4.1.1/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/72/CCAnonymizer/versions/0.4.1.1/update/latest.zip",
+      "AssemblyVersion": "0.4.1.1",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "help me im stuck in a dalamud changelog please get me out of here",
+      "IconUrl": "https://puni.sh/api/plugins/icon/72",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-spider",
+      "_SourceName": "Spider's Repo",
+      "_SourceUrl": "https://puni.sh/api/repository/spider"
+    }
+  ]
+}

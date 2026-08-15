@@ -1,0 +1,35 @@
+{
+  "sourceId": "punish-gid",
+  "url": "https://puni.sh/api/repository/gid",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Gid",
+      "Name": "Gearset Reminder",
+      "Punchline": "Reminds you to switch gearsets when entering duties.",
+      "Description": "Configure duties to warn you to the correct gearset on entry.",
+      "Tags": [
+        "gearset",
+        "duty",
+        "utility"
+      ],
+      "InternalName": "GearsetReminder",
+      "RepoUrl": "https://puni.sh/api/repository/gid",
+      "DownloadCount": 107,
+      "LastUpdate": 1772289558,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/117/GearsetReminder/versions/1.0.0.4/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/117/GearsetReminder/versions/1.0.0.4/update/latest.zip",
+      "AssemblyVersion": "1.0.0.4",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 14,
+      "Changelog": "Separate reminders per character now (all current reminders will be set to the next character that logins - or the current one logged);\nFix a check for gearsets that were deleted from the game;\nAllow reminder deletion from the warning window that shows on duty enter, by holding CTRL.",
+      "IconUrl": "https://puni.sh/api/plugins/icon/117",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-gid",
+      "_SourceName": "Gid's Little Beach",
+      "_SourceUrl": "https://puni.sh/api/repository/gid"
+    }
+  ]
+}

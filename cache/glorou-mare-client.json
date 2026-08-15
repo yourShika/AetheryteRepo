@@ -1,0 +1,35 @@
+{
+  "sourceId": "glorou-mare-client",
+  "url": "https://raw.githubusercontent.com/Glorou/mare.client/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "darkarchon, Karou",
+      "Name": "Mare Synchronos",
+      "InternalName": "Mare",
+      "AssemblyVersion": "1.11.0.1",
+      "Punchline": "Let others see you as you see yourself.",
+      "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/Glorou/mare.client",
+      "Tags": [
+        "customization"
+      ],
+      "DalamudApiLevel": 13,
+      "LoadPriority": 0,
+      "DownloadCount": 0,
+      "DownloadLinkInstall": "https://github.com/Glorou/mare.client/releases/download/v1.11.0.1/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Glorou/mare.client/releases/download/v1.11.0.1/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Glorou/mare.client/releases/download/v1.11.0.1/latest.zip",
+      "IconUrl": "https://raw.githubusercontent.com/Glorou/mare.client/refs/heads/main/MareSynchronos/images/icon.png",
+      "_isDip17Plugin": false,
+      "_Dip17Channel": null,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "glorou-mare-client",
+      "_SourceName": "Mare Synchronos",
+      "_SourceUrl": "https://raw.githubusercontent.com/Glorou/mare.client/main/repo.json"
+    }
+  ]
+}

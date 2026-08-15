@@ -1,0 +1,44 @@
+{
+  "sourceId": "yocopk-moghouse-dalamud",
+  "url": "https://raw.githubusercontent.com/yocopk/moghouse-dalamud/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "yocopk",
+      "Name": "MogHouse Companion",
+      "InternalName": "MogHouseCompanion",
+      "AssemblyVersion": "0.1.0.0",
+      "Description": "Companion plugin for MogHouse (mog-house.com).\n\nAn all-in-one home for quality-of-life tools that link FINAL FANTASY XIV to your MogHouse account. Tools are added over time; each one can be switched on or off individually, and nothing leaves the game unless you enable it.\n\nTimers: reads the timers you already see in the game's own Timers window (CTRL+U), including submarine and airship voyages, retainer ventures, map and leve allowances, custom deliveries and allied society dailies, and syncs them to your profile. MogHouse then pushes you a notification the moment one comes up, on web and mobile, even while the game and your PC are off. Voyages are timed to the last vessel back, so one notification means the whole fleet is home.\n\nDuty Finder: when the confirm window appears, MogHouse pushes the duty or roulette name to your phone, so you know whether it is worth the sprint back to the desk. By default it stays quiet while the game is the window you are looking at.\n\nThe plugin is read-only: it collects your own data and reports status. It never performs an in-game action — it will not commence a duty for you, and it does not skip, confirm or automate anything.\n\nOpen it with /moghouse. Requires a MogHouse account, and a free one is enough: it syncs one character and sends one timer alert of your choosing, plus duty pops. Mog+ lifts both limits and warns you before a timer lands rather than as it does.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/yocopk/moghouse-dalamud",
+      "Tags": [
+        "moghouse",
+        "companion",
+        "quality of life",
+        "timers",
+        "notifications"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/yocopk/moghouse-dalamud/main/images/icon.png",
+      "Punchline": "Quality-of-life tools that connect your game to MogHouse. Timers and duty pops, pushed to your phone.",
+      "AcceptsFeedback": false,
+      "DownloadLinkInstall": "https://github.com/yocopk/moghouse-dalamud/releases/download/v0.1.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/yocopk/moghouse-dalamud/releases/download/v0.1.0/latest.zip",
+      "DownloadLinkTesting": "https://github.com/yocopk/moghouse-dalamud/releases/download/v0.1.0/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "LastUpdate": 1786638361,
+      "_SourceId": "yocopk-moghouse-dalamud",
+      "_SourceName": "yocopk/moghouse-dalamud",
+      "_SourceUrl": "https://raw.githubusercontent.com/yocopk/moghouse-dalamud/main/repo.json"
+    }
+  ]
+}

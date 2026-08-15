@@ -1,0 +1,33 @@
+{
+  "sourceId": "aetherremote-aetherremote",
+  "url": "https://raw.githubusercontent.com/aetherremote/AetherRemote/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Mora",
+      "Name": "Aether Remote",
+      "InternalName": "AetherRemoteClient",
+      "AssemblyVersion": "2.10.3.2",
+      "Description": "This plugin allows you and your friends to control each other, and optionally allows even more control utilizing glamourer & mare",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/aetherremote/AetherRemote",
+      "Tags": [
+        "chat",
+        "customization"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/aetherremote/AetherRemote/main/Images/icon.jpg",
+      "Punchline": "Control other player's speech, emotes, and appearance.",
+      "DownloadLinkInstall": "https://github.com/aetherremote/AetherRemote/releases/download/2.10.3.2/latest.zip",
+      "DownloadLinkTesting": "https://github.com/aetherremote/AetherRemote/releases/download/2.10.3.2/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/aetherremote/AetherRemote/releases/download/2.10.3.2/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "aetherremote-aetherremote",
+      "_SourceName": "Aether Remote",
+      "_SourceUrl": "https://raw.githubusercontent.com/aetherremote/AetherRemote/main/repo.json"
+    }
+  ]
+}

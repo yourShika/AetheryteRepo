@@ -98,8 +98,8 @@
 <div class="wrap">
   <header>
     <h1>Aetheryte Repo</h1>
-    <p class="sub">Ein Dalamud-Repo statt zwanzig. Alle Quellen werden alle 3&nbsp;Stunden automatisch
-    eingesammelt, entdoppelt und nach Kategorien sortiert.</p>
+    <p class="sub">Ein Dalamud-Repo statt zweihundert. Alle Quellen werden alle 3&nbsp;Stunden
+    automatisch eingesammelt, entdoppelt und nach Kategorien sortiert.</p>
   </header>
 
   <div class="stat-row" id="stats"></div>
@@ -161,7 +161,8 @@
       '<div class="stat"><b>'+master+'</b><span>Plugins im Master</span></div>' +
       '<div class="stat"><b>'+d.plugins.length+'</b><span>Gesamt</span></div>' +
       '<div class="stat"><b>'+d.sources.length+'</b><span>Quellen</span></div>' +
-      '<div class="stat"><b>'+cats.length+'</b><span>Kategorien</span></div>';
+      '<div class="stat"><b>'+cats.length+'</b><span>Kategorien</span></div>' +
+      '<div class="stat"><b>'+(d.currentApiLevel||"–")+'</b><span>Dalamud-API</span></div>';
 
     $("gen").textContent = d.generatedAt.replace("T"," ").slice(0,16) + " UTC";
 
@@ -174,6 +175,10 @@
     cats.forEach(function(c){
       feeds.push({ id:c.id, emoji:c.emoji, name:c.name, desc:c.description+" · "+c.count+" Plugins", file:c.file });
     });
+    if (d.legacyPlugins)
+      feeds.push({ id:"legacy", emoji:"\u{1F5C3}\u{FE0F}", name:"Legacy-Archiv",
+                   desc:"API < "+d.minApiLevel+", laden in aktuellem Dalamud nicht mehr · "+d.legacyPlugins+" Plugins",
+                   file:"repos/legacy.json" });
 
     var fw = $("feeds");
     feeds.forEach(function(f){

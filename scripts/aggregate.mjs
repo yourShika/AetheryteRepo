@@ -28,7 +28,7 @@ import { CATEGORIES, CATEGORY_IDS, EXCLUDED_FROM_MASTER, categorize } from "./li
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const P = (...s) => path.join(ROOT, ...s);
 
-const CONCURRENCY = 6;
+const CONCURRENCY = 12;
 const TIMEOUT_MS = 45_000;
 const RETRIES = 3;
 const UA = "AetheryteRepo/1.0 (+https://github.com/yourShika/AetheryteRepo)";
@@ -297,8 +297,13 @@ async function main() {
         byInternal.set(key, { plugin: p, priority: prio, source: r.source });
         continue;
       }
-      const cmp = compareVersions(p.AssemblyVersion, prev.plugin.AssemblyVersion);
-      const wins = cmp > 0 || (cmp === 0 && prio > prev.priority);
+      // Prioritaet schlaegt Version. Das Original-Repo eines Entwicklers hat
+      // immer die neueste Fassung seines eigenen Plugins; ein Sammel-Repo oder
+      // eine Regionalvariante mit hoeherer Nummer darf es nicht verdraengen.
+      // Erst bei gleicher Prioritaet entscheidet die Versionsnummer.
+      const wins =
+        prio > prev.priority ||
+        (prio === prev.priority && compareVersions(p.AssemblyVersion, prev.plugin.AssemblyVersion) > 0);
       duplicates.push({
         internalName: p.InternalName,
         kept: wins ? r.source.name : prev.source.name,
@@ -310,17 +315,35 @@ async function main() {
     }
   }
 
-  /* --- 4. Kategorisieren ------------------------------------------- */
+  /* --- 4. Veraltete API-Level aussortieren -------------------------- */
+
+  // Dalamud laedt nur Plugins nahe am aktuellen API-Level. Sammel-Repos
+  // schleppen viel aus der 5.x/6.0-Aera mit; das waere im Installer nur
+  // ausgegrauter Ballast. Der Grenzwert richtet sich nach dem hoechsten
+  // tatsaechlich gesehenen Level, damit er bei jedem Dalamud-Sprung mitwandert.
+  const apiOf = (p) => Math.max(p.DalamudApiLevel ?? -1, p.TestingDalamudApiLevel ?? -1);
+  const levels = [...byInternal.values()].map((e) => apiOf(e.plugin)).filter((n) => n >= 0);
+  const currentApi = levels.length ? Math.max(...levels) : 0;
+  const window = cfg.apiLevelWindow ?? 2;
+  const minApi = currentApi - window;
 
   const buckets = Object.fromEntries(CATEGORY_IDS.map((id) => [id, []]));
   const all = [];
+  const legacy = [];
 
   for (const { plugin, source } of byInternal.values()) {
     const { category } = categorize(plugin, source.category, categoryOverrides);
     const final = { ...plugin, _Category: category };
+    const api = apiOf(final);
+    // Ohne Angabe laesst sich nichts beurteilen -> drin lassen.
+    if (api >= 0 && api < minApi) {
+      legacy.push(final);
+      continue;
+    }
     buckets[category].push(final);
     all.push(final);
   }
+  legacy.sort((a, b) => a.Name.localeCompare(b.Name, "en", { sensitivity: "base" }));
 
   const sortFn = (a, b) => a.Name.localeCompare(b.Name, "en", { sensitivity: "base" });
   all.sort(sortFn);
@@ -336,6 +359,9 @@ async function main() {
     contentHash: contentHashOf(all),
     totalPlugins: all.length,
     masterPlugins: master.length,
+    currentApiLevel: currentApi,
+    minApiLevel: minApi,
+    legacyPlugins: legacy.length,
     sources: results.map((r) => ({
       id: r.source.id,
       name: r.source.name,
@@ -366,10 +392,14 @@ async function main() {
 
   await writeJson(P("repos", "master.json"), master);
   await writeJson(P("repos", "master-full.json"), all);
+  await writeJson(P("repos", "legacy.json"), legacy);
   for (const id of CATEGORY_IDS) await writeJson(P("repos", `${id}.json`), buckets[id]);
   await writeJson(P("repos", "index.json"), stats);
   await writeJson(P("docs", "plugins.json"), {
     generatedAt,
+    currentApiLevel: currentApi,
+    minApiLevel: minApi,
+    legacyPlugins: legacy.length,
     categories: stats.categories,
     sources: stats.sources,
     plugins: all.map((p) => ({
@@ -395,6 +425,7 @@ async function main() {
   log("\n--- fertig ---");
   log(`  ${master.length} Plugins im Master, ${all.length} inkl. 18+`);
   log(`  ${duplicates.length} Duplikate aufgeloest`);
+  log(`  ${legacy.length} als veraltet aussortiert (API < ${minApi}, aktuell ${currentApi}) -> repos/legacy.json`);
   for (const c of stats.categories) if (c.count) log(`  ${String(c.count).padStart(3)}  ${c.name}`);
   const bad = results.filter((r) => r.status !== "ok");
   if (bad.length) log(`  ${bad.length} Quelle(n) nicht frisch: ${bad.map((b) => `${b.source.name}[${b.status}]`).join(", ")}`);
@@ -450,6 +481,8 @@ function renderStatus(stats) {
     `- Plugins im Master-Feed: **${stats.masterPlugins}**`,
     `- Plugins insgesamt (inkl. 18+): **${stats.totalPlugins}**`,
     `- Quellen: **${stats.sources.length}**`,
+    `- Aktuelles Dalamud-API-Level: **${stats.currentApiLevel}** (aufgenommen ab ${stats.minApiLevel})`,
+    `- Als veraltet aussortiert: **${stats.legacyPlugins}** → \`repos/legacy.json\``,
     "",
     "## Quellen",
     "",

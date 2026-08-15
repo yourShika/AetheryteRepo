@@ -1,0 +1,40 @@
+{
+  "sourceId": "ottermandias-autovisor",
+  "url": "https://raw.githubusercontent.com/Ottermandias/AutoVisor/master/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Ottermandias",
+      "Name": "AutoVisor",
+      "Punchline": "Change Visor and Stance based on State and Job.",
+      "Description": "Automatically change visor, headslot hiding, and weapon hiding status for different player states, as well as default CPose-stances per job.",
+      "Tags": [
+        "Visor",
+        "Headslot",
+        "Hat",
+        "CPose",
+        "Stance",
+        "State",
+        "Glasses"
+      ],
+      "InternalName": "AutoVisor",
+      "AssemblyVersion": "1.4.4.1",
+      "TestingAssemblyVersion": "1.4.4.1",
+      "RepoUrl": "https://github.com/Ottermandias/AutoVisor",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "DownloadCount": 1,
+      "LastUpdate": 1754581680,
+      "DownloadLinkInstall": "https://github.com/Ottermandias/AutoVisor/raw/master/AutoVisor.zip",
+      "DownloadLinkTesting": "https://github.com/Ottermandias/AutoVisor/raw/master/AutoVisor.zip",
+      "DownloadLinkUpdate": "https://github.com/Ottermandias/AutoVisor/raw/master/AutoVisor.zip",
+      "IconUrl": "https://raw.githubusercontent.com/Ottermandias/AutoVisor/master/images/icon.png",
+      "IsTestingExclusive": false,
+      "_SourceId": "ottermandias-autovisor",
+      "_SourceName": "Ottermandias / AutoVisor",
+      "_SourceUrl": "https://raw.githubusercontent.com/Ottermandias/AutoVisor/master/repo.json"
+    }
+  ]
+}

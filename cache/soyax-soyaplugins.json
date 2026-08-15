@@ -1,0 +1,28 @@
+{
+  "sourceId": "soyax-soyaplugins",
+  "url": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "SoyaX",
+      "Name": "Doze Anywhere",
+      "Description": "/dozeanywhere [nosnap]\n/sitanywhere",
+      "Punchline": "Anywhere is a bed, if you want it to be.",
+      "InternalName": "DozeAnywhere",
+      "AssemblyVersion": "0.2.2.8",
+      "RepoUrl": "https://github.com/SoyaX/DozeAnywhere",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 0,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0228.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0228.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/DozeAnywhere_0228.zip",
+      "_SourceId": "soyax-soyaplugins",
+      "_SourceName": "SoyaX / SoyaPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/SoyaX/SoyaPlugins/main/repo.json"
+    }
+  ]
+}

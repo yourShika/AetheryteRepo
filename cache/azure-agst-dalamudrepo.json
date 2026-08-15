@@ -1,0 +1,44 @@
+{
+  "sourceId": "azure-agst-dalamudrepo",
+  "url": "https://raw.githubusercontent.com/Azure-Agst/DalamudRepo/master/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Azure-Agst",
+      "Name": "FATE/Map Gil Tracker",
+      "InternalName": "MapGilTracker",
+      "AssemblyVersion": "0.1.0.0",
+      "Description": "This plugin aims to simplify gil tracking for FCs who use FATEs/Maps as fundraising events!\nSimply install it, enable it, and it'll automatically track every chest or sack opened and calculate how much gil each person owes.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/Azure-Agst/MapGilTracker",
+      "Tags": [
+        "fate",
+        "treasure",
+        "maps",
+        "gil",
+        "tracker"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "DalamudApiLevel": 9,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "Punchline": "A Plugin to track gil earned from FATEs or Treasure Maps!",
+      "AcceptsFeedback": true,
+      "DownloadCount": 7106412,
+      "DownloadLinkInstall": "https://github.com/Azure-Agst/MapGilTracker/releases/download/v0.1.0.0/latest.zip",
+      "IconUrl": "https://github.com/Azure-Agst/MapGilTracker/releases/download/v0.1.0.0/icon.png",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/Azure-Agst/MapGilTracker/releases/download/v0.1.0.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Azure-Agst/MapGilTracker/releases/download/v0.1.0.0/latest.zip",
+      "_SourceId": "azure-agst-dalamudrepo",
+      "_SourceName": "Azure-Agst / DalamudRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/Azure-Agst/DalamudRepo/master/repo.json"
+    }
+  ]
+}

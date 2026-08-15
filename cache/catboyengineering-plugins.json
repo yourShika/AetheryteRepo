@@ -1,0 +1,71 @@
+{
+  "sourceId": "catboyengineering-plugins",
+  "url": "https://raw.githubusercontent.com/CatboyEngineering/Plugins/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 2,
+  "plugins": [
+    {
+      "Author": "CatboyEngineering",
+      "Name": "KinkShellClient",
+      "Punchline": "Private chatrooms and adult toy control.",
+      "Description": "Pair and synchronize adult toys with other users, send private chat messages, and more. Use /kinkshell to get started.",
+      "Tags": [
+        "kink",
+        "buttplug",
+        "toys",
+        "sync",
+        "erp",
+        "nsfw",
+        "chat"
+      ],
+      "InternalName": "KinkShellClient",
+      "RepoUrl": "https://github.com/CatboyEngineering/KinkShellClient",
+      "IconUrl": "https://raw.githubusercontent.com/CatboyEngineering/KinkShellClient/main/images/icon.png",
+      "ApplicableVersion": "any",
+      "LoadPriority": 0,
+      "AssemblyVersion": "0.0.9.9",
+      "DalamudApiLevel": 14,
+      "TestingAssemblyVersion": "0.0.9.9",
+      "TestingDalamudApiLevel": 14,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 42069,
+      "DownloadLinkInstall": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.9.9/latest.zip",
+      "DownloadLinkTesting": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.9.9/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.9.9/latest.zip",
+      "_SourceId": "catboyengineering-plugins",
+      "_SourceName": "CatboyEngineering",
+      "_SourceUrl": "https://raw.githubusercontent.com/CatboyEngineering/Plugins/main/repo.json"
+    },
+    {
+      "Author": "CatboyEngineering",
+      "Name": "Bzzt",
+      "Punchline": "Create reactions and make your toys go Bzzt!",
+      "Description": "Create reactions and make your toys go Bzzt!",
+      "Tags": [
+        "kink",
+        "buttplug",
+        "toys",
+        "reactions",
+        "triggers",
+        "nsfw"
+      ],
+      "InternalName": "Bzzt",
+      "RepoUrl": "https://github.com/CatboyEngineering/Bzzt",
+      "IconUrl": "https://raw.githubusercontent.com/CatboyEngineering/Bzzt/main/images/icon.png",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 12,
+      "LoadPriority": 0,
+      "AssemblyVersion": "0.0.0.5",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 69,
+      "DownloadLinkInstall": "https://github.com/CatboyEngineering/Bzzt/releases/download/v0.0.0.5/latest.zip",
+      "DownloadLinkTesting": "https://github.com/CatboyEngineering/Bzzt/releases/download/v0.0.0.5/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/CatboyEngineering/Bzzt/releases/download/v0.0.0.5/latest.zip",
+      "_SourceId": "catboyengineering-plugins",
+      "_SourceName": "CatboyEngineering",
+      "_SourceUrl": "https://raw.githubusercontent.com/CatboyEngineering/Plugins/main/repo.json"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "sourceId": "elyfura-glamourdocumenter",
+  "url": "https://raw.githubusercontent.com/ElyFura/GlamourDocumenter/master/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "ElyFura",
+      "Name": "Glamour Documenter",
+      "InternalName": "GlamourDocumenter",
+      "AssemblyVersion": "0.1.2.4",
+      "TestingAssemblyVersion": "0.1.2.4",
+      "Description": "Exports the combined state of Penumbra, Glamourer and Customize+ for the local character as Markdown, HTML or JSON. Ships a re-import path, export history, diff of two exports, optional git auto-commit and auto-export on zone change. Type /glamdoc to open the window or /glamdoc export [md|html|json] for a headless export.",
+      "Punchline": "Document Penumbra + Glamourer + Customize+ in one file.",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Tags": [
+        "export",
+        "glamourer",
+        "penumbra",
+        "customize+"
+      ],
+      "RepoUrl": "https://github.com/ElyFura/GlamourDocumenter",
+      "IconUrl": "https://raw.githubusercontent.com/ElyFura/GlamourDocumenter/master/icons/icon.png",
+      "DownloadLinkInstall": "https://github.com/ElyFura/GlamourDocumenter/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/ElyFura/GlamourDocumenter/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/ElyFura/GlamourDocumenter/releases/latest/download/latest.zip",
+      "DownloadCount": 0,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "elyfura-glamourdocumenter",
+      "_SourceName": "Glamour Documenter",
+      "_SourceUrl": "https://raw.githubusercontent.com/ElyFura/GlamourDocumenter/master/repo.json"
+    }
+  ]
+}

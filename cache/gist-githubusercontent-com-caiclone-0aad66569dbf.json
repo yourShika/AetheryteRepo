@@ -1,0 +1,38 @@
+{
+  "sourceId": "gist-githubusercontent-com-caiclone-0aad66569dbf",
+  "url": "https://gist.githubusercontent.com/CaiClone/0aad66569dbf63a9bbeec6a8e95a123f/raw/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Cai",
+      "Name": "GCDTracker",
+      "InternalName": "GCDTracker",
+      "AssemblyVersion": "1.0.4.11",
+      "Description": "Tracks GCD, OGCDs and combo status. Instantly visualizing what is happening with queue, animation lock and helping you get familiar with the concepts.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/CaiClone/GCDTracker",
+      "Tags": [
+        "combat",
+        "gcd"
+      ],
+      "DalamudApiLevel": 12,
+      "LoadPriority": 0,
+      "ImageUrls": [
+        "https://github.com/CaiClone/GCDTracker/raw/main/images/image1.png"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "IconUrl": "https://github.com/CaiClone/GCDTracker/raw/main/images/icon.png",
+      "Punchline": "Is my DRG still jumping?",
+      "DownloadLinkInstall": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/GCDTracker/latest.zip",
+      "DownloadLinkTesting": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/GCDTracker/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/GCDTracker/latest.zip",
+      "DownloadCount": 0,
+      "LastUpdated": "1749773136",
+      "_SourceId": "gist-githubusercontent-com-caiclone-0aad66569dbf",
+      "_SourceName": "CaiClone gist repo",
+      "_SourceUrl": "https://gist.githubusercontent.com/CaiClone/0aad66569dbf63a9bbeec6a8e95a123f/raw/pluginmaster.json"
+    }
+  ]
+}

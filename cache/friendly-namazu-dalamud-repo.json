@@ -1,0 +1,31 @@
+{
+  "sourceId": "friendly-namazu-dalamud-repo",
+  "url": "https://raw.githubusercontent.com/Friendly-Namazu/dalamud-repo/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Friendly Namazu",
+      "Name": "Namazu Sync",
+      "InternalName": "namazuSync",
+      "AssemblyVersion": "0.11.21",
+      "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.\nForked from \"MareSynchronos\" by darkarchon",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/Friendly-Namazu/MareClient",
+      "Tags": [
+        "customization"
+      ],
+      "DalamudApiLevel": 12,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/Friendly-Namazu/dalamud-repo/main/images/icon.png",
+      "Punchline": "Let others see you as you see yourself.",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/Friendly-Namazu/MareClient/releases/download/0.11.21/Namazu.zip",
+      "DownloadLinkUpdate": "https://github.com/Friendly-Namazu/MareClient/releases/download/0.11.21/Namazu.zip",
+      "_SourceId": "friendly-namazu-dalamud-repo",
+      "_SourceName": "Namazu Sync",
+      "_SourceUrl": "https://raw.githubusercontent.com/Friendly-Namazu/dalamud-repo/main/repo.json"
+    }
+  ]
+}

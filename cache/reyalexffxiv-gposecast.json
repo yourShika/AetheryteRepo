@@ -1,0 +1,28 @@
+{
+  "sourceId": "reyalexffxiv-gposecast",
+  "url": "https://raw.githubusercontent.com/reyalexffxiv/GposeCast/master/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Rey Alex",
+      "Name": "Gpose Cast",
+      "InternalName": "GposeCast",
+      "AssemblyVersion": "0.9.0.7",
+      "Description": "A compact GPose casting tool. Search visible actors, import overworld players into GPose for Brio/Ktisis, build a picked group, and hide everyone else locally for cleaner screenshots.",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Punchline": "Build a picked GPose cast and hide everyone else.",
+      "RepoUrl": "https://github.com/reyalexffxiv/GposeCast",
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/reyalexffxiv/GposeCast/master/plugins/GposeCast.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/reyalexffxiv/GposeCast/master/plugins/GposeCast.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/reyalexffxiv/GposeCast/master/plugins/GposeCast.zip",
+      "Changelog": "0.9.0.7: fixes the GPose actor import range so imports can continue beyond the previous 38-actor ceiling, using GPose slots 201-439.",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "reyalexffxiv-gposecast",
+      "_SourceName": "Gpose Cast",
+      "_SourceUrl": "https://raw.githubusercontent.com/reyalexffxiv/GposeCast/master/repo.json"
+    }
+  ]
+}

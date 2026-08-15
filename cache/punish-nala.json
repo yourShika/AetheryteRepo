@@ -1,0 +1,63 @@
+{
+  "sourceId": "punish-nala",
+  "url": "https://puni.sh/api/repository/nala",
+  "fetchedAt": "2026-08-15",
+  "count": 2,
+  "plugins": [
+    {
+      "Author": "Nala Praline",
+      "Name": "NalaPF",
+      "Punchline": "Auto-recreate your Party Finder after reco or datacenter switch",
+      "Description": "Captures your PF configuration and automatically recreates it after a disconnect or datacenter switch.\n\nCommands:\n/pfr",
+      "Tags": [
+        "party finder",
+        "pf"
+      ],
+      "InternalName": "NalaPF",
+      "RepoUrl": null,
+      "DownloadCount": 137,
+      "LastUpdate": 1780921508,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/140/NalaPF/versions/1.0.0.1/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/140/NalaPF/versions/1.0.0.1/update/latest.zip",
+      "AssemblyVersion": "1.0.0.1",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "7.51",
+      "IconUrl": "https://puni.sh/api/plugins/icon/140",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-nala",
+      "_SourceName": "Nala's Repo",
+      "_SourceUrl": "https://puni.sh/api/repository/nala"
+    },
+    {
+      "Author": "Nala Praline, Asuna",
+      "Name": "VenueScope",
+      "Punchline": "Browse FFXIV community events in-game.",
+      "Description": "Browse FFXIV community events directly in-game. Filter by data center, time, and tags.\n\nCommands:\n/venuescope or /vs: open VenueScope",
+      "Tags": [
+        "events",
+        "venue",
+        "community",
+        "partake",
+        "ffxivenue"
+      ],
+      "InternalName": "VenueScope",
+      "RepoUrl": null,
+      "DownloadCount": 10464,
+      "LastUpdate": 1781867298,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/122/VenueScope/versions/1.0.10.0/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/122/VenueScope/versions/1.0.10.0/update/latest.zip",
+      "AssemblyVersion": "1.0.10.0",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "Added a Spotlight banner that highlights featured venues.",
+      "IconUrl": "https://puni.sh/api/plugins/icon/122",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-nala",
+      "_SourceName": "Nala's Repo",
+      "_SourceUrl": "https://puni.sh/api/repository/nala"
+    }
+  ]
+}

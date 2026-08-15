@@ -1,9 +1,9 @@
 # Aetheryte Repo
 
-**Ein Dalamud-Repo statt zwanzig.**
+**Ein Dalamud-Repo statt zweihundert.**
 
-Dieses Repository sammelt die Plugin-Feeds vieler FFXIV-/Dalamud-Entwickler ein, führt sie
-zu einem einzigen Feed zusammen und bietet zusätzlich einen Feed pro Kategorie.
+Dieses Repository sammelt die Plugin-Feeds von über 200 FFXIV-/Dalamud-Entwicklern ein,
+führt sie zu einem einzigen Feed zusammen und bietet zusätzlich einen Feed pro Kategorie.
 Statt 20+ URLs in den Dalamud-Einstellungen pflegst du eine.
 
 Der Abgleich läuft **alle 3 Stunden automatisch** über GitHub Actions. Sobald eine
@@ -37,17 +37,19 @@ beliebig mit anderen kombinieren — die Tabelle wird bei jedem Lauf automatisch
 
 | Feed | Inhalt | Plugins | URL |
 |---|---|---:|---|
-| ⭐ **Master** | Alles außer 18+ | 85 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master.json` |
-| 👗 Glamour & Charakter | Mods, Aussehen, Posing, Sync | 14 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/glamour.json` |
-| ⚔️ Kampf & Rotation | Rotationen, Boss-Timeline, Combos, PvP | 12 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/combat.json` |
-| 🤖 Automatisierung | AutoDuty, Navmesh, Retainer, Questing, Farming | 27 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/automation.json` |
-| ⚒️ Crafting & Gathering | Handwerk, Sammeln, Marktbrett | 6 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/crafting.json` |
-| ✨ Quality of Life & UI | Tweaks, Interface, Chat, Inventar, Karten | 16 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/qol.json` |
-| 🎭 Social & Roleplay | RP-Profile, Emotes, Free Company, Discord | 3 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/social.json` |
-| 🏡 Housing & Deko | Moebel, Layouts, Grundstuecke | 1 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/housing.json` |
-| 🔊 Audio & Voice | Voicechat, TTS, Musik, Sound | 2 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/audio.json` |
-| 🛠️ Developer & Data | Debugging, Datenexplorer, Editoren | 3 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/dev.json` |
-| 📦 Sonstiges | Alles ohne klare Zuordnung | 1 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/misc.json` |
+| ⭐ **Master** | Alles außer 18+ | 360 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master.json` |
+| 🌐 **Master inkl. 18+** | Wirklich alles | 364 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master-full.json` |
+| 👗 Glamour & Charakter | Mods, Aussehen, Posing, Sync | 78 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/glamour.json` |
+| ⚔️ Kampf & Rotation | Rotationen, Boss-Timeline, Combos, PvP | 40 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/combat.json` |
+| 🤖 Automatisierung | AutoDuty, Navmesh, Retainer, Questing, Farming | 74 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/automation.json` |
+| ⚒️ Crafting & Gathering | Handwerk, Sammeln, Marktbrett | 15 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/crafting.json` |
+| ✨ Quality of Life & UI | Tweaks, Interface, Chat, Inventar, Karten | 73 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/qol.json` |
+| 🎭 Social & Roleplay | RP-Profile, Emotes, Free Company, Discord | 26 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/social.json` |
+| 🔞 Adult (18+) | Nur fuer Erwachsene – standardmaessig NICHT im Master | 4 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/nsfw.json` |
+| 🏡 Housing & Deko | Moebel, Layouts, Grundstuecke | 9 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/housing.json` |
+| 🔊 Audio & Voice | Voicechat, TTS, Musik, Sound | 10 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/audio.json` |
+| 🛠️ Developer & Data | Debugging, Datenexplorer, Editoren | 15 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/dev.json` |
+| 📦 Sonstiges | Alles ohne klare Zuordnung | 20 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/misc.json` |
 
 <!-- FEEDS:END -->
 
@@ -58,10 +60,12 @@ zum Durchstöbern gibt es die **[Webseite](https://yourshika.github.io/Aetheryte
 
 ## Warum ein Master-Feed?
 
-- **Ein Eintrag statt 20.** Dalamud fragt jede Repo-URL beim Start einzeln ab; jede tote
+- **Ein Eintrag statt 200.** Dalamud fragt jede Repo-URL beim Start einzeln ab; jede tote
   oder langsame Quelle verzögert den Plugin-Installer.
-- **Keine Duplikat-Warnungen.** Liegt dasselbe Plugin in zwei Quellen, gewinnt hier die
-  höhere Version — Dalamud sieht es nur einmal.
+- **Keine Duplikat-Warnungen.** Dasselbe Plugin liegt oft in einem Dutzend Sammel-Repos.
+  Hier gewinnt immer das Original des Entwicklers — Dalamud sieht das Plugin nur einmal.
+- **Kein toter Ballast.** Plugins, deren API-Level mehr als zwei Stufen unter dem aktuellen
+  Dalamud liegt, wandern nach `repos/legacy.json` statt den Installer zuzumüllen.
 - **Ausfallsicher.** Ist eine Quelle offline, wird der zuletzt erfolgreich geladene Stand
   aus `cache/` benutzt. Ein GitHub-Ausfall entfernt dir also keine Plugins.
 - **Absolute Download-Links.** Relative Pfade werden gegen die Quell-URL aufgelöst.
@@ -87,11 +91,17 @@ data/sources.json ──► scripts/aggregate.mjs ──► repos/*.json
    ohne Download-Link fliegen raus.
 3. **Cachen** — jede erfolgreiche Quelle nach `cache/<id>.json`. Bei einem Fehlschlag wird
    dieser Stand weiterverwendet.
-4. **Entdoppeln** — nach `InternalName`. Höhere `AssemblyVersion` gewinnt, bei Gleichstand
-   die Quelle mit höherer `priority`. Jede Auflösung landet in `STATUS.md`.
-5. **Kategorisieren** — Score über Name/Tags/Punchline/Description
+4. **Entdoppeln** — nach `InternalName`. Es gewinnt die Quelle mit der höheren
+   `priority`, erst bei Gleichstand die höhere `AssemblyVersion`. Das ist bewusst so
+   herum: ein Entwickler-Repo hat immer die aktuellste Fassung seines eigenen Plugins,
+   und ein Sammel-Repo oder eine Regionalvariante mit größerer Versionsnummer soll das
+   Original nicht verdrängen. Jede Auflösung landet in `STATUS.md`.
+5. **Alte API-Level aussortieren** — das höchste vorkommende `DalamudApiLevel` gilt als
+   aktuell; alles, was mehr als `apiLevelWindow` (Standard 2) darunter liegt, geht nach
+   `repos/legacy.json`. Plugins ohne Angabe bleiben drin.
+6. **Kategorisieren** — Score über Name/Tags/Punchline/Description
    (siehe `scripts/lib/categories.mjs`), korrigierbar über `data/overrides.json`.
-6. **Schreiben** — Master-Feeds, Kategorie-Feeds, `docs/plugins.json` für die Webseite,
+7. **Schreiben** — Master-Feeds, Kategorie-Feeds, `docs/plugins.json` für die Webseite,
    `STATUS.md`.
 
 Zur Herkunft bekommt jedes Manifest die Zusatzfelder `_SourceId`, `_SourceName`,
@@ -119,7 +129,9 @@ Zur Herkunft bekommt jedes Manifest die Zusatzfelder `_SourceId`, `_SourceName`,
 
 - `url` muss die **rohe JSON** sein, nicht die GitHub-Projektseite.
 - `category` ist nur der Fallback, falls die Auto-Erkennung nichts findet.
-- `priority` entscheidet ausschließlich bei identischer Versionsnummer (Standard 50).
+- `priority` entscheidet bei Duplikaten. Grobe Staffelung im Bestand:
+  `90–100` handverlesene Originale · `85` etablierte Entwickler-Repos ·
+  `60` normale Einzelrepos · `20` Sammel-Repos · `15` Spiegel und Regionalvarianten.
 - `enabled: false` deaktiviert eine Quelle, ohne sie zu löschen.
 
 Die `validate`-Action prüft PRs automatisch auf doppelte IDs/URLs und lässt den

@@ -47,7 +47,29 @@
     "stylist": "glamour",
     "splatoon": "combat",
     "orbwalker": "combat",
-    "passportcheckerreborn": "social"
+    "passportcheckerreborn": "social",
+
+    "hypnotoadplugin": "audio",
+    "oopsallnudist": "nsfw",
+    "midibard": "audio",
+    "midibard2": "audio",
+    "iinact": "combat",
+    "lmeter": "combat",
+    "xivauras": "combat",
+    "gcdtracker": "combat",
+    "craftimizer": "crafting",
+    "allagantools": "qol",
+    "simpletweaksplugin": "qol",
+    "hasel tweaks": "qol",
+    "haseltweaks": "qol",
+    "necrolens": "qol",
+    "waitingway": "qol",
+    "materialui": "glamour",
+    "aetherment": "glamour",
+    "characterselectplus": "glamour",
+    "snappy": "glamour",
+    "loci": "glamour",
+    "sundouleia": "glamour"
   },
   "blocklist": []
 }

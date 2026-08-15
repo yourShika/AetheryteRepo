@@ -106,8 +106,8 @@ export const CATEGORIES = [
     keywords: [
       "nsfw", "18+", "adult", "lewd", "erotic", "kink", "bdsm", "gagspeak",
       "gag speak", "restraint", "bondage", "lovense", "intiface", "buttplug",
-      "vibrator", "toy control", "hypno", "petplay", "collar", "leash",
-      "sexual", "explicit",
+      "vibrator", "toy control", "petplay", "collar", "leash",
+      "sexual", "explicit", "nudist", "nudism",
     ],
   },
   {

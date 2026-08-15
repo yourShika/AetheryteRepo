@@ -1,0 +1,43 @@
+{
+  "sourceId": "punish-jukka",
+  "url": "https://puni.sh/api/repository/jukka",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "jukka",
+      "Name": "NecroLens",
+      "Punchline": "A true Necromancer always know the DeepDungeon ... everyone else just uses a high tech!",
+      "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
+      "Tags": [
+        "potd",
+        "hoh",
+        "eo",
+        "esp",
+        "radar",
+        "sonar",
+        "deep",
+        "dungeon"
+      ],
+      "InternalName": "NecroLens",
+      "RepoUrl": "https://github.com/Jukkales/NecroLens",
+      "DownloadCount": 76187,
+      "LastUpdate": 1777738526,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/53/NecroLens/versions/1.0.8.12/update/latest.zip",
+      "AssemblyVersion": "1.0.8.12",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "",
+      "IconUrl": "https://puni.sh/api/plugins/icon/53",
+      "ImageUrls": [
+        "https://s3.puni.sh/media/plugin/53/image-lfoiry0hm9.png"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-jukka",
+      "_SourceName": "Jukka's repo",
+      "_SourceUrl": "https://puni.sh/api/repository/jukka"
+    }
+  ]
+}

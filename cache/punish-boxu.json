@@ -1,0 +1,43 @@
+{
+  "sourceId": "punish-boxu",
+  "url": "https://puni.sh/api/repository/boxu",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Boxu",
+      "Name": "Skippy",
+      "Punchline": "Allows you to skip a lot of categories of cutscenes, including MSQ Roulette Dungeons & Trials, Inn Login Sequence, Ocean Fishing and more!",
+      "Description": "Skip all of the Cutscenes that bother you (MSQ Roulette for example) so you can actually play the game!",
+      "Tags": [
+        "Boxu",
+        "Skippy",
+        "SkipCutscene",
+        "Skip",
+        "Cutscene"
+      ],
+      "InternalName": "Skippy",
+      "RepoUrl": "https://github.com/BoxuChan/Skippy",
+      "DownloadCount": 2609,
+      "LastUpdate": 1778506288,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/update/latest.zip",
+      "AssemblyVersion": "2.2.4.2",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "Global: (Bugfix) Fixed Porta Decumana cutscene not skipping even with the right toggles on.\nGlobal: (Bugfix) Hopefully properly fixed skip categories spilling over other categories and affecting their skipping abilities.\nLogger: Enhanced the logging capabilities of Skippy for research purposes.\nUI: Added a button to the topbar to toggle the Tester badge visibility on/off.",
+      "TestingAssemblyVersion": "2.2.4.2",
+      "DownloadLinkTesting": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/install/testing.zip",
+      "TestingDalamudApiLevel": "15",
+      "IconUrl": "https://puni.sh/api/plugins/icon/130",
+      "ImageUrls": [
+        "https://s3.puni.sh/media/plugin/130/image-oxn9cs0hnsm.png"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-boxu",
+      "_SourceName": "Hako / 箱",
+      "_SourceUrl": "https://puni.sh/api/repository/boxu"
+    }
+  ]
+}

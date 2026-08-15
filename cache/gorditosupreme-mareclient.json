@@ -1,0 +1,62 @@
+{
+  "sourceId": "gorditosupreme-mareclient",
+  "url": "https://raw.githubusercontent.com/GorditoSupreme/MareClient/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 2,
+  "plugins": [
+    {
+      "Author": "darkarchon",
+      "Name": "Mare Synchronos",
+      "InternalName": "MareSynchronos",
+      "AssemblyVersion": "1.11.0",
+      "TestingAssemblyVersion": "1.11.0",
+      "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/GorditoSupreme/MareClient",
+      "Tags": [
+        "Mare Synchronos",
+        "Sea Of Stars"
+      ],
+      "DalamudApiLevel": 13,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/GorditoSupreme/MareClient/refs/heads/main/MareSynchronos/images/icon.png",
+      "Punchline": "Let others see you as you see yourself.",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/user-attachments/files/22062117/latest.zip",
+      "DownloadLinkTesting": "https://github.com/user-attachments/files/22062117/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/user-attachments/files/22062117/latest.zip",
+      "_SourceId": "gorditosupreme-mareclient",
+      "_SourceName": "Mare Synchronos",
+      "_SourceUrl": "https://raw.githubusercontent.com/GorditoSupreme/MareClient/main/repo.json"
+    },
+    {
+      "Author": "darkarchon",
+      "Name": "Mare Synchronos",
+      "InternalName": "MareSynchronos",
+      "AssemblyVersion": "1.11.0.0",
+      "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/GorditoSupreme/MareClient",
+      "Tags": [
+        "customization"
+      ],
+      "DalamudApiLevel": 13,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/GorditoSupreme/MareClient/refs/heads/main/MareSynchronos/images/icon.png",
+      "Punchline": "Let others see you as you see yourself.",
+      "AcceptsFeedback": true,
+      "DownloadLinkInstall": "https://github.com/user-attachments/files/22062117/latest.zip",
+      "DownloadLinkTesting": "https://github.com/user-attachments/files/22062117/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/user-attachments/files/22062117/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "gorditosupreme-mareclient",
+      "_SourceName": "Mare Synchronos",
+      "_SourceUrl": "https://raw.githubusercontent.com/GorditoSupreme/MareClient/main/repo.json"
+    }
+  ]
+}
