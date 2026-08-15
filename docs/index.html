@@ -1,33 +1,35 @@
 <!doctype html>
-<html lang="de">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Aetheryte Repo – FFXIV Dalamud Plugins</title>
-<meta name="description" content="Ein Dalamud-Repo für alles: über 290 Plugin-Quellen, automatisch zusammengeführt und nach Kategorien sortiert.">
+<meta name="description" content="One Dalamud repo instead of two hundred: 290+ plugin sources, merged automatically, deduplicated and sorted into categories.">
 <link rel="icon" href="logo.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="logo.png">
 <meta property="og:title" content="Aetheryte Repo">
-<meta property="og:description" content="Ein Dalamud-Repo statt zweihundert. Automatisch zusammengeführt, entdoppelt, nach Kategorien sortiert.">
+<meta property="og:description" content="One Dalamud repo instead of two hundred. Merged automatically, deduplicated, sorted into categories.">
 <meta property="og:image" content="logo.png">
 <style>
   :root{
     --bg:#f6f5f2; --panel:#fffefb; --panel-2:#efece5; --line:#ddd8cd;
     --fg:#1c1a17; --muted:#6a655c; --accent:#2f6f6b; --accent-fg:#fff;
     --shadow:0 1px 2px rgba(0,0,0,.05),0 8px 24px -12px rgba(0,0,0,.18);
-    --radius:12px;
+    --radius:12px; --topbar:rgba(255,254,251,.86);
   }
   @media (prefers-color-scheme:dark){
     :root:not([data-theme=light]){
       --bg:#14161a; --panel:#1b1e24; --panel-2:#232830; --line:#2f3540;
       --fg:#e8e6e1; --muted:#98a0ad; --accent:#5fd3c6; --accent-fg:#0d1114;
       --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -12px rgba(0,0,0,.7);
+      --topbar:rgba(27,30,36,.86);
     }
   }
   :root[data-theme=dark]{
     --bg:#14161a; --panel:#1b1e24; --panel-2:#232830; --line:#2f3540;
     --fg:#e8e6e1; --muted:#98a0ad; --accent:#5fd3c6; --accent-fg:#0d1114;
     --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -12px rgba(0,0,0,.7);
+    --topbar:rgba(27,30,36,.86);
   }
   *{box-sizing:border-box}
   body{
@@ -35,10 +37,38 @@
     font:15px/1.55 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
     -webkit-font-smoothing:antialiased;
   }
-  .wrap{max-width:1120px;margin:0 auto;padding:32px 20px 80px}
+  a{color:var(--accent)}
+
+  /* ---------------------------------------------------------- topbar */
+  .topbar{
+    position:sticky;top:0;z-index:40;background:var(--topbar);
+    backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--line);
+  }
+  .topbar-in{
+    max-width:1120px;margin:0 auto;padding:9px 20px;
+    display:flex;align-items:center;gap:14px;
+  }
+  .brand{display:flex;align-items:center;gap:9px;font-weight:600;
+         color:var(--fg);text-decoration:none;font-size:14.5px}
+  .brand .mark{
+    width:24px;height:24px;flex:none;background:var(--accent);
+    -webkit-mask:url(logo.svg) center/contain no-repeat;
+            mask:url(logo.svg) center/contain no-repeat;
+  }
+  .spacer{flex:1}
+  .langs{display:flex;gap:2px;background:var(--panel-2);border:1px solid var(--line);
+         border-radius:999px;padding:2px}
+  .langs button{
+    border:0;background:transparent;color:var(--muted);font:inherit;font-size:12.5px;
+    font-weight:600;letter-spacing:.03em;padding:4px 10px;border-radius:999px;cursor:pointer;
+  }
+  .langs button:hover{color:var(--fg)}
+  .langs button[aria-pressed=true]{background:var(--accent);color:var(--accent-fg)}
+
+  /* ------------------------------------------------------------ page */
+  .wrap{max-width:1120px;margin:0 auto;padding:30px 20px 80px}
   header{display:flex;align-items:center;gap:20px}
-  /* Logo als CSS-Maske: die Farbe kommt aus dem Theme, nicht aus der Datei,
-     damit es beim Umschalten auf Dunkel automatisch mitgeht. */
   .logo{
     flex:none;width:82px;height:82px;background:var(--accent);
     -webkit-mask:url(logo.svg) center/contain no-repeat;
@@ -47,6 +77,7 @@
   header h1{margin:0 0 6px;font-size:clamp(26px,4vw,38px);letter-spacing:-.02em}
   header p.sub{margin:0;color:var(--muted);max-width:62ch}
   @media (max-width:560px){ header{gap:14px} .logo{width:58px;height:58px} }
+
   .stat-row{display:flex;flex-wrap:wrap;gap:10px;margin:22px 0 30px}
   .stat{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
         padding:10px 16px;box-shadow:var(--shadow)}
@@ -84,9 +115,16 @@
   }
   .chip[aria-pressed=true]{background:var(--accent);color:var(--accent-fg);border-color:var(--accent)}
 
+  /* ------------------------------------------------------------ cards */
   .grid{display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}
-  .card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
-        padding:13px 15px;box-shadow:var(--shadow);display:flex;gap:12px}
+  .card{
+    background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+    padding:13px 15px;box-shadow:var(--shadow);display:flex;gap:12px;
+    font:inherit;color:inherit;text-align:left;cursor:pointer;width:100%;
+    transition:border-color .12s,transform .12s
+  }
+  .card:hover{border-color:var(--accent);transform:translateY(-1px)}
+  .card:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
   .card img{width:40px;height:40px;border-radius:9px;object-fit:cover;flex:none;background:var(--panel-2)}
   .card .body{min-width:0;flex:1}
   .card .title{display:flex;gap:7px;align-items:baseline;flex-wrap:wrap}
@@ -99,171 +137,549 @@
        color:var(--muted);border:1px solid var(--line)}
   .tag.cat{border-color:var(--accent);color:var(--accent)}
   .empty{color:var(--muted);padding:26px 0}
+
   footer{margin-top:46px;padding-top:18px;border-top:1px solid var(--line);
          color:var(--muted);font-size:13px}
-  a{color:var(--accent)}
   table.src{width:100%;border-collapse:collapse;font-size:13px}
   table.src td{padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top}
   table.src td:first-child{width:1%;white-space:nowrap}
   .ok{color:#3aa675}.stale{color:#c99a2e}.failed{color:#d4674f}
+
+  /* ------------------------------------------------------------ modal */
+  dialog{
+    border:1px solid var(--line);border-radius:16px;background:var(--panel);color:var(--fg);
+    padding:0;max-width:660px;width:calc(100% - 32px);max-height:86vh;box-shadow:var(--shadow)
+  }
+  dialog::backdrop{background:rgba(0,0,0,.55);backdrop-filter:blur(2px)}
+  .m-head{display:flex;gap:14px;padding:20px 20px 14px;border-bottom:1px solid var(--line)}
+  .m-head img{width:56px;height:56px;border-radius:12px;object-fit:cover;flex:none;background:var(--panel-2)}
+  .m-head .t{flex:1;min-width:0}
+  .m-head h3{margin:0 0 3px;font-size:19px;letter-spacing:-.01em}
+  .m-head .by{color:var(--muted);font-size:13px}
+  .m-close{
+    flex:none;align-self:flex-start;border:1px solid var(--line);background:var(--panel-2);
+    color:var(--fg);width:30px;height:30px;border-radius:8px;cursor:pointer;
+    font-size:17px;line-height:1;padding:0
+  }
+  .m-close:hover{border-color:var(--accent)}
+  .m-body{padding:16px 20px 20px;overflow-y:auto;max-height:calc(86vh - 96px)}
+  .m-body h4{margin:18px 0 7px;font-size:12px;text-transform:uppercase;
+             letter-spacing:.07em;color:var(--muted);font-weight:600}
+  .m-body h4:first-child{margin-top:0}
+  .m-desc{white-space:pre-wrap;font-size:13.5px;color:var(--fg);margin:0;overflow-wrap:anywhere}
+  .m-desc.small{color:var(--muted);font-size:13px}
+  .kv{display:grid;grid-template-columns:auto 1fr;gap:5px 14px;font-size:13.5px;margin:0}
+  .kv dt{color:var(--muted)}
+  .kv dd{margin:0;overflow-wrap:anywhere}
+  .m-links{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
+  .m-links a{
+    border:1px solid var(--line);background:var(--panel-2);border-radius:8px;
+    padding:7px 11px;font-size:12.5px;text-decoration:none;color:var(--fg)
+  }
+  .m-links a:hover{border-color:var(--accent)}
+  .m-feed{display:flex;align-items:center;gap:10px;background:var(--panel-2);
+          border:1px solid var(--line);border-radius:10px;padding:9px 11px;margin-top:6px}
+  .m-feed code{flex:1;min-width:0;font-size:11.5px;overflow-wrap:anywhere;color:var(--muted)}
+  @media (max-width:560px){ .kv{grid-template-columns:1fr;gap:2px} .kv dt{margin-top:8px} }
 </style>
 </head>
 <body>
+
+<div class="topbar">
+  <div class="topbar-in">
+    <a class="brand" href="./"><span class="mark"></span> Aetheryte Repo</a>
+    <span class="spacer"></span>
+    <div class="langs" id="langs" role="group" aria-label="Language"></div>
+  </div>
+</div>
+
 <div class="wrap">
   <header>
-    <div class="logo" role="img" aria-label="Aetheryte-Logo"></div>
+    <div class="logo" role="img" aria-label="Aetheryte logo"></div>
     <div>
       <h1>Aetheryte Repo</h1>
-      <p class="sub">Ein Dalamud-Repo statt zweihundert. Alle Quellen werden alle 3&nbsp;Stunden
-      automatisch eingesammelt, entdoppelt und nach Kategorien sortiert.</p>
+      <p class="sub" data-i18n="tagline"></p>
     </div>
   </header>
 
   <div class="stat-row" id="stats"></div>
 
-  <h2>Feeds zum Einfügen in Dalamud</h2>
+  <h2 data-i18n="feedsHeading"></h2>
   <div class="feeds" id="feeds"></div>
 
-  <h2>Plugins</h2>
+  <h2 data-i18n="pluginsHeading"></h2>
   <div class="controls">
-    <input type="search" id="q" placeholder="Suchen: Name, Autor, Beschreibung …" autocomplete="off">
-    <button class="chip" id="clear" type="button">Zurücksetzen</button>
+    <input type="search" id="q" autocomplete="off">
+    <button class="chip" id="clear" type="button" data-i18n="reset"></button>
   </div>
   <div class="controls" id="chips"></div>
   <div class="grid" id="grid"></div>
-  <p class="empty" id="empty" hidden>Nichts gefunden.</p>
+  <p class="empty" id="empty" hidden data-i18n="empty"></p>
 
-  <h2>Quellen</h2>
+  <h2 data-i18n="sourcesHeading"></h2>
   <table class="src"><tbody id="sources"></tbody></table>
 
   <footer>
-    Zuletzt aktualisiert: <span id="gen">–</span> ·
-    <a href="#" id="repolink">Repository auf GitHub</a><br>
-    Aetheryte Repo hostet keine Plugins, sondern verlinkt nur die Feeds der jeweiligen Entwickler.
-    Alle Rechte und der Support liegen bei den ursprünglichen Autoren.
+    <span data-i18n="lastUpdated"></span> <span id="gen">–</span> ·
+    <a href="#" id="repolink" data-i18n="repoLink"></a><br>
+    <span data-i18n="disclaimer"></span>
   </footer>
 </div>
 
+<dialog id="modal" aria-labelledby="m-title">
+  <div class="m-head">
+    <img id="m-icon" alt="" hidden>
+    <div class="t">
+      <h3 id="m-title"></h3>
+      <div class="by" id="m-by"></div>
+    </div>
+    <button class="m-close" id="m-close" type="button">&times;</button>
+  </div>
+  <div class="m-body" id="m-body"></div>
+</dialog>
+
 <script>
 (function(){
-  // user/repo aus der Pages-URL ableiten, damit nichts hartkodiert ist.
-  var host = location.hostname, parts = location.pathname.split("/").filter(Boolean);
-  var owner = host.endsWith(".github.io") ? host.replace(".github.io","") : "yourShika";
-  var repo  = host.endsWith(".github.io") && parts.length ? parts[0] : "AetheryteRepo";
-  var RAW = "https://raw.githubusercontent.com/"+owner+"/"+repo+"/main/";
-  document.getElementById("repolink").href = "https://github.com/"+owner+"/"+repo;
+  "use strict";
+
+  /* ---------------------------------------------------------- i18n */
+
+  var LANGS = ["en", "de", "fr", "ja"];
+
+  var T = {
+    en: {
+      tagline: "One Dalamud repo instead of two hundred. Every source is collected automatically every 3 hours, deduplicated and sorted into categories.",
+      statMaster: "Plugins in master", statTotal: "Total", statSources: "Sources",
+      statCategories: "Categories", statApi: "Dalamud API",
+      feedsHeading: "Feeds to paste into Dalamud",
+      pluginsHeading: "Plugins", sourcesHeading: "Sources",
+      search: "Search: name, author, description …", reset: "Reset",
+      empty: "Nothing found.", copy: "Copy", copied: "Copied ✓",
+      lastUpdated: "Last updated:", repoLink: "Repository on GitHub",
+      disclaimer: "Aetheryte Repo does not host any plugins; it only links to each developer's own feed. All rights and support remain with the original authors.",
+      master: "Master (recommended)", masterDesc: "Everything except 18+",
+      masterFull: "Master incl. 18+", masterFullDesc: "Really everything",
+      legacy: "Legacy archive", legacyDesc: "API < {min}, no longer loads in current Dalamud",
+      plugins: "plugins", loadError: "Could not load plugins.json: ",
+      testingOnly: "testing only", hidden: "hidden",
+      mDetails: "Details", mAuthor: "Author", mSource: "Source repo", mCategory: "Category",
+      mInternal: "Internal name", mVersion: "Version", mTesting: "Testing version",
+      mApi: "Dalamud API level", mApplicable: "Game version", mDownloads: "Downloads",
+      mUpdated: "Last update", mTags: "Tags", mDescription: "Description",
+      mChangelog: "Changelog", mLinks: "Links", mInFeeds: "Contained in these feeds",
+      mProject: "Project page", mDownload: "Direct download", mSourceFeed: "Original feed",
+      mNone: "—", mClose: "Close"
+    },
+    de: {
+      tagline: "Ein Dalamud-Repo statt zweihundert. Alle Quellen werden alle 3 Stunden automatisch eingesammelt, entdoppelt und nach Kategorien sortiert.",
+      statMaster: "Plugins im Master", statTotal: "Gesamt", statSources: "Quellen",
+      statCategories: "Kategorien", statApi: "Dalamud-API",
+      feedsHeading: "Feeds zum Einfügen in Dalamud",
+      pluginsHeading: "Plugins", sourcesHeading: "Quellen",
+      search: "Suchen: Name, Autor, Beschreibung …", reset: "Zurücksetzen",
+      empty: "Nichts gefunden.", copy: "Kopieren", copied: "Kopiert ✓",
+      lastUpdated: "Zuletzt aktualisiert:", repoLink: "Repository auf GitHub",
+      disclaimer: "Aetheryte Repo hostet keine Plugins, sondern verlinkt nur die Feeds der jeweiligen Entwickler. Alle Rechte und der Support liegen bei den ursprünglichen Autoren.",
+      master: "Master (empfohlen)", masterDesc: "Alles außer 18+",
+      masterFull: "Master inkl. 18+", masterFullDesc: "Wirklich alles",
+      legacy: "Legacy-Archiv", legacyDesc: "API < {min}, lädt in aktuellem Dalamud nicht mehr",
+      plugins: "Plugins", loadError: "plugins.json konnte nicht geladen werden: ",
+      testingOnly: "nur Testing", hidden: "versteckt",
+      mDetails: "Details", mAuthor: "Autor", mSource: "Quell-Repo", mCategory: "Kategorie",
+      mInternal: "Interner Name", mVersion: "Version", mTesting: "Testing-Version",
+      mApi: "Dalamud-API-Level", mApplicable: "Spielversion", mDownloads: "Downloads",
+      mUpdated: "Letzte Änderung", mTags: "Tags", mDescription: "Beschreibung",
+      mChangelog: "Änderungen", mLinks: "Links", mInFeeds: "Enthalten in diesen Feeds",
+      mProject: "Projektseite", mDownload: "Direkter Download", mSourceFeed: "Original-Feed",
+      mNone: "—", mClose: "Schließen"
+    },
+    fr: {
+      tagline: "Un seul dépôt Dalamud au lieu de deux cents. Toutes les sources sont collectées automatiquement toutes les 3 heures, dédupliquées et triées par catégorie.",
+      statMaster: "Plugins dans master", statTotal: "Total", statSources: "Sources",
+      statCategories: "Catégories", statApi: "API Dalamud",
+      feedsHeading: "Flux à coller dans Dalamud",
+      pluginsHeading: "Plugins", sourcesHeading: "Sources",
+      search: "Rechercher : nom, auteur, description …", reset: "Réinitialiser",
+      empty: "Aucun résultat.", copy: "Copier", copied: "Copié ✓",
+      lastUpdated: "Dernière mise à jour :", repoLink: "Dépôt sur GitHub",
+      disclaimer: "Aetheryte Repo n'héberge aucun plugin ; il ne fait que relayer le flux de chaque développeur. Tous les droits et le support restent aux auteurs d'origine.",
+      master: "Master (recommandé)", masterDesc: "Tout sauf 18+",
+      masterFull: "Master avec 18+", masterFullDesc: "Vraiment tout",
+      legacy: "Archive héritée", legacyDesc: "API < {min}, ne se charge plus dans Dalamud actuel",
+      plugins: "plugins", loadError: "Impossible de charger plugins.json : ",
+      testingOnly: "test uniquement", hidden: "masqué",
+      mDetails: "Détails", mAuthor: "Auteur", mSource: "Dépôt source", mCategory: "Catégorie",
+      mInternal: "Nom interne", mVersion: "Version", mTesting: "Version de test",
+      mApi: "Niveau d'API Dalamud", mApplicable: "Version du jeu", mDownloads: "Téléchargements",
+      mUpdated: "Dernière modification", mTags: "Étiquettes", mDescription: "Description",
+      mChangelog: "Journal des modifications", mLinks: "Liens", mInFeeds: "Présent dans ces flux",
+      mProject: "Page du projet", mDownload: "Téléchargement direct", mSourceFeed: "Flux d'origine",
+      mNone: "—", mClose: "Fermer"
+    },
+    ja: {
+      tagline: "200個のリポジトリを1つに。すべてのソースを3時間ごとに自動収集し、重複を除いてカテゴリ別に整理しています。",
+      statMaster: "マスター収録数", statTotal: "全体", statSources: "ソース数",
+      statCategories: "カテゴリ数", statApi: "Dalamud API",
+      feedsHeading: "Dalamud に貼り付けるフィード",
+      pluginsHeading: "プラグイン", sourcesHeading: "ソース",
+      search: "検索：名前、作者、説明 …", reset: "リセット",
+      empty: "見つかりませんでした。", copy: "コピー", copied: "コピー済 ✓",
+      lastUpdated: "最終更新：", repoLink: "GitHub のリポジトリ",
+      disclaimer: "Aetheryte Repo はプラグインを配布していません。各開発者のフィードにリンクしているだけです。権利とサポートは元の作者に帰属します。",
+      master: "マスター（推奨）", masterDesc: "18+ 以外のすべて",
+      masterFull: "マスター（18+ 込み）", masterFullDesc: "本当にすべて",
+      legacy: "レガシー保管庫", legacyDesc: "API {min} 未満。現行 Dalamud では読み込めません",
+      plugins: "件", loadError: "plugins.json を読み込めませんでした: ",
+      testingOnly: "テスト版のみ", hidden: "非表示",
+      mDetails: "詳細", mAuthor: "作者", mSource: "元リポジトリ", mCategory: "カテゴリ",
+      mInternal: "内部名", mVersion: "バージョン", mTesting: "テスト版バージョン",
+      mApi: "Dalamud API レベル", mApplicable: "対応ゲームバージョン", mDownloads: "ダウンロード数",
+      mUpdated: "最終更新", mTags: "タグ", mDescription: "説明",
+      mChangelog: "変更履歴", mLinks: "リンク", mInFeeds: "収録フィード",
+      mProject: "プロジェクトページ", mDownload: "直接ダウンロード", mSourceFeed: "元のフィード",
+      mNone: "—", mClose: "閉じる"
+    }
+  };
+
+  /* Kategorienamen leben hier statt in plugins.json, damit die Generierung
+     sprachneutral bleibt. Reihenfolge: [Name, Kurzbeschreibung] */
+  var C = {
+    en: {
+      glamour:["Glamour & Character","Mods, appearance, posing, sync"],
+      combat:["Combat & Rotation","Rotations, boss timelines, combos, PvP"],
+      automation:["Automation","AutoDuty, navmesh, retainers, questing, farming"],
+      crafting:["Crafting & Gathering","Crafting, gathering, market board"],
+      qol:["Quality of Life & UI","Tweaks, interface, chat, inventory, maps"],
+      social:["Social & Roleplay","RP profiles, emotes, free company, Discord"],
+      nsfw:["Adult (18+)","Adults only – not in the master feed by default"],
+      housing:["Housing & Decoration","Furniture, layouts, estates"],
+      audio:["Audio & Voice","Voice chat, TTS, music, sound"],
+      dev:["Developer & Data","Debugging, data explorers, editors"],
+      misc:["Miscellaneous","Everything without a clear fit"]
+    },
+    de: {
+      glamour:["Glamour & Charakter","Mods, Aussehen, Posing, Sync"],
+      combat:["Kampf & Rotation","Rotationen, Boss-Timeline, Combos, PvP"],
+      automation:["Automatisierung","AutoDuty, Navmesh, Retainer, Questing, Farming"],
+      crafting:["Crafting & Gathering","Handwerk, Sammeln, Marktbrett"],
+      qol:["Quality of Life & UI","Tweaks, Interface, Chat, Inventar, Karten"],
+      social:["Social & Roleplay","RP-Profile, Emotes, Free Company, Discord"],
+      nsfw:["Adult (18+)","Nur für Erwachsene – standardmäßig nicht im Master"],
+      housing:["Housing & Deko","Möbel, Layouts, Grundstücke"],
+      audio:["Audio & Voice","Voicechat, TTS, Musik, Sound"],
+      dev:["Developer & Data","Debugging, Datenexplorer, Editoren"],
+      misc:["Sonstiges","Alles ohne klare Zuordnung"]
+    },
+    fr: {
+      glamour:["Apparence & Personnage","Mods, apparence, poses, synchro"],
+      combat:["Combat & Rotation","Rotations, timelines de boss, combos, JcJ"],
+      automation:["Automatisation","AutoDuty, navmesh, servants, quêtes, farm"],
+      crafting:["Artisanat & Récolte","Artisanat, récolte, hôtel des ventes"],
+      qol:["Confort & Interface","Ajustements, interface, chat, inventaire, cartes"],
+      social:["Social & Roleplay","Profils RP, emotes, compagnie libre, Discord"],
+      nsfw:["Adulte (18+)","Réservé aux adultes – hors du flux master par défaut"],
+      housing:["Logement & Déco","Mobilier, agencements, terrains"],
+      audio:["Audio & Voix","Chat vocal, synthèse vocale, musique, sons"],
+      dev:["Développement & Données","Débogage, explorateurs de données, éditeurs"],
+      misc:["Divers","Tout ce qui ne rentre nulle part"]
+    },
+    ja: {
+      glamour:["ミラプリ・キャラクター","Mod、外見、ポーズ、同期"],
+      combat:["戦闘・ローテーション","ローテーション、ボスタイムライン、コンボ、PvP"],
+      automation:["自動化","AutoDuty、ナビメッシュ、リテイナー、クエスト、周回"],
+      crafting:["製作・採集","製作、採集、マーケットボード"],
+      qol:["快適化・UI","調整、インターフェース、チャット、所持品、マップ"],
+      social:["ソーシャル・ロールプレイ","RPプロフィール、エモート、FC、Discord"],
+      nsfw:["アダルト（18+）","成人向け。既定ではマスターに含まれません"],
+      housing:["ハウジング・内装","家具、レイアウト、土地"],
+      audio:["オーディオ・ボイス","ボイスチャット、読み上げ、音楽、効果音"],
+      dev:["開発者・データ","デバッグ、データ閲覧、エディタ"],
+      misc:["その他","分類しきれないもの"]
+    }
+  };
+
+  var lang = "en";
+  try { var st = localStorage.getItem("aetheryte-lang"); if (st && T[st]) lang = st; } catch (e) {}
+  var t = function(k){ return (T[lang] && T[lang][k]) || T.en[k] || k; };
+  var cat = function(id){ return (C[lang] && C[lang][id]) || C.en[id] || [id, ""]; };
+
+  /* --------------------------------------------------------- helpers */
 
   var $ = function(id){ return document.getElementById(id); };
-  var esc = function(s){ return String(s==null?"":s).replace(/[&<>"']/g, function(c){
+  var esc = function(s){ return String(s == null ? "" : s).replace(/[&<>"']/g, function(c){
     return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]; }); };
+  var num = function(n){ try { return Number(n).toLocaleString(lang); } catch (e) { return String(n); } };
+  var when = function(sec){
+    if (!sec) return null;
+    try { return new Date(sec * 1000).toLocaleDateString(lang, {year:"numeric",month:"short",day:"numeric"}); }
+    catch (e) { return null; }
+  };
+
+  // user/repo aus der Pages-URL ableiten, damit nichts hartkodiert ist.
+  var host = location.hostname, seg = location.pathname.split("/").filter(Boolean);
+  var owner = host.indexOf(".github.io") > -1 ? host.replace(".github.io", "") : "yourShika";
+  var repo  = (host.indexOf(".github.io") > -1 && seg.length) ? seg[0] : "AetheryteRepo";
+  var RAW = "https://raw.githubusercontent.com/" + owner + "/" + repo + "/main/";
 
   function copyBtn(url){
     var b = document.createElement("button");
-    b.className = "copy"; b.type = "button"; b.textContent = "Kopieren";
-    b.addEventListener("click", function(){
+    b.className = "copy"; b.type = "button"; b.textContent = t("copy");
+    b.setAttribute("data-copy", url);
+    b.addEventListener("click", function(ev){
+      ev.stopPropagation();
       navigator.clipboard.writeText(url).then(function(){
-        b.textContent = "Kopiert ✓"; b.classList.add("done");
-        setTimeout(function(){ b.textContent = "Kopieren"; b.classList.remove("done"); }, 1600);
+        b.textContent = t("copied"); b.classList.add("done");
+        setTimeout(function(){ b.textContent = t("copy"); b.classList.remove("done"); }, 1600);
       });
     });
     return b;
   }
 
-  fetch("plugins.json", {cache:"no-cache"}).then(function(r){ return r.json(); }).then(function(d){
+  /* ------------------------------------------------------------ boot */
+
+  var DATA = null;
+
+  fetch("plugins.json", {cache:"no-cache"})
+    .then(function(r){ return r.json(); })
+    .then(function(d){ DATA = d; buildLangs(); renderAll(); })
+    .catch(function(e){
+      $("grid").innerHTML = '<p class="empty">' + esc(t("loadError") + e.message) + '</p>';
+    });
+
+  function buildLangs(){
+    var box = $("langs");
+    box.innerHTML = "";
+    LANGS.forEach(function(L){
+      var b = document.createElement("button");
+      b.type = "button"; b.textContent = L.toUpperCase();
+      b.setAttribute("aria-pressed", String(L === lang));
+      b.addEventListener("click", function(){
+        if (L === lang) return;
+        lang = L;
+        try { localStorage.setItem("aetheryte-lang", L); } catch (e) {}
+        document.documentElement.lang = L;
+        [].forEach.call(box.children, function(x, i){
+          x.setAttribute("aria-pressed", String(LANGS[i] === lang));
+        });
+        renderAll();
+        if (modal.open && current) openModal(current);
+      });
+      box.appendChild(b);
+    });
+    document.documentElement.lang = lang;
+  }
+
+  var query = "", active = null;
+
+  function renderAll(){
+    var d = DATA;
+
+    // statische Beschriftungen
+    [].forEach.call(document.querySelectorAll("[data-i18n]"), function(el){
+      el.textContent = t(el.getAttribute("data-i18n"));
+    });
+    $("q").placeholder = t("search");
+    $("m-close").title = t("mClose");
+    $("m-close").setAttribute("aria-label", t("mClose"));
+    $("repolink").href = "https://github.com/" + owner + "/" + repo;
+
     var cats = d.categories.filter(function(c){ return c.count > 0; });
-    var byId = {}; d.categories.forEach(function(c){ byId[c.id] = c; });
+    var masterCount = d.categories.reduce(function(n, c){ return n + (c.id === "nsfw" ? 0 : c.count); }, 0);
 
-    var master = d.categories.reduce(function(n,c){ return n + (c.id === "nsfw" ? 0 : c.count); }, 0);
     $("stats").innerHTML =
-      '<div class="stat"><b>'+master+'</b><span>Plugins im Master</span></div>' +
-      '<div class="stat"><b>'+d.plugins.length+'</b><span>Gesamt</span></div>' +
-      '<div class="stat"><b>'+d.sources.length+'</b><span>Quellen</span></div>' +
-      '<div class="stat"><b>'+cats.length+'</b><span>Kategorien</span></div>' +
-      '<div class="stat"><b>'+(d.currentApiLevel||"–")+'</b><span>Dalamud-API</span></div>';
+      stat(masterCount, t("statMaster")) + stat(d.plugins.length, t("statTotal")) +
+      stat(d.sources.length, t("statSources")) + stat(cats.length, t("statCategories")) +
+      stat(d.currentApiLevel || "–", t("statApi"));
 
-    $("gen").textContent = d.generatedAt.replace("T"," ").slice(0,16) + " UTC";
+    $("gen").textContent = d.generatedAt.replace("T", " ").slice(0, 16) + " UTC";
 
-    // ---- Feeds
-    var feeds = [{ id:"master", emoji:"⭐", name:"Master (empfohlen)",
-                   desc:"Alles außer 18+ · "+master+" Plugins", file:"repos/master.json", primary:true }];
-    if (byId.nsfw && byId.nsfw.count)
-      feeds.push({ id:"master-full", emoji:"\u{1F310}", name:"Master inkl. 18+",
-                   desc:"Wirklich alles · "+d.plugins.length+" Plugins", file:"repos/master-full.json" });
+    /* --- Feeds --- */
+    var feeds = [{ emoji:"⭐", name:t("master"), desc:t("masterDesc"), file:"repos/master.json",
+                   count:masterCount, primary:true }];
+    var nsfw = d.categories.filter(function(c){ return c.id === "nsfw"; })[0];
+    if (nsfw && nsfw.count)
+      feeds.push({ emoji:"\u{1F310}", name:t("masterFull"), desc:t("masterFullDesc"),
+                   file:"repos/master-full.json", count:d.plugins.length });
     cats.forEach(function(c){
-      feeds.push({ id:c.id, emoji:c.emoji, name:c.name, desc:c.description+" · "+c.count+" Plugins", file:c.file });
+      var n = cat(c.id);
+      feeds.push({ emoji:c.emoji, name:n[0], desc:n[1], file:c.file, count:c.count });
     });
     if (d.legacyPlugins)
-      feeds.push({ id:"legacy", emoji:"\u{1F5C3}\u{FE0F}", name:"Legacy-Archiv",
-                   desc:"API < "+d.minApiLevel+", laden in aktuellem Dalamud nicht mehr · "+d.legacyPlugins+" Plugins",
-                   file:"repos/legacy.json" });
+      feeds.push({ emoji:"\u{1F5C3}\u{FE0F}", name:t("legacy"),
+                   desc:t("legacyDesc").replace("{min}", d.minApiLevel),
+                   file:"repos/legacy.json", count:d.legacyPlugins });
 
-    var fw = $("feeds");
+    var fw = $("feeds"); fw.innerHTML = "";
     feeds.forEach(function(f){
-      var url = RAW + f.file;
       var el = document.createElement("div");
       el.className = "feed" + (f.primary ? " primary" : "");
-      el.innerHTML = '<span class="emoji">'+f.emoji+'</span>' +
-                     '<span class="meta"><b>'+esc(f.name)+'</b><small>'+esc(f.desc)+'</small></span>';
-      el.appendChild(copyBtn(url));
+      el.innerHTML = '<span class="emoji">' + f.emoji + '</span>' +
+        '<span class="meta"><b>' + esc(f.name) + '</b><small>' +
+        esc(f.desc) + ' · ' + num(f.count) + ' ' + esc(t("plugins")) + '</small></span>';
+      el.appendChild(copyBtn(RAW + f.file));
       fw.appendChild(el);
     });
 
-    // ---- Filter
-    var active = null, query = "";
-    var cw = $("chips");
+    /* --- Filterchips --- */
+    var cw = $("chips"); cw.innerHTML = "";
     cats.forEach(function(c){
       var b = document.createElement("button");
-      b.className = "chip"; b.type = "button"; b.setAttribute("aria-pressed","false");
-      b.textContent = c.emoji + " " + c.name + " (" + c.count + ")";
+      b.className = "chip"; b.type = "button";
+      b.setAttribute("aria-pressed", String(active === c.id));
+      b.textContent = c.emoji + " " + cat(c.id)[0] + " (" + num(c.count) + ")";
       b.addEventListener("click", function(){
         active = (active === c.id) ? null : c.id;
         [].forEach.call(cw.children, function(x){ x.setAttribute("aria-pressed", "false"); });
-        if (active) b.setAttribute("aria-pressed","true");
-        render();
+        if (active) b.setAttribute("aria-pressed", "true");
+        renderGrid();
       });
       cw.appendChild(b);
     });
 
+    renderGrid();
+
+    /* --- Quellen --- */
+    var mark = { ok:"✅", stale:"⚠️", cache:"\u{1F4BE}", failed:"❌" };
+    $("sources").innerHTML = d.sources.map(function(s){
+      return '<tr><td class="' + s.status + '">' + (mark[s.status] || "") + '</td>' +
+        '<td><a href="' + esc(s.url) + '" rel="noopener">' + esc(s.name) + '</a></td>' +
+        '<td>' + num(s.count) + '</td><td>' + esc(s.note || "") + '</td></tr>';
+    }).join("");
+  }
+
+  function stat(v, label){
+    return '<div class="stat"><b>' + (typeof v === "number" ? num(v) : esc(v)) +
+           '</b><span>' + esc(label) + '</span></div>';
+  }
+
+  function renderGrid(){
+    var q = query.toLowerCase().trim();
+    var list = DATA.plugins.filter(function(p){
+      if (active && p.category !== active) return false;
+      if (!q) return true;
+      return (p.name + " " + p.internalName + " " + p.author + " " + p.punchline + " " +
+              p.source + " " + (p.tags || []).join(" ")).toLowerCase().indexOf(q) > -1;
+    });
+    $("empty").hidden = list.length > 0;
+
     var grid = $("grid");
-    function render(){
-      var q = query.toLowerCase().trim();
-      var list = d.plugins.filter(function(p){
-        if (active && p.category !== active) return false;
-        if (!q) return true;
-        return (p.name+" "+p.internalName+" "+p.author+" "+p.punchline+" "+p.source).toLowerCase().indexOf(q) >= 0;
-      });
-      $("empty").hidden = list.length > 0;
-      grid.innerHTML = list.map(function(p){
-        var c = byId[p.category] || {emoji:"",name:p.category};
-        return '<div class="card">' +
-          (p.iconUrl ? '<img loading="lazy" src="'+esc(p.iconUrl)+'" alt="" onerror="this.remove()">' : '') +
-          '<div class="body"><div class="title"><b>'+esc(p.name)+'</b><code>v'+esc(p.version)+'</code></div>' +
-          '<p>'+esc(p.punchline || "")+'</p><div class="tags">' +
-          '<span class="tag cat">'+c.emoji+' '+esc(c.name)+'</span>' +
-          '<span class="tag">'+esc(p.author || "?")+'</span>' +
-          '<span class="tag">'+esc(p.source)+'</span>' +
-          (p.testingOnly ? '<span class="tag">nur Testing</span>' : '') +
-          '</div></div></div>';
-      }).join("");
+    grid.innerHTML = list.map(function(p, i){
+      var c = cat(p.category);
+      var ci = (DATA.categories.filter(function(x){ return x.id === p.category; })[0] || {}).emoji || "";
+      return '<button type="button" class="card" data-i="' + i + '">' +
+        (p.iconUrl ? '<img loading="lazy" src="' + esc(p.iconUrl) + '" alt="" onerror="this.remove()">' : '') +
+        '<span class="body"><span class="title"><b>' + esc(p.name) + '</b>' +
+        '<code>v' + esc(p.version) + '</code></span>' +
+        '<p>' + esc(p.punchline || "") + '</p><span class="tags">' +
+        '<span class="tag cat">' + ci + ' ' + esc(c[0]) + '</span>' +
+        '<span class="tag">' + esc(p.author || "?") + '</span>' +
+        '<span class="tag">' + esc(p.source) + '</span>' +
+        (p.testingOnly ? '<span class="tag">' + esc(t("testingOnly")) + '</span>' : '') +
+        '</span></span></button>';
+    }).join("");
+
+    [].forEach.call(grid.children, function(el){
+      el.addEventListener("click", function(){ openModal(list[+el.getAttribute("data-i")]); });
+    });
+  }
+
+  $("q").addEventListener("input", function(e){ query = e.target.value; renderGrid(); });
+  $("clear").addEventListener("click", function(){
+    query = ""; active = null; $("q").value = "";
+    [].forEach.call($("chips").children, function(x){ x.setAttribute("aria-pressed", "false"); });
+    renderGrid();
+  });
+
+  /* ----------------------------------------------------------- modal */
+
+  var modal = $("modal"), current = null;
+
+  function row(label, value){
+    if (value == null || value === "" ) return "";
+    return "<dt>" + esc(label) + "</dt><dd>" + value + "</dd>";
+  }
+
+  function openModal(p){
+    if (!p) return;
+    current = p;
+    var c = cat(p.category);
+    var ci = (DATA.categories.filter(function(x){ return x.id === p.category; })[0] || {}).emoji || "";
+
+    var icon = $("m-icon");
+    if (p.iconUrl) { icon.src = p.iconUrl; icon.hidden = false; icon.onerror = function(){ icon.hidden = true; }; }
+    else icon.hidden = true;
+
+    $("m-title").textContent = p.name;
+    $("m-by").textContent = (p.author || "?") + " · " + ci + " " + c[0];
+
+    var api = p.apiLevel == null ? null :
+      String(p.apiLevel) + (p.testingApiLevel && p.testingApiLevel !== p.apiLevel
+        ? " (testing " + p.testingApiLevel + ")" : "");
+
+    var html = "";
+
+    var desc = (p.description || "").trim();
+    if (desc && desc !== (p.punchline || "").trim()) {
+      html += "<h4>" + esc(t("mDescription")) + "</h4><p class='m-desc'>" + esc(desc) + "</p>";
+    } else if (p.punchline) {
+      html += "<h4>" + esc(t("mDescription")) + "</h4><p class='m-desc'>" + esc(p.punchline) + "</p>";
     }
 
-    $("q").addEventListener("input", function(e){ query = e.target.value; render(); });
-    $("clear").addEventListener("click", function(){
-      query = ""; active = null; $("q").value = "";
-      [].forEach.call(cw.children, function(x){ x.setAttribute("aria-pressed","false"); });
-      render();
-    });
-    render();
+    html += "<h4>" + esc(t("mDetails")) + "</h4><dl class='kv'>" +
+      row(t("mSource"), esc(p.source)) +
+      row(t("mAuthor"), esc(p.author)) +
+      row(t("mCategory"), ci + " " + esc(c[0])) +
+      row(t("mInternal"), "<code>" + esc(p.internalName) + "</code>") +
+      row(t("mVersion"), "<code>" + esc(p.version) + "</code>" +
+          (p.testingOnly ? " · " + esc(t("testingOnly")) : "")) +
+      row(t("mTesting"), p.testingVersion && p.testingVersion !== p.version
+          ? "<code>" + esc(p.testingVersion) + "</code>" : null) +
+      row(t("mApi"), api) +
+      row(t("mApplicable"), esc(p.applicableVersion)) +
+      row(t("mDownloads"), p.downloads ? num(p.downloads) : null) +
+      row(t("mUpdated"), when(p.lastUpdate)) +
+      row(t("mTags"), (p.tags && p.tags.length) ? esc(p.tags.join(", ")) : null) +
+      "</dl>";
 
-    // ---- Quellen
-    $("sources").innerHTML = d.sources.map(function(s){
-      var m = { ok:"✅", stale:"⚠️", cache:"\u{1F4BE}", failed:"❌" };
-      return '<tr><td class="'+s.status+'">'+(m[s.status]||"")+'</td>' +
-             '<td><a href="'+esc(s.url)+'" rel="noopener">'+esc(s.name)+'</a></td>' +
-             '<td>'+s.count+'</td><td>'+esc(s.note||"")+'</td></tr>';
-    }).join("");
-  }).catch(function(e){
-    $("grid").innerHTML = '<p class="empty">plugins.json konnte nicht geladen werden: '+esc(e.message)+'</p>';
+    if ((p.changelog || "").trim()) {
+      html += "<h4>" + esc(t("mChangelog")) + "</h4><p class='m-desc small'>" +
+              esc(p.changelog.trim()) + "</p>";
+    }
+
+    var links = [];
+    if (p.repoUrl) links.push('<a href="' + esc(p.repoUrl) + '" target="_blank" rel="noopener">' + esc(t("mProject")) + '</a>');
+    if (p.downloadLink) links.push('<a href="' + esc(p.downloadLink) + '" target="_blank" rel="noopener">' + esc(t("mDownload")) + '</a>');
+    if (p.sourceUrl) links.push('<a href="' + esc(p.sourceUrl) + '" target="_blank" rel="noopener">' + esc(t("mSourceFeed")) + '</a>');
+    if (links.length) html += "<h4>" + esc(t("mLinks")) + "</h4><div class='m-links'>" + links.join("") + "</div>";
+
+    html += "<h4>" + esc(t("mInFeeds")) + "</h4><div id='m-feeds'></div>";
+
+    $("m-body").innerHTML = html;
+
+    // Feeds, die dieses Plugin enthalten – mit Kopierbutton.
+    var box = $("m-body").querySelector("#m-feeds");
+    var inFeeds = [{ label: t("master"), file: "repos/master.json" }];
+    if (p.category === "nsfw") inFeeds = [{ label: t("masterFull"), file: "repos/master-full.json" }];
+    inFeeds.push({ label: ci + " " + c[0], file: "repos/" + p.category + ".json" });
+    inFeeds.forEach(function(f){
+      var row = document.createElement("div");
+      row.className = "m-feed";
+      row.innerHTML = "<code>" + esc(RAW + f.file) + "</code>";
+      row.appendChild(copyBtn(RAW + f.file));
+      box.appendChild(row);
+    });
+
+    if (!modal.open) modal.showModal();
+    $("m-body").scrollTop = 0;
+  }
+
+  $("m-close").addEventListener("click", function(){ modal.close(); });
+  modal.addEventListener("click", function(e){ if (e.target === modal) modal.close(); });
+  modal.addEventListener("close", function(){ current = null; });
+  // <dialog> schliesst bei Escape eigentlich von selbst. Der explizite Handler
+  // ist die Absicherung fuer Browser, in denen das nicht greift.
+  document.addEventListener("keydown", function(e){
+    if (e.key === "Escape" && modal.open) modal.close();
   });
 })();
 </script>

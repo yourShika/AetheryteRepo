@@ -1,6 +1,6 @@
 # Status
 
-Zuletzt aktualisiert: **2026-08-15 15:36 UTC**
+Zuletzt aktualisiert: **2026-08-15 15:44 UTC**
 
 - Plugins im Master-Feed: **563**
 - Plugins insgesamt (inkl. 18+): **569**
