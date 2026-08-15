@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-15T10:13:18.341Z",
-  "contentHash": "a99bffb4a3858d3f",
+  "generatedAt": "2026-08-15T12:58:31.746Z",
+  "contentHash": "af7bee82bd2f3c92",
   "totalPlugins": 568,
   "masterPlugins": 562,
   "currentApiLevel": 15,
@@ -3625,11 +3625,11 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "PalacePal",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "LazyLoot",
@@ -3639,13 +3639,6 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3653,11 +3646,11 @@
       "droppedVersion": "6.0.0.90"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "AutoRetainer",
@@ -3667,11 +3660,11 @@
       "droppedVersion": "4.6.1.27"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.306.1.56",
-      "droppedVersion": "15.306.1.56"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Splatoon",
@@ -3681,6 +3674,13 @@
       "droppedVersion": "3.9.2.21"
     },
     {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.1.56",
+      "droppedVersion": "15.306.1.56"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "1.0.4.19"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.18",
-      "droppedVersion": "4.0.5.18"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.1.17",
       "droppedVersion": "2.1.1.17"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.18",
+      "droppedVersion": "4.0.5.18"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -5134,7 +5134,7 @@
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.5.44",
-      "droppedVersion": "7.5.5.43"
+      "droppedVersion": "7.5.5.44"
     },
     {
       "internalName": "BossModReborn",
