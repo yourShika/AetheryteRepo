@@ -163,6 +163,11 @@ node scripts/aggregate.mjs --offline   # nur aus cache/ bauen
 
 Braucht Node 22+, keine Abhängigkeiten.
 
+> [!TIP]
+> Wenn der Bot zwischendurch gepusht hat, knallt es beim `git pull --rebase` in den
+> erzeugten Dateien. Die sind wegwerfbar: Konflikte mit `git checkout --ours` auflösen,
+> `git rebase --continue`, dann einmal `node scripts/aggregate.mjs` — fertig.
+
 ---
 
 ## Aktualisierung erzwingen
