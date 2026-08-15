@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-15T12:58:31.746Z",
-  "contentHash": "af7bee82bd2f3c92",
-  "totalPlugins": 568,
-  "masterPlugins": 562,
+  "generatedAt": "2026-08-15T15:34:21.542Z",
+  "contentHash": "ab58a95e8578b117",
+  "totalPlugins": 569,
+  "masterPlugins": 563,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -1228,7 +1228,7 @@
       "name": "OOF Games",
       "url": "https://puni.sh/api/repository/oof-games",
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "note": null
     },
     {
@@ -2382,7 +2382,7 @@
       "name": "Social & Roleplay",
       "emoji": "🎭",
       "description": "RP-Profile, Emotes, Free Company, Discord",
-      "count": 53,
+      "count": 54,
       "file": "repos/social.json"
     },
     {
@@ -2460,7 +2460,7 @@
       "kept": "CombatReborn",
       "dropped": "44451516-ff14 / BossmodRebornCN",
       "keptVersion": "7.5.5.44",
-      "droppedVersion": "7.5.0.39"
+      "droppedVersion": "7.5.0.40"
     },
     {
       "internalName": "CustomizePlus",
@@ -3625,25 +3625,11 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
-    },
-    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "5.3.3.3",
       "droppedVersion": "5.3.3.3"
-    },
-    {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.90",
-      "droppedVersion": "6.0.0.90"
     },
     {
       "internalName": "PalacePal",
@@ -3653,11 +3639,18 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "AutoRetainer",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.27",
-      "droppedVersion": "4.6.1.27"
+      "keptVersion": "6.0.0.90",
+      "droppedVersion": "6.0.0.90"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "Marketbuddy",
@@ -3665,6 +3658,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.1.27",
+      "droppedVersion": "4.6.1.27"
     },
     {
       "internalName": "Splatoon",
@@ -3677,8 +3677,8 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.306.1.56",
-      "droppedVersion": "15.306.1.56"
+      "keptVersion": "15.306.1.58",
+      "droppedVersion": "15.306.1.58"
     },
     {
       "internalName": "WrathCombo",
@@ -4797,7 +4797,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.306.1.56",
+      "keptVersion": "15.306.1.58",
       "droppedVersion": "15.306.1.56"
     },
     {
@@ -5665,7 +5665,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.306.1.56",
+      "keptVersion": "15.306.1.58",
       "droppedVersion": "4.13"
     },
     {
@@ -6694,7 +6694,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.306.1.56",
+      "keptVersion": "15.306.1.58",
       "droppedVersion": "5.31"
     },
     {
@@ -6960,7 +6960,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.306.1.56",
+      "keptVersion": "15.306.1.58",
       "droppedVersion": "7.5.11"
     },
     {
