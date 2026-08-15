@@ -1,0 +1,57 @@
+{
+  "sourceId": "baanderson40",
+  "url": "https://raw.githubusercontent.com/baanderson40/dalamud_plugins/master/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 2,
+  "plugins": [
+    {
+      "Author": "baanderson40",
+      "Name": "Retainer Repricer",
+      "Punchline": "Automates retainer item repricing and listing using live market data.",
+      "Description": "Automates retainer item listing and repricing by cycling through retainers, reading market prices from Universalis, and updating listings safely. Use /repricer or /rr to open.",
+      "Tags": [
+        "market",
+        "retainer",
+        "economy"
+      ],
+      "InternalName": "RetainerRepricer",
+      "RepoUrl": "https://github.com/baanderson40/Retainer-Repricer",
+      "AssemblyVersion": "1.3.0.1",
+      "IsTestingExclusive": false,
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "DownloadCount": 142,
+      "DownloadLinkInstall": "https://github.com/baanderson40/Retainer-Repricer/releases/download/v1.3.0.1/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/baanderson40/Retainer-Repricer/releases/download/v1.3.0.1/latest.zip",
+      "SupportsProfiles": false,
+      "IsHide": false,
+      "_SourceId": "baanderson40",
+      "_SourceName": "baanderson40",
+      "_SourceUrl": "https://raw.githubusercontent.com/baanderson40/dalamud_plugins/master/repo.json"
+    },
+    {
+      "Author": "baanderson40",
+      "Name": "Another Occult Crescent Helper",
+      "Punchline": "Occult Crescent automation and tracking helper.",
+      "Description": "Automates and monitors Occult Crescent FATEs, Critical Engagements, pot treasure, treasure coffers, movement, combat, recovery, and currency shopping. Use /aocch to open the main window.",
+      "Tags": [
+        "occult crescent",
+        "aocch"
+      ],
+      "InternalName": "AOCCH",
+      "RepoUrl": "https://github.com/baanderson40/Another_Occult_Crescent_Helper",
+      "AssemblyVersion": "0.1.6.2",
+      "IsTestingExclusive": false,
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "DownloadCount": 127,
+      "DownloadLinkInstall": "https://github.com/baanderson40/Another_Occult_Crescent_Helper/releases/download/v0.1.6.2/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/baanderson40/Another_Occult_Crescent_Helper/releases/download/v0.1.6.2/latest.zip",
+      "SupportsProfiles": false,
+      "IsHide": false,
+      "_SourceId": "baanderson40",
+      "_SourceName": "baanderson40",
+      "_SourceUrl": "https://raw.githubusercontent.com/baanderson40/dalamud_plugins/master/repo.json"
+    }
+  ]
+}

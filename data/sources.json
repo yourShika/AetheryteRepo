@@ -1,0 +1,195 @@
+{
+  "repository": "yourShika/AetheryteRepo",
+  "$comment": "Quellen für den Aetheryte Master-Repo. 'category' ist nur der Fallback, wenn die Auto-Kategorisierung eines Plugins nichts findet. 'priority' entscheidet bei Versions-Gleichstand (höher gewinnt).",
+  "sources": [
+    {
+      "id": "penumbra",
+      "name": "Penumbra",
+      "maintainer": "xivdev / Ottermandias",
+      "url": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
+      "category": "glamour",
+      "priority": 100,
+      "enabled": true
+    },
+    {
+      "id": "glamourer",
+      "name": "Glamourer",
+      "maintainer": "Ottermandias",
+      "url": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
+      "category": "glamour",
+      "priority": 100,
+      "enabled": true
+    },
+    {
+      "id": "seaofstars",
+      "name": "Sea of Stars",
+      "maintainer": "Ottermandias",
+      "url": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
+      "category": "glamour",
+      "priority": 100,
+      "enabled": true
+    },
+    {
+      "id": "vfxeditor",
+      "name": "Dalamud VFXEditor",
+      "maintainer": "0ceal0t",
+      "url": "https://raw.githubusercontent.com/0ceal0t/Dalamud-VFXEditor/main/repo.json",
+      "category": "dev",
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "punish-ment",
+      "name": "Puni.sh (Ment)",
+      "maintainer": "Puni.sh",
+      "url": "https://love.puni.sh/ment.json",
+      "category": "automation",
+      "priority": 80,
+      "enabled": true
+    },
+    {
+      "id": "elfshelf",
+      "name": "ElfShelf",
+      "maintainer": "Eauldane",
+      "url": "https://raw.githubusercontent.com/Eauldane/ElfShelf/main/repo.json",
+      "category": "social",
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "punish-veyn",
+      "name": "Veyn (BossMod)",
+      "maintainer": "Veyn",
+      "url": "https://puni.sh/api/repository/veyn",
+      "category": "combat",
+      "priority": 70,
+      "enabled": true
+    },
+    {
+      "id": "lightless-sync",
+      "name": "Lightless Sync",
+      "maintainer": "Lightless",
+      "url": "https://repo.lightless-sync.org/",
+      "category": "glamour",
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "punish-ice",
+      "name": "ICE (Island Sanctuary)",
+      "maintainer": "Puni.sh",
+      "url": "https://puni.sh/api/repository/ice",
+      "category": "automation",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "proximity-voice",
+      "name": "Proximity Voice Chat",
+      "maintainer": "Ricimon",
+      "url": "https://raw.githubusercontent.com/Ricimon/FFXIV-ProximityVoiceChat/refs/heads/master/repo.json",
+      "category": "audio",
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "punish-aetherlove",
+      "name": "AetherLove",
+      "maintainer": "Puni.sh",
+      "url": "https://puni.sh/api/repository/aetherlove",
+      "category": "social",
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "punish-erdelf",
+      "name": "erdelf",
+      "maintainer": "erdelf",
+      "url": "https://puni.sh/api/repository/erdelf",
+      "category": "misc",
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "nightmarexiv",
+      "name": "NightmareXIV",
+      "maintainer": "NightmareXIV",
+      "url": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+      "category": "automation",
+      "priority": 80,
+      "enabled": true
+    },
+    {
+      "id": "combatreborn",
+      "name": "CombatReborn",
+      "maintainer": "FFXIV-CombatReborn",
+      "url": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
+      "category": "combat",
+      "priority": 70,
+      "enabled": true
+    },
+    {
+      "id": "punish-knightmore",
+      "name": "Knightmore",
+      "maintainer": "Knightmore",
+      "url": "https://puni.sh/api/repository/knightmore",
+      "category": "misc",
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "xeldaralz",
+      "name": "XeldarAlz",
+      "maintainer": "XeldarAlz",
+      "url": "https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/main/repo.json",
+      "category": "misc",
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "remakeplace",
+      "name": "ReMakePlace",
+      "maintainer": "ReMakePlace Maintainers",
+      "url": "https://raw.githubusercontent.com/RemakePlace/plugin/master/ReMakePlacePlugin.json",
+      "category": "housing",
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "baanderson40",
+      "name": "baanderson40",
+      "maintainer": "baanderson40",
+      "url": "https://raw.githubusercontent.com/baanderson40/dalamud_plugins/master/repo.json",
+      "category": "misc",
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "ohkannaduh",
+      "name": "OhKannaDuh",
+      "maintainer": "OhKannaDuh / Faye",
+      "url": "https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json",
+      "category": "automation",
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "joshua-xiv",
+      "name": "Joshua-XIV",
+      "maintainer": "Joshua-XIV",
+      "url": "https://raw.githubusercontent.com/Joshua-XIV/MyDalamudPlugin/main/repo.json",
+      "category": "misc",
+      "priority": 50,
+      "enabled": true
+    },
+    {
+      "id": "punish-kage",
+      "name": "Kage",
+      "maintainer": "Kage",
+      "url": "https://puni.sh/api/repository/kage",
+      "category": "misc",
+      "priority": 50,
+      "enabled": true
+    }
+  ]
+}

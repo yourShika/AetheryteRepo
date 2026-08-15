@@ -1,0 +1,45 @@
+{
+  "sourceId": "ohkannaduh",
+  "url": "https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Faye, Kage",
+      "Name": "Better Occult Crescent & Chest Helper Interface",
+      "InternalName": "BOCCHI",
+      "Punchline": "BOCCHI is here to smooth out your Occult Crescent experience.",
+      "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extra illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.\n\nCommand prefix: bocchi (alias: och)\n  /bocchi → Opens the main window\n  /bocchi config → Opens config (aliases: cfg, c)\n  /bocchi config list → Lists config keys\n  /bocchi config get <key> → Prints a config value\n  /bocchi config set <key> <value> → Sets a config value\n  /bocchi buff → Start/stop a buff run\n  /bocchi tp [fate|ce|pot] → Teleport toward nearest matching activity\n  /bocchi illegal [on|off|toggle] → Control Illegal Mode (no arg opens the window)\n  /bocchi cmd flag-active-ce → Flag registering CE on the map\n  /bocchi cmd flag-active-fate → Flag a FATE on the map\n  /bocchi cmd flag-active-non-pot-fate → Flag a non-pot FATE\n  /bocchi reload-translations → Reload translation files (alias: rt)\n  /och … → Same as /bocchi (legacy alias; also /occultcrescenthelper)",
+      "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/OhKannaDuh/BOCCHI",
+      "Tags": [
+        "BOCCHI",
+        "Occult Crescent",
+        "Occult",
+        "Crescent",
+        "Illegal",
+        "Critical Encounter",
+        "Fate",
+        "Faye",
+        "BOCCHER",
+        "OCH"
+      ],
+      "DalamudApiLevel": 15,
+      "AssemblyVersion": "4.0.2.27",
+      "DownloadLinkInstall": "https://github.com/OhKannaDuh/BOCCHI/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/OhKannaDuh/BOCCHI/releases/latest/download/latest.zip",
+      "TestingDalamudApiLevel": 15,
+      "TestingAssemblyVersion": "4.0.2.9",
+      "DownloadLinkTesting": "https://github.com/OhKannaDuh/BOCCHI/releases/download/4.0.2.9/latest.zip",
+      "DownloadCount": 143566,
+      "LastUpdated": 1786558858115,
+      "TestingLastUpdated": 1785958208000,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "ohkannaduh",
+      "_SourceName": "OhKannaDuh",
+      "_SourceUrl": "https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json"
+    }
+  ]
+}

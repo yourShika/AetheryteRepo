@@ -1,0 +1,86 @@
+{
+  "sourceId": "punish-erdelf",
+  "url": "https://puni.sh/api/repository/erdelf",
+  "fetchedAt": "2026-08-15",
+  "count": 2,
+  "plugins": [
+    {
+      "Author": "erdelf, Herculezz",
+      "Name": "AutoDuty",
+      "Punchline": "Dungeons while you sleep, eat, or work. (Swimsuit Shtola made easy.)",
+      "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
+      "Tags": [
+        "auto",
+        "duty",
+        "dungeon",
+        "trial",
+        "raid",
+        "unsync",
+        "level",
+        "erdelf"
+      ],
+      "InternalName": "AutoDuty",
+      "RepoUrl": "https://github.com/erdelf/AutoDuty",
+      "DownloadCount": 1826866,
+      "LastUpdate": 1785566739,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.330/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.330/update/latest.zip",
+      "AssemblyVersion": "0.0.0.330",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "## What's Changed\r\n* EC update by @erdelf in https://github.com/erdelf/AutoDuty/pull/392\r\n* added GlamourLog to Info Tab by @erdelf in https://github.com/erdelf/AutoDuty/pull/393\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.329...0.0.0.330",
+      "TestingAssemblyVersion": "0.0.0.333",
+      "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.333/install/testing.zip",
+      "TestingDalamudApiLevel": "15",
+      "IconUrl": "https://puni.sh/api/plugins/icon/54",
+      "ImageUrls": [
+        "https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
+        "https://s3.puni.sh/media/plugin/54/image-gc84lu4pdpb.png",
+        "https://s3.puni.sh/media/plugin/54/image-vkvtqki3ggh.png",
+        "https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
+        "https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-erdelf",
+      "_SourceName": "erdelf",
+      "_SourceUrl": "https://puni.sh/api/repository/erdelf"
+    },
+    {
+      "Author": "erdelf",
+      "Name": "FC Tracker",
+      "Punchline": "Keeping an eye on all your subsidiaries, so you don’t have to.",
+      "Description": "Tracks FCs and related info. Especially ideal for creating new sub FCs.",
+      "Tags": [
+        "track",
+        "fc",
+        "company",
+        "subs",
+        "erdelf"
+      ],
+      "InternalName": "FCTracker",
+      "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
+      "DownloadCount": 3476,
+      "LastUpdate": 1786699308,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.38/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.38/update/latest.zip",
+      "AssemblyVersion": "0.0.0.38",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "[fix AT tracking](https://github.com/erdelf/ffxiv_FCTracker/commit/b0738479111229be09c4d8fbe0e6581126bf41b3)\r\n\r\n**Full Changelog**: https://github.com/erdelf/ffxiv_FCTracker/compare/0.0.0.37...0.0.0.38",
+      "TestingAssemblyVersion": "0.0.0.35",
+      "DownloadLinkTesting": "https://puni.sh/api/plugins/download/135/FCTracker/versions/0.0.0.35/install/testing.zip",
+      "TestingDalamudApiLevel": "15",
+      "IconUrl": "https://puni.sh/api/plugins/icon/135",
+      "ImageUrls": [
+        "https://s3.puni.sh/media/plugin/135/image-tb56dnwd3u7.png",
+        "https://s3.puni.sh/media/plugin/135/image-o2i6wu08hz.png"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-erdelf",
+      "_SourceName": "erdelf",
+      "_SourceUrl": "https://puni.sh/api/repository/erdelf"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+name: Update repos
+
+on:
+  schedule:
+    # Alle 3 Stunden. GitHub-Cron ist nicht minutengenau, Verzoegerungen von
+    # 5-20 Minuten sind normal.
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      force_commit:
+        description: "Auch committen, wenn sich nichts geaendert hat"
+        type: boolean
+        default: false
+  # Externer Trigger:
+  #   gh api repos/OWNER/REPO/dispatches -f event_type=source-updated
+  repository_dispatch:
+    types: [source-updated]
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "scripts/**"
+      - ".github/workflows/update.yml"
+
+concurrency:
+  group: update-repos
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Quellen validieren
+        run: node scripts/validate-sources.mjs
+
+      - name: Vorherigen Stand sichern
+        run: git show HEAD:repos/index.json > "$RUNNER_TEMP/prev-index.json" || true
+
+      - name: Aggregieren
+        run: node scripts/aggregate.mjs
+
+      - name: Zusammenfassung
+        run: cat STATUS.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit & Push
+        env:
+          FORCE_COMMIT: ${{ github.event.inputs.force_commit }}
+        run: |
+          set -euo pipefail
+          git config user.name  "aetheryte-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Arbeitsverzeichnis unveraendert."
+            exit 0
+          fi
+
+          # Nur committen, wenn sich der Inhalt geaendert hat. Sonst wuerde
+          # allein der Zeitstempel alle 3 Stunden einen Commit erzeugen.
+          if [ "${FORCE_COMMIT:-false}" != "true" ]; then
+            if ! node scripts/should-commit.mjs "$RUNNER_TEMP/prev-index.json"; then
+              git checkout -- .
+              exit 0
+            fi
+          fi
+
+          node scripts/commit-message.mjs > "$RUNNER_TEMP/msg.txt"
+          git add -A
+          git commit -F "$RUNNER_TEMP/msg.txt"
+
+          # Ein paralleler Lauf koennte inzwischen gepusht haben.
+          for i in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "Push abgelehnt, rebase und erneut versuchen ($i/3)"
+            git pull --rebase --autostash origin main
+          done
+          echo "Push nach 3 Versuchen fehlgeschlagen" >&2
+          exit 1

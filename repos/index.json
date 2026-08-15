@@ -1,0 +1,289 @@
+{
+  "generatedAt": "2026-08-15T10:02:06.725Z",
+  "contentHash": "e4f84ee7557c5504",
+  "totalPlugins": 85,
+  "masterPlugins": 85,
+  "sources": [
+    {
+      "id": "penumbra",
+      "name": "Penumbra",
+      "url": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "glamourer",
+      "name": "Glamourer",
+      "url": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "seaofstars",
+      "name": "Sea of Stars",
+      "url": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
+      "status": "ok",
+      "count": 9,
+      "note": null
+    },
+    {
+      "id": "vfxeditor",
+      "name": "Dalamud VFXEditor",
+      "url": "https://raw.githubusercontent.com/0ceal0t/Dalamud-VFXEditor/main/repo.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "punish-ment",
+      "name": "Puni.sh (Ment)",
+      "url": "https://love.puni.sh/ment.json",
+      "status": "ok",
+      "count": 14,
+      "note": null
+    },
+    {
+      "id": "elfshelf",
+      "name": "ElfShelf",
+      "url": "https://raw.githubusercontent.com/Eauldane/ElfShelf/main/repo.json",
+      "status": "ok",
+      "count": 5,
+      "note": null
+    },
+    {
+      "id": "punish-veyn",
+      "name": "Veyn (BossMod)",
+      "url": "https://puni.sh/api/repository/veyn",
+      "status": "ok",
+      "count": 6,
+      "note": null
+    },
+    {
+      "id": "lightless-sync",
+      "name": "Lightless Sync",
+      "url": "https://repo.lightless-sync.org/",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "punish-ice",
+      "name": "ICE (Island Sanctuary)",
+      "url": "https://puni.sh/api/repository/ice",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "proximity-voice",
+      "name": "Proximity Voice Chat",
+      "url": "https://raw.githubusercontent.com/Ricimon/FFXIV-ProximityVoiceChat/refs/heads/master/repo.json",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "punish-aetherlove",
+      "name": "AetherLove",
+      "url": "https://puni.sh/api/repository/aetherlove",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "punish-erdelf",
+      "name": "erdelf",
+      "url": "https://puni.sh/api/repository/erdelf",
+      "status": "ok",
+      "count": 2,
+      "note": null
+    },
+    {
+      "id": "nightmarexiv",
+      "name": "NightmareXIV",
+      "url": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json",
+      "status": "ok",
+      "count": 15,
+      "note": null
+    },
+    {
+      "id": "combatreborn",
+      "name": "CombatReborn",
+      "url": "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json",
+      "status": "ok",
+      "count": 10,
+      "note": null
+    },
+    {
+      "id": "punish-knightmore",
+      "name": "Knightmore",
+      "url": "https://puni.sh/api/repository/knightmore",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "xeldaralz",
+      "name": "XeldarAlz",
+      "url": "https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/main/repo.json",
+      "status": "ok",
+      "count": 6,
+      "note": null
+    },
+    {
+      "id": "remakeplace",
+      "name": "ReMakePlace",
+      "url": "https://raw.githubusercontent.com/RemakePlace/plugin/master/ReMakePlacePlugin.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "baanderson40",
+      "name": "baanderson40",
+      "url": "https://raw.githubusercontent.com/baanderson40/dalamud_plugins/master/repo.json",
+      "status": "ok",
+      "count": 2,
+      "note": null
+    },
+    {
+      "id": "ohkannaduh",
+      "name": "OhKannaDuh",
+      "url": "https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json",
+      "status": "ok",
+      "count": 1,
+      "note": null
+    },
+    {
+      "id": "joshua-xiv",
+      "name": "Joshua-XIV",
+      "url": "https://raw.githubusercontent.com/Joshua-XIV/MyDalamudPlugin/main/repo.json",
+      "status": "ok",
+      "count": 3,
+      "note": null
+    },
+    {
+      "id": "punish-kage",
+      "name": "Kage",
+      "url": "https://puni.sh/api/repository/kage",
+      "status": "ok",
+      "count": 2,
+      "note": null
+    }
+  ],
+  "categories": [
+    {
+      "id": "glamour",
+      "name": "Glamour & Charakter",
+      "emoji": "👗",
+      "description": "Mods, Aussehen, Posing, Sync",
+      "count": 14,
+      "file": "repos/glamour.json"
+    },
+    {
+      "id": "combat",
+      "name": "Kampf & Rotation",
+      "emoji": "⚔️",
+      "description": "Rotationen, Boss-Timeline, Combos, PvP",
+      "count": 12,
+      "file": "repos/combat.json"
+    },
+    {
+      "id": "automation",
+      "name": "Automatisierung",
+      "emoji": "🤖",
+      "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
+      "count": 27,
+      "file": "repos/automation.json"
+    },
+    {
+      "id": "crafting",
+      "name": "Crafting & Gathering",
+      "emoji": "⚒️",
+      "description": "Handwerk, Sammeln, Marktbrett",
+      "count": 6,
+      "file": "repos/crafting.json"
+    },
+    {
+      "id": "qol",
+      "name": "Quality of Life & UI",
+      "emoji": "✨",
+      "description": "Tweaks, Interface, Chat, Inventar, Karten",
+      "count": 16,
+      "file": "repos/qol.json"
+    },
+    {
+      "id": "social",
+      "name": "Social & Roleplay",
+      "emoji": "🎭",
+      "description": "RP-Profile, Emotes, Free Company, Discord",
+      "count": 3,
+      "file": "repos/social.json"
+    },
+    {
+      "id": "nsfw",
+      "name": "Adult (18+)",
+      "emoji": "🔞",
+      "description": "Nur fuer Erwachsene – standardmaessig NICHT im Master",
+      "count": 0,
+      "file": "repos/nsfw.json"
+    },
+    {
+      "id": "housing",
+      "name": "Housing & Deko",
+      "emoji": "🏡",
+      "description": "Moebel, Layouts, Grundstuecke",
+      "count": 1,
+      "file": "repos/housing.json"
+    },
+    {
+      "id": "audio",
+      "name": "Audio & Voice",
+      "emoji": "🔊",
+      "description": "Voicechat, TTS, Musik, Sound",
+      "count": 2,
+      "file": "repos/audio.json"
+    },
+    {
+      "id": "dev",
+      "name": "Developer & Data",
+      "emoji": "🛠️",
+      "description": "Debugging, Datenexplorer, Editoren",
+      "count": 3,
+      "file": "repos/dev.json"
+    },
+    {
+      "id": "misc",
+      "name": "Sonstiges",
+      "emoji": "📦",
+      "description": "Alles ohne klare Zuordnung",
+      "count": 1,
+      "file": "repos/misc.json"
+    }
+  ],
+  "duplicates": [
+    {
+      "internalName": "Penumbra",
+      "kept": "Penumbra",
+      "dropped": "Sea of Stars",
+      "keptVersion": "1.6.1.12",
+      "droppedVersion": "1.6.1.12"
+    },
+    {
+      "internalName": "Glamourer",
+      "kept": "Glamourer",
+      "dropped": "Sea of Stars",
+      "keptVersion": "1.6.1.7",
+      "droppedVersion": "1.6.1.7"
+    },
+    {
+      "internalName": "DynamicBridge",
+      "kept": "Sea of Stars",
+      "dropped": "NightmareXIV",
+      "keptVersion": "1.0.8.8",
+      "droppedVersion": "1.0.8.8"
+    }
+  ]
+}

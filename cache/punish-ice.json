@@ -1,0 +1,96 @@
+{
+  "sourceId": "punish-ice",
+  "url": "https://puni.sh/api/repository/ice",
+  "fetchedAt": "2026-08-15",
+  "count": 3,
+  "plugins": [
+    {
+      "Author": "Ice",
+      "Name": "Explorer's Icebox",
+      "Punchline": "What if, we held hands underneath the quartz mountain.",
+      "Description": "A little helper that lets you level up, or gather all the materials on Island Sanctary. Requires Navmesh & Visland.\nPop open a cold one while the tedious parts of exploration is handled by your good friend cousin robby",
+      "Tags": [
+        "Island Sanctuary",
+        "Island",
+        "Sanctuary"
+      ],
+      "InternalName": "ExplorersIcebox",
+      "RepoUrl": "https://github.com/LeontopodiumNivale14/Explorers-Icebox/tree/master",
+      "DownloadCount": 51493,
+      "LastUpdate": 1779884677,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/update/latest.zip",
+      "AssemblyVersion": "1.1.0.3",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "- More bugfixes/attempts at fixing that damn selling bug",
+      "IconUrl": "https://puni.sh/api/plugins/icon/64",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-ice",
+      "_SourceName": "ICE (Island Sanctuary)",
+      "_SourceUrl": "https://puni.sh/api/repository/ice"
+    },
+    {
+      "Author": "Ice",
+      "Name": "Chilled Leves",
+      "Punchline": "I heard you like your leves on the rocks.",
+      "Description": "A leve helper that lets you select which ones you want to do, and help turn them in for you. YOU NEED NAVMESH INSTALLED AS AN FYI.",
+      "Tags": [
+        "Leves",
+        "Crafters",
+        "Gatherers"
+      ],
+      "InternalName": "ChilledLeves",
+      "RepoUrl": "https://github.com/LeontopodiumNivale14/LeveItAlone",
+      "DownloadCount": 105302,
+      "LastUpdate": 1777774705,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/update/latest.zip",
+      "AssemblyVersion": "1.0.1.24",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "API 15 bump",
+      "IconUrl": "https://puni.sh/api/plugins/icon/68",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-ice",
+      "_SourceName": "ICE (Island Sanctuary)",
+      "_SourceUrl": "https://puni.sh/api/repository/ice"
+    },
+    {
+      "Author": "Ice",
+      "Name": "Ice's Cosmic Exploration (ICE)",
+      "Punchline": "Welcome to, the dark side of, the MOOOON",
+      "Description": "The one-stop shop to your cosmic exploration needs! This plugin is meant to be a collective source of being able to grind out your gather and crafter relics, while also being able to help grind out the score to 500k on each class for that sleek black mech that you want ~.\n\n- Has the ability to re-roll missions for you until you get the desired one that you want to farm\n- Crafters can be fully automated with support of artisan. \n- Fisher can also be fully automated with the support of AutoHook and Navmesh\n- Botanist/Miner only need Navmesh, thanks to having gathering built in directly to the plugin <3. \n- Setup what items you want to buy from the shop for cosmocredits, or spend your planetary tokens on the cosmowheel of fortune!",
+      "Tags": [
+        "Gatherers"
+      ],
+      "InternalName": "ICE",
+      "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
+      "DownloadCount": 1199260,
+      "LastUpdate": 1784212096,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.1/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.1/update/latest.zip",
+      "AssemblyVersion": "1.0.0.1",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "- Removed version checking from fishing side (not really necessary now since it's out of testing, and should allow for dev versions to work w/o it yelling at you)\n- Pandora states will now be restored even if a \"Stop When\" Condition was met\n- Updated #1661 Fishing preset\n- Added a check for *-if-* an item can be merged. (Was causing some issues with users with high ping)\n- Updated preset #1004 of the fishing preset\n\n### Overlay\n- Will now only force open once you enter a cosmic territory each time vs constantly making sure it's open...\n- Also added a command to open the overlay as well `/ice overlay`\n- This also means you can open it outside of the cosmic area if you want to keep track of weather / timed missions while doing other things with your life. Because who sits on the moon (self callout post)\n- Added mastery score to the overlay",
+      "TestingAssemblyVersion": "0.0.78.2",
+      "DownloadLinkTesting": "https://puni.sh/api/plugins/download/70/ICE/versions/0.0.78.2/install/testing.zip",
+      "TestingDalamudApiLevel": "15",
+      "IconUrl": "https://puni.sh/api/plugins/icon/70",
+      "ImageUrls": [
+        "https://s3.puni.sh/media/plugin/70/image-48mo2sqihqq.png",
+        "https://s3.puni.sh/media/plugin/70/image-qvicotsqoah.png",
+        "https://s3.puni.sh/media/plugin/70/image-n7yejk60hc.png",
+        "https://s3.puni.sh/media/plugin/70/image-tnps9neyhx.png"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-ice",
+      "_SourceName": "ICE (Island Sanctuary)",
+      "_SourceUrl": "https://puni.sh/api/repository/ice"
+    }
+  ]
+}

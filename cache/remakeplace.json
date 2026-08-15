@@ -1,0 +1,41 @@
+{
+  "sourceId": "remakeplace",
+  "url": "https://raw.githubusercontent.com/RemakePlace/plugin/master/ReMakePlacePlugin.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "ReMakePlace Maintainers",
+      "Name": "ReMakePlace Plugin",
+      "InternalName": "ReMakePlacePlugin",
+      "AssemblyVersion": "7.5.1.0",
+      "TestingAssemblyVersion": "7.5.1.0",
+      "Punchline": "Automatically save & load furniture layouts in your house.",
+      "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the ReMakePlace program.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/ReMakePlace/plugin",
+      "Tags": [
+        "makeplace",
+        "housing",
+        "furniture",
+        "remakeplace",
+        "re-makeplace"
+      ],
+      "DalamudApiLevel": 15,
+      "TestingDalamudApiLevel": 15,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/ReMakePlace/Plugin/master/icon.png",
+      "IsTestingExclusive": false,
+      "DownloadCount": 175743,
+      "DownloadLinkInstall": "https://github.com/RemakePlace/plugin/releases/download/v7.5.1/ReMakePlacePlugin.zip",
+      "DownloadLinkTesting": "https://github.com/RemakePlace/plugin/releases/download/v7.5.1/ReMakePlacePlugin.zip",
+      "DownloadLinkUpdate": "https://github.com/RemakePlace/plugin/releases/download/v7.5.1/ReMakePlacePlugin.zip",
+      "_isDip17Plugin": false,
+      "_Dip17Channel": null,
+      "IsHide": false,
+      "_SourceId": "remakeplace",
+      "_SourceName": "ReMakePlace",
+      "_SourceUrl": "https://raw.githubusercontent.com/RemakePlace/plugin/master/ReMakePlacePlugin.json"
+    }
+  ]
+}

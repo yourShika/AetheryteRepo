@@ -1,0 +1,63 @@
+{
+  "sourceId": "punish-kage",
+  "url": "https://puni.sh/api/repository/kage",
+  "fetchedAt": "2026-08-15",
+  "count": 2,
+  "plugins": [
+    {
+      "Author": "Kage",
+      "Name": "Quick Transfer",
+      "Punchline": "Quick item transfer + split helpers.",
+      "Description": "Automate inventory transfers with Shift/Ctrl/Alt + Right-Click. Trade window, vendor quick sell, FC chest.",
+      "Tags": [
+        "inventory",
+        "utility",
+        "quality of life"
+      ],
+      "InternalName": "QuickTransfer",
+      "RepoUrl": "https://github.com/Kagekazu/QuickTransfer",
+      "DownloadCount": 802,
+      "LastUpdate": 1784585010,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/144/QuickTransfer/versions/1.1.0.7/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/144/QuickTransfer/versions/1.1.0.7/update/latest.zip",
+      "AssemblyVersion": "1.1.0.7",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "",
+      "IconUrl": "https://puni.sh/api/plugins/icon/144",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-kage",
+      "_SourceName": "Kage",
+      "_SourceUrl": "https://puni.sh/api/repository/kage"
+    },
+    {
+      "Author": "Kage",
+      "Name": "Relic Tracker",
+      "Punchline": "Track relic materials across inventory and retainers.",
+      "Description": "Track relic weapon, tool, and armor progress across every job, with live material counts and optional FFXIV Collect sync.",
+      "Tags": [
+        "relic",
+        "inventory",
+        "crafting",
+        "utility"
+      ],
+      "InternalName": "RelicTracker",
+      "RepoUrl": "https://github.com/Kagekazu/RelicTracker",
+      "DownloadCount": 2049,
+      "LastUpdate": 1786731849,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/159/RelicTracker/versions/1.0.1.4/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/159/RelicTracker/versions/1.0.1.4/update/latest.zip",
+      "AssemblyVersion": "1.0.1.4",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "",
+      "IconUrl": "https://puni.sh/api/plugins/icon/159",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-kage",
+      "_SourceName": "Kage",
+      "_SourceUrl": "https://puni.sh/api/repository/kage"
+    }
+  ]
+}

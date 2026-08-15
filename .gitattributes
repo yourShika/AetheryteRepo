@@ -1,0 +1,16 @@
+# Alles mit LF speichern UND auschecken. Sonst erzeugt der Linux-Runner der
+# GitHub Action bei jedem Lauf einen Diff ueber saemtliche Dateien, nur weil
+# Windows lokal CRLF geschrieben hat.
+* text=auto eol=lf
+
+*.json  text eol=lf
+*.mjs   text eol=lf
+*.js    text eol=lf
+*.md    text eol=lf
+*.yml   text eol=lf
+*.html  text eol=lf
+
+# Generierte Feeds in Diffs zusammenklappen – die Reviews werden sonst unlesbar.
+repos/*.json  linguist-generated=true
+cache/*.json  linguist-generated=true
+docs/plugins.json linguist-generated=true

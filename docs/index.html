@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aetheryte Repo – FFXIV Dalamud Plugins</title>
+<meta name="description" content="Ein Dalamud-Repo für alles: über 20 Plugin-Quellen, automatisch zusammengeführt und nach Kategorien sortiert.">
+<style>
+  :root{
+    --bg:#f6f5f2; --panel:#fffefb; --panel-2:#efece5; --line:#ddd8cd;
+    --fg:#1c1a17; --muted:#6a655c; --accent:#2f6f6b; --accent-fg:#fff;
+    --shadow:0 1px 2px rgba(0,0,0,.05),0 8px 24px -12px rgba(0,0,0,.18);
+    --radius:12px;
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme=light]){
+      --bg:#14161a; --panel:#1b1e24; --panel-2:#232830; --line:#2f3540;
+      --fg:#e8e6e1; --muted:#98a0ad; --accent:#5fd3c6; --accent-fg:#0d1114;
+      --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -12px rgba(0,0,0,.7);
+    }
+  }
+  :root[data-theme=dark]{
+    --bg:#14161a; --panel:#1b1e24; --panel-2:#232830; --line:#2f3540;
+    --fg:#e8e6e1; --muted:#98a0ad; --accent:#5fd3c6; --accent-fg:#0d1114;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px -12px rgba(0,0,0,.7);
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0;background:var(--bg);color:var(--fg);
+    font:15px/1.55 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1120px;margin:0 auto;padding:32px 20px 80px}
+  header h1{margin:0 0 6px;font-size:clamp(26px,4vw,38px);letter-spacing:-.02em}
+  header p.sub{margin:0;color:var(--muted);max-width:62ch}
+  .stat-row{display:flex;flex-wrap:wrap;gap:10px;margin:22px 0 30px}
+  .stat{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+        padding:10px 16px;box-shadow:var(--shadow)}
+  .stat b{display:block;font-size:22px;line-height:1.2}
+  .stat span{color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.06em}
+
+  h2{font-size:15px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);
+     margin:34px 0 12px;font-weight:600}
+
+  .feeds{display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(310px,1fr))}
+  .feed{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+        padding:12px 14px;box-shadow:var(--shadow);display:flex;align-items:center;gap:12px}
+  .feed .emoji{font-size:20px;flex:none;width:24px;text-align:center}
+  .feed .meta{flex:1;min-width:0}
+  .feed .meta b{display:block;font-size:14px}
+  .feed .meta small{color:var(--muted);font-size:12px}
+  .feed.primary{border-color:var(--accent);border-width:2px}
+  button.copy{
+    flex:none;border:1px solid var(--line);background:var(--panel-2);color:var(--fg);
+    border-radius:8px;padding:7px 11px;font:inherit;font-size:12.5px;cursor:pointer;
+    white-space:nowrap;transition:background .12s,border-color .12s
+  }
+  button.copy:hover{border-color:var(--accent)}
+  button.copy.done{background:var(--accent);color:var(--accent-fg);border-color:var(--accent)}
+
+  .controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:14px 0 16px}
+  input[type=search]{
+    flex:1;min-width:200px;background:var(--panel);color:var(--fg);
+    border:1px solid var(--line);border-radius:9px;padding:9px 12px;font:inherit
+  }
+  input[type=search]:focus{outline:2px solid var(--accent);outline-offset:-1px}
+  .chip{
+    border:1px solid var(--line);background:var(--panel);color:var(--muted);
+    border-radius:999px;padding:6px 12px;font:inherit;font-size:13px;cursor:pointer
+  }
+  .chip[aria-pressed=true]{background:var(--accent);color:var(--accent-fg);border-color:var(--accent)}
+
+  .grid{display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+        padding:13px 15px;box-shadow:var(--shadow);display:flex;gap:12px}
+  .card img{width:40px;height:40px;border-radius:9px;object-fit:cover;flex:none;background:var(--panel-2)}
+  .card .body{min-width:0;flex:1}
+  .card .title{display:flex;gap:7px;align-items:baseline;flex-wrap:wrap}
+  .card .title b{font-size:14.5px}
+  .card .title code{font-size:11.5px;color:var(--muted)}
+  .card p{margin:4px 0 7px;color:var(--muted);font-size:13px;
+          display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .tags{display:flex;flex-wrap:wrap;gap:5px}
+  .tag{font-size:11px;padding:2px 7px;border-radius:999px;background:var(--panel-2);
+       color:var(--muted);border:1px solid var(--line)}
+  .tag.cat{border-color:var(--accent);color:var(--accent)}
+  .empty{color:var(--muted);padding:26px 0}
+  footer{margin-top:46px;padding-top:18px;border-top:1px solid var(--line);
+         color:var(--muted);font-size:13px}
+  a{color:var(--accent)}
+  table.src{width:100%;border-collapse:collapse;font-size:13px}
+  table.src td{padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+  table.src td:first-child{width:1%;white-space:nowrap}
+  .ok{color:#3aa675}.stale{color:#c99a2e}.failed{color:#d4674f}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Aetheryte Repo</h1>
+    <p class="sub">Ein Dalamud-Repo statt zwanzig. Alle Quellen werden alle 3&nbsp;Stunden automatisch
+    eingesammelt, entdoppelt und nach Kategorien sortiert.</p>
+  </header>
+
+  <div class="stat-row" id="stats"></div>
+
+  <h2>Feeds zum Einfügen in Dalamud</h2>
+  <div class="feeds" id="feeds"></div>
+
+  <h2>Plugins</h2>
+  <div class="controls">
+    <input type="search" id="q" placeholder="Suchen: Name, Autor, Beschreibung …" autocomplete="off">
+    <button class="chip" id="clear" type="button">Zurücksetzen</button>
+  </div>
+  <div class="controls" id="chips"></div>
+  <div class="grid" id="grid"></div>
+  <p class="empty" id="empty" hidden>Nichts gefunden.</p>
+
+  <h2>Quellen</h2>
+  <table class="src"><tbody id="sources"></tbody></table>
+
+  <footer>
+    Zuletzt aktualisiert: <span id="gen">–</span> ·
+    <a href="#" id="repolink">Repository auf GitHub</a><br>
+    Aetheryte Repo hostet keine Plugins, sondern verlinkt nur die Feeds der jeweiligen Entwickler.
+    Alle Rechte und der Support liegen bei den ursprünglichen Autoren.
+  </footer>
+</div>
+
+<script>
+(function(){
+  // user/repo aus der Pages-URL ableiten, damit nichts hartkodiert ist.
+  var host = location.hostname, parts = location.pathname.split("/").filter(Boolean);
+  var owner = host.endsWith(".github.io") ? host.replace(".github.io","") : "yourShika";
+  var repo  = host.endsWith(".github.io") && parts.length ? parts[0] : "AetheryteRepo";
+  var RAW = "https://raw.githubusercontent.com/"+owner+"/"+repo+"/main/";
+  document.getElementById("repolink").href = "https://github.com/"+owner+"/"+repo;
+
+  var $ = function(id){ return document.getElementById(id); };
+  var esc = function(s){ return String(s==null?"":s).replace(/[&<>"']/g, function(c){
+    return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]; }); };
+
+  function copyBtn(url){
+    var b = document.createElement("button");
+    b.className = "copy"; b.type = "button"; b.textContent = "Kopieren";
+    b.addEventListener("click", function(){
+      navigator.clipboard.writeText(url).then(function(){
+        b.textContent = "Kopiert ✓"; b.classList.add("done");
+        setTimeout(function(){ b.textContent = "Kopieren"; b.classList.remove("done"); }, 1600);
+      });
+    });
+    return b;
+  }
+
+  fetch("plugins.json", {cache:"no-cache"}).then(function(r){ return r.json(); }).then(function(d){
+    var cats = d.categories.filter(function(c){ return c.count > 0; });
+    var byId = {}; d.categories.forEach(function(c){ byId[c.id] = c; });
+
+    var master = d.categories.reduce(function(n,c){ return n + (c.id === "nsfw" ? 0 : c.count); }, 0);
+    $("stats").innerHTML =
+      '<div class="stat"><b>'+master+'</b><span>Plugins im Master</span></div>' +
+      '<div class="stat"><b>'+d.plugins.length+'</b><span>Gesamt</span></div>' +
+      '<div class="stat"><b>'+d.sources.length+'</b><span>Quellen</span></div>' +
+      '<div class="stat"><b>'+cats.length+'</b><span>Kategorien</span></div>';
+
+    $("gen").textContent = d.generatedAt.replace("T"," ").slice(0,16) + " UTC";
+
+    // ---- Feeds
+    var feeds = [{ id:"master", emoji:"⭐", name:"Master (empfohlen)",
+                   desc:"Alles außer 18+ · "+master+" Plugins", file:"repos/master.json", primary:true }];
+    if (byId.nsfw && byId.nsfw.count)
+      feeds.push({ id:"master-full", emoji:"\u{1F310}", name:"Master inkl. 18+",
+                   desc:"Wirklich alles · "+d.plugins.length+" Plugins", file:"repos/master-full.json" });
+    cats.forEach(function(c){
+      feeds.push({ id:c.id, emoji:c.emoji, name:c.name, desc:c.description+" · "+c.count+" Plugins", file:c.file });
+    });
+
+    var fw = $("feeds");
+    feeds.forEach(function(f){
+      var url = RAW + f.file;
+      var el = document.createElement("div");
+      el.className = "feed" + (f.primary ? " primary" : "");
+      el.innerHTML = '<span class="emoji">'+f.emoji+'</span>' +
+                     '<span class="meta"><b>'+esc(f.name)+'</b><small>'+esc(f.desc)+'</small></span>';
+      el.appendChild(copyBtn(url));
+      fw.appendChild(el);
+    });
+
+    // ---- Filter
+    var active = null, query = "";
+    var cw = $("chips");
+    cats.forEach(function(c){
+      var b = document.createElement("button");
+      b.className = "chip"; b.type = "button"; b.setAttribute("aria-pressed","false");
+      b.textContent = c.emoji + " " + c.name + " (" + c.count + ")";
+      b.addEventListener("click", function(){
+        active = (active === c.id) ? null : c.id;
+        [].forEach.call(cw.children, function(x){ x.setAttribute("aria-pressed", "false"); });
+        if (active) b.setAttribute("aria-pressed","true");
+        render();
+      });
+      cw.appendChild(b);
+    });
+
+    var grid = $("grid");
+    function render(){
+      var q = query.toLowerCase().trim();
+      var list = d.plugins.filter(function(p){
+        if (active && p.category !== active) return false;
+        if (!q) return true;
+        return (p.name+" "+p.internalName+" "+p.author+" "+p.punchline+" "+p.source).toLowerCase().indexOf(q) >= 0;
+      });
+      $("empty").hidden = list.length > 0;
+      grid.innerHTML = list.map(function(p){
+        var c = byId[p.category] || {emoji:"",name:p.category};
+        return '<div class="card">' +
+          (p.iconUrl ? '<img loading="lazy" src="'+esc(p.iconUrl)+'" alt="" onerror="this.remove()">' : '') +
+          '<div class="body"><div class="title"><b>'+esc(p.name)+'</b><code>v'+esc(p.version)+'</code></div>' +
+          '<p>'+esc(p.punchline || "")+'</p><div class="tags">' +
+          '<span class="tag cat">'+c.emoji+' '+esc(c.name)+'</span>' +
+          '<span class="tag">'+esc(p.author || "?")+'</span>' +
+          '<span class="tag">'+esc(p.source)+'</span>' +
+          (p.testingOnly ? '<span class="tag">nur Testing</span>' : '') +
+          '</div></div></div>';
+      }).join("");
+    }
+
+    $("q").addEventListener("input", function(e){ query = e.target.value; render(); });
+    $("clear").addEventListener("click", function(){
+      query = ""; active = null; $("q").value = "";
+      [].forEach.call(cw.children, function(x){ x.setAttribute("aria-pressed","false"); });
+      render();
+    });
+    render();
+
+    // ---- Quellen
+    $("sources").innerHTML = d.sources.map(function(s){
+      var m = { ok:"✅", stale:"⚠️", cache:"\u{1F4BE}", failed:"❌" };
+      return '<tr><td class="'+s.status+'">'+(m[s.status]||"")+'</td>' +
+             '<td><a href="'+esc(s.url)+'" rel="noopener">'+esc(s.name)+'</a></td>' +
+             '<td>'+s.count+'</td><td>'+esc(s.note||"")+'</td></tr>';
+    }).join("");
+  }).catch(function(e){
+    $("grid").innerHTML = '<p class="empty">plugins.json konnte nicht geladen werden: '+esc(e.message)+'</p>';
+  });
+})();
+</script>
+</body>
+</html>

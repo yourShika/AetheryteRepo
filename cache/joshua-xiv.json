@@ -1,0 +1,88 @@
+{
+  "sourceId": "joshua-xiv",
+  "url": "https://raw.githubusercontent.com/Joshua-XIV/MyDalamudPlugin/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 3,
+  "plugins": [
+    {
+      "Author": "Josh",
+      "Name": "Bunnies",
+      "Punchline": "Where's the coffer at Bunny!'",
+      "Description": "This plugin will automatically take you to Pyros and farm the Low Level Bunny Fate. Other zones are currently WIP.",
+      "InternalName": "Bunnies",
+      "ApplicableVersion": "any",
+      "AssemblyVersion": "0.1.0.5",
+      "DalamudApiLevel": 13,
+      "Tags": [
+        "Bunnies",
+        "Eureka",
+        "Gil",
+        "Pyros"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/Joshua-XIV/Bunnies/master/Bunnies/Resources/Images/bunnyMudra.png",
+      "RepoUrl": "https://github.com/Joshua-XIV/Bunnies",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "LastUpdated": 1755351490,
+      "DownloadCount": 41,
+      "DownloadLinkInstall": "https://github.com/Joshua-XIV/Bunnies/releases/download/0.1.0.5/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Joshua-XIV/Bunnies/releases/download/0.1.0.5/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Joshua-XIV/Bunnies/releases/download/0.1.0.5/latest.zip",
+      "_SourceId": "joshua-xiv",
+      "_SourceName": "Joshua-XIV",
+      "_SourceUrl": "https://raw.githubusercontent.com/Joshua-XIV/MyDalamudPlugin/main/repo.json"
+    },
+    {
+      "Author": "Josh",
+      "Name": "TreasureMaps",
+      "Punchline": "Automatically teleports to where treasure maps are located",
+      "Description": "A dalamud plugin for deciphering maps and teleporting to their respective zone. This plugin also offers additionals features with automating treasure maps",
+      "InternalName": "TreasureMaps",
+      "ApplicableVersion": "any",
+      "AssemblyVersion": "0.0.0.8",
+      "DalamudApiLevel": 12,
+      "Tags": [
+        "Maps",
+        "Treasure",
+        "Loot"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/Joshua-XIV/TreasureMaps/main/TreasureMaps/Assets/money.png",
+      "RepoUrl": "https://github.com/Joshua-XIV/TreasureMaps",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "LastUpdated": 1744462263,
+      "DownloadCount": 39,
+      "DownloadLinkInstall": "https://github.com/Joshua-XIV/TreasureMaps/releases/download/0.0.0.8/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Joshua-XIV/TreasureMaps/releases/download/0.0.0.8/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Joshua-XIV/TreasureMaps/releases/download/0.0.0.8/latest.zip",
+      "_SourceId": "joshua-xiv",
+      "_SourceName": "Joshua-XIV",
+      "_SourceUrl": "https://raw.githubusercontent.com/Joshua-XIV/MyDalamudPlugin/main/repo.json"
+    },
+    {
+      "Author": "Josh",
+      "Name": "AutoScrip",
+      "Punchline": "Need Gathering Scrips?",
+      "Description": "Automation for Orange and Purple Gathering scrips with the help of vnavmesh and AutoHook",
+      "InternalName": "AutoScrip",
+      "ApplicableVersion": "any",
+      "AssemblyVersion": "1.1.0.1",
+      "DalamudApiLevel": 14,
+      "Tags": [
+        "Scrips"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/Joshua-XIV/AutoScrip/master/AutoScrip/Assets/ScripHalf.png",
+      "RepoUrl": "https://github.com/Joshua-XIV/AutoScrip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "LastUpdated": 1766257519,
+      "DownloadCount": 131,
+      "DownloadLinkInstall": "https://github.com/Joshua-XIV/AutoScrip/releases/download/1.1.0.1/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Joshua-XIV/AutoScrip/releases/download/1.1.0.1/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Joshua-XIV/AutoScrip/releases/download/1.1.0.1/latest.zip",
+      "_SourceId": "joshua-xiv",
+      "_SourceName": "Joshua-XIV",
+      "_SourceUrl": "https://raw.githubusercontent.com/Joshua-XIV/MyDalamudPlugin/main/repo.json"
+    }
+  ]
+}
