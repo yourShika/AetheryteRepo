@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-15T15:44:21.804Z",
-  "contentHash": "ab58a95e8578b117",
+  "generatedAt": "2026-08-15T18:46:58.582Z",
+  "contentHash": "d88d5f4ad8261810",
   "totalPlugins": 569,
   "masterPlugins": 563,
   "currentApiLevel": 15,
@@ -2550,7 +2550,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "6.0.0.90",
+      "keptVersion": "6.0.0.91",
       "droppedVersion": "6.0.0.90"
     },
     {
@@ -2816,7 +2816,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "6.0.0.90",
+      "keptVersion": "6.0.0.91",
       "droppedVersion": "2.3.0.3"
     },
     {
@@ -3625,13 +3625,6 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3642,8 +3635,15 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.90",
-      "droppedVersion": "6.0.0.90"
+      "keptVersion": "6.0.0.91",
+      "droppedVersion": "6.0.0.91"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "YesAlready",
@@ -3653,13 +3653,6 @@
       "droppedVersion": "1.15.3.0"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3667,18 +3660,25 @@
       "droppedVersion": "4.6.1.27"
     },
     {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.21",
-      "droppedVersion": "3.9.2.21"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.306.1.58",
-      "droppedVersion": "15.306.1.58"
+      "keptVersion": "15.306.1.59",
+      "droppedVersion": "15.306.1.59"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.21",
+      "droppedVersion": "3.9.2.21"
     },
     {
       "internalName": "WrathCombo",
@@ -4468,7 +4468,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "6.0.0.90",
+      "keptVersion": "6.0.0.91",
       "droppedVersion": "6.0.0.90"
     },
     {
@@ -4797,7 +4797,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.306.1.58",
+      "keptVersion": "15.306.1.59",
       "droppedVersion": "15.306.1.56"
     },
     {
@@ -5364,7 +5364,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "6.0.0.90",
+      "keptVersion": "6.0.0.91",
       "droppedVersion": "4.3.1.10"
     },
     {
@@ -5665,7 +5665,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.306.1.58",
+      "keptVersion": "15.306.1.59",
       "droppedVersion": "4.13"
     },
     {
@@ -6253,7 +6253,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "6.0.0.90",
+      "keptVersion": "6.0.0.91",
       "droppedVersion": "6.0.0.12"
     },
     {
@@ -6638,7 +6638,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "6.0.0.90",
+      "keptVersion": "6.0.0.91",
       "droppedVersion": "4.3.4.1"
     },
     {
@@ -6694,7 +6694,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.306.1.58",
+      "keptVersion": "15.306.1.59",
       "droppedVersion": "5.31"
     },
     {
@@ -6722,7 +6722,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "6.0.0.90",
+      "keptVersion": "6.0.0.91",
       "droppedVersion": "6.0.0.68"
     },
     {
@@ -6771,7 +6771,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / OLDBAI",
-      "keptVersion": "6.0.0.90",
+      "keptVersion": "6.0.0.91",
       "droppedVersion": "6.0.0.46"
     },
     {
@@ -6960,7 +6960,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.306.1.58",
+      "keptVersion": "15.306.1.59",
       "droppedVersion": "7.5.11"
     },
     {
