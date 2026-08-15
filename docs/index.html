@@ -4,7 +4,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Aetheryte Repo – FFXIV Dalamud Plugins</title>
-<meta name="description" content="Ein Dalamud-Repo für alles: über 20 Plugin-Quellen, automatisch zusammengeführt und nach Kategorien sortiert.">
+<meta name="description" content="Ein Dalamud-Repo für alles: über 290 Plugin-Quellen, automatisch zusammengeführt und nach Kategorien sortiert.">
+<link rel="icon" href="logo.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="logo.png">
+<meta property="og:title" content="Aetheryte Repo">
+<meta property="og:description" content="Ein Dalamud-Repo statt zweihundert. Automatisch zusammengeführt, entdoppelt, nach Kategorien sortiert.">
+<meta property="og:image" content="logo.png">
 <style>
   :root{
     --bg:#f6f5f2; --panel:#fffefb; --panel-2:#efece5; --line:#ddd8cd;
@@ -31,8 +36,17 @@
     -webkit-font-smoothing:antialiased;
   }
   .wrap{max-width:1120px;margin:0 auto;padding:32px 20px 80px}
+  header{display:flex;align-items:center;gap:20px}
+  /* Logo als CSS-Maske: die Farbe kommt aus dem Theme, nicht aus der Datei,
+     damit es beim Umschalten auf Dunkel automatisch mitgeht. */
+  .logo{
+    flex:none;width:82px;height:82px;background:var(--accent);
+    -webkit-mask:url(logo.svg) center/contain no-repeat;
+            mask:url(logo.svg) center/contain no-repeat;
+  }
   header h1{margin:0 0 6px;font-size:clamp(26px,4vw,38px);letter-spacing:-.02em}
   header p.sub{margin:0;color:var(--muted);max-width:62ch}
+  @media (max-width:560px){ header{gap:14px} .logo{width:58px;height:58px} }
   .stat-row{display:flex;flex-wrap:wrap;gap:10px;margin:22px 0 30px}
   .stat{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
         padding:10px 16px;box-shadow:var(--shadow)}
@@ -97,9 +111,12 @@
 <body>
 <div class="wrap">
   <header>
-    <h1>Aetheryte Repo</h1>
-    <p class="sub">Ein Dalamud-Repo statt zweihundert. Alle Quellen werden alle 3&nbsp;Stunden
-    automatisch eingesammelt, entdoppelt und nach Kategorien sortiert.</p>
+    <div class="logo" role="img" aria-label="Aetheryte-Logo"></div>
+    <div>
+      <h1>Aetheryte Repo</h1>
+      <p class="sub">Ein Dalamud-Repo statt zweihundert. Alle Quellen werden alle 3&nbsp;Stunden
+      automatisch eingesammelt, entdoppelt und nach Kategorien sortiert.</p>
+    </div>
   </header>
 
   <div class="stat-row" id="stats"></div>

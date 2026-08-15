@@ -9,6 +9,12 @@
 *.md    text eol=lf
 *.yml   text eol=lf
 *.html  text eol=lf
+*.svg   text eol=lf
+
+# Binaerdateien niemals anfassen – LF-Normalisierung wuerde sie zerstoeren.
+*.png   binary
+*.jpg   binary
+*.ico   binary
 
 # Generierte Feeds in Diffs zusammenklappen – die Reviews werden sonst unlesbar.
 repos/*.json  linguist-generated=true

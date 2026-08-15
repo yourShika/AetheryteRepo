@@ -1,6 +1,12 @@
+<div align="center">
+
+<img src="docs/logo.svg" alt="" width="140">
+
 # Aetheryte Repo
 
 **Ein Dalamud-Repo statt zweihundert.**
+
+</div>
 
 Dieses Repository sammelt die Plugin-Feeds von über 200 FFXIV-/Dalamud-Entwicklern ein,
 führt sie zu einem einzigen Feed zusammen und bietet zusätzlich einen Feed pro Kategorie.
