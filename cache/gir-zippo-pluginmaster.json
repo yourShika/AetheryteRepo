@@ -1,0 +1,86 @@
+{
+  "sourceId": "gir-zippo-pluginmaster",
+  "url": "https://raw.githubusercontent.com/GiR-Zippo/PluginMaster/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 3,
+  "plugins": [
+    {
+      "Author": "GiR-Zippo, Meowchestra",
+      "Name": "HypnotoadPlugin",
+      "InternalName": "HypnotoadPlugin",
+      "AssemblyVersion": "0.0.3.2",
+      "Description": "LightAmp companion for enhanced functionality.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com//GiR-Zippo/Hypnotoad-Plugin",
+      "CategoryTags": [
+        "utility",
+        "other"
+      ],
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/Data/icon.png",
+      "Punchline": "Companion plugin for enhanced functionality.",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "LastUpdate": "1777498139",
+      "DownloadLinkInstall": "https://github.com//GiR-Zippo/Hypnotoad-Plugin/releases/download/0.0.3.2/latest.zip",
+      "DownloadLinkTesting": "https://github.com//GiR-Zippo/Hypnotoad-Plugin/releases/download/0.0.3.2/latest.zip",
+      "DownloadLinkUpdate": "https://github.com//GiR-Zippo/Hypnotoad-Plugin/releases/download/0.0.3.2/latest.zip",
+      "_SourceId": "gir-zippo-pluginmaster",
+      "_SourceName": "GiR-Zippo / PluginMaster",
+      "_SourceUrl": "https://raw.githubusercontent.com/GiR-Zippo/PluginMaster/main/pluginmaster.json"
+    },
+    {
+      "Author": "GiR-Zippo",
+      "Name": "HypnotoadUi",
+      "InternalName": "HypnotoadUi",
+      "AssemblyVersion": "0.0.2.12",
+      "Description": "An Ui for the HypnoToad. You need to install the HypnoToad too.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/GiR-Zippo/HypnotoadUi",
+      "CategoryTags": [
+        "utility",
+        "other"
+      ],
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/GiR-Zippo/HypnotoadUi/main/Configs/icon.png",
+      "Punchline": "An Ui for the HypnoToad.",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "LastUpdate": "1731701399",
+      "DownloadLinkInstall": "https://github.com/GiR-Zippo/HypnotoadUi/releases/download/0.0.2.12/latest.zip",
+      "DownloadLinkTesting": "https://github.com/GiR-Zippo/HypnotoadUi/releases/download/0.0.2.12/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/GiR-Zippo/HypnotoadUi/releases/download/0.0.2.12/latest.zip",
+      "_SourceId": "gir-zippo-pluginmaster",
+      "_SourceName": "GiR-Zippo / PluginMaster",
+      "_SourceUrl": "https://raw.githubusercontent.com/GiR-Zippo/PluginMaster/main/pluginmaster.json"
+    },
+    {
+      "Author": "GiR-Zippo, Anna(ascclemens)",
+      "Name": "Macrology",
+      "InternalName": "Macrology",
+      "AssemblyVersion": "1.0.5.0",
+      "Description": "Adds a better macro system to the game. Macrology allows for macros of infinite length, adds looping, allows comments, supports pausing, allows you to run multiple macros at once, and supports fractional waits.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/GiR-Zippo/Macrology",
+      "Tags": [
+        "Macrology",
+        "Macro"
+      ],
+      "LoadRequiredState": 0,
+      "LoadPriority": 0,
+      "LoadSync": "false",
+      "IconUrl": "",
+      "Punchline": "Adds a better macro system to the game.",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "AcceptsFeedback": "false",
+      "LastUpdate": "1777498083",
+      "DownloadLinkInstall": "https://github.com/GiR-Zippo/Macrology/releases/download/1.0.5.0/latest.zip",
+      "DownloadLinkTesting": "https://github.com/GiR-Zippo/Macrology/releases/download/1.0.5.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/GiR-Zippo/Macrology/releases/download/1.0.5.0/latest.zip",
+      "_SourceId": "gir-zippo-pluginmaster",
+      "_SourceName": "GiR-Zippo / PluginMaster",
+      "_SourceUrl": "https://raw.githubusercontent.com/GiR-Zippo/PluginMaster/main/pluginmaster.json"
+    }
+  ]
+}

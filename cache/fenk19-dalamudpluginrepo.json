@@ -1,0 +1,89 @@
+{
+  "sourceId": "fenk19-dalamudpluginrepo",
+  "url": "https://raw.githubusercontent.com/fenk19/DalamudPluginRepo/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 2,
+  "plugins": [
+    {
+      "Author": "fenk19",
+      "Name": "Rotation Solver Reborn (BMR Integration)",
+      "InternalName": "RotationSolver",
+      "Description": "Unofficial Rotation Solver Reborn integration build with BossModReborn movement and feedback support.\n\nThis build keeps the original RotationSolver plugin identity so it replaces the original plugin in Dalamud. It includes additional BMR positional movement requests, movement feedback handling, interrupt movement support, diagnostics, and configuration import/export helpers.\n\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "TestingDalamudApiLevel": 15,
+      "Tags": [
+        "combat",
+        "rotation",
+        "auto",
+        "solver",
+        "pve",
+        "pvp"
+      ],
+      "CategoryTags": [
+        "jobs"
+      ],
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "IsTestingExclusive": false,
+      "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
+      "Punchline": "Unofficial RSR build with BossModReborn movement integration.",
+      "RepoUrl": "https://github.com/fenk19/DalamudPluginRepo",
+      "AcceptsFeedback": true,
+      "DownloadLinkInstall": "https://github.com/fenk19/DalamudPluginRepo/releases/download/99.0.1.0/RotationSolver-BMR-99.0.1.0.zip",
+      "DownloadLinkUpdate": "https://github.com/fenk19/DalamudPluginRepo/releases/download/99.0.1.0/RotationSolver-BMR-99.0.1.0.zip",
+      "AssemblyVersion": "99.0.1.0",
+      "Changelog": "Upstream changes synchronized; integration-specific BMR coordination retained.",
+      "DownloadCount": 0,
+      "LastUpdate": 1785668405,
+      "IsHide": false,
+      "_SourceId": "fenk19-dalamudpluginrepo",
+      "_SourceName": "fenk19 / DalamudPluginRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/fenk19/DalamudPluginRepo/main/pluginmaster.json"
+    },
+    {
+      "Author": "fenk19",
+      "Name": "BossMod Reborn (RSR Integration)",
+      "InternalName": "BossModReborn",
+      "Description": "Unofficial BossMod Reborn integration build with RotationSolverReborn movement request and feedback support.\n\nThis build keeps the original BossModReborn plugin identity so it replaces the original plugin in Dalamud. It includes RSR positional movement handling, movement feedback, melee-range-aware avoidance options, diagnostics, configuration import/export helpers, and kill-time statistics.",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "TestingDalamudApiLevel": 0,
+      "Tags": [
+        "combat",
+        "boss",
+        "dodge",
+        "mechanics",
+        "pve",
+        "raids",
+        "trials"
+      ],
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "IsTestingExclusive": false,
+      "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+      "Punchline": "Unofficial BMR build with RotationSolverReborn integration.",
+      "RepoUrl": "https://github.com/fenk19/DalamudPluginRepo",
+      "AcceptsFeedback": true,
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image1.png",
+        "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
+        "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
+      ],
+      "DownloadLinkInstall": "https://github.com/fenk19/DalamudPluginRepo/releases/download/99.0.1.0/BossModReborn-RSR-99.0.1.0.zip",
+      "DownloadLinkUpdate": "https://github.com/fenk19/DalamudPluginRepo/releases/download/99.0.1.0/BossModReborn-RSR-99.0.1.0.zip",
+      "AssemblyVersion": "99.0.1.0",
+      "Changelog": "Upstream changes synchronized; integration-specific RSR coordination retained.",
+      "DownloadCount": 0,
+      "LastUpdate": 1785668405,
+      "IsHide": false,
+      "_SourceId": "fenk19-dalamudpluginrepo",
+      "_SourceName": "fenk19 / DalamudPluginRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/fenk19/DalamudPluginRepo/main/pluginmaster.json"
+    }
+  ]
+}

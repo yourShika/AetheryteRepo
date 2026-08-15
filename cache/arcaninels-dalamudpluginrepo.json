@@ -1,0 +1,74 @@
+{
+  "sourceId": "arcaninels-dalamudpluginrepo",
+  "url": "https://raw.githubusercontent.com/ArcanineLS/DalamudPluginRepo/master/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 2,
+  "plugins": [
+    {
+      "Author": "Bancho",
+      "Name": "Hrothgar Make Coin",
+      "Punchline": "Hrothgar make coin. Coin good.",
+      "Description": "Automatically undercuts your retainer market board listings, with optional AutoRetainer post-venture integration. A rebrand/fork of Dagobert by SHOEGAZEssb.",
+      "Changelog": "Auto-list now handles an item's NQ and HQ as separate entries, so you can whitelist both and each is priced against its own quality's market. Fixes a bug where typing a Max price could silently wipe an item's Min price floor. The market board price is now matched to the item it was requested for, so a slow reply can't be posted as the next item's price. Sliders take a double-click to type an exact value, and the price check wait now defaults to 2000ms (HQ needs the extra time to look past the NQ listings).",
+      "InternalName": "HrothgarMakeCoin",
+      "AssemblyVersion": "1.14.4.0",
+      "RepoUrl": "https://github.com/ArcanineLS/HrothgarMakeCoin",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "Utility",
+        "marketboard",
+        "retainer",
+        "autoretainer"
+      ],
+      "DalamudApiLevel": 15,
+      "IconUrl": "https://github.com/ArcanineLS/DalamudPluginRepo/raw/master/images/icon.png",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadLinkInstall": "https://github.com/ArcanineLS/HrothgarMakeCoin/releases/download/v1.14.4.0/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/ArcanineLS/HrothgarMakeCoin/releases/download/v1.14.4.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/ArcanineLS/HrothgarMakeCoin/releases/download/v1.14.4.0/latest.zip",
+      "DownloadCount": 25,
+      "LastUpdate": "1784087398",
+      "_SourceId": "arcaninels-dalamudpluginrepo",
+      "_SourceName": "ArcanineLS / DalamudPluginRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/ArcanineLS/DalamudPluginRepo/master/pluginmaster.json"
+    },
+    {
+      "Author": "Bancho",
+      "Name": "Hrothgar Scent",
+      "Punchline": "Hrothgar smell you. Hrothgar know who watching.",
+      "Description": "A nearby-player list where every row shows whether that player is targeting you, with a watcher history and alerts.",
+      "Changelog": "A performance patch. Recording nearby players no longer hitches when you zone into a crowd: the proximity log does its bookkeeping once per scan instead of once per player, and world and job names are cached rather than re-read every frame — the difference grows with the size of your recorded log. Opening several profiles in a row now paces its Lodestone requests, so a burst no longer trips the site's rate limiter and fails the lookups. No behaviour changes.",
+      "InternalName": "HrothgarScent",
+      "AssemblyVersion": "1.2.0.1",
+      "RepoUrl": "https://github.com/ArcanineLS/HrothgarScent",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "Utility",
+        "players",
+        "nearby",
+        "radar",
+        "target",
+        "social"
+      ],
+      "DalamudApiLevel": 15,
+      "IconUrl": "https://github.com/ArcanineLS/DalamudPluginRepo/raw/master/images/icon.png",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadLinkInstall": "https://github.com/ArcanineLS/HrothgarScent/releases/download/v1.2.0.1/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/ArcanineLS/HrothgarScent/releases/download/v1.2.0.1/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/ArcanineLS/HrothgarScent/releases/download/v1.2.0.1/latest.zip",
+      "DownloadCount": 17,
+      "LastUpdate": "1784426607",
+      "_SourceId": "arcaninels-dalamudpluginrepo",
+      "_SourceName": "ArcanineLS / DalamudPluginRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/ArcanineLS/DalamudPluginRepo/master/pluginmaster.json"
+    }
+  ]
+}

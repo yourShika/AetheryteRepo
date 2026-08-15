@@ -1,0 +1,114 @@
+{
+  "sourceId": "flawedbliss-dalamudplugins",
+  "url": "https://raw.githubusercontent.com/FlawedBliss/DalamudPlugins/refs/heads/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 3,
+  "plugins": [
+    {
+      "Author": "FlawedBliss",
+      "Name": "RelicBuddy",
+      "InternalName": "RelicBuddy",
+      "AssemblyVersion": "0.2.0.4",
+      "IsTestingExclusive": false,
+      "Description": "A companion to help and guide you through completing your relics",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/flawedBliss/relicbuddy",
+      "CategoryTags": [
+        "other"
+      ],
+      "Tags": [
+        "relic",
+        "eureka",
+        "bozja"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "ImageUrls": [
+        ""
+      ],
+      "IconUrl": "",
+      "Punchline": "Relic grinding made easy",
+      "Changelog": "",
+      "AcceptsFeedback": true,
+      "DownloadLinkInstall": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.2.0.4/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/flawedBliss/relicbuddy/releases/download/v0.2.0.4/latest.zip",
+      "LastUpdate": "1779029902",
+      "IsHide": false,
+      "_SourceId": "flawedbliss-dalamudplugins",
+      "_SourceName": "FlawedBliss / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/FlawedBliss/DalamudPlugins/refs/heads/main/repo.json"
+    },
+    {
+      "Author": "FlawedBliss",
+      "Name": "Population Tracker",
+      "InternalName": "PopulationTracker",
+      "AssemblyVersion": "0.1.1.4",
+      "Description": "Tracking number of nearby players in real-time with graphing and export abilities.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/flawedBliss/PopulationTracker",
+      "CategoryTags": [
+        "other"
+      ],
+      "Tags": [],
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "ImageUrls": [
+        ""
+      ],
+      "IconUrl": "",
+      "Punchline": "Tracking number of nearby players in real-time.",
+      "Changelog": "",
+      "AcceptsFeedback": true,
+      "DownloadLinkInstall": "https://github.com/flawedBliss/PopulationTracker/releases/download/v0.1.1.4/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/flawedBliss/PopulationTracker/releases/download/v0.1.1.4/latest.zip",
+      "LastUpdate": "1777755709",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "flawedbliss-dalamudplugins",
+      "_SourceName": "FlawedBliss / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/FlawedBliss/DalamudPlugins/refs/heads/main/repo.json"
+    },
+    {
+      "Author": "FlawedBliss",
+      "Name": "OccultBuddy",
+      "InternalName": "OccultBuddy",
+      "AssemblyVersion": "1.0.0.6",
+      "Description": "Shows nearby Treasure Coffers in Occult Crescent.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/flawedBliss/occultbuddy",
+      "CategoryTags": [
+        "other"
+      ],
+      "Tags": [
+        "Occult Crescent",
+        "Field Operation"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "ImageUrls": [
+        ""
+      ],
+      "IconUrl": "",
+      "Punchline": "Finding Treasure Coffers made easy",
+      "Changelog": "",
+      "AcceptsFeedback": true,
+      "DownloadLinkInstall": "https://github.com/flawedBliss/occultbuddy/releases/download/v1.0.0.6/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/flawedBliss/occultbuddy/releases/download/v1.0.0.6/latest.zip",
+      "LastUpdate": "1779120150",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "flawedbliss-dalamudplugins",
+      "_SourceName": "FlawedBliss / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/FlawedBliss/DalamudPlugins/refs/heads/main/repo.json"
+    }
+  ]
+}

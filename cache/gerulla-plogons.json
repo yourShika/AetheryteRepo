@@ -1,0 +1,59 @@
+{
+  "sourceId": "gerulla-plogons",
+  "url": "https://raw.githubusercontent.com/gerulla/plogons/master/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 2,
+  "plugins": [
+    {
+      "Author": "gerulla",
+      "Name": "FullParty",
+      "Punchline": "Dalamud Plugin Companion for FullParty.gg",
+      "Description": "Dalamud Plugin Companion for FullParty.gg",
+      "InternalName": "FullParty",
+      "AssemblyVersion": "0.0.25.0",
+      "TestingAssemblyVersion": null,
+      "RepoUrl": "https://github.com/gerulla/fullparty-plugin",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/gerulla/fullparty-plugin/releases/download/v0.0.25/FullParty.zip",
+      "DownloadLinkUpdate": "https://github.com/gerulla/fullparty-plugin/releases/download/v0.0.25/FullParty.zip",
+      "LastUpdate": "1783552846",
+      "Tags": [
+        "party",
+        "utility"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/gerulla/fullparty-plugin/master/Data/icon.png",
+      "_SourceId": "gerulla-plogons",
+      "_SourceName": "gerulla / plogons",
+      "_SourceUrl": "https://raw.githubusercontent.com/gerulla/plogons/master/repo.json"
+    },
+    {
+      "Author": "gerulla",
+      "Name": "Occult Window Be Gone",
+      "Punchline": "A compact Occult Crescent window replacement.",
+      "Description": "Adds Full, Minimal, and hidden modes for the Occult Crescent information window.",
+      "InternalName": "OccultWindowBeGone",
+      "AssemblyVersion": "1.0.1.0",
+      "TestingAssemblyVersion": null,
+      "RepoUrl": "https://github.com/gerulla/occultwindowbegone",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/gerulla/occultwindowbegone/releases/download/v1.0.1/OccultWindowBeGone.zip",
+      "DownloadLinkUpdate": "https://github.com/gerulla/occultwindowbegone/releases/download/v1.0.1/OccultWindowBeGone.zip",
+      "LastUpdate": "1783727721",
+      "Tags": [
+        "occult crescent",
+        "widget",
+        "utility"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/gerulla/occultwindowbegone/master/Data/logo.png",
+      "_SourceId": "gerulla-plogons",
+      "_SourceName": "gerulla / plogons",
+      "_SourceUrl": "https://raw.githubusercontent.com/gerulla/plogons/master/repo.json"
+    }
+  ]
+}

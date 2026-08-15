@@ -1,0 +1,63 @@
+{
+  "sourceId": "ifan0927-ffxivtc-plugins-pack",
+  "url": "https://raw.githubusercontent.com/ifan0927/FFXIVTC_Plugins_Pack/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 2,
+  "plugins": [
+    {
+      "Author": "NightmareXIV",
+      "Name": "AntiAfkKick",
+      "InternalName": "AntiAfkKick-Dalamud",
+      "AssemblyVersion": "2.1.0.6",
+      "TestingAssemblyVersion": "2.1.0.6",
+      "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
+      "ApplicableVersion": "any",
+      "Punchline": "Prevents being logged out for AFK.",
+      "Description": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. (降版至 2.1.0.6，適用於台服 API12)",
+      "Changelog": "Downgraded to 2.1.0.6 for TW server compatibility",
+      "DalamudApiLevel": 12,
+      "TestingDalamudApiLevel": 12,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 0,
+      "LastUpdate": 0,
+      "SupportsProfiles": true,
+      "DownloadLinkInstall": "https://github.com/ifan0927/FFXIVTC_Plugins_Pack/releases/download/1.0/latest.zip",
+      "DownloadLinkTesting": "https://github.com/ifan0927/FFXIVTC_Plugins_Pack/releases/download/1.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/ifan0927/FFXIVTC_Plugins_Pack/releases/download/1.0/latest.zip",
+      "IconUrl": "https://raw.githubusercontent.com/ifan0927/FFXIVTC_Plugins_Pack/main/icon.png",
+      "_SourceId": "ifan0927-ffxivtc-plugins-pack",
+      "_SourceName": "ifan0927 / FFXIVTC_Plugins_Pack",
+      "_SourceUrl": "https://raw.githubusercontent.com/ifan0927/FFXIVTC_Plugins_Pack/main/repo.json"
+    },
+    {
+      "Author": "Taurenkey (Puni.sh)",
+      "Name": "Artisan",
+      "InternalName": "Artisan",
+      "AssemblyVersion": "4.0.3.59",
+      "TestingAssemblyVersion": "4.0.3.59",
+      "RepoUrl": "https://github.com/PunishXIV/Artisan",
+      "ApplicableVersion": "any",
+      "Punchline": "A 'simple' crafting plugin.",
+      "Description": "A 'simple' crafting plugin with various automation features. (適配台服 API12)",
+      "Changelog": "Adapted for TW server API12 compatibility",
+      "Tags": [
+        "crafting"
+      ],
+      "DalamudApiLevel": 12,
+      "TestingDalamudApiLevel": 12,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 0,
+      "LastUpdate": 0,
+      "SupportsProfiles": false,
+      "DownloadLinkInstall": "https://github.com/ifan0927/FFXIVTC_Plugins_Pack/releases/download/artisan_tw_0.99/latest.zip",
+      "DownloadLinkTesting": "https://github.com/ifan0927/FFXIVTC_Plugins_Pack/releases/download/artisan_tw_0.99/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/ifan0927/FFXIVTC_Plugins_Pack/releases/download/artisan_tw_0.99/latest.zip",
+      "IconUrl": "https://raw.githubusercontent.com/ifan0927/FFXIVTC_Plugins_Pack/main/PunishImages/artisan-icon.png",
+      "_SourceId": "ifan0927-ffxivtc-plugins-pack",
+      "_SourceName": "ifan0927 / FFXIVTC_Plugins_Pack",
+      "_SourceUrl": "https://raw.githubusercontent.com/ifan0927/FFXIVTC_Plugins_Pack/main/repo.json"
+    }
+  ]
+}

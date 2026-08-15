@@ -1,0 +1,62 @@
+{
+  "sourceId": "astrodoobs-plugins",
+  "url": "https://raw.githubusercontent.com/astrodoobs/plugins/main/Plugins.json",
+  "fetchedAt": "2026-08-15",
+  "count": 2,
+  "plugins": [
+    {
+      "Author": "Eqbot, ViviAshe, astrodoobs",
+      "Name": "Snappy",
+      "InternalName": "Snappy",
+      "AssemblyVersion": "0.1.0",
+      "Description": "Want to export your character and mods exactly as-is in a single collection *without* Mare? This plugin saves and loads your character's current appearance, and allows you to share modded characters without relying on MCDF.",
+      "RepoUrl": "https://github.com/astrodoobs/Snappy",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "utility"
+      ],
+      "DalamudApiLevel": 12,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "Punchline": "Plugin to save current appearance and applied mods of a character",
+      "AcceptsFeedback": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/astrodoobs/Snappy/releases/download/0.1.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/astrodoobs/Snappy/releases/download/0.1.0/latest.zip",
+      "DownloadLinkTesting": "https://github.com/astrodoobs/Snappy/releases/download/0.1.0/latest.zip",
+      "IsHide": false,
+      "_SourceId": "astrodoobs-plugins",
+      "_SourceName": "astrodoobs / plugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/astrodoobs/plugins/main/Plugins.json"
+    },
+    {
+      "Author": "Marulu, StreetRat, astrodoobs",
+      "Name": "Stop The Clip",
+      "InternalName": "StopTheClip",
+      "AssemblyVersion": "0.1.1",
+      "Description": "Do you want to take close up screenshots? Are you a melee and hate having the boss model disappear on you? Then this is the plugin for you, it overrides the near clip and stops models from hiding on camera collision. This plugin is based on XIVR code.",
+      "RepoUrl": "https://github.com/astrodoobs/StopTheClip",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "utility"
+      ],
+      "DalamudApiLevel": 12,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "Punchline": "Modification to game clipping",
+      "AcceptsFeedback": false,
+      "DownloadLinkInstall": "https://github.com/astrodoobs/StopTheClip/releases/download/0.1.1/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/astrodoobs/StopTheClip/releases/download/0.1.1/latest.zip",
+      "DownloadLinkTesting": "https://github.com/astrodoobs/StopTheClip/releases/download/0.1.1/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "astrodoobs-plugins",
+      "_SourceName": "astrodoobs / plugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/astrodoobs/plugins/main/Plugins.json"
+    }
+  ]
+}

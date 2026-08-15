@@ -1,0 +1,37 @@
+{
+  "sourceId": "punish-chika",
+  "url": "https://puni.sh/api/repository/chika",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "chika",
+      "Name": "XIV Remote Chat",
+      "Punchline": "Remote control of your chat.",
+      "Description": "Allows you to control any instance of FF connected to chat or send commands.",
+      "Tags": [
+        "chat",
+        "remote",
+        "commands"
+      ],
+      "InternalName": "XIVRemoteChat",
+      "RepoUrl": "https://github.com/Deckerz/xiv-remote-chat",
+      "DownloadCount": 66,
+      "LastUpdate": 1783375749,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/156/XIVRemoteChat/versions/0.0.0.15/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/156/XIVRemoteChat/versions/0.0.0.15/update/latest.zip",
+      "AssemblyVersion": "0.0.0.15",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Changelog": "- Fixed opening ports for login callback.",
+      "TestingAssemblyVersion": "0.0.0.15",
+      "DownloadLinkTesting": "https://puni.sh/api/plugins/download/156/XIVRemoteChat/versions/0.0.0.15/install/testing.zip",
+      "TestingDalamudApiLevel": "15",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "punish-chika",
+      "_SourceName": "chika's repo",
+      "_SourceUrl": "https://puni.sh/api/repository/chika"
+    }
+  ]
+}

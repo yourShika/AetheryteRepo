@@ -1,0 +1,158 @@
+{
+  "sourceId": "aemiliusxiv-dalamudplugins",
+  "url": "https://raw.githubusercontent.com/AemiliusXIV/DalamudPlugins/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 5,
+  "plugins": [
+    {
+      "Author": "AemiliusXIV",
+      "Name": "Orchestrion Aria",
+      "Punchline": "BGM replacement with local audio support",
+      "Description": "Play and replace FFXIV background music. Supports local MP3/WAV files from your PC alongside all in-game tracks, with fade transitions and volume sync.\n\nOriginally by perchbird & Meli: https://github.com/perchbirdd/OrchestrionPlugin",
+      "Changelog": "Fixed a crash when playing a random song from a playlist that mixes your local\ntracks with game BGM. Picking random from a mixed playlist no longer throws.\n\nThe \"delete original after importing\" option now only shows when imports are set\nto copy into the plugin's storage. If you import a file by reference instead, that\noriginal is your only copy, so the option stays hidden and cannot remove it.",
+      "Tags": [
+        "music",
+        "bgm",
+        "audio"
+      ],
+      "CategoryTags": [
+        "Audio"
+      ],
+      "InternalName": "orchestrionaria",
+      "AssemblyVersion": "2.3.0.4",
+      "RepoUrl": "https://github.com/AemiliusXIV/OrchestrionPlugin",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "DownloadLinkInstall": "https://github.com/AemiliusXIV/OrchestrionPlugin/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/AemiliusXIV/OrchestrionPlugin/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/AemiliusXIV/OrchestrionPlugin/releases/latest/download/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "aemiliusxiv-dalamudplugins",
+      "_SourceName": "AemiliusXIV / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/AemiliusXIV/DalamudPlugins/main/pluginmaster.json"
+    },
+    {
+      "Author": "AemiliusXIV",
+      "Name": "Party Sorter",
+      "Punchline": "Drag party members to reorder your party list.",
+      "Description": "Hold Ctrl (configurable) and drag a party member onto another to reorder. Saves each group's preferred order and automatically restores it when the same members meet again — perfect for statics that want a consistent layout every pull. Supports per-group auto-apply modes, locking saved orders against accidental overwrites, and per-duty separate orders. Commands: /psorter (open settings), /psorter save (save current order to chat).",
+      "Changelog": "Maintenance release; no player-facing changes.",
+      "Tags": [
+        "party",
+        "ui",
+        "qol",
+        "static",
+        "sort"
+      ],
+      "CategoryTags": [
+        "Utility"
+      ],
+      "InternalName": "PartySorter",
+      "AssemblyVersion": "1.0.0.2",
+      "RepoUrl": "https://github.com/AemiliusXIV/PartySorter",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "DownloadLinkInstall": "https://github.com/AemiliusXIV/PartySorter/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/AemiliusXIV/PartySorter/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/AemiliusXIV/PartySorter/releases/latest/download/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "aemiliusxiv-dalamudplugins",
+      "_SourceName": "AemiliusXIV / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/AemiliusXIV/DalamudPlugins/main/pluginmaster.json"
+    },
+    {
+      "Author": "AemiliusXIV",
+      "Name": "ChronoLog",
+      "Punchline": "OBS chapter markers and YouTube timestamps for every raid pull. Use /chrono.",
+      "Description": "Tracks pulls, wipes and clears in any duty. Per pull: fight name, phase, boss HP%, first death, duration.\n\nOutputs OBS chapter markers via websocket, a paste-ready YouTube description block, and a direct push to a live stream's description over the YouTube Data API.\n\nShort resets are filtered out automatically. /chrono to open, /chrono cfg for settings.",
+      "Changelog": "Two small fixes. The floating mark button now draws its star icon properly instead of garbled characters. And a mark placed on a pull that has already finished now survives a reload, where before it could quietly disappear.",
+      "Tags": [
+        "raid",
+        "obs",
+        "youtube",
+        "streaming",
+        "recording",
+        "timestamps",
+        "chapters"
+      ],
+      "CategoryTags": [
+        "Utility"
+      ],
+      "InternalName": "ChronoLog",
+      "AssemblyVersion": "1.0.0.1",
+      "RepoUrl": "https://github.com/AemiliusXIV/ChronoLog",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "DownloadLinkInstall": "https://github.com/AemiliusXIV/ChronoLog/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/AemiliusXIV/ChronoLog/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/AemiliusXIV/ChronoLog/releases/latest/download/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "aemiliusxiv-dalamudplugins",
+      "_SourceName": "AemiliusXIV / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/AemiliusXIV/DalamudPlugins/main/pluginmaster.json"
+    },
+    {
+      "Author": "AemiliusXIV",
+      "Name": "Quiet Tips",
+      "Punchline": "Hide tooltips when you don't want them, keep them when you do.",
+      "Description": "Stops action, item, pop-up help and crossbar hint tooltips from cluttering the screen. Toggle each type independently for in-combat and out-of-combat, set a duty override (follow combat rules, always show, or always hide while in an instance), and keep an exception so tooltips come back automatically whenever an inventory, armoury or character window is open. Original game settings are restored when the plugin is disabled. Commands: /quiettips (open settings), /quiettips toggle|on|off.",
+      "Changelog": "Fixed a bug where logging out with the plugin active could permanently overwrite your tooltip settings with the plugin's hidden values.",
+      "Tags": [
+        "tooltip",
+        "ui",
+        "qol",
+        "combat",
+        "declutter"
+      ],
+      "CategoryTags": [
+        "Utility"
+      ],
+      "InternalName": "QuietTips",
+      "AssemblyVersion": "1.0.2.0",
+      "RepoUrl": "https://github.com/AemiliusXIV/QuietTips",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "DownloadLinkInstall": "https://github.com/AemiliusXIV/QuietTips/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/AemiliusXIV/QuietTips/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/AemiliusXIV/QuietTips/releases/latest/download/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "aemiliusxiv-dalamudplugins",
+      "_SourceName": "AemiliusXIV / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/AemiliusXIV/DalamudPlugins/main/pluginmaster.json"
+    },
+    {
+      "Author": "AemiliusXIV",
+      "Name": "Clarion",
+      "Punchline": "Save and apply Party Finder recruitment presets instantly.",
+      "Description": "Store a full Party Finder recruitment setup (duty, job slots, description, objective, loot rule, one player per job, language, and more) as a named preset and apply it in one go, instead of filling the form out by hand every time.\n\nFill a preset and review it, or fill and post the party in a single click. Optional auto-refresh keeps an active listing alive near the end of its hour, with the windows closed, and leaves your away status alone.\n\nOpen the Recruitment Criteria form (Recruit Members) to save or apply. Use /clarion.",
+      "Changelog": "Presets for hunt trains and other listings that have no specific duty now save under their category name, like The Hunt, instead of showing as unknown, and they apply cleanly.",
+      "Tags": [
+        "party",
+        "party finder",
+        "recruitment",
+        "preset",
+        "utility"
+      ],
+      "CategoryTags": [
+        "Utility"
+      ],
+      "InternalName": "Clarion",
+      "AssemblyVersion": "0.1.0.3",
+      "RepoUrl": "https://github.com/AemiliusXIV/Clarion",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "DownloadLinkInstall": "https://github.com/AemiliusXIV/Clarion/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/AemiliusXIV/Clarion/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/AemiliusXIV/Clarion/releases/latest/download/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "aemiliusxiv-dalamudplugins",
+      "_SourceName": "AemiliusXIV / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/AemiliusXIV/DalamudPlugins/main/pluginmaster.json"
+    }
+  ]
+}

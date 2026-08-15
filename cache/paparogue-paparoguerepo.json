@@ -1,0 +1,86 @@
+{
+  "sourceId": "paparogue-paparoguerepo",
+  "url": "https://raw.githubusercontent.com/Paparogue/PaparogueRepo/refs/heads/main/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 3,
+  "plugins": [
+    {
+      "Author": "Paparogue",
+      "Name": "Tabnado",
+      "Punchline": "Because tab targeting is hard.",
+      "Description": "Because tab targeting is hard.",
+      "Tags": [
+        "Utility",
+        "UI",
+        "Other"
+      ],
+      "InternalName": "Tabnado",
+      "AssemblyVersion": "1.7.0.0",
+      "TestingAssemblyVersion": "1.7.0.0",
+      "RepoUrl": "https://github.com/Paparogue",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "DownloadLinkInstall": "https://github.com/Paparogue/Tabnado/releases/download/v1.7.0/Tabnado_v1.7.0.zip",
+      "DownloadLinkUpdate": "https://github.com/Paparogue/Tabnado/releases/download/v1.7.0/Tabnado_v1.7.0.zip",
+      "DownloadLinkTesting": "https://github.com/Paparogue/Tabnado/releases/download/v1.7.0/Tabnado_v1.7.0.zip",
+      "IconUrl": "https://raw.githubusercontent.com/Paparogue/Tabnado/2579f4200a6ba0e60bd12eb6acd31be341e08490/tabnado.png",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "paparogue-paparoguerepo",
+      "_SourceName": "Paparogue / PaparogueRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/Paparogue/PaparogueRepo/refs/heads/main/repo.json"
+    },
+    {
+      "Author": "Paparogue",
+      "Name": "Search Comment (Ultimate)",
+      "Punchline": "Unlocks your search comment power from 60 to 192 characters.",
+      "Description": "Unlocks your search comment power from 60 to 192 characters.",
+      "Tags": [
+        "Utility",
+        "UI",
+        "Other"
+      ],
+      "InternalName": "Search Comment (Ultimate)",
+      "AssemblyVersion": "1.0.4.0",
+      "TestingAssemblyVersion": "1.0.4.0",
+      "RepoUrl": "https://github.com/Paparogue",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "DownloadLinkInstall": "https://github.com/Paparogue/SearchCommentUltimate/releases/download/v1.0.4/SCU_v1.0.4.zip",
+      "DownloadLinkUpdate": "https://github.com/Paparogue/SearchCommentUltimate/releases/download/v1.0.4/SCU_v1.0.4.zip",
+      "DownloadLinkTesting": "https://github.com/Paparogue/SearchCommentUltimate/releases/download/v1.0.4/SCU_v1.0.4.zip",
+      "IconUrl": "https://raw.github.com/Paparogue/SearchCommentUltimate/ef0a47920387ed29b2a599572156bbe9cfab4ea9/CommentSearch.png",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "paparogue-paparoguerepo",
+      "_SourceName": "Paparogue / PaparogueRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/Paparogue/PaparogueRepo/refs/heads/main/repo.json"
+    },
+    {
+      "Author": "Paparogue",
+      "Name": "NoClippyUnchained",
+      "Punchline": "Feel the full extent of no animation locks.",
+      "Description": "Feel the full extent of no animation locks.",
+      "Tags": [
+        "Utility",
+        "UI",
+        "Other"
+      ],
+      "InternalName": "NoClippyUnchained",
+      "AssemblyVersion": "1.0.4.0",
+      "TestingAssemblyVersion": "1.0.4.0",
+      "RepoUrl": "https://github.com/Paparogue",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "DownloadLinkInstall": "https://github.com/Paparogue/NoClippyUnchained/releases/download/v1.0.4/NCU_v.1.0.4.zip",
+      "DownloadLinkUpdate": "https://github.com/Paparogue/NoClippyUnchained/releases/download/v1.0.4/NCU_v.1.0.4.zip",
+      "DownloadLinkTesting": "https://github.com/Paparogue/NoClippyUnchained/releases/download/v1.0.4/NCU_v.1.0.4.zip",
+      "IconUrl": "https://raw.githubusercontent.com/Paparogue/NoClippyUnchained/master/noclippyunchained.png",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "paparogue-paparoguerepo",
+      "_SourceName": "Paparogue / PaparogueRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/Paparogue/PaparogueRepo/refs/heads/main/repo.json"
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "sourceId": "dajoey-lalalazy",
+  "url": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 12,
+  "plugins": [
+    {
+      "Author": "dajoey",
+      "Name": "PvP Solver",
+      "Punchline": "PvP-only auto-rotation",
+      "Description": "PvP-only auto-rotation for FFXIV. Activates in PvP zones.",
+      "InternalName": "PvPSolver",
+      "AssemblyVersion": "0.1.0.12",
+      "TestingAssemblyVersion": "0.1.0.12",
+      "Changelog": "v0.1.0.12 - 2026-08-06\n- Synced upstream RotationSolverReborn `35ceb6e82` (\"Guard status check for Doom to ensure valid object\"): the PvP-rotation portion of that commit is a `GameVersion` attribute bump from `7.5` to `7.55` across all 21 PvP rotations.\n\n- **No gameplay change.** The Doom guard itself lives in `RotationSolver.Basic/Helpers/StatusHelper.cs` and upstream's PvE rotations - base classes this fork intentionally does not track (RUNBOOK 3.2). The fork's PvP rotations contain no Doom status checks, so there is nothing to port.\n- Synced via `tools/sync-upstream-rotations.sh`; all 21 PvP rotation files verified byte-identical to upstream `6c064f910` (CR-normalised).\n- **Promoted to production 2026-08-09.** `AssemblyVersion` 0.1.0.9 -> 0.1.0.12; both channels now ship this build. In-game gate waived by Joey: the 0.1.0.11 fix executes only outside PvP (guard on `DataCenter.IsPvP`) and this sync is attribute-only, so PvP play cannot exercise what changed; the user-facing check is the absence of the PvE `no rotation found` warning in `dalamud.log` (issue #3).\n\nv0.1.0.11 - 2026-08-03\n- **Per-frame log spam in all PvE content** (issue #3, reported by @TheWalkingDude19). `UpdateCustomRotation` is driven from the framework tick via `MajorUpdater.RSRRotationAndStateUpdate`, and emitted `WRN ... no rotation found for job=<job> combatType=PvE` roughly 50 times per second for as long as the player was outside PvP. PvPSolver is PvP-only and ships no PvE rotations, so the lookup could never succeed; worse, the miss path set `DataCenter.CurrentRotation = null` immediately before logging, which permanently defeated the unchanged-state guard at the top of the method and forced a full re-resolve every tick. (Updaters/RotationUpdater.cs)\n\n- `UpdateCustomRotation` now returns early when `DataCenter.IsPvP` is false, clearing `CurrentRotation`/`CurrentRotationActions` once on the PvP-to-PvE transition instead of every frame. `curCombatType` is consequently always `CombatType.PvP` below that guard.\n- Removed the ungated `PluginLog.Information($\"UpdateCustomRotation: job=..., IsPvP=..., groups=...\")` call. It ran unconditionally on every invocation, ahead of every early return - invisible to users filtering at Warning+, but hammering `dalamud.log` in PvP and PvE alike.\n- Both remaining \"no rotation\" warnings (`no rotation found for job=...` and `No valid rotations found for ...`) are now throttled by a `_lastNoRotationLogged` (job, combat type) tuple, so a persistent miss reports once rather than once per frame. Reset in `ChangeRotation` so a later successful load re-arms the warning.\n\n- **Shipped to production with 0.1.0.12 (2026-08-09).** In-game gate waived by Joey: every changed statement executes only when `DataCenter.IsPvP` is false, so in-PvP behavior is provably unchanged; the empirical check is that the PvE `no rotation found` warning stops firing (issue #3).\n- Both log lines date to the initial vendored commit `9b3652dae`, so this affected every release to date.\n- No rotation, targeting or combat behavior changes - the end state in PvE is identical (`CurrentRotation == null`), it is just no longer recomputed and re-logged every tick.\n\nv0.1.0.10 - 2026-07-31\n- Synced upstream RotationSolverReborn commit `2ac940563`: the `EmergencyGCD` hook now takes the queued next GCD as a parameter, bringing it in line with `EmergencyAbility`, interrupts, dispels and the heal hooks, which have all taken it for some time. Applied to the base engine (`PvPSolver.Basic/Rotations/CustomRotation_GCD.cs` declaration + both call sites, `PvPSolver.Basic/Rotations/Duties/DutyRotation.cs` declaration) and to the two rotations that override it (`RebornRotations/PVPRotations/Healer/WHM_Default.PVP.cs`, `RebornRotations/PVPRotations/Ranged/BRD_Default.PVP.cs`).\n\n- **No gameplay change.** The new `nextGCD` parameter is not read by any implementation of the hook — not in this fork, and not anywhere in upstream `641bd792e`. It is plumbing for future upstream use. Purify (stun / heavy / bind / silence / deep freeze / Miracle of Nature), Guard, Recuperate and Standard-issue Elixir priority are unchanged, as are the WHM Aquaveil and BRD The Warden's Paean cleanse paths.\n- `WHM_Default.PVP.cs` and `BRD_Default.PVP.cs` are now byte-identical to upstream `641bd792e` (verified by diff, CR-normalised).\n- First release on the **reinstated testing channel**. The channel was removed 2026-06-07; its previous entry never worked because `TestingDalamudApiLevel` was unset, so Dalamud hid the build. Now set to 15 alongside `TestingAssemblyVersion`. Production remains 0.1.0.9 until this build is verified in-game.\n- Escalated by the nightly upstream-merge on 2026-07-31 under RUNBOOK 3.2 (\"never pull base classes\"). RUNBOOK amended the same day with a signature-only carve-out so equivalent changes sync unattended.\n\nv0.1.0.9 - 2026-07-02\n- Hidden the three PvE-only config tabs inherited from upstream: Duty Rotation, Duty, and AutoDuty (incl. the AutoDuty helper-plugin installer list). Tabs are `[TabSkip]`-hidden, not deleted, so nightly subtree merges stay clean. (UI/RotationConfigWindowTab.cs)\n- Removed upstream Combat Reborn donation/community links: Ko-fi title-bar button, About-tab Ko-fi button and Discord banner, and the \"Thanks to Supporters\" About section with its random supporter shout-out hints. (UI/RotationConfigWindow.cs)\n- Easter egg window retitled \"PvP Solver Lab\" (was \"RSR Lab\"). (UI/EasterEggWindow.cs)\n\n- Part of the 2026-07-02 fork-branding cleanup pass across lalalazy forks. No rotation/behavior changes.\n- The Actions-tab \"Intercepted\" option is PvE-only by nature and remains visible; candidate for a later pass.\n\nv0.1.0.8 - 2026-06-18\n- Skip loading PvE duty rotations (Bozja, Emanation, MonsterHunter, Orbonne, Phantom, Variant) entirely. PvPSolver is PvP-only, so the duty rotation set had zero relevance; not loading it reduces memory use and startup time. (Updaters/RotationUpdater.cs)\n\nv0.1.0.7 - 2026-06-07\n- Auto-targeting for Forlorn / Maiden targets: checks the global `Svc.Objects` list to target any targetable, alive Forlorn/Maiden immediately upon rendering, regardless of whether they are in the hostile list.\n- Increased `sipRange` in `ObjectHelper.cs` to 48f (from 25f) to ensure they are targeted immediately upon entering the player's hostile radar range.",
+      "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/PvPSolver",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "TestingDalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/PvPSolver/latest/latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/PvPSolver/latest/latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/PvPSolver/testing/testing.zip",
+      "Tags": null,
+      "CategoryTags": null,
+      "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/pvpsolver-icon.png",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadCount": 0,
+      "LastUpdate": "0",
+      "_SourceId": "dajoey-lalalazy",
+      "_SourceName": "dajoey / lalalazy",
+      "_SourceUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json"
+    },
+    {
+      "Author": "dajoey",
+      "Name": "Dagobert - Price Matcher",
+      "Punchline": "Matches (instead of undercuts) market board prices",
+      "Description": "Fork of Dagobert - matches the lowest market board price instead of undercutting. Default amount is 0 (exact match). You can still set a negative amount to undercut if desired.",
+      "InternalName": "DagobertPriceMatcher",
+      "AssemblyVersion": "1.12.0.6",
+      "Changelog": "v1.12.0.6 - Fork cleanup\n- Plugin manifest RepoUrl now points to this fork (dajoey/lalalazy) instead of upstream SHOEGAZEssb/Dagobert.\n- Fixed missing plugin icon in the Dalamud installer (manifest IconUrl was empty).\n\nv1.12.0.4 - Hide inventory context menu entry\n- Synced upstream Dagobert v1.14.1.0: new Show inventory context menu entry toggle (on by default) in the config window. Turn it off to remove Dagoberts right-click entry from inventory items.\n- Fork behavior preserved: matches the lowest market board price (0 undercut by default); /pricematch command unchanged.",
+      "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/DagobertPriceMatcher",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/DagobertPriceMatcher/latest/latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/DagobertPriceMatcher/latest/latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/DagobertPriceMatcher/latest/latest.zip",
+      "Tags": [
+        "marketboard",
+        "match",
+        "price",
+        "undercut",
+        "retainer"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/dagobert-icon.png",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadCount": 0,
+      "LastUpdate": "0",
+      "_SourceId": "dajoey-lalalazy",
+      "_SourceName": "dajoey / lalalazy",
+      "_SourceUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json"
+    },
+    {
+      "Author": "dajoey",
+      "Name": "AutoPotion",
+      "Punchline": "Per-job HP, MP, and deep dungeon potion automation.",
+      "Description": "Auto-uses the highest-tier HP potion, MP potion (Ether), and the deep dungeon regen potion (Sustaining / Eurekan / Orthos / Pilgrim's) at configurable thresholds. Each potion's threshold and on/off state is stored per-job, so casters and tanks can have completely different setups.",
+      "InternalName": "AutoPotion",
+      "AssemblyVersion": "0.2.2.1",
+      "Changelog": "v0.2.2.1 - 2026-07-02\n- **Plugin icon now shows in the Dalamud installer.** The manifest (`AutoPotion.json`) had no\n\n- No behavior changes. Part of the 2026-07-02 lalalazy repo cleanup pass.",
+      "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/AutoPotion",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/AutoPotion/latest/latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/AutoPotion/latest/latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/AutoPotion/latest/latest.zip",
+      "Tags": [
+        "auto",
+        "potion",
+        "healing",
+        "deep dungeon"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/autopotion-icon.png",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadCount": 0,
+      "LastUpdate": "0",
+      "_SourceId": "dajoey-lalalazy",
+      "_SourceName": "dajoey / lalalazy",
+      "_SourceUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json"
+    },
+    {
+      "Author": "dajoey",
+      "Name": "Armoire Auto-Fill",
+      "Punchline": "Per-dungeon view of which armoire-eligible gear pieces you're still missing",
+      "Description": "Lists every armoire-eligible dungeon drop in the game and shows whether each is in your inventory, in your armoire, or still missing. Sort by level, hide completed dungeons, toggle to show owned items too. Open the armoire UI at an inn once per session to populate the in-armoire state; in-inventory and equipped state is detected automatically. Use /armoire.",
+      "InternalName": "ArmoireAutoFill",
+      "AssemblyVersion": "0.4.3.0",
+      "Changelog": "v0.4.3.0 - Fixed: auto-store on armoire open actually fires now (cabinet data loads async after the UI opens; the store is deferred until the data is ready). | v0.4.2.0 - Auto-store ON by default, bags only (armoury chest opt-in), gearset protection stays on.",
+      "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/ArmoireAutoFill",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/ArmoireAutoFill/latest/latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/ArmoireAutoFill/latest/latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/ArmoireAutoFill/latest/latest.zip",
+      "Tags": [
+        "armoire",
+        "dungeon",
+        "gear",
+        "collection",
+        "scanner"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/armoire-icon.png",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadCount": 0,
+      "LastUpdate": "0",
+      "_SourceId": "dajoey-lalalazy",
+      "_SourceName": "dajoey / lalalazy",
+      "_SourceUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json"
+    },
+    {
+      "Author": "dajoey",
+      "Name": "Gluttony Combo",
+      "Punchline": "Lalalazy fork of Wrath Combo - XIVCombo for very lazy players.",
+      "Description": "Gluttony Combo - lalalazy fork of Gluttony Combo. XIVCombo for very lazy players.",
+      "InternalName": "GluttonyCombo",
+      "AssemblyVersion": "1.0.4.132",
+      "Changelog": "v1.0.4.139 (2026-08-11) [testing]\n\n- **Occult Slowga rewritten as a true AoE check**\n- **New `ImmuneToStatus(target, status)` helper** (`CustomCombo/Functions/Status.cs`),\n- **Out-of-party resolvers restricted to players** (`CustomCombo/SimpleTarget.cs`).\n\nv1.0.4.138 (2026-08-10) [testing]\n\n- **Auto-rotation weaving fix** (`CustomCombo/Functions/Timer.cs`). `CheckGCD` now\n- **Fresh installs no longer see the major-changes pop-up** (`Core/Configuration.cs`).\n- **Debug tab tidy** (`Window/Tabs/Debug.cs`). SimpleTarget inspector block moved inside\n\nv1.0.4.137 (2026-08-09) [testing]\n\n- **Phantom Red Mage Cure II retargeting.** New preset\n- **Occult Libra fixes.** No longer casts Libra on non-targetable enemies; Libra status\n- **Duty-action readiness simplified.** Upstream removed the `HasActionEquipped` helper\n- **`All.Cease` excluded from the duty-action slot check** in the custom-action manager\n- **Status helper API widened `ushort` -> `uint`** for status IDs across `GetStatusEffect` /\n- **Raise targeting simplified.** Dead-party-member resolver dropped the OC un-rezzable-status\n- **New helpers:** `IfWithinActionRange(actionId)` chaining extension, `StatusName`/`TraitName`\n- **Debug tab: SimpleTarget inspector.** New \"Simple Target Resolvers\" stack-data trees and\n- Documentation/annotation pass across 22 job `_Helper.cs` files (no behavior change).\n\n- **MissingHP check compared with integer division.** `battle.CurrentHp / battle.MaxHp * 100\n\n- **Fork follow-up to the `HasActionEquipped` removal:** the fork-only phantom-heal diagnostic\n- Fork divergences preserved and token-verified: `NeedsDoomTopUp` healer-targeting wrap,\n- Testing channel only; production remains 1.0.4.132. Not yet verified in game.\n\nv1.0.4.136 (2026-08-08) [testing]\n\n- **The whole BattleData encounter system was dead code — `LoadCombatData()` was never\n- **Consequently also restored:** `_pauseActions` (was pinned `() => false`, so\n\n- Diagnosed from Joey's 2026-08-08 dajoeybaz session: `dalamud.log` confirmed territory\n- **Zero-cost verification, no fight required:** the Debug tab already prints `Battle Data\n- Not yet verified in game. Testing channel only; production remains 1.0.4.132.\n- Added to the standing-divergences list in the nightly-merge runbook so a future rename or\n\nv1.0.4.135 (2026-08-08) [testing]\n\n- **Custom actions no longer roll the GCD** (upstream WrathCombo `00823c75f` ->\n\nv1.0.4.134 (2026-08-07) [testing]\n\n- **Crash fix for the custom action tooltip** (upstream WrathCombo `215b38658` ->",
+      "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/GluttonyCombo",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/GluttonyCombo/latest/latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/GluttonyCombo/latest/latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/GluttonyCombo/testing/testing.zip",
+      "Tags": [
+        "combo",
+        "gluttony",
+        "wrath",
+        "wrathcombo",
+        "auto",
+        "autorotation",
+        "rotation",
+        "pve",
+        "pvp",
+        "lalalazy"
+      ],
+      "CategoryTags": null,
+      "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/gluttonycombo-icon.png",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadCount": 0,
+      "LastUpdate": "1785138374",
+      "TestingAssemblyVersion": "1.0.4.139",
+      "TestingDalamudApiLevel": 15,
+      "_SourceId": "dajoey-lalalazy",
+      "_SourceName": "dajoey / lalalazy",
+      "_SourceUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json"
+    },
+    {
+      "Author": "daemitus, MidoriKami, dajoey",
+      "Name": "Lazy WT Math",
+      "Punchline": "FFXIV Wondrous Tails probability calculator.",
+      "Description": "Adds row probabilities to the Wondrous Tails display along with the average probability of what would happen if you shuffled. Upgraded for modern FFXIV.",
+      "InternalName": "LazyWTMath",
+      "AssemblyVersion": "3.2.2.9",
+      "Changelog": "v3.2.2.9 - 2026-07-02\n- **Plugin icon now shows in the Dalamud installer.** Installed copies were built before\n\n- Part of the 2026-07-02 lalalazy repo cleanup pass.",
+      "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/LazyWTMath",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyWTMath/latest/latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyWTMath/latest/latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyWTMath/latest/latest.zip",
+      "Tags": [
+        "wondrous tails",
+        "math",
+        "calculator",
+        "probability"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/lazywtmath-icon.png",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadCount": 0,
+      "LastUpdate": "0",
+      "_SourceId": "dajoey-lalalazy",
+      "_SourceName": "dajoey / lalalazy",
+      "_SourceUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json"
+    },
+    {
+      "Author": "Blackcatz1911, dajoey",
+      "Name": "Lazy Currency Spender",
+      "Punchline": "Find the absolute best way to spend all your FFXIV currencies.",
+      "Description": "Fork of CurrencySpender by Blackcatz1911. Never wonder 'What should I do with this?' again. Access real-time prices from Universalis, identify missing collectibles tied to your currencies, and unlock new possibilities for utilizing your in-game resources effectively.",
+      "InternalName": "LazyCurrencySpender",
+      "AssemblyVersion": "1.2.6.1",
+      "Changelog": "v1.2.6.1 - Equipment Rendering Support\n- Added new 'Equipment and Gear Exchange' section in the spending UI to display untradable, non-collectable equipment (such as Bygone Brass gear and weapons) purchased with weekly capped/uncapped endgame tomestones.",
+      "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/LazyCurrencySpender",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyCurrencySpender/latest/latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyCurrencySpender/latest/latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyCurrencySpender/latest/latest.zip",
+      "Tags": [
+        "currency",
+        "poetics",
+        "tomestone",
+        "lazy"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/lazycurrencyspender-icon.png",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadCount": 0,
+      "LastUpdate": "0",
+      "_SourceId": "dajoey-lalalazy",
+      "_SourceName": "dajoey / lalalazy",
+      "_SourceUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json"
+    },
+    {
+      "Author": "croizat, dajoey",
+      "Name": "Lazy Fate Automation",
+      "Punchline": "Fully automated FATE grinding utilizing vnavmesh, lifestream, and Gluttony Combo.",
+      "Description": "Automates FATE grinding, including Zodiac Atma, Anima Luminous Crystals, Resistance Memories, Phantom Demiatmas, Yo-kai Watch Medals, and Bicolor Gemstones. Seamlessly integrates with vnavmesh for pathing and flight, lifestream for zone swapping, TextAdvance for dialogue skipping, and Gluttony Combo/BossMod for combat. Use /lazyfate to open.",
+      "InternalName": "LazyFateAutomation",
+      "AssemblyVersion": "0.0.1.44",
+      "Changelog": "v0.0.1.44 - Stop halts vnavmesh\n- Stop now immediately cancels vnavmesh pathfinding and movement, instead of letting the bot finish walking/flying to its destination after you hit Stop.\n\nv0.0.1.43 - Release Gluttony on Stop\n- Stop now fully releases the Gluttony Combo lease (returns control to you) instead of just turning auto-rotation off.\n\nv0.0.1.42 - Preset name cleanup\n- Renamed the BossMod combat preset to just \"Gluttony\" (dropped the leftover \"CBT -\" prefix).\n\nv0.0.1.41 - Gluttony crash hotfix\n- Fixed a lease-registration loop that piled up duplicate Gluttony Combo leases, crashing Gluttony's UI/rotation and tanking FPS. The lease is now acquired exactly once and never churned.\n- Renamed the BossMod combat preset \"CBT - DwD\" to \"CBT - Gluttony\" so the status bar shows the right engine.\n- After updating, reload Gluttony Combo (or restart the game) once to clear orphaned registrations from v0.0.1.40.\n\nv0.0.1.40 - Gluttony Combo combat\n- Combat rotation and target selection are now handled by Gluttony Combo (lease-based Auto-Rotation) instead of BossMod's DwD autorotation.\n- BossMod is kept only for movement and danger avoidance, and yields target authority to Gluttony (Retarget=NoTarget, FATE priority).\n- Gluttony is configured for FATE grinding: nearest-target, FATE priority, always hard-target so movement follows, AoE at 3+.\n\nv0.0.1.38 - 2026-06-09\n- Prevented mounting and dismounting loops after FATE completion by keeping the bot in Engaging state (clearing remaining combat) before transitioning to BetweenFates or deactivating integrations.\n\nv0.0.1.35 - 2026-06-07\n- Stop movement and remove dismount/landing logic from `TeleportTo` pre-cast checks. Teleport casts will now initiate directly while remaining mounted.\n- Exclude city hubs (where mounting is disabled) from random zone swapping, gemstone allowed zones, relic allowed zones, and the UI zone selector.\n\nv0.0.1.34 - 2026-06-07\n- Added stuck check mitigation for combat/engage pathfinding fallbacks.\n- Wait for combat to end before mounting.\n\nv0.0.1.33 - 2026-06-07\n- Only dismount before teleporting if the player is flying (`Player.InFlight` is true). If the player is mounted on the ground, they will now remain mounted while teleporting, which makes travels faster and more natural.\n- Added robust mounting verification and retry loops inside `MoveTo()`. If the player is in combat, the bot stands still and waits for combat to end before attempting to mount.\n- Added mid-travel dismount checking inside `MoveTo()` pathfinding loops. If the player is dismounted mid-travel (e.g. from getting aggroed/hit), the bot halts movement, waits for combat to end, mounts up, and resumes pathfinding rather than walking on foot.\n- Rewrote combat/engage stuck detection in `HandleCombatStuckDetection()`. Instead of depending on `InCombat` (which is false when running between FATE mobs) or `IsMoving` (which returns false when stuck against a wall), it now tracks position changes relative to the current target and activates `vnavmesh` pathing fallback if progress towards a distant target stops for 1.5 seconds.\n- Added explicit landing and dismounting calls at the beginning of `TeleportTo()`, and wait for `!Player.IsBusy` to prevent teleport casts from immediately failing when mounted/flying.\n- Fixed task crashing on teleport failures by replacing `ErrorIf(!ActionManager.Teleport())` with a robust 3-attempt retry loop that falls back to the `/return` recovery gracefully.\n\nv0.0.1.26 - 2026-06-07\n- Added combat stuck detection and mitigation in `HandleCombatStuckDetection()`. If BossMod's straight-line movement gets the player stuck on trees/obstacles in combat for 1.5 seconds, the bot disables BossMod movement and uses `vnavmesh` to pathfind around the obstacle to the target.\n- Added auto-skipping for NPC dialogue SelectString option lists in `TaskBase.WaitUntilSkipping()`.\n- Gated teleporting and mounting on `!Svc.Condition[ConditionFlag.InCombat]` in `TaskBase.cs` to prevent getting stuck in combat.\n- Prevented rapid mounting and dismounting loops during chain FATEs while waiting for the next FATE to spawn.\n\nv0.0.1.23 - 2026-06-06\n- File logging now suppresses DBG/TRC scope tracing by default; only WRN/ERR are written to LazyFateAutomation.log. Set VerboseFileLogging to true in the plugin config (LazyFateAutomation.json) to restore full debug logging for troubleshooting. (Svc.cs LogToFile gate, Configuration.cs flag.)\n- Fixes ~28 MB log growth observed 2026-06-06 from FATE-grind DebugContext scope enter/exit tracing.",
+      "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/LazyFateAutomation",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyFateAutomation/latest/latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyFateAutomation/latest/latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyFateAutomation/latest/latest.zip",
+      "Tags": [
+        "fate",
+        "grind",
+        "automation",
+        "relic",
+        "yokai",
+        "vnavmesh"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/lazyfateautomation-icon.png",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadCount": 0,
+      "LastUpdate": "0",
+      "_SourceId": "dajoey-lalalazy",
+      "_SourceName": "dajoey / lalalazy",
+      "_SourceUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json"
+    },
+    {
+      "Author": "dajoey",
+      "Name": "Lazy Skyward Tracker",
+      "Punchline": "Track your Skyward points for all jobs toward the Pteranodon mount",
+      "Description": "Tracks all jobs' Skyward points for the Pteranodon mount achievement. Scans your inventory for Skybuilders turn-in items and projects how many points they'll add, shown as a cyan bar extension on each job's progress bar. Use /lazysky to open.",
+      "InternalName": "LazySkywardTracker",
+      "AssemblyVersion": "0.0.2.2",
+      "Changelog": "v0.0.2.2 - Fix gathered Diadem items counting toward the wrong gathering class\n- Miner quarry materials that lack an \"ore/stone/sand\" keyword (Spring Water, Truespring Water, Cloud Drop Water, Basalt, Jade, Lutinite, Alumen, Clay, Granite, Silex, Ice Stalagmite, Fossil Dust, Basilisk Egg, and the Umbral Levinshard/Levinite/Magma Shard line) were being credited to Botanist instead of Miner.\n- Gathering class is now read from the game's HWDGathererInspection row index (1=Miner, 2=Botanist, 3=Fisher) instead of an item-name heuristic. 18 point-bearing Miner items across Grades 2-4 fixed.\n- No change to which items count or their point values.",
+      "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/LazySkywardTracker",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazySkywardTracker/latest/latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazySkywardTracker/latest/latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazySkywardTracker/testing/testing.zip",
+      "Tags": [
+        "skybuilders",
+        "restoration",
+        "pteranodon",
+        "achievement",
+        "tracker"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/lazyskywardtracker-icon.png",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadCount": 0,
+      "LastUpdate": "0",
+      "_SourceId": "dajoey-lalalazy",
+      "_SourceName": "dajoey / lalalazy",
+      "_SourceUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json"
+    },
+    {
+      "Author": "dajoey",
+      "Name": "LazyFoodBuff",
+      "Punchline": "Never forget to eat your food again.",
+      "Description": "Auto-eats food in combat duties with per-job selection, auto-select based on best stats, and a low-food warning.",
+      "InternalName": "LazyFoodBuff",
+      "AssemblyVersion": "0.1.2.0",
+      "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/LazyFoodBuff",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyFoodBuff/latest/latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyFoodBuff/latest/latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyFoodBuff/testing/testing.zip",
+      "Tags": [
+        "auto",
+        "food",
+        "buff",
+        "duty",
+        "lazy"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/lazyfoodbuff-icon.png",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadCount": 0,
+      "LastUpdate": "0",
+      "Changelog": "v0.1.2.0 - Now eats in Occult Crescent. South Horn and North Horn report TerritoryIntendedUse 61, which was missing from the combat-duty allow-list, so with 'Only auto-eat in combat duties' enabled auto-eat silently did nothing in the entire field operation. Same class of bug as the v0.1.1.0 deep-dungeon fix.\nv0.1.1.0 - Low-food warning + deep dungeons. (1) The low-stock alert now triggers on how much food you have left in your bag, not on time remaining on the buff; new count slider (default 3), alerts once and re-arms after you restock. (2) Auto-eat now works in deep dungeons (Palace of the Dead, Heaven-on-High, Eureka Orthos) - they were wrongly excluded.\nv0.1.0.0 - Initial release. Auto-eats food in combat duties; per-job food selection or auto-select by best stats; refresh-before-expiry. Use /lazyfoodbuff.",
+      "TestingDalamudApiLevel": 15,
+      "TestingAssemblyVersion": "0.1.2.0",
+      "_SourceId": "dajoey-lalalazy",
+      "_SourceName": "dajoey / lalalazy",
+      "_SourceUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json"
+    },
+    {
+      "Author": "dajoey",
+      "Name": "Lazy Gear Collector",
+      "Punchline": "Track upgradable gear sets and what it costs to finish them",
+      "Description": "Tracks upgradable gear collections piece by piece. Starts with Occult Crescent: North Horn's Phantom Vision sets - all 7 roles, 5 slots, 4 tiers. Shows which pieces you own and at what tier, what the next upgrade costs, and the exact obol/fixative shortfall to finish a role or the whole collection. Every item ID and price is read from the game's own shop data at runtime, so it stays correct across patches. Also flags Arcanaut's gear you can trade up for free. Use /lazygear to open.",
+      "InternalName": "LazyGearCollector",
+      "AssemblyVersion": "0.0.0.0",
+      "TestingDalamudApiLevel": 15,
+      "TestingAssemblyVersion": "0.0.1.0",
+      "Changelog": "- **First release.** Tracks upgradable gear collections: which pieces you own, what tier each one\n- **Phantom Vision (Occult Crescent: North Horn, patch 7.55)** as the first collection â€” 7 role sets\n- **Runtime shop-derived pricing.** `ShopGraph.cs` builds a reverse index over the entire\n- **Arcanaut's trade-up detection** (`Planner.DetectShortcut`). Arcanaut's +1 and +2 exchange into\n- **Ownership scanning** across bags, armoury chest and equipped gear (live), plus opportunistic\n- Role roster UI with click-through to per-piece detail, a wallet strip, per-role and\n\n- **The glamour dresser cannot be enumerated** at Dalamud API level 15 â€” `MirageManager` exposes\n- `ItemCostsStruct.CostType` is honoured when reading shop costs. `CostType == 0` means the cost\n- Reference data behind this release, including the full item-ID matrix and the shop table, is in\n\n- Release build: 0 warnings, 0 errors.\n- The set-construction and pricing logic was re-implemented independently against a raw Lumina dump",
+      "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/LazyGearCollector",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": true,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyGearCollector/testing/testing.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyGearCollector/testing/testing.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyGearCollector/testing/testing.zip",
+      "Tags": [
+        "occult",
+        "crescent",
+        "northhorn",
+        "phantomvision",
+        "gear",
+        "collection",
+        "tracker"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/lazygearcollector-icon.png",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadCount": 0,
+      "LastUpdate": "0",
+      "_SourceId": "dajoey-lalalazy",
+      "_SourceName": "dajoey / lalalazy",
+      "_SourceUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json"
+    },
+    {
+      "Author": "dajoey",
+      "Name": "Lazy Occult Crescent",
+      "Punchline": "Occult Crescent helper with North Horn support",
+      "Description": "Field companion for Occult Crescent, covering both South Horn and North Horn (patch 7.55). Treasure and Fortune Carrot radar with optimal looting routes, live FATE and Critical Encounter tracking with progress and completion estimates, aethernet teleport shortcuts, silver/gold and EXP per hour tracking, phantom job buff automation, and an optional automation loop for FATEs, CEs and mob farming. North Horn zone geometry is learned in-game and cached, so the zone bootstraps itself rather than needing a hand survey. Forked with thanks from OhKannaDuh's BOCCHI (AGPL-3.0). Use /lazyoccult to open.",
+      "InternalName": "LazyOccultCrescent",
+      "AssemblyVersion": "0.0.0.0",
+      "TestingAssemblyVersion": "0.2.1.0",
+      "TestingDalamudApiLevel": 15,
+      "Changelog": "- **North Horn (territory 1346) support.** Upstream only ever knew about South Horn;\n- **North Horn event tables** (`Data/NorthHornEvents.cs`), datamined from the 7.55\n- 13 FATEs, `Fate` sheet rows 2072-2084. Rows 2072/2073 carry Rule 4 (the pot-fate\n- 15 Critical Encounters plus both towers, `DynamicEvent` rows 49-65. This mirrors\n- `EventData.Fates` / `CriticalEncounters` are now merged views over both zones.\n- **Six North Horn aetheryte shards.** EObj BaseIds 2015429 (`occult aetheryte`) and\n- **Runtime zone discovery** (`Data/ZoneDiscovery.cs` + `Modules/ZoneDiscovery/`).\n- **All eight 7.55 phantom jobs** wired into `JobId`, `PlayerStatus` and `Job`.\n- **GluttonyCombo as a rotation provider** (`Modules/MobFarmer/Gluttony.cs` +\n\n- **Data generators sized their work off the wrong shard count.** `TreasureHuntPanel`\n- **Silent empty generator runs.** A zone whose chests do not match the hardcoded\n- Replaced five obsolete Dalamud API calls in the debug panels\n\n- Renamed throughout: namespace `BOCCHI` -> `LazyOccultCrescent`, commands\n- Ocelot is consumed from the `FFXIVOcelot` NuGet package in every configuration.\n\n- **Not yet verified in game.** Built and reasoned about, not played. Everything\n- Zone data files (`Data/NorthHorn/`) do not exist yet - they are produced by the\n- The PlaceName-to-BaseId pairing order for the six shards is inferred from\n- Demiatma / Soulshard / MonsterNote for North Horn events are deliberately left\n- `Data/Traps/` still describes Forked Tower: Blood. FT:Magic is a different tower",
+      "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/LazyOccultCrescent",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": true,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyOccultCrescent/latest/latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyOccultCrescent/latest/latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/dajoey/lalalazy/main/plugins/LazyOccultCrescent/testing/testing.zip",
+      "Tags": [
+        "occult",
+        "crescent",
+        "northhorn",
+        "southhorn",
+        "fate",
+        "treasure",
+        "radar",
+        "automation"
+      ],
+      "CategoryTags": [
+        "utility"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/lazyoccultcrescent-icon.png",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadCount": 0,
+      "LastUpdate": "0",
+      "_SourceId": "dajoey-lalalazy",
+      "_SourceName": "dajoey / lalalazy",
+      "_SourceUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json"
+    }
+  ]
+}

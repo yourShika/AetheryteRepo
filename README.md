@@ -37,19 +37,19 @@ beliebig mit anderen kombinieren — die Tabelle wird bei jedem Lauf automatisch
 
 | Feed | Inhalt | Plugins | URL |
 |---|---|---:|---|
-| ⭐ **Master** | Alles außer 18+ | 360 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master.json` |
-| 🌐 **Master inkl. 18+** | Wirklich alles | 364 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master-full.json` |
-| 👗 Glamour & Charakter | Mods, Aussehen, Posing, Sync | 78 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/glamour.json` |
-| ⚔️ Kampf & Rotation | Rotationen, Boss-Timeline, Combos, PvP | 40 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/combat.json` |
-| 🤖 Automatisierung | AutoDuty, Navmesh, Retainer, Questing, Farming | 74 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/automation.json` |
-| ⚒️ Crafting & Gathering | Handwerk, Sammeln, Marktbrett | 15 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/crafting.json` |
-| ✨ Quality of Life & UI | Tweaks, Interface, Chat, Inventar, Karten | 73 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/qol.json` |
-| 🎭 Social & Roleplay | RP-Profile, Emotes, Free Company, Discord | 26 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/social.json` |
-| 🔞 Adult (18+) | Nur fuer Erwachsene – standardmaessig NICHT im Master | 4 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/nsfw.json` |
-| 🏡 Housing & Deko | Moebel, Layouts, Grundstuecke | 9 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/housing.json` |
-| 🔊 Audio & Voice | Voicechat, TTS, Musik, Sound | 10 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/audio.json` |
-| 🛠️ Developer & Data | Debugging, Datenexplorer, Editoren | 15 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/dev.json` |
-| 📦 Sonstiges | Alles ohne klare Zuordnung | 20 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/misc.json` |
+| ⭐ **Master** | Alles außer 18+ | 562 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master.json` |
+| 🌐 **Master inkl. 18+** | Wirklich alles | 568 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master-full.json` |
+| 👗 Glamour & Charakter | Mods, Aussehen, Posing, Sync | 95 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/glamour.json` |
+| ⚔️ Kampf & Rotation | Rotationen, Boss-Timeline, Combos, PvP | 70 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/combat.json` |
+| 🤖 Automatisierung | AutoDuty, Navmesh, Retainer, Questing, Farming | 111 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/automation.json` |
+| ⚒️ Crafting & Gathering | Handwerk, Sammeln, Marktbrett | 24 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/crafting.json` |
+| ✨ Quality of Life & UI | Tweaks, Interface, Chat, Inventar, Karten | 141 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/qol.json` |
+| 🎭 Social & Roleplay | RP-Profile, Emotes, Free Company, Discord | 53 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/social.json` |
+| 🔞 Adult (18+) | Nur fuer Erwachsene – standardmaessig NICHT im Master | 6 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/nsfw.json` |
+| 🏡 Housing & Deko | Moebel, Layouts, Grundstuecke | 16 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/housing.json` |
+| 🔊 Audio & Voice | Voicechat, TTS, Musik, Sound | 19 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/audio.json` |
+| 🛠️ Developer & Data | Debugging, Datenexplorer, Editoren | 20 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/dev.json` |
+| 📦 Sonstiges | Alles ohne klare Zuordnung | 13 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/misc.json` |
 
 <!-- FEEDS:END -->
 
@@ -83,8 +83,8 @@ data/sources.json ──► scripts/aggregate.mjs ──► repos/*.json
 
 `scripts/aggregate.mjs` macht pro Lauf:
 
-1. **Holen** — alle Quellen aus `data/sources.json` parallel (6 gleichzeitig, 3 Versuche,
-   45 s Timeout).
+1. **Holen** — alle Quellen aus `data/sources.json` parallel (12 gleichzeitig, 3 Versuche,
+   45 s Timeout). Ein kompletter Durchlauf über ~290 Quellen dauert wenige Sekunden.
 2. **Normalisieren** — Feed-Formate vereinheitlichen (Array, `{Plugins:[…]}` oder einzelnes
    Manifest), Booleans wie `"False"` → `false`, relative Download-Links absolut machen,
    `DownloadLinkUpdate`/`Install` gegenseitig auffüllen. Einträge ohne `InternalName` oder

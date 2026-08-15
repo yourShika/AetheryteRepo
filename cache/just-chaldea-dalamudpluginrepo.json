@@ -1,0 +1,112 @@
+{
+  "sourceId": "just-chaldea-dalamudpluginrepo",
+  "url": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 3,
+  "plugins": [
+    {
+      "Author": "Just-Chaldea",
+      "Name": "MahjongAdvisor",
+      "InternalName": "MahjongAdvisor",
+      "AssemblyVersion": "1.2.1.11",
+      "Description": "Reads the Doman Mahjong board and recommends each move: discard, calls, riichi, and defense.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/Just-Chaldea/Mahjong-Advisor",
+      "Tags": [
+        "mahjong"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/icon.png",
+      "Punchline": "Move-by-move advice for Doman Mahjong.",
+      "AcceptsFeedback": true,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/MahjongAdvisor/1.2.1.11.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/MahjongAdvisor/1.2.1.11.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/MahjongAdvisor/1.2.1.11.zip",
+      "TestingAssemblyVersion": "1.2.1.11",
+      "CategoryTags": [
+        "utility"
+      ],
+      "IsTestingExclusive": false,
+      "LastUpdate": "1781783482",
+      "IsHide": false,
+      "_SourceId": "just-chaldea-dalamudpluginrepo",
+      "_SourceName": "Just-Chaldea / DalamudPluginRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/pluginmaster.json"
+    },
+    {
+      "Author": "Just-Chaldea",
+      "Name": "VisitorsPass",
+      "InternalName": "VisitorsPass",
+      "AssemblyVersion": "0.1.3.0",
+      "Description": "Saves housing layouts to JSON files from anywhere you can stand: your own house or any home you visit.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/Just-Chaldea/VisitorsPass",
+      "Tags": [
+        "housing",
+        "makeplace",
+        "layout"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/icon.png",
+      "Punchline": "Save any housing layout you can walk into - no permissions needed.",
+      "AcceptsFeedback": true,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/VisitorsPass/0.1.3.0.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/VisitorsPass/0.1.3.0.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/VisitorsPass/0.1.3.0.zip",
+      "TestingAssemblyVersion": "0.1.3.0",
+      "CategoryTags": [
+        "utility"
+      ],
+      "IsTestingExclusive": false,
+      "LastUpdate": "1782337299",
+      "IsHide": false,
+      "_SourceId": "just-chaldea-dalamudpluginrepo",
+      "_SourceName": "Just-Chaldea / DalamudPluginRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/pluginmaster.json"
+    },
+    {
+      "Author": "Just-Chaldea",
+      "Name": "CarbunclePartner",
+      "InternalName": "CarbunclePartner",
+      "AssemblyVersion": "1.4.0.0",
+      "Description": "Companion to the carbuncleplushy FFXIV Fish Tracker: tracks which fish you've caught, with website-matching filters and one-click export.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/Just-Chaldea/CarbunclePartner",
+      "Tags": [
+        "fishing",
+        "fish",
+        "tracker",
+        "carbuncleplushy"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/icon.png",
+      "Punchline": "Track your caught fish in-game, matched to the carbuncleplushy fish tracker.",
+      "AcceptsFeedback": true,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/CarbunclePartner/1.4.0.0.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/CarbunclePartner/1.4.0.0.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/plugins/CarbunclePartner/1.4.0.0.zip",
+      "TestingAssemblyVersion": "1.4.0.0",
+      "CategoryTags": [
+        "utility"
+      ],
+      "IsTestingExclusive": false,
+      "LastUpdate": "1786255081",
+      "IsHide": false,
+      "_SourceId": "just-chaldea-dalamudpluginrepo",
+      "_SourceName": "Just-Chaldea / DalamudPluginRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/pluginmaster.json"
+    }
+  ]
+}

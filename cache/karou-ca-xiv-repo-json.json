@@ -1,0 +1,34 @@
+{
+  "sourceId": "karou-ca-xiv-repo-json",
+  "url": "https://karou.ca/xiv/repo.json",
+  "fetchedAt": "2026-08-15",
+  "count": 1,
+  "plugins": [
+    {
+      "Author": "Karou",
+      "Name": "Texture Overlayer",
+      "InternalName": "TextureOverlayer",
+      "AssemblyVersion": "0.5.4.0",
+      "Punchline": "Overlay textures in-game quickly",
+      "Description": "A relatively robust tool that allows you to non-destructively edit textures.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/Glorou/TextureOverlayer",
+      "Tags": [],
+      "DalamudApiLevel": 15,
+      "LoadPriority": 0,
+      "DownloadCount": 0,
+      "DownloadLinkInstall": "https://github.com/Glorou/TextureOverlayer/releases/download/v0.5.4/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Glorou/TextureOverlayer/releases/download/v0.5.4/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Glorou/TextureOverlayer/releases/download/v0.5.4/latest.zip",
+      "IconUrl": "",
+      "_isDip17Plugin": false,
+      "_Dip17Channel": null,
+      "Changelog": "## What's Changed\r\n* Fixed for API 15\r\n No new updates as I'm working on Ktisis right now, but I have features planned",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "karou-ca-xiv-repo-json",
+      "_SourceName": "Glorou / Texture Overlayer",
+      "_SourceUrl": "https://karou.ca/xiv/repo.json"
+    }
+  ]
+}

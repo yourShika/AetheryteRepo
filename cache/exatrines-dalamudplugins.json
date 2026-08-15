@@ -1,0 +1,142 @@
+{
+  "sourceId": "exatrines-dalamudplugins",
+  "url": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 5,
+  "plugins": [
+    {
+      "Author": "mirage",
+      "Name": "Oracle",
+      "Punchline": "Right skill. Right second. Every pull.",
+      "Description": "Build or import a timeline, auto-load by zone, job, and scene, then follow cues on list and major overlays with optional hotbar icon highlights.",
+      "InternalName": "Oracle",
+      "AssemblyVersion": "1.0.3.0",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "RepoUrl": "https://github.com/exatrines/Oracle",
+      "Tags": [
+        "mitigation",
+        "timeline",
+        "raid"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/exatrines/Oracle/main/Oracle/Data/plugin-icon.png",
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/exatrines/Oracle/main/docs/screenshots/major-hotbar-highlight-730x380.png"
+      ],
+      "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/latest/download/Oracle.zip",
+      "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/latest/download/Oracle.zip",
+      "DownloadCount": 66,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "exatrines-dalamudplugins",
+      "_SourceName": "exatrines / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json"
+    },
+    {
+      "Author": "mirage",
+      "Name": "Enhanced Quick Panel",
+      "Punchline": "A customizable quick panel overlay.",
+      "Description": "A customizable quick panel overlay for actions, items, macros, and text commands, with multiple pages and style presets.",
+      "InternalName": "EnhancedQuickPanel",
+      "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/EnhancedQuickPanel.png",
+      "AssemblyVersion": "0.1.3.0",
+      "RepoUrl": "https://github.com/exatrines/EnhancedQuickPanel",
+      "DownloadLinkInstall": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v0.1.3.0/EnhancedQuickPanel.zip",
+      "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v0.1.3.0/EnhancedQuickPanel.zip",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Tags": [
+        "quickpanel",
+        "commandpanel",
+        "ui"
+      ],
+      "DownloadCount": 56,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "exatrines-dalamudplugins",
+      "_SourceName": "exatrines / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json"
+    },
+    {
+      "Author": "mirage",
+      "Name": "Goetia",
+      "Punchline": "Manual mark assist via party-aligned hotbar highlights.",
+      "Description": "Highlights mark-macro hotbar slots by party order for manual marking.",
+      "InternalName": "Goetia",
+      "AssemblyVersion": "1.0.2.0",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "RepoUrl": "https://github.com/exatrines/Goetia",
+      "IconUrl": "https://raw.githubusercontent.com/exatrines/Goetia/main/Goetia/Data/plugin-icon.png",
+      "Tags": [
+        "marking",
+        "hotbar",
+        "raid",
+        "ultimate"
+      ],
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/exatrines/Goetia/main/docs/screenshots/party-highlight-1280x720.png"
+      ],
+      "DownloadLinkInstall": "https://github.com/exatrines/Goetia/releases/latest/download/Goetia.zip",
+      "DownloadLinkUpdate": "https://github.com/exatrines/Goetia/releases/latest/download/Goetia.zip",
+      "DownloadCount": 3,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "exatrines-dalamudplugins",
+      "_SourceName": "exatrines / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json"
+    },
+    {
+      "Author": "mirage",
+      "Name": "Auto Frontline",
+      "Punchline": "Frontline automation plugin.",
+      "Description": "Required plugins: vnavmesh, Rotation Solver Reborn.",
+      "InternalName": "AutoFrontline",
+      "AssemblyVersion": "1.5.0.0",
+      "RepoUrl": "https://github.com/exatrines/AutoFrontline",
+      "DownloadLinkInstall": "https://github.com/exatrines/AutoFrontline/releases/download/v1.5.0.0/AutoFrontline.zip",
+      "DownloadLinkUpdate": "https://github.com/exatrines/AutoFrontline/releases/download/v1.5.0.0/AutoFrontline.zip",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Tags": [
+        "frontline",
+        "pvp",
+        "automation"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/AutoFrontlineIcon.png",
+      "ImageUrl": "",
+      "DownloadCount": 998,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "exatrines-dalamudplugins",
+      "_SourceName": "exatrines / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json"
+    },
+    {
+      "Author": "mirage",
+      "Name": "DTR Overlay",
+      "Punchline": "Customizable DTR overlay.",
+      "Description": "Create customizable DTR overlay.",
+      "InternalName": "DTROverlay",
+      "AssemblyVersion": "1.2.0.5",
+      "RepoUrl": "https://github.com/exatrines/DTROverlay",
+      "DownloadLinkInstall": "https://github.com/exatrines/DTROverlay/releases/download/v1.2.0.5/DTROverlay.zip",
+      "DownloadLinkUpdate": "https://github.com/exatrines/DTROverlay/releases/download/v1.2.0.5/DTROverlay.zip",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Tags": [
+        "ui",
+        "dtr",
+        "overlay"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/DTROverlayIcon.png",
+      "ImageUrl": "",
+      "DownloadCount": 129,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "exatrines-dalamudplugins",
+      "_SourceName": "exatrines / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json"
+    }
+  ]
+}

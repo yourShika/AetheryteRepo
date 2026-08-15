@@ -1,0 +1,180 @@
+{
+  "sourceId": "ayoubsn93-ne",
+  "url": "https://raw.githubusercontent.com/Ayoubsn93/ne/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 6,
+  "plugins": [
+    {
+      "Author": "UnknownX",
+      "Name": "OOBlugin",
+      "Punchline": "oob oob",
+      "Description": "oob oob",
+      "Changelog": "",
+      "InternalName": "OOBlugin",
+      "AssemblyVersion": "1.1.2.11",
+      "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
+      "ApplicableVersion": "any",
+      "CategoryTags": [
+        "utility"
+      ],
+      "DalamudApiLevel": 9,
+      "IconUrl": "",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
+      "DownloadCount": 10402,
+      "LastUpdate": "1696378706",
+      "_SourceId": "ayoubsn93-ne",
+      "_SourceName": "Ayoubsn93 / ne",
+      "_SourceUrl": "https://raw.githubusercontent.com/Ayoubsn93/ne/main/pluginmaster.json"
+    },
+    {
+      "Author": "UnknownX",
+      "Name": "Fractionality",
+      "Punchline": "DEPRECATED",
+      "Description": "This plugin is available as an option in ReAction now.",
+      "InternalName": "Fractionality",
+      "AssemblyVersion": "1.0.1.5",
+      "RepoUrl": "https://github.com/UnknownX7/Fractionality",
+      "ApplicableVersion": "any",
+      "CategoryTags": [],
+      "DalamudApiLevel": 8,
+      "IconUrl": "",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadLinkInstall": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
+      "DownloadCount": 899,
+      "LastUpdate": "1680237651",
+      "_SourceId": "ayoubsn93-ne",
+      "_SourceName": "Ayoubsn93 / ne",
+      "_SourceUrl": "https://raw.githubusercontent.com/Ayoubsn93/ne/main/pluginmaster.json"
+    },
+    {
+      "Author": "UnknownX",
+      "Name": "ReAction",
+      "Punchline": "QoL for the battle system.",
+      "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
+      "Changelog": "",
+      "InternalName": "ReAction",
+      "AssemblyVersion": "1.3.4.1",
+      "RepoUrl": "https://github.com/UnknownX7/ReAction",
+      "ApplicableVersion": "any",
+      "CategoryTags": [
+        "jobs"
+      ],
+      "DalamudApiLevel": 12,
+      "IconUrl": "",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.1/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.1/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.1/latest.zip",
+      "DownloadCount": 13446,
+      "LastUpdate": "1743025009",
+      "_SourceId": "ayoubsn93-ne",
+      "_SourceName": "Ayoubsn93 / ne",
+      "_SourceUrl": "https://raw.githubusercontent.com/Ayoubsn93/ne/main/pluginmaster.json"
+    },
+    {
+      "Author": "UnknownX",
+      "Name": "NoClippy",
+      "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+      "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
+      "Changelog": "",
+      "InternalName": "NoClippy",
+      "AssemblyVersion": "0.5.0.18",
+      "RepoUrl": "https://github.com/Ayoubsn93/dr",
+      "ApplicableVersion": "any",
+      "CategoryTags": [
+        "jobs",
+        "utility"
+      ],
+      "DalamudApiLevel": 12,
+      "IconUrl": "",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadLinkInstall": "https://codeload.github.com/Ayoubsn93/dr/zip/refs/tags/releases",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://codeload.github.com/Ayoubsn93/dr/zip/refs/tags/releases",
+      "DownloadLinkUpdate": "https://codeload.github.com/Ayoubsn93/dr/zip/refs/tags/releases",
+      "DownloadCount": 32207,
+      "LastUpdate": "1742952225",
+      "_SourceId": "ayoubsn93-ne",
+      "_SourceName": "Ayoubsn93 / ne",
+      "_SourceUrl": "https://raw.githubusercontent.com/Ayoubsn93/ne/main/pluginmaster.json"
+    },
+    {
+      "Author": "UnknownX",
+      "Name": "Cammy",
+      "Punchline": "A simple editor for the game's camera settings",
+      "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
+      "Changelog": "Fixed emotes being canceled during free cam (Thanks to Caraxi)",
+      "InternalName": "Cammy",
+      "AssemblyVersion": "2.1.0.11",
+      "RepoUrl": "https://github.com/UnknownX7/Cammy",
+      "ApplicableVersion": "any",
+      "CategoryTags": [
+        "utility"
+      ],
+      "DalamudApiLevel": 12,
+      "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+      ],
+      "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.11/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.11/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.11/latest.zip",
+      "DownloadCount": 21688,
+      "LastUpdate": "1743050060",
+      "_SourceId": "ayoubsn93-ne",
+      "_SourceName": "Ayoubsn93 / ne",
+      "_SourceUrl": "https://raw.githubusercontent.com/Ayoubsn93/ne/main/pluginmaster.json"
+    },
+    {
+      "Author": "UnknownX",
+      "Name": "DalamudRepoBrowser",
+      "Punchline": "Browse and add third party repositories in an instant",
+      "Description": "An interface for browsing and managing third party repositories.",
+      "Changelog": "",
+      "InternalName": "DalamudRepoBrowser",
+      "AssemblyVersion": "2.0.3.3",
+      "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
+      "ApplicableVersion": "any",
+      "CategoryTags": [
+        "other"
+      ],
+      "DalamudApiLevel": 9,
+      "IconUrl": "",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+      "DownloadCount": 16182,
+      "LastUpdate": "1700166956",
+      "_SourceId": "ayoubsn93-ne",
+      "_SourceName": "Ayoubsn93 / ne",
+      "_SourceUrl": "https://raw.githubusercontent.com/Ayoubsn93/ne/main/pluginmaster.json"
+    }
+  ]
+}

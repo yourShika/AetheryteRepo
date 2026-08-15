@@ -1,0 +1,92 @@
+{
+  "sourceId": "twelvehouse-dalamudplugins",
+  "url": "https://raw.githubusercontent.com/twelvehouse/DalamudPlugins/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 3,
+  "plugins": [
+    {
+      "Author": "Minmoose, Asgard and Contributors",
+      "Name": "Brio",
+      "Punchline": "Enhanced GPosing! A utility for improving the G-Pose experience in FFXIV.",
+      "Description": "Brio is suite of tools that gives you advanced control to edit and pose actors during GPose.\n- Advanced actor posing \n\t- While animating\n\t- While animating\n\t- Overlay and graphical posing modes\n- Creation of up to 239 G-Pose actors\n- Creation of custom lights\n- Supports integration with Penumbra & Glamourer\n- Offline import and export of MCDF files onto G-Pose actors\n- Play XAT .xcp camera files\n- Play/Blend animations of GPose actors\n- Control Time/Weather in both the Overworld and GPose\n- Change the active festivals and apply up to 4 at once\n- Add/Remove Status Effects of GPose actors",
+      "Tags": [
+        "gpose",
+        "brio",
+        "posing",
+        "animation"
+      ],
+      "InternalName": "Brio",
+      "Changelog": "",
+      "AssemblyVersion": "0.8.0.11",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
+      "DownloadLinkInstall": "https://github.com/twelvehouse/DalamudPlugins/raw/main/plugins/Brio/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/twelvehouse/DalamudPlugins/raw/main/plugins/Brio/latest.zip",
+      "DownloadCount": 0,
+      "LastUpdate": "1784891851",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "twelvehouse-dalamudplugins",
+      "_SourceName": "twelvehouse / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/twelvehouse/DalamudPlugins/main/pluginmaster.json"
+    },
+    {
+      "Author": "twelvehouse",
+      "Name": "ChatAnywhere",
+      "Punchline": "Chat in FFXIV from your browser anywhere.",
+      "Description": "Host your chat on a web server so you can talk from anywhere.",
+      "Tags": [
+        "chat",
+        "web",
+        "browser",
+        "relay"
+      ],
+      "InternalName": "ChatAnywhere",
+      "AssemblyVersion": "1.0.0.0",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IconUrl": "https://raw.githubusercontent.com/twelvehouse/ChatAnywhere/main/images/icon.png",
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/twelvehouse/ChatAnywhere/main/images/image1.png",
+        "https://raw.githubusercontent.com/twelvehouse/ChatAnywhere/main/images/image2.png"
+      ],
+      "Notice": "This plugin is now available on the official Dalamud plugin repository. Distribution via this custom repository has ended. Please install it through the official repository instead.",
+      "DownloadLinkInstall": "https://github.com/twelvehouse/DalamudPlugins/raw/main/plugins/ChatAnywhere/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/twelvehouse/DalamudPlugins/raw/main/plugins/ChatAnywhere/latest.zip",
+      "DownloadCount": 0,
+      "LastUpdate": "1784891851",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "twelvehouse-dalamudplugins",
+      "_SourceName": "twelvehouse / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/twelvehouse/DalamudPlugins/main/pluginmaster.json"
+    },
+    {
+      "Author": "twelvehouse",
+      "Name": "FootIK",
+      "Punchline": "Foot IK for FFXIV — feet stay on the ground.",
+      "Description": "Real-time foot IK for FFXIV characters. Keeps feet planted naturally on terrain (stairs, slopes, uneven ground) during normal gameplay.",
+      "Tags": [
+        "animation",
+        "ik",
+        "foot",
+        "emote"
+      ],
+      "InternalName": "FootIK",
+      "AssemblyVersion": "1.1.0.0",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 14,
+      "Notice": "This plugin is no longer maintained and has been archived. Distribution has ended.",
+      "DownloadLinkInstall": "https://github.com/twelvehouse/DalamudPlugins/raw/main/plugins/FootIK/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/twelvehouse/DalamudPlugins/raw/main/plugins/FootIK/latest.zip",
+      "DownloadCount": 0,
+      "LastUpdate": "1784891851",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "twelvehouse-dalamudplugins",
+      "_SourceName": "twelvehouse / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/twelvehouse/DalamudPlugins/main/pluginmaster.json"
+    }
+  ]
+}

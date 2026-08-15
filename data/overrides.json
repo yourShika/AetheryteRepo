@@ -69,7 +69,29 @@
     "characterselectplus": "glamour",
     "snappy": "glamour",
     "loci": "glamour",
-    "sundouleia": "glamour"
+    "sundouleia": "glamour",
+
+    "gagplugin": "nsfw",
+    "cammy": "qol",
+    "noclippy": "combat",
+    "logchampplugin": "qol",
+    "wolua": "dev",
+    "xivesp": "combat",
+    "seeboss": "combat",
+    "portraitstealer": "glamour",
+    "oopsallrace": "glamour",
+    "notespal": "qol",
+    "startupcommands": "qol",
+    "dozeanywhere": "qol",
+    "msqgauge": "qol",
+    "betterfatelist": "qol",
+    "blackjackadvisor": "qol",
+    "magitekclicker": "qol",
+    "ultrawidecutscenesreborn": "qol",
+    "peepingtoms": "qol",
+    "usednamereborn": "social",
+    "partyplannerreborn": "social",
+    "xivmediaplayer": "audio"
   },
   "blocklist": []
 }

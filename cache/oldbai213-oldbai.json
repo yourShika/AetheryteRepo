@@ -1,0 +1,148 @@
+{
+  "sourceId": "oldbai213-oldbai",
+  "url": "https://raw.githubusercontent.com/OLDBAI213/OLDBAI/Main-Branch/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 5,
+  "plugins": [
+    {
+      "Author": "Ice, QiongHHHZZZ(汉化&适配), Codex(协助维护)",
+      "Name": "宇宙探索助手",
+      "InternalName": "ICE",
+      "AssemblyVersion": "0.0.78.7000",
+      "Description": "宇宙探索相关制作、采集、任务路线和模式辅助。",
+      "Punchline": "宇宙探索自动化与任务辅助。",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/OLDBAI213/OLDBAI",
+      "IconUrl": "https://raw.githubusercontent.com/QiongHHHZZZ/DalamudPlugins/main/icons/ice.png",
+      "DownloadLinkInstall": "https://github.com/OLDBAI213/OLDBAI/releases/download/v0.0.78.7000/ICE.zip",
+      "DownloadLinkUpdate": "https://github.com/OLDBAI213/OLDBAI/releases/download/v0.0.78.7000/ICE.zip",
+      "DalamudApiLevel": 15,
+      "Tags": [
+        "Gathering",
+        "Crafting",
+        "Cosmic Exploration"
+      ],
+      "CategoryTags": [
+        "Jobs",
+        "Utility"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "oldbai213-oldbai",
+      "_SourceName": "OLDBAI213 / OLDBAI",
+      "_SourceUrl": "https://raw.githubusercontent.com/OLDBAI213/OLDBAI/Main-Branch/pluginmaster.json"
+    },
+    {
+      "Author": "Taurenkey (Puni.sh), Codex(中文整理)",
+      "Name": "生产制作助手",
+      "InternalName": "Artisan",
+      "AssemblyVersion": "4.0.5.15",
+      "Description": "生产制作、制作队列、模拟、宏和自动制作辅助。适合作为制作信息、缺料判断和制作诊断来源。",
+      "Punchline": "一体化生产制作插件。",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/PunishXIV/Artisan",
+      "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
+      "DownloadLinkInstall": "https://github.com/OLDBAI213/OLDBAI/releases/download/v0.0.78.7000/Artisan.zip",
+      "DownloadLinkUpdate": "https://github.com/OLDBAI213/OLDBAI/releases/download/v0.0.78.7000/Artisan.zip",
+      "DalamudApiLevel": 15,
+      "Tags": [
+        "Crafting",
+        "Production"
+      ],
+      "CategoryTags": [
+        "Jobs",
+        "Utility"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "oldbai213-oldbai",
+      "_SourceName": "OLDBAI213 / OLDBAI",
+      "_SourceUrl": "https://raw.githubusercontent.com/OLDBAI213/OLDBAI/Main-Branch/pluginmaster.json"
+    },
+    {
+      "Author": "Det, Codex(中文整理)",
+      "Name": "自动钓鱼",
+      "InternalName": "AutoHook",
+      "AssemblyVersion": "6.0.0.46",
+      "Description": "根据钓鱼条件自动抬杆，可配合采集资料库和宇宙探索使用。已保留插件内置中文资源。",
+      "Punchline": "自动抬杆与钓鱼流程辅助。",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+      "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png",
+      "DownloadLinkInstall": "https://github.com/OLDBAI213/OLDBAI/releases/download/v0.0.78.7000/AutoHook.zip",
+      "DownloadLinkUpdate": "https://github.com/OLDBAI213/OLDBAI/releases/download/v0.0.78.7000/AutoHook.zip",
+      "MinimumDalamudVersion": "14.0.0.0",
+      "DalamudApiLevel": 15,
+      "Tags": [
+        "Gathering",
+        "Fishing"
+      ],
+      "CategoryTags": [
+        "Jobs",
+        "Utility"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "oldbai213-oldbai",
+      "_SourceName": "OLDBAI213 / OLDBAI",
+      "_SourceUrl": "https://raw.githubusercontent.com/OLDBAI213/OLDBAI/Main-Branch/pluginmaster.json"
+    },
+    {
+      "Author": "The Combat Reborn Team, Codex(中文整理)",
+      "Name": "采集与钓鱼资料库",
+      "InternalName": "GatherBuddyReborn",
+      "AssemblyVersion": "7.5.0.2",
+      "Description": "提供采集点、鱼类、天气、闹钟、路线和资料查询能力，适合作为采集/钓鱼信息来源。",
+      "Punchline": "采集、钓鱼、时限点和路线资料。",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
+      "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
+      "DownloadLinkInstall": "https://github.com/OLDBAI213/OLDBAI/releases/download/v0.0.78.7000/GatherBuddyReborn.zip",
+      "DownloadLinkUpdate": "https://github.com/OLDBAI213/OLDBAI/releases/download/v0.0.78.7000/GatherBuddyReborn.zip",
+      "DalamudApiLevel": 15,
+      "Tags": [
+        "Gathering",
+        "Fishing",
+        "Mining",
+        "Botany",
+        "Weather",
+        "Alarms"
+      ],
+      "CategoryTags": [
+        "Jobs",
+        "Utility"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "oldbai213-oldbai",
+      "_SourceName": "OLDBAI213 / OLDBAI",
+      "_SourceUrl": "https://raw.githubusercontent.com/OLDBAI213/OLDBAI/Main-Branch/pluginmaster.json"
+    },
+    {
+      "Author": "veyn, AtmoOmen, Codex(中文整理)",
+      "Name": "导航寻路基础",
+      "InternalName": "vnavmesh",
+      "AssemblyVersion": "0.6.5.0",
+      "Description": "提供导航网格、路径计算和移动基础能力，供采集、任务和后续行动类工具调用。",
+      "Punchline": "本地导航网格与自动寻路基础。",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
+      "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/CN/Resources/icon2.png",
+      "DownloadLinkInstall": "https://github.com/OLDBAI213/OLDBAI/releases/download/v0.0.78.7000/vnavmesh.zip",
+      "DownloadLinkUpdate": "https://github.com/OLDBAI213/OLDBAI/releases/download/v0.0.78.7000/vnavmesh.zip",
+      "DalamudApiLevel": 15,
+      "Tags": [
+        "Navigation",
+        "Utility"
+      ],
+      "CategoryTags": [
+        "Utility"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "oldbai213-oldbai",
+      "_SourceName": "OLDBAI213 / OLDBAI",
+      "_SourceUrl": "https://raw.githubusercontent.com/OLDBAI213/OLDBAI/Main-Branch/pluginmaster.json"
+    }
+  ]
+}

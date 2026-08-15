@@ -1,0 +1,61 @@
+{
+  "sourceId": "aida-enna-pluginrepo",
+  "url": "https://raw.githubusercontent.com/Aida-Enna/PluginRepo/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 2,
+  "plugins": [
+    {
+      "Author": "NightmareXIV",
+      "Name": "AntiAfkKick",
+      "Punchline": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
+      "Description": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
+      "Changelog": "- 7.4",
+      "IsHide": false,
+      "InternalName": "AntiAfkKick-Dalamud",
+      "AssemblyVersion": "2.1.0.10",
+      "IsTestingExclusive": false,
+      "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 14,
+      "DownloadCount": 226847,
+      "LastUpdate": 1766038603,
+      "DownloadLinkInstall": "https://github.com/NightmareXIV/AntiAfkKick/releases/download/2.1.0.10/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/NightmareXIV/AntiAfkKick/releases/download/2.1.0.10/latest.zip",
+      "SupportsProfiles": true,
+      "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/AntiAfkKick/master/AntiAfkKick-Dalamud/images/icon.png",
+      "_SourceId": "aida-enna-pluginrepo",
+      "_SourceName": "Aida-Enna / PluginRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/Aida-Enna/PluginRepo/main/pluginmaster.json"
+    },
+    {
+      "Author": "UnknownX",
+      "Name": "NoClippy",
+      "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+      "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
+      "Changelog": "Fixed for 7.4 (Thanks to Zeffuro)",
+      "InternalName": "NoClippy",
+      "AssemblyVersion": "0.5.0.20",
+      "RepoUrl": "https://github.com/UnknownX7/NoClippy",
+      "ApplicableVersion": "any",
+      "CategoryTags": [
+        "jobs",
+        "utility"
+      ],
+      "DalamudApiLevel": 14,
+      "IconUrl": "",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.20/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.20/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.20/latest.zip",
+      "DownloadCount": 31973,
+      "LastUpdate": "1766199482",
+      "_SourceId": "aida-enna-pluginrepo",
+      "_SourceName": "Aida-Enna / PluginRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/Aida-Enna/PluginRepo/main/pluginmaster.json"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "sourceId": "datamachine-ffxiv-plugins",
+  "url": "https://raw.githubusercontent.com/datamachine/ffxiv-plugins/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 2,
+  "plugins": [
+    {
+      "Author": "Surye",
+      "Name": "FFXIV Telegram",
+      "InternalName": "FFXIVTelegram",
+      "AssemblyVersion": "0.1.6",
+      "Description": "Bridges FFXIV chat and Telegram.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/datamachine/ffxiv-telegram",
+      "Tags": [
+        "chat",
+        "telegram",
+        "bridge"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "Punchline": "Bridging Eorzea and Telegram.",
+      "AcceptsFeedback": true,
+      "DownloadLinkInstall": "https://github.com/datamachine/ffxiv-telegram/releases/download/v0.1.6/FFXIVTelegram-0.1.6.zip",
+      "DownloadLinkUpdate": "https://github.com/datamachine/ffxiv-telegram/releases/download/v0.1.6/FFXIVTelegram-0.1.6.zip",
+      "DownloadLinkTesting": "https://github.com/datamachine/ffxiv-telegram/releases/download/v0.1.6/FFXIVTelegram-0.1.6.zip",
+      "LastUpdate": 1781586827,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "datamachine-ffxiv-plugins",
+      "_SourceName": "datamachine / ffxiv-plugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/datamachine/ffxiv-plugins/main/pluginmaster.json"
+    },
+    {
+      "Author": "ffxiv-todo",
+      "Name": "FFXIV Todo",
+      "InternalName": "FfxivTodo",
+      "AssemblyVersion": "1.0.1",
+      "Description": "Track unlocking and completion of all non-MSQ content across every expansion. Auto-detects progress from journal and achievements.",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "quests",
+        "tracking",
+        "completion",
+        "todo"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "Punchline": "Track non-MSQ content completion",
+      "AcceptsFeedback": true,
+      "DownloadLinkInstall": "https://github.com/datamachine/ffxiv-todo/releases/download/v1.0.1/FfxivTodo-1.0.1.zip",
+      "DownloadLinkUpdate": "https://github.com/datamachine/ffxiv-todo/releases/download/v1.0.1/FfxivTodo-1.0.1.zip",
+      "DownloadLinkTesting": "https://github.com/datamachine/ffxiv-todo/releases/download/v1.0.1/FfxivTodo-1.0.1.zip",
+      "LastUpdate": 1781587392,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "datamachine-ffxiv-plugins",
+      "_SourceName": "datamachine / ffxiv-plugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/datamachine/ffxiv-plugins/main/pluginmaster.json"
+    }
+  ]
+}

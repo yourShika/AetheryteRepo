@@ -1,0 +1,89 @@
+{
+  "sourceId": "altaint-mydalamudplugins",
+  "url": "https://raw.githubusercontent.com/altaint/MyDalamudPlugins/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 3,
+  "plugins": [
+    {
+      "Author": "altan",
+      "Name": "Threshold Checker",
+      "Punchline": "Checks boss health against time thresholds.",
+      "Description": "Helps track health targets based on time goals. Useful for when you need to check if you're ahead of a known enrage time or a set kill time.",
+      "InternalName": "ThresholdChecker",
+      "AssemblyVersion": "0.0.3.2",
+      "RepoUrl": "https://github.com/altaint/ThresholdChecker",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "damage",
+        "raiding",
+        "enrage"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/altaint/ThresholdChecker/main/Media/placeholder.png",
+      "DownloadLinkInstall": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/ThresholdChecker/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/ThresholdChecker/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/ThresholdChecker/latest.zip",
+      "DownloadCount": 0,
+      "LastUpdate": "1784237696",
+      "_SourceId": "altaint-mydalamudplugins",
+      "_SourceName": "altaint / MyDalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/altaint/MyDalamudPlugins/main/pluginmaster.json"
+    },
+    {
+      "Author": "altan",
+      "Name": "Triple Triad Tracker",
+      "Punchline": "Tracks your Triple Triad Cards.",
+      "Description": "Tracks your Triple Triad collection with filters to show what you have uncollected and where you can find each card.",
+      "InternalName": "TripleTriadTracker",
+      "AssemblyVersion": "0.0.0.2",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "triple triad",
+        "plugin",
+        "collection"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadPriority": 0,
+      "DownloadLinkInstall": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/TripleTriadTracker/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/TripleTriadTracker/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/TripleTriadTracker/latest.zip",
+      "DownloadCount": 0,
+      "LastUpdate": "1784237696",
+      "_SourceId": "altaint-mydalamudplugins",
+      "_SourceName": "altaint / MyDalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/altaint/MyDalamudPlugins/main/pluginmaster.json"
+    },
+    {
+      "Author": "altan",
+      "Name": "P4 Helper",
+      "Punchline": "A toggleable helper to track real/fake debuffs for the monkes.",
+      "Description": "A toggleable helper to track real/fake debuffs for the monkes.",
+      "InternalName": "P4Helper",
+      "AssemblyVersion": "0.0.0.3",
+      "RepoUrl": "https://github.com/altaint/P4Helper",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "raid helper",
+        "plugin"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/altaint/P4Helper/main/Data/placeholder.png",
+      "DownloadLinkInstall": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/P4Helper/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/P4Helper/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/P4Helper/latest.zip",
+      "DownloadCount": 0,
+      "LastUpdate": "1784237696",
+      "_SourceId": "altaint-mydalamudplugins",
+      "_SourceName": "altaint / MyDalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/altaint/MyDalamudPlugins/main/pluginmaster.json"
+    }
+  ]
+}

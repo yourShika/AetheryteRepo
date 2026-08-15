@@ -1,0 +1,50 @@
+{
+  "sourceId": "fuzzycore-ffxivrepo",
+  "url": "https://raw.githubusercontent.com/fuzzycore/ffxivrepo/main/pluginmaster.json",
+  "fetchedAt": "2026-08-15",
+  "count": 2,
+  "plugins": [
+    {
+      "Author": "FuzzyCore",
+      "Name": "EorzeaLink",
+      "Description": "Import EorzeaCollection glams and apply via Glamourer.",
+      "InternalName": "EorzeaLink",
+      "AssemblyVersion": "0.1.7.0",
+      "RepoUrl": "https://github.com/FuzzyCore/EorzeaLink",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Punchline": "Paste EC URL → preview → apply.",
+      "IconUrl": "https://raw.githubusercontent.com/fuzzycore/EorzeaLink/master/EorzeaLink/icon.png",
+      "ImageUrls": [],
+      "DownloadLinkInstall": "https://github.com/fuzzycore/EorzeaLink/releases/download/v0.1.7/EorzeaLink.zip",
+      "DownloadLinkUpdate": "https://github.com/fuzzycore/EorzeaLink/releases/download/v0.1.7/EorzeaLink.zip",
+      "LastUpdate": "1779680436",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "fuzzycore-ffxivrepo",
+      "_SourceName": "fuzzycore / ffxivrepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/fuzzycore/ffxivrepo/main/pluginmaster.json"
+    },
+    {
+      "Author": "fuzzycore",
+      "Name": "GODLIKE",
+      "Description": "Pops escalating arena-announcer callouts (KILL, DOUBLE KILL, MONSTER KILL ... all the way to absurd 30+ tiers) with baked-in voice lines as your PvP kill streak climbs. Also includes a big-hit damage flyout: when your hardest-hitting abilities (MNK Earth's Reply, big AOEs, ...) connect, the real damage dealt pops up on screen.",
+      "InternalName": "Godlike",
+      "AssemblyVersion": "0.0.16.0",
+      "RepoUrl": "https://github.com/fuzzycore/Godlike",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Punchline": "An unhinged PvP killstreak announcer.",
+      "IconUrl": "https://raw.githubusercontent.com/fuzzycore/Godlike/main/images/icon.png",
+      "ImageUrls": [],
+      "DownloadLinkInstall": "https://github.com/fuzzycore/ffxivrepo/releases/download/godlike-v0.0.16/Godlike.zip",
+      "DownloadLinkUpdate": "https://github.com/fuzzycore/ffxivrepo/releases/download/godlike-v0.0.16/Godlike.zip",
+      "LastUpdate": "1784000930",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "fuzzycore-ffxivrepo",
+      "_SourceName": "fuzzycore / ffxivrepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/fuzzycore/ffxivrepo/main/pluginmaster.json"
+    }
+  ]
+}
