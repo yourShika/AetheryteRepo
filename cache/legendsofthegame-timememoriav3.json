@@ -1,14 +1,14 @@
 {
   "sourceId": "legendsofthegame-timememoriav3",
   "url": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-08-16",
   "count": 1,
   "plugins": [
     {
       "Author": "Legends of the Game",
       "Name": "Time Memoria",
       "InternalName": "TimeMemoriaV3",
-      "AssemblyVersion": "3.1.0.15",
+      "AssemblyVersion": "3.1.1.15",
       "Description": "Quest progression and pacing — a reflective notebook for your story journey, not a scoreboard.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/LegendsOfTheGame/TimeMemoriaV3",
@@ -36,7 +36,7 @@
       "DownloadLinkTesting": "https://github.com/LegendsOfTheGame/TimeMemoriaV3/releases/latest/download/latest.zip",
       "IconUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/assets/icon.png",
       "DownloadCount": 0,
-      "Changelog": "Tracks allied society standing - rank, points and what the next rank needs - read from the game rather than entered by hand. Adds /tm ledger to copy your progress straight to the clipboard.",
+      "Changelog": "Fixes the oldest unfinished quest, which followed journal order and could offer a level 50 patch quest ahead of a level 1 one from launch. It now goes by patch, then by level. Societies at their final rank read as maxed rather than looking unfinished, and the clipboard export carries your completed class and job quests, your collectable counts, and your duty completions. The three counts are read from achievements, so each is sent with the time it was taken.",
       "_SourceId": "legendsofthegame-timememoriav3",
       "_SourceName": "LegendsOfTheGame / TimeMemoriaV3",
       "_SourceUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json"
