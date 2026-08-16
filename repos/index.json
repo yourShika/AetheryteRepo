@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T09:42:12.553Z",
-  "contentHash": "cad00955fc2317f9",
+  "generatedAt": "2026-08-16T13:00:29.893Z",
+  "contentHash": "a4d9a5b7a49ee55a",
   "totalPlugins": 569,
   "masterPlugins": 563,
   "currentApiLevel": 15,
@@ -3625,11 +3625,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "YesAlready",
@@ -3646,11 +3646,11 @@
       "droppedVersion": "6.0.0.91"
     },
     {
-      "internalName": "PalacePal",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "AutoRetainer",
@@ -3670,8 +3670,8 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.306.1.60",
-      "droppedVersion": "15.306.1.60"
+      "keptVersion": "15.306.2.0",
+      "droppedVersion": "15.306.2.0"
     },
     {
       "internalName": "Splatoon",
@@ -4797,7 +4797,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.306.1.60",
+      "keptVersion": "15.306.2.0",
       "droppedVersion": "15.306.1.59"
     },
     {
@@ -5665,7 +5665,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.306.1.60",
+      "keptVersion": "15.306.2.0",
       "droppedVersion": "4.13"
     },
     {
@@ -6694,7 +6694,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.306.1.60",
+      "keptVersion": "15.306.2.0",
       "droppedVersion": "5.31"
     },
     {
@@ -6792,7 +6792,7 @@
       "internalName": "ChocoboRacingGamba",
       "kept": "OOF Games",
       "dropped": "OOFGamesss / OOFGamesPlugins",
-      "keptVersion": "1.0.4.0",
+      "keptVersion": "1.0.4.1",
       "droppedVersion": "1.0.0.0"
     },
     {
@@ -6960,7 +6960,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.306.1.60",
+      "keptVersion": "15.306.2.0",
       "droppedVersion": "7.5.11"
     },
     {
