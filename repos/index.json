@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T18:46:52.796Z",
-  "contentHash": "ed33bb0bd29345db",
+  "generatedAt": "2026-08-16T21:34:21.789Z",
+  "contentHash": "c4f63e130ee46c9e",
   "totalPlugins": 569,
   "masterPlugins": 563,
   "currentApiLevel": 15,
@@ -2705,7 +2705,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "1.0.4.20",
-      "droppedVersion": "1.0.4.19"
+      "droppedVersion": "1.0.4.20"
     },
     {
       "internalName": "YesAlready",
@@ -3625,6 +3625,13 @@
       "droppedVersion": "1.6.4.4"
     },
     {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
+    },
+    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3639,25 +3646,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
-    },
-    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.3.0",
       "droppedVersion": "1.15.3.0"
-    },
-    {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "AutoRetainer",
@@ -3667,11 +3660,11 @@
       "droppedVersion": "4.6.1.27"
     },
     {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.21",
-      "droppedVersion": "3.9.2.21"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Questionable",
@@ -3679,6 +3672,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "15.306.2.0",
       "droppedVersion": "15.306.2.0"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.21",
+      "droppedVersion": "3.9.2.21"
     },
     {
       "internalName": "WrathCombo",
@@ -6181,9 +6181,9 @@
     },
     {
       "internalName": "XivVoices",
-      "kept": "bees-repo",
-      "dropped": "XivVoices",
-      "keptVersion": "1.5.3.4",
+      "kept": "XivVoices",
+      "dropped": "bees-repo",
+      "keptVersion": "1.5.3.5",
       "droppedVersion": "1.5.3.4"
     },
     {
