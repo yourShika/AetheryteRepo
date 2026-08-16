@@ -1,7 +1,7 @@
 {
   "sourceId": "zhouhuichen741-dalamud-plugins",
   "url": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-08-16",
   "count": 20,
   "plugins": [
     {
@@ -10,7 +10,7 @@
       "Punchline": "一系列生活质量调整（在线安装 Only）",
       "Description": "继续调整",
       "InternalName": "HaselTweaks",
-      "AssemblyVersion": "49.4.1.0",
+      "AssemblyVersion": "49.4.2.0",
       "RepoUrl": "https://github.com/zhouhuichen741/HaselTweaks",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
@@ -426,7 +426,7 @@
       "Author": "SheepGoMeh",
       "Name": "Visibility Ex",
       "InternalName": "VisibilityEx",
-      "AssemblyVersion": "1.1.29.0",
+      "AssemblyVersion": "1.1.31.0",
       "Description": "可隐藏玩家、召唤兽、陆行鸟及宠物，支持副本中隐藏。包含更完善的黑名单系统。通过 /pvis 打开设置，使用 /xlhelp 查看更多帮助。",
       "Punchline": "可隐藏玩家、召唤兽、陆行鸟及宠物，支持副本中隐藏。",
       "AcceptsFeedback": false,

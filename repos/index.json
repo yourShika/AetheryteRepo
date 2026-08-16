@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T01:56:49.259Z",
-  "contentHash": "446ba29c26d07c24",
+  "generatedAt": "2026-08-16T03:58:51.511Z",
+  "contentHash": "9f0b49b024d50eb9",
   "totalPlugins": 569,
   "masterPlugins": 563,
   "currentApiLevel": 15,
@@ -2565,7 +2565,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
       "keptVersion": "7.5.5.7",
-      "droppedVersion": "7.5.1.38"
+      "droppedVersion": "7.5.5.7"
     },
     {
       "internalName": "Brio",
@@ -3367,9 +3367,9 @@
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "bees-repo",
-      "dropped": "Haselnussbomber",
-      "keptVersion": "49.4.1.0",
+      "kept": "Haselnussbomber",
+      "dropped": "bees-repo",
+      "keptVersion": "49.4.2.0",
       "droppedVersion": "49.4.1.0"
     },
     {
@@ -3632,11 +3632,11 @@
       "droppedVersion": "6.0.0.91"
     },
     {
-      "internalName": "PalacePal",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "LazyLoot",
@@ -3646,18 +3646,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
-    },
-    {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "AutoRetainer",
@@ -3667,11 +3660,11 @@
       "droppedVersion": "4.6.1.27"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.306.1.59",
-      "droppedVersion": "15.306.1.59"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Splatoon",
@@ -3679,6 +3672,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.21",
       "droppedVersion": "3.9.2.21"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.1.59",
+      "droppedVersion": "15.306.1.59"
     },
     {
       "internalName": "WrathCombo",
@@ -3920,10 +3920,10 @@
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "bees-repo",
+      "kept": "Haselnussbomber",
       "dropped": "MEGA Repository",
-      "keptVersion": "49.4.1.0",
-      "droppedVersion": "49.4.1.0"
+      "keptVersion": "49.4.2.0",
+      "droppedVersion": "49.4.2.0"
     },
     {
       "internalName": "LeveHelper",
@@ -6188,10 +6188,10 @@
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "bees-repo",
+      "kept": "Haselnussbomber",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "49.4.1.0",
-      "droppedVersion": "49.4.1.0"
+      "keptVersion": "49.4.2.0",
+      "droppedVersion": "49.4.2.0"
     },
     {
       "internalName": "PandorasBox",
@@ -6524,10 +6524,10 @@
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "bees-repo",
+      "kept": "Haselnussbomber",
       "dropped": "Haselnussbomber / DalamudPlugins",
-      "keptVersion": "49.4.1.0",
-      "droppedVersion": "49.4.1.0"
+      "keptVersion": "49.4.2.0",
+      "droppedVersion": "49.4.2.0"
     },
     {
       "internalName": "LeveHelper",
@@ -6986,10 +6986,10 @@
     },
     {
       "internalName": "MasterOfPuppets",
-      "kept": "zunetrix / DalamudPlugins",
-      "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
+      "kept": "pffxivtools / ffxiv-bard-plugins-linux",
+      "dropped": "zunetrix / DalamudPlugins",
       "keptVersion": "1.15.0.225",
-      "droppedVersion": "1.15.0.224"
+      "droppedVersion": "1.15.0.225"
     }
   ]
 }

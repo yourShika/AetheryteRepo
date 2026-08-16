@@ -1,7 +1,7 @@
 {
   "sourceId": "echoxiv-com-pluginmaster-json",
   "url": "https://echoxiv.com/pluginmaster.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-08-16",
   "count": 5,
   "plugins": [
     {
@@ -106,11 +106,11 @@
       "Author": "jFray",
       "Name": "EchoGlam",
       "InternalName": "EchoGlam.Plugin",
-      "AssemblyVersion": "1.0.0.8",
+      "AssemblyVersion": "1.0.1.0",
       "Description": "Dress your character in any item in the game from a searchable in-game wardrobe, dye every slot, edit full appearance and save named outfits. Then publish the look to a community catalogue you can browse, filter, vote on and favourite without leaving the game - and put anyone else's glamour on with one click, with a revert that is always one click away. No other plugins required.",
       "Punchline": "Build a glamour, share it, and wear anyone else's.",
-      "LastUpdate": 1786814735,
-      "Changelog": "Redesigned the Gallery. The sorts are one switch, the search box has a search field, and Publish Outfit sits beside them.\nCards lift as you point at them, and anything published in the last three days is marked New.\nChanging a filter no longer moves the rest of the page around.\nRedesigned the publish page. It uses two columns where there is room, and tags you haven't picked no longer look picked.\nThe title and author on a glamour page now sit level with the profile picture instead of riding up against the top of the panel.",
+      "LastUpdate": 1786851696,
+      "Changelog": "Editing a glamour now shows the screenshots it already has. Remove one, add another, and the rest stay exactly as they were.\nThe screenshots on the publish page now fit their panel instead of pushing the rest of the page off the window.\nA long description no longer runs out of the box when you open a glamour to edit it.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://echoxiv.com",
       "Tags": [
