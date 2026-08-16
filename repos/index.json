@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T03:58:51.511Z",
-  "contentHash": "9f0b49b024d50eb9",
+  "generatedAt": "2026-08-16T06:58:29.265Z",
+  "contentHash": "9882de580d7fc6ac",
   "totalPlugins": 569,
   "masterPlugins": 563,
   "currentApiLevel": 15,
@@ -2459,7 +2459,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "44451516-ff14 / BossmodRebornCN",
-      "keptVersion": "7.5.5.44",
+      "keptVersion": "7.5.5.45",
       "droppedVersion": "7.5.0.40"
     },
     {
@@ -3611,6 +3611,13 @@
       "droppedVersion": "1.0.1.10"
     },
     {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
+    },
+    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3618,11 +3625,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "PandorasBox",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "AutoHook",
@@ -3637,13 +3644,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.3.0",
       "droppedVersion": "1.15.3.0"
-    },
-    {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "PalacePal",
@@ -3667,18 +3667,18 @@
       "droppedVersion": "0.2.4.2"
     },
     {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.1.60",
+      "droppedVersion": "15.306.1.59"
+    },
+    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.21",
       "droppedVersion": "3.9.2.21"
-    },
-    {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.306.1.59",
-      "droppedVersion": "15.306.1.59"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "1.0.4.19"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.1.17",
-      "droppedVersion": "2.1.1.17"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.18",
       "droppedVersion": "4.0.5.18"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.1.17",
+      "droppedVersion": "2.1.1.17"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3992,8 +3992,8 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.5.44",
-      "droppedVersion": "7.5.5.44"
+      "keptVersion": "7.5.5.45",
+      "droppedVersion": "7.5.5.45"
     },
     {
       "internalName": "ActionTimelineReborn",
@@ -4517,7 +4517,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.5.44",
+      "keptVersion": "7.5.5.45",
       "droppedVersion": "7.5.5.44"
     },
     {
@@ -4797,7 +4797,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.306.1.59",
+      "keptVersion": "15.306.1.60",
       "droppedVersion": "15.306.1.59"
     },
     {
@@ -5133,21 +5133,21 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.5.44",
+      "keptVersion": "7.5.5.45",
       "droppedVersion": "7.5.5.44"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.5.44",
+      "keptVersion": "7.5.5.45",
       "droppedVersion": "7.3.5.27"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.5.44",
+      "keptVersion": "7.5.5.45",
       "droppedVersion": "7.4.5.18"
     },
     {
@@ -5399,7 +5399,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.5.44",
+      "keptVersion": "7.5.5.45",
       "droppedVersion": "7.2.0.261"
     },
     {
@@ -5665,7 +5665,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.306.1.59",
+      "keptVersion": "15.306.1.60",
       "droppedVersion": "4.13"
     },
     {
@@ -6463,7 +6463,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "dal4kr / Dalamud.Resources",
-      "keptVersion": "7.5.5.44",
+      "keptVersion": "7.5.5.45",
       "droppedVersion": "7.4.5.14"
     },
     {
@@ -6491,7 +6491,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.5.44",
+      "keptVersion": "7.5.5.45",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -6673,7 +6673,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "7.5.5.44",
+      "keptVersion": "7.5.5.45",
       "droppedVersion": "0.0.0.9"
     },
     {
@@ -6694,7 +6694,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.306.1.59",
+      "keptVersion": "15.306.1.60",
       "droppedVersion": "5.31"
     },
     {
@@ -6729,7 +6729,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "7.5.5.44",
+      "keptVersion": "7.5.5.45",
       "droppedVersion": "7.5.1.23"
     },
     {
@@ -6960,7 +6960,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.306.1.59",
+      "keptVersion": "15.306.1.60",
       "droppedVersion": "7.5.11"
     },
     {
