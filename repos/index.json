@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T01:54:53.021Z",
-  "contentHash": "cc9170811c52e25c",
+  "generatedAt": "2026-08-17T04:01:58.042Z",
+  "contentHash": "82a44c791e90232f",
   "totalPlugins": 569,
   "masterPlugins": 563,
   "currentApiLevel": 15,
@@ -3625,13 +3625,6 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.91",
-      "droppedVersion": "6.0.0.91"
-    },
-    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3639,11 +3632,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
+      "keptVersion": "6.0.0.91",
+      "droppedVersion": "6.0.0.91"
     },
     {
       "internalName": "PalacePal",
@@ -3653,11 +3646,11 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "AutoRetainer",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.27",
-      "droppedVersion": "4.6.1.27"
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "Marketbuddy",
@@ -3665,6 +3658,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.1.27",
+      "droppedVersion": "4.6.1.27"
     },
     {
       "internalName": "Splatoon",
@@ -6181,10 +6181,10 @@
     },
     {
       "internalName": "XivVoices",
-      "kept": "XivVoices",
-      "dropped": "bees-repo",
+      "kept": "bees-repo",
+      "dropped": "XivVoices",
       "keptVersion": "1.5.3.5",
-      "droppedVersion": "1.5.3.4"
+      "droppedVersion": "1.5.3.5"
     },
     {
       "internalName": "HaselTweaks",
