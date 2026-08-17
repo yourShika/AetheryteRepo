@@ -1,7 +1,7 @@
 {
   "sourceId": "ohkannaduh",
   "url": "https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-08-17",
   "count": 1,
   "plugins": [
     {
@@ -26,14 +26,14 @@
         "OCH"
       ],
       "DalamudApiLevel": 15,
-      "AssemblyVersion": "4.0.2.27",
+      "AssemblyVersion": "4.0.2.28",
       "DownloadLinkInstall": "https://github.com/OhKannaDuh/BOCCHI/releases/latest/download/latest.zip",
       "DownloadLinkUpdate": "https://github.com/OhKannaDuh/BOCCHI/releases/latest/download/latest.zip",
       "TestingDalamudApiLevel": 15,
       "TestingAssemblyVersion": "4.0.2.9",
       "DownloadLinkTesting": "https://github.com/OhKannaDuh/BOCCHI/releases/download/4.0.2.9/latest.zip",
-      "DownloadCount": 143566,
-      "LastUpdated": 1786558858115,
+      "DownloadCount": 150777,
+      "LastUpdated": 1786997378663,
       "TestingLastUpdated": 1785958208000,
       "IsHide": false,
       "IsTestingExclusive": false,
