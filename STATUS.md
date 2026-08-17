@@ -1,6 +1,6 @@
 # Status
 
-Zuletzt aktualisiert: **2026-08-16 21:34 UTC**
+Zuletzt aktualisiert: **2026-08-17 01:54 UTC**
 
 - Plugins im Master-Feed: **563**
 - Plugins insgesamt (inkl. 18+): **569**
@@ -497,17 +497,17 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.12` | MEGA Repository `2.2.0.12` |
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
-| `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
 | `AutoHook` | Puni.sh (Ment) `6.0.0.91` | MEGA Repository `6.0.0.91` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
 | `YesAlready` | Puni.sh (Ment) `1.15.3.0` | MEGA Repository `1.15.3.0` |
+| `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | MEGA Repository `4.6.1.27` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
-| `Questionable` | Puni.sh (Ment) `15.306.2.0` | MEGA Repository `15.306.2.0` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.21` | MEGA Repository `3.9.2.21` |
+| `Questionable` | Puni.sh (Ment) `15.306.2.0` | MEGA Repository `15.306.2.0` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.20` | MEGA Repository `1.0.4.20` |
-| `Saucy` | Puni.sh (Ment) `2.1.1.17` | MEGA Repository `2.1.1.17` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.18` | MEGA Repository `4.0.5.18` |
+| `Saucy` | Puni.sh (Ment) `2.1.1.17` | MEGA Repository `2.1.1.17` |
 | `XIVComboExpanded` | daemitus MyDalamudPlugins `2.0.6.2` | MEGA Repository `2.0.6.2` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | MEGA Repository `1.3.1.4` |
 | `AutoPillion` | Aida-Enna XIVPlugins `1.0.0.5` | MEGA Repository `1.0.0.5` |
@@ -624,7 +624,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Battlevest` | NightmareXIV `1.0.2.3` | NexusFFXIV DalamudRepo `1.0.2.3` |
 | `BDTHPlugin` | bees-repo `1.7.4.1` | NexusFFXIV DalamudRepo `1.7.4.1` |
 | `BossMod` | Veyn (BossMod) `7.5.5.7` | NexusFFXIV DalamudRepo `7.5.5.7` |
-| `BossModReborn` | CombatReborn `7.5.5.48` | NexusFFXIV DalamudRepo `7.5.5.44` |
+| `BossModReborn` | CombatReborn `7.5.5.48` | NexusFFXIV DalamudRepo `7.5.5.48` |
 | `Brio` | Sea of Stars `0.8.0.11` | NexusFFXIV DalamudRepo `0.8.0.11` |
 | `ChatDeathRoll` | anya-hichu/DalamudPluginRepo `0.0.6.0` | NexusFFXIV DalamudRepo `0.0.6.0` |
 | `ChilledLeves` | ICE (Island Sanctuary) `1.0.1.24` | NexusFFXIV DalamudRepo `1.0.1.24` |
@@ -664,12 +664,12 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Prioritizer` | NightmareXIV `2.0.1.4` | NexusFFXIV DalamudRepo `2.0.1.4` |
 | `ProximityVoiceChat` | Proximity Voice Chat `0.5.16.0` | NexusFFXIV DalamudRepo `0.5.16.0` |
 | `Quack` | anya-hichu/DalamudPluginRepo `0.1.5.0` | NexusFFXIV DalamudRepo `0.1.5.0` |
-| `Questionable` | Puni.sh (Ment) `15.306.2.0` | NexusFFXIV DalamudRepo `15.306.1.59` |
+| `Questionable` | Puni.sh (Ment) `15.306.2.0` | NexusFFXIV DalamudRepo `15.306.2.0` |
 | `RaidsRewritten` | Proximity Voice Chat `1.2.2.0` | NexusFFXIV DalamudRepo `1.2.2.0` |
 | `RebornToolbox` | CombatReborn `7.5.0.0` | NexusFFXIV DalamudRepo `7.5.0.0` |
 | `RecruitmentRefresher` | anya-hichu/DalamudPluginRepo `0.0.5.0` | NexusFFXIV DalamudRepo `0.0.5.0` |
 | `Reggiex` | anya-hichu/DalamudPluginRepo `0.0.3.0` | NexusFFXIV DalamudRepo `0.0.3.0` |
-| `RotationSolver` | CombatReborn `7.5.5.32` | NexusFFXIV DalamudRepo `7.5.5.31` |
+| `RotationSolver` | CombatReborn `7.5.5.32` | NexusFFXIV DalamudRepo `7.5.5.32` |
 | `Saucy` | Puni.sh (Ment) `2.1.1.17` | NexusFFXIV DalamudRepo `2.1.1.17` |
 | `SelectString` | NightmareXIV `1.0.1.12` | NexusFFXIV DalamudRepo `1.0.1.12` |
 | `SimpleHeels` | Sea of Stars `0.11.1.8` | NexusFFXIV DalamudRepo `0.11.1.8` |
@@ -687,7 +687,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `vnavmesh` | Veyn (BossMod) `1.2.3.13` | NexusFFXIV DalamudRepo `1.2.3.13` |
 | `vsatisfy` | Veyn (BossMod) `0.0.0.37` | NexusFFXIV DalamudRepo `0.0.0.37` |
 | `WExtras` | NightmareXIV `1.0.0.10` | NexusFFXIV DalamudRepo `1.0.0.10` |
-| `WrathCombo` | Puni.sh (Ment) `1.0.4.20` | NexusFFXIV DalamudRepo `1.0.4.19` |
+| `WrathCombo` | Puni.sh (Ment) `1.0.4.20` | NexusFFXIV DalamudRepo `1.0.4.20` |
 | `XIVComboExpanded` | daemitus MyDalamudPlugins `2.0.6.2` | NexusFFXIV DalamudRepo `2.0.6.2` |
 | `YesAlready` | Puni.sh (Ment) `1.15.3.0` | NexusFFXIV DalamudRepo `1.15.3.0` |
 | `ZodiacBuddyReborn` | CombatReborn `7.5.0.1` | NexusFFXIV DalamudRepo `7.5.0.1` |

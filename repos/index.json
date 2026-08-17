@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T21:34:21.789Z",
-  "contentHash": "c4f63e130ee46c9e",
+  "generatedAt": "2026-08-17T01:54:53.021Z",
+  "contentHash": "cc9170811c52e25c",
   "totalPlugins": 569,
   "masterPlugins": 563,
   "currentApiLevel": 15,
@@ -3625,13 +3625,6 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3653,6 +3646,13 @@
       "droppedVersion": "1.15.3.0"
     },
     {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
+    },
+    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3667,18 +3667,18 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.306.2.0",
-      "droppedVersion": "15.306.2.0"
-    },
-    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.21",
       "droppedVersion": "3.9.2.21"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.2.0",
+      "droppedVersion": "15.306.2.0"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "1.0.4.20"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.1.17",
-      "droppedVersion": "2.1.1.17"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.18",
       "droppedVersion": "4.0.5.18"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.1.17",
+      "droppedVersion": "2.1.1.17"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4518,7 +4518,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.5.48",
-      "droppedVersion": "7.5.5.44"
+      "droppedVersion": "7.5.5.48"
     },
     {
       "internalName": "Brio",
@@ -4798,7 +4798,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "15.306.2.0",
-      "droppedVersion": "15.306.1.59"
+      "droppedVersion": "15.306.2.0"
     },
     {
       "internalName": "RaidsRewritten",
@@ -4833,7 +4833,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.5.32",
-      "droppedVersion": "7.5.5.31"
+      "droppedVersion": "7.5.5.32"
     },
     {
       "internalName": "Saucy",
@@ -4959,7 +4959,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.0.4.20",
-      "droppedVersion": "1.0.4.19"
+      "droppedVersion": "1.0.4.20"
     },
     {
       "internalName": "XIVComboExpanded",
