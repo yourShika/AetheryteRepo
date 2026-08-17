@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T07:16:07.200Z",
-  "contentHash": "daab77124003bf06",
+  "generatedAt": "2026-08-17T09:57:16.035Z",
+  "contentHash": "4fb168aa7f2760e4",
   "totalPlugins": 569,
   "masterPlugins": 563,
   "currentApiLevel": 15,
@@ -3632,11 +3632,11 @@
       "droppedVersion": "1.15.3.0"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "6.0.0.91",
+      "droppedVersion": "6.0.0.91"
     },
     {
       "internalName": "PalacePal",
@@ -3646,11 +3646,11 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.91",
-      "droppedVersion": "6.0.0.91"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "Marketbuddy",
