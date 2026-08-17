@@ -1,12 +1,12 @@
 # Status
 
-Zuletzt aktualisiert: **2026-08-17 15:43 UTC**
+Zuletzt aktualisiert: **2026-08-17 18:57 UTC**
 
-- Plugins im Master-Feed: **562**
-- Plugins insgesamt (inkl. 18+): **568**
+- Plugins im Master-Feed: **563**
+- Plugins insgesamt (inkl. 18+): **569**
 - Quellen: **291**
 - Aktuelles Dalamud-API-Level: **15** (aufgenommen ab 13)
-- Als veraltet aussortiert: **350** → `repos/legacy.json`
+- Als veraltet aussortiert: **351** → `repos/legacy.json`
 
 ## Quellen
 
@@ -29,7 +29,7 @@ Zuletzt aktualisiert: **2026-08-17 15:43 UTC**
 | ✅ | [Knightmore](https://puni.sh/api/repository/knightmore) | 1 | ok |
 | ✅ | [XeldarAlz](https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/main/repo.json) | 6 | ok |
 | ✅ | [ReMakePlace](https://raw.githubusercontent.com/RemakePlace/plugin/master/ReMakePlacePlugin.json) | 1 | ok |
-| ⚠️ | [baanderson40](https://raw.githubusercontent.com/baanderson40/dalamud_plugins/master/repo.json) | 2 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [baanderson40](https://raw.githubusercontent.com/baanderson40/dalamud_plugins/master/repo.json) | 2 | ok |
 | ✅ | [OhKannaDuh](https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json) | 1 | ok |
 | ✅ | [Joshua-XIV](https://raw.githubusercontent.com/Joshua-XIV/MyDalamudPlugin/main/repo.json) | 3 | ok |
 | ✅ | [Kage](https://puni.sh/api/repository/kage) | 2 | ok |
@@ -39,7 +39,7 @@ Zuletzt aktualisiert: **2026-08-17 15:43 UTC**
 | ✅ | [a1hena/PluginRepository](https://raw.githubusercontent.com/a1hena/PluginRepository/master/dist/pluginmaster.json) | 4 | ok |
 | ✅ | [Absolute Roleplay](https://raw.githubusercontent.com/serifas/Absolute-Roleplay/main/absolute_rp.json) | 1 | ok |
 | ✅ | [Abyeon's Repo](https://puni.sh/api/repository/abe) | 1 | ok |
-| ⚠️ | [Advanced Penumbra Item Converter](https://raw.githubusercontent.com/link-0402/Advanced-Penumbra-Item-Converter/main/repo.json) | 1 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [Advanced Penumbra Item Converter](https://raw.githubusercontent.com/link-0402/Advanced-Penumbra-Item-Converter/main/repo.json) | 1 | ok |
 | ✅ | [Aether Remote](https://raw.githubusercontent.com/aetherremote/AetherRemote/main/repo.json) | 1 | ok |
 | ✅ | [Aether Tools](https://raw.githubusercontent.com/Aether-Tools/DalamudPlugins/main/repo.json) | 1 | ok |
 | ✅ | [Aetherfit](https://raw.githubusercontent.com/Kussie/Aetherfit/master/repo.json) | 2 | ok |
@@ -49,11 +49,11 @@ Zuletzt aktualisiert: **2026-08-17 15:43 UTC**
 | ✅ | [akira0245/DalamudPlugins](https://raw.githubusercontent.com/akira0245/DalamudPlugins/master/pluginmaster.json) | 10 | ok |
 | ✅ | [Aly](https://puni.sh/api/repository/aly) | 2 | ok |
 | ✅ | [AnimSwapper](https://raw.githubusercontent.com/elchupi/AnimSwapper/main/pluginmaster.json) | 1 | ok |
-| ⚠️ | [anomek MyDalamudPlugins](https://raw.githubusercontent.com/anomek/MyDalamudPlugins/master/pluginmaster.json) | 3 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [anomek MyDalamudPlugins](https://raw.githubusercontent.com/anomek/MyDalamudPlugins/master/pluginmaster.json) | 3 | ok |
 | ✅ | [anya-hichu/DalamudPluginRepo](https://raw.githubusercontent.com/anya-hichu/DalamudPluginRepo/main/custom.json) | 8 | ok |
-| ⚠️ | [arcticnw/DalamudPlugins](https://raw.githubusercontent.com/arcticnw/DalamudPlugins/main/repo.json) | 4 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [arcticnw/DalamudPlugins](https://raw.githubusercontent.com/arcticnw/DalamudPlugins/main/repo.json) | 4 | ok |
 | ✅ | [Armoire](https://raw.githubusercontent.com/AlmerisBE/Armoire/production/repo.json) | 1 | ok |
-| ⚠️ | [Armoire Butler / Fashion Check](https://raw.githubusercontent.com/selken-ixx/SelkenDalamud/main/pluginmaster.json) | 2 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [Armoire Butler / Fashion Check](https://raw.githubusercontent.com/selken-ixx/SelkenDalamud/main/pluginmaster.json) | 2 | ok |
 | ✅ | [Artemis Roleplaying Kit](https://raw.githubusercontent.com/Sebane1/RoleplayingVoiceDalamud/master/repo.json) | 1 | ok |
 | ✅ | [Asuna's Repo](https://puni.sh/api/repository/asuna) | 4 | ok |
 | ✅ | [Athavar / Athavar.FFXIV.DalaRepo](https://raw.githubusercontent.com/Athavar/Athavar.FFXIV.DalaRepo/master/pluginmaster.json) | 1 | ok |
@@ -64,10 +64,10 @@ Zuletzt aktualisiert: **2026-08-17 15:43 UTC**
 | ✅ | [BardToolbox / BardToolbox-Release](https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/pluginmaster.json) | 1 | ok |
 | ✅ | [bees-repo](https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json) | 51 | ok |
 | ✅ | [Bluefissure DalamudPlugins](https://raw.githubusercontent.com/Bluefissure/DalamudPlugins/Bluefissure/pluginmaster.json) | 6 | ok |
-| ⚠️ | [Body Flux](https://raw.githubusercontent.com/miragiumxiv/BodyFlux/master/pluginmaster.json) | 1 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [Body Flux](https://raw.githubusercontent.com/miragiumxiv/BodyFlux/master/pluginmaster.json) | 1 | ok |
 | ✅ | [Brio](https://raw.githubusercontent.com/Etheirys/Brio/main/repo.json) | 1 | ok |
 | ✅ | [Brio](https://raw.githubusercontent.com/Valentine-Tools/Brio/main/repo.json) | 1 | ok |
-| ⚠️ | [CaiClone gist repo](https://gist.githubusercontent.com/CaiClone/0aad66569dbf63a9bbeec6a8e95a123f/raw/pluginmaster.json) | 1 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [CaiClone gist repo](https://gist.githubusercontent.com/CaiClone/0aad66569dbf63a9bbeec6a8e95a123f/raw/pluginmaster.json) | 1 | ok |
 | ✅ | [Caraxi / DalamudPlugins](https://raw.githubusercontent.com/Caraxi/DalamudPlugins/master/pluginmaster.json) | 177 | ok |
 | ✅ | [Caraxi / MyPlugins](https://raw.githubusercontent.com/Caraxi/MyPlugins/main/pluginmaster.json) | 1 | ok |
 | ✅ | [Caraxi plugin repo](https://repo.caraxian.com) | 2 | ok |
@@ -75,11 +75,11 @@ Zuletzt aktualisiert: **2026-08-17 15:43 UTC**
 | ✅ | [Character Select+](https://raw.githubusercontent.com/IcarusXIV/Character-Select-/master/CharacterSelectPlugin/repo.json) | 1 | ok |
 | ✅ | [CraftingList](https://raw.githubusercontent.com/Junie-774/CraftingList/main/CraftingList/repo.json) | 1 | ok |
 | ✅ | [CreateXIV](https://raw.githubusercontent.com/seventity7/CreateXIV/main/repo.json) | 1 | ok |
-| ⚠️ | [Critical-Impact PluginRepo](https://raw.githubusercontent.com/Critical-Impact/PluginRepo/main/plugins.json) | 1 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [Critical-Impact PluginRepo](https://raw.githubusercontent.com/Critical-Impact/PluginRepo/main/plugins.json) | 1 | ok |
 | ✅ | [Croizat's Repo](https://puni.sh/api/repository/croizat) | 3 | ok |
 | ✅ | [CustomizePlus](https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/repo.json) | 1 | ok |
 | ✅ | [Cyprus Synchronos](https://raw.githubusercontent.com/kabojnk/repo-repo/main/repo.json) | 1 | ok |
-| ⚠️ | [daemitus MyDalamudPlugins](https://github.com/daemitus/MyDalamudPlugins/raw/master/pluginmaster.json) | 1 | stale – `HTTP 404 Not Found` |
+| ✅ | [daemitus MyDalamudPlugins](https://github.com/daemitus/MyDalamudPlugins/raw/master/pluginmaster.json) | 1 | ok |
 | ✅ | [Dalamud-Depot](https://raw.githubusercontent.com/Deccentric/Dalamud-Depot/main/repo.json) | 1 | ok |
 | ✅ | [dalamud-plugins (ML-Astra) - RP-TBX](https://raw.githubusercontent.com/ML-Astra/dalamud-plugins/main/repo.json) | 1 | ok |
 | ✅ | [Dalamud.SkipCutscene](https://raw.githubusercontent.com/a08381/Dalamud.SkipCutscene/dist/repo.json) | 1 | ok |
@@ -87,11 +87,11 @@ Zuletzt aktualisiert: **2026-08-17 15:43 UTC**
 | ✅ | [DalamudRepoCollection](https://raw.githubusercontent.com/stephenneale/DalamudRepoCollection/main/ffxiv_custom_repo.json) | 173 | ok |
 | ✅ | [decorwdyun / DalamudPlugins](https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/pluginmaster.json) | 5 | ok |
 | ✅ | [DisPlace](https://raw.githubusercontent.com/Drakansoul/DisPlace/master/DisPlacePlugin.json) | 1 | ok |
-| ⚠️ | [DynamicBridge Standalone](https://raw.githubusercontent.com/Limiana/DynamicBridgeStandalone/main/pluginmaster.json) | 1 | stale – `HTTP 429 Too Many Requests` |
-| ⚠️ | [EchoXIV](https://echoxiv.com/pluginmaster.json) | 5 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [DynamicBridge Standalone](https://raw.githubusercontent.com/Limiana/DynamicBridgeStandalone/main/pluginmaster.json) | 1 | ok |
+| ✅ | [EchoXIV](https://echoxiv.com/pluginmaster.json) | 5 | ok |
 | ✅ | [Eisenhuth / TrustworthyDalamudPlugins](https://raw.githubusercontent.com/Eisenhuth/TrustworthyDalamudPlugins/master/pluginmaster.json) | 3 | ok |
 | ✅ | [Encore](https://raw.githubusercontent.com/IcarusXIV/Encore/master/Encore/repo.json) | 1 | ok |
-| ⚠️ | [eScape](https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json) | 13 | stale – `HTTP 503 Service Unavailable` |
+| ✅ | [eScape](https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json) | 13 | ok |
 | ✅ | [Etheirys/WorldOfEtheirys](https://raw.githubusercontent.com/Etheirys/WorldOfEtheirys/main/repo.json) | 1 | ok |
 | ✅ | [Fr4nsson / MyDalamudPlugins](https://raw.githubusercontent.com/Fr4nsson/MyDalamudPlugins/main/pluginmaster.json) | 3 | ok |
 | ✅ | [Frogworks-Interactive / PluginRepository](https://raw.githubusercontent.com/Frogworks-Interactive/PluginRepository/main/repo.json) | 1 | ok |
@@ -101,14 +101,14 @@ Zuletzt aktualisiert: **2026-08-17 15:43 UTC**
 | ✅ | [gigachad gamer hours](https://puni.sh/api/repository/akechi) | 1 | ok |
 | ✅ | [GiR-Zippo / Hypnotoad-Plugin](https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/PluginDir/pluginmaster.json) | 1 | ok |
 | ✅ | [Glam Shuffle](https://raw.githubusercontent.com/bimilbimil/GlamShuffle/main/repo.json) | 1 | ok |
-| ⚠️ | [GlamApply](https://raw.githubusercontent.com/lichie567/GlamApply/main/repo.json) | 1 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [GlamApply](https://raw.githubusercontent.com/lichie567/GlamApply/main/repo.json) | 1 | ok |
 | ✅ | [Glamour Documenter](https://raw.githubusercontent.com/ElyFura/GlamourDocumenter/master/repo.json) | 1 | ok |
 | ✅ | [Glamour Master](https://raw.githubusercontent.com/Aspher0/GlamMaster/main/GlamMaster.json) | 1 | ok |
 | ✅ | [Glamour This](https://raw.githubusercontent.com/Tiberius1OOO/glamour_this/main/repo.json) | 1 | ok |
 | ✅ | [Glamourer Backup](https://raw.githubusercontent.com/HGD-Angelyx/GlamourerBackup/main/repo.json) | 1 | ok |
 | ✅ | [Glyceri's Repo](https://puni.sh/api/repository/glyceri) | 1 | ok |
 | ✅ | [Gpose Camera Saver](https://raw.githubusercontent.com/Laboon2501/GposeCameraSaver/main/repo.json) | 1 | ok |
-| ⚠️ | [Gpose Cast](https://raw.githubusercontent.com/reyalexffxiv/GposeCast/master/repo.json) | 1 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [Gpose Cast](https://raw.githubusercontent.com/reyalexffxiv/GposeCast/master/repo.json) | 1 | ok |
 | ✅ | [GPose Utils](https://raw.githubusercontent.com/Cazzar/GposeUtils/main/repo.json) | 1 | ok |
 | ✅ | [Hako / 箱](https://puni.sh/api/repository/boxu) | 1 | ok |
 | ✅ | [Haselnussbomber](https://raw.githubusercontent.com/Haselnussbomber/MyDalamudPlugins/main/repo.json) | 3 | ok |
@@ -119,7 +119,7 @@ Zuletzt aktualisiert: **2026-08-17 15:43 UTC**
 | ✅ | [Illusio Vitae](https://raw.githubusercontent.com/KrisanThyme/Illusio-Vitae/main/IVPlugin/repo.json) | 1 | ok |
 | ✅ | [InitialDet / MyDalamudPlugins](https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.json) | 1 | ok |
 | ✅ | [Jukka's repo](https://puni.sh/api/repository/jukka) | 1 | ok |
-| ⚠️ | [juntalis/DalamudPlugins](https://raw.githubusercontent.com/juntalis/DalamudPlugins/main/pluginmaster.json) | 1 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [juntalis/DalamudPlugins](https://raw.githubusercontent.com/juntalis/DalamudPlugins/main/pluginmaster.json) | 1 | ok |
 | ✅ | [justbees](https://puni.sh/api/repository/justbees) | 1 | ok |
 | ✅ | [kaciexx / FFXIV_Vibe_Plugin](https://raw.githubusercontent.com/kaciexx/FFXIV_Vibe_Plugin/master/repo.json) | 1 | ok |
 | ✅ | [KangasZ / DalamudPluginRepository](https://raw.githubusercontent.com/KangasZ/DalamudPluginRepository/main/plugin_repository.json) | 5 | ok |
@@ -139,17 +139,17 @@ Zuletzt aktualisiert: **2026-08-17 15:43 UTC**
 | ✅ | [MakePlace Plugin](https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/MakePlacePlugin.json) | 1 | ok |
 | ✅ | [Mare Synchronos](https://raw.githubusercontent.com/Glorou/mare.client/main/repo.json) | 1 | ok |
 | ✅ | [Mare Synchronos](https://raw.githubusercontent.com/GorditoSupreme/MareClient/main/repo.json) | 2 | ok |
-| ⚠️ | [Marketbuddy](https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json) | 1 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [Marketbuddy](https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json) | 1 | ok |
 | ✅ | [Maxunit / MyDalamudPlugins](https://raw.githubusercontent.com/Maxunit/MyDalamudPlugins/master/pluginmaster.json) | 3 | ok |
 | ✅ | [MCDFExport](https://raw.githubusercontent.com/NanaKhide/MCDExport/master/repo.json) | 1 | ok |
 | ✅ | [Meddle](https://raw.githubusercontent.com/PassiveModding/Meddle/main/repo.json) | 1 | ok |
-| ⚠️ | [MEGA Repository](https://raw.githubusercontent.com/WilliamW1979/FFXIV/main/repository.json) | 111 | stale – `HTTP 503 first byte timeout` |
+| ✅ | [MEGA Repository](https://raw.githubusercontent.com/WilliamW1979/FFXIV/main/repository.json) | 111 | ok |
 | ✅ | [Meisterlala / NekoFans](https://raw.githubusercontent.com/Meisterlala/NekoFans/master/repo.json) | 2 | ok |
 | ✅ | [MeowZWR / DalamudPlugin](https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json) | 15 | ok |
 | ✅ | [MidiBard 2](https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json) | 1 | ok |
 | ✅ | [Mingi Synchronos](https://raw.githubusercontent.com/ghosy27/Mingi-Synchronos-repo/main/plogonmaster.json) | 1 | ok |
 | ✅ | [Moodles](https://raw.githubusercontent.com/kawaii/Moodles/main/repo.json) | 1 | ok |
-| ⚠️ | [MyDalamudPlugins](https://raw.githubusercontent.com/UrsaBear/MyDalamudPlugins/master/pluginmaster.json) | 4 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [MyDalamudPlugins](https://raw.githubusercontent.com/UrsaBear/MyDalamudPlugins/master/pluginmaster.json) | 4 | ok |
 | ✅ | [MyDalamudPlugins](https://raw.githubusercontent.com/Grammernatzi/MyDalamudPlugins/master/pluginmaster.json) | 1 | ok |
 | ✅ | [MyDalamudPlugins (WorkingRobot) / plogon.camora.dev](https://plogon.camora.dev/unofficial) | 3 | ok |
 | ✅ | [MyPlugins](https://raw.githubusercontent.com/tssailzz8/MyPlugins/master/pluginmaster.json) | 5 | ok |
@@ -202,10 +202,10 @@ Zuletzt aktualisiert: **2026-08-17 15:43 UTC**
 | ✅ | [The Atelier](https://raw.githubusercontent.com/rubyblaire/TheAtelier/main/pluginmaster.json) | 1 | ok |
 | ✅ | [thesuccubus/repo](https://raw.githubusercontent.com/thesuccubus/repo/main/pluginmaster.json) | 1 | ok |
 | ✅ | [tigurand/DalamudPlugins](https://raw.githubusercontent.com/tigurand/DalamudPlugins/refs/heads/main/repo.json) | 4 | ok |
-| ⚠️ | [TimelineAnimator](https://raw.githubusercontent.com/NoHideout/TimelineAnimator/master/repo.json) | 1 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [TimelineAnimator](https://raw.githubusercontent.com/NoHideout/TimelineAnimator/master/repo.json) | 1 | ok |
 | ✅ | [TomestoneGG / Dalamud.Tomestone](https://raw.githubusercontent.com/TomestoneGG/Dalamud.Tomestone/master/repo.json) | 1 | ok |
 | ✅ | [TomokPlugins](https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/pluginmaster.json) | 6 | ok |
-| ⚠️ | [Travelcase](https://raw.githubusercontent.com/Blooym/Dalamud.Travelcase/main/repo.json) | 1 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [Travelcase](https://raw.githubusercontent.com/Blooym/Dalamud.Travelcase/main/repo.json) | 1 | ok |
 | ✅ | [UnknownX7](https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json) | 6 | ok |
 | ✅ | [Vali's Repo](https://puni.sh/api/repository/vali) | 4 | ok |
 | ✅ | [Valiice DalamudPluginRepo](https://raw.githubusercontent.com/Valiice/DalamudPluginRepo/master/repo.json) | 10 | ok |
@@ -225,7 +225,7 @@ Zuletzt aktualisiert: **2026-08-17 15:43 UTC**
 | ✅ | [yocopk/moghouse-dalamud](https://raw.githubusercontent.com/yocopk/moghouse-dalamud/main/repo.json) | 1 | ok |
 | ✅ | [zhouhuichen741/dalamud-plugins](https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json) | 20 | ok |
 | ✅ | [zhudotexe / FFXIV_DalamudPlugins](https://raw.githubusercontent.com/zhudotexe/FFXIV_DalamudPlugins/main/manifest.json) | 2 | ok |
-| ⚠️ | [Adalyia / DalamudPlugins](https://raw.githubusercontent.com/Adalyia/DalamudPlugins/main/repo.json) | 4 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [Adalyia / DalamudPlugins](https://raw.githubusercontent.com/Adalyia/DalamudPlugins/main/repo.json) | 4 | ok |
 | ✅ | [AemiliusXIV / DalamudPlugins](https://raw.githubusercontent.com/AemiliusXIV/DalamudPlugins/main/pluginmaster.json) | 5 | ok |
 | ✅ | [Aida-Enna / PluginRepo](https://raw.githubusercontent.com/Aida-Enna/PluginRepo/main/pluginmaster.json) | 2 | ok |
 | ✅ | [AiriTsukino / AiriPluginHub](https://raw.githubusercontent.com/AiriTsukino/AiriPluginHub/main/pluginmaster.json) | 7 | ok |
@@ -236,12 +236,12 @@ Zuletzt aktualisiert: **2026-08-17 15:43 UTC**
 | ✅ | [Aschmies / AschyQOL](https://raw.githubusercontent.com/Aschmies/AschyQOL/main/pluginmaster.json) | 7 | ok |
 | ✅ | [astrodoobs / plugins](https://raw.githubusercontent.com/astrodoobs/plugins/main/Plugins.json) | 2 | ok |
 | ✅ | [Ayoubsn93 / ne](https://raw.githubusercontent.com/Ayoubsn93/ne/main/pluginmaster.json) | 6 | ok |
-| ⚠️ | [BoxuChan / Hako](https://raw.githubusercontent.com/BoxuChan/Hako/main/repo.json) | 4 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [BoxuChan / Hako](https://raw.githubusercontent.com/BoxuChan/Hako/main/repo.json) | 4 | ok |
 | ✅ | [Catphinaud / DalamudPlugins](https://raw.githubusercontent.com/Catphinaud/DalamudPlugins/main/pluginmaster.json) | 9 | ok |
 | ✅ | [chika's repo](https://puni.sh/api/repository/chika) | 1 | ok |
-| ⚠️ | [Cloa / resonant](https://raw.githubusercontent.com/Cloa/resonant/main/repo/latest.json) | 1 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [Cloa / resonant](https://raw.githubusercontent.com/Cloa/resonant/main/repo/latest.json) | 1 | ok |
 | ✅ | [cycleapple / DalamudPlugins-TW](https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW/main/repo.json) | 11 | ok |
-| ⚠️ | [Cyenia / DalamudPlugins](https://raw.githubusercontent.com/Cyenia/DalamudPlugins/master/pluginmaster.json) | 5 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [Cyenia / DalamudPlugins](https://raw.githubusercontent.com/Cyenia/DalamudPlugins/master/pluginmaster.json) | 5 | ok |
 | ✅ | [dajoey / lalalazy](https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json) | 12 | ok |
 | ✅ | [dal4kr / Dalamud.Resources](https://raw.githubusercontent.com/dal4kr/Dalamud.Resources/main/Plugins/plugins.json) | 2 | ok |
 | ✅ | [datamachine / ffxiv-plugins](https://raw.githubusercontent.com/datamachine/ffxiv-plugins/main/pluginmaster.json) | 2 | ok |
@@ -252,18 +252,18 @@ Zuletzt aktualisiert: **2026-08-17 15:43 UTC**
 | ✅ | [Enceladeum / DalamudPlugins](https://raw.githubusercontent.com/Enceladeum/DalamudPlugins/main/repo.json) | 5 | ok |
 | ✅ | [exatrines / DalamudPlugins](https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json) | 5 | ok |
 | ✅ | [fenk19 / DalamudPluginRepo](https://raw.githubusercontent.com/fenk19/DalamudPluginRepo/main/pluginmaster.json) | 2 | ok |
-| ⚠️ | [FFXIV-Sonar / SonarRepo](https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/pluginmaster.json) | 3 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [FFXIV-Sonar / SonarRepo](https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/pluginmaster.json) | 3 | ok |
 | ✅ | [FlawedBliss / DalamudPlugins](https://raw.githubusercontent.com/FlawedBliss/DalamudPlugins/refs/heads/main/repo.json) | 3 | ok |
 | ✅ | [fuzzycore / ffxivrepo](https://raw.githubusercontent.com/fuzzycore/ffxivrepo/main/pluginmaster.json) | 2 | ok |
 | ✅ | [gamous / PostMeteion](https://raw.githubusercontent.com/gamous/PostMeteion/main/PluginMaster.json) | 1 | ok |
 | ✅ | [gerulla / plogons](https://raw.githubusercontent.com/gerulla/plogons/master/repo.json) | 2 | ok |
-| ⚠️ | [GiR-Zippo / PluginMaster](https://raw.githubusercontent.com/GiR-Zippo/PluginMaster/main/pluginmaster.json) | 3 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [GiR-Zippo / PluginMaster](https://raw.githubusercontent.com/GiR-Zippo/PluginMaster/main/pluginmaster.json) | 3 | ok |
 | ✅ | [GitPaulo / DalamudRepo](https://raw.githubusercontent.com/GitPaulo/DalamudRepo/main/pluginmaster.json) | 4 | ok |
 | ✅ | [Glaives-of-Eorzea / FFXIV.Plugin.Distribution](https://raw.githubusercontent.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/main/pluginmaster.json) | 3 | ok |
 | ✅ | [Glorou / Texture Overlayer](https://karou.ca/xiv/repo.json) | 1 | ok |
 | ✅ | [Haselnussbomber / DalamudPlugins](https://raw.githubusercontent.com/Haselnussbomber/DalamudPlugins/main/repo.json) | 3 | ok |
 | ✅ | [HoshinoCorp / DalamudPlugins](https://raw.githubusercontent.com/HoshinoCorp/DalamudPlugins/main/pluginmaster.json) | 2 | ok |
-| ⚠️ | [ifan0927 / FFXIVTC_Plugins_Pack](https://raw.githubusercontent.com/ifan0927/FFXIVTC_Plugins_Pack/main/repo.json) | 2 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [ifan0927 / FFXIVTC_Plugins_Pack](https://raw.githubusercontent.com/ifan0927/FFXIVTC_Plugins_Pack/main/repo.json) | 2 | ok |
 | ✅ | [J3sven / J3Plugins](https://raw.githubusercontent.com/J3sven/J3Plugins/main/repo.json) | 4 | ok |
 | ✅ | [jkleinne / ascended-plugins](https://raw.githubusercontent.com/jkleinne/ascended-plugins/main/pluginmaster.json) | 5 | ok |
 | ✅ | [Jrogo7 / VenueManager](https://raw.githubusercontent.com/Jrogo7/VenueManager/master/repo.json) | 3 | ok |
@@ -282,25 +282,25 @@ Zuletzt aktualisiert: **2026-08-17 15:43 UTC**
 | ✅ | [OOFGamesss / OOFGamesPlugins](https://raw.githubusercontent.com/OOFGamesss/OOFGamesPlugins/main/pluginmaster.json) | 3 | ok |
 | ✅ | [OpaqueReptile / daemitus_MyDalamudPlugins](https://raw.githubusercontent.com/OpaqueReptile/daemitus_MyDalamudPlugins/master/pluginmaster.json) | 4 | ok |
 | ✅ | [Paparogue / PaparogueRepo](https://raw.githubusercontent.com/Paparogue/PaparogueRepo/refs/heads/main/repo.json) | 3 | ok |
-| ⚠️ | [pffxivtools / ffxiv-bard-plugins-linux](https://raw.githubusercontent.com/pffxivtools/ffxiv-bard-plugins-linux/main/pluginmaster.json) | 3 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [pffxivtools / ffxiv-bard-plugins-linux](https://raw.githubusercontent.com/pffxivtools/ffxiv-bard-plugins-linux/main/pluginmaster.json) | 3 | ok |
 | ✅ | [Pistachio-dev / DalamudPluginRepository](https://raw.githubusercontent.com/Pistachio-dev/DalamudPluginRepository/main/repo.json) | 11 | ok |
 | ✅ | [RaidenvBlack / RaidenvPlugins](https://raw.githubusercontent.com/RaidenvBlack/RaidenvPlugins/main/repo.json) | 5 | ok |
 | ✅ | [RaidenvBlack / Updated](https://raw.githubusercontent.com/RaidenvBlack/Updated/main/repo.json) | 6 | ok |
-| ✅ | [Recursive-Entity-Matrix / NostraPlugins](https://raw.githubusercontent.com/Recursive-Entity-Matrix/NostraPlugins/main/pluginmaster.json) | 1 | ok |
+| ✅ | [Recursive-Entity-Matrix / NostraPlugins](https://raw.githubusercontent.com/Recursive-Entity-Matrix/NostraPlugins/main/pluginmaster.json) | 3 | ok |
 | ✅ | [RenNagasaki / MyDalamudPlugins](https://raw.githubusercontent.com/RenNagasaki/MyDalamudPlugins/master/pluginmaster.json) | 4 | ok |
 | ✅ | [Rowsai / Rowsai-Plugins](https://raw.githubusercontent.com/Rowsai/Rowsai-Plugins/main/pluginmaster.json) | 5 | ok |
-| ⚠️ | [ryonive / XIVPlugins](https://raw.githubusercontent.com/ryonive/XIVPlugins/main/repo.json) | 4 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [ryonive / XIVPlugins](https://raw.githubusercontent.com/ryonive/XIVPlugins/main/repo.json) | 4 | ok |
 | ✅ | [Scytraiin / MyDalamudPlugins](https://raw.githubusercontent.com/Scytraiin/MyDalamudPlugins/main/pluginmaster.json) | 3 | ok |
-| ⚠️ | [thakyZ / MyDalamudPlugins](https://raw.githubusercontent.com/thakyZ/MyDalamudPlugins/main/pluginmaster.json) | 4 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [thakyZ / MyDalamudPlugins](https://raw.githubusercontent.com/thakyZ/MyDalamudPlugins/main/pluginmaster.json) | 4 | ok |
 | ✅ | [TheRedheadedWitch / FFXIVRepository](https://raw.githubusercontent.com/TheRedheadedWitch/FFXIVRepository/main/repo.json) | 3 | ok |
 | ✅ | [Thunderz96 / XIV](https://raw.githubusercontent.com/Thunderz96/XIV/main/pluginmaster.json) | 4 | ok |
 | ✅ | [twelvehouse / DalamudPlugins](https://raw.githubusercontent.com/twelvehouse/DalamudPlugins/main/pluginmaster.json) | 3 | ok |
 | ✅ | [VimaFFXIV / DalamudPlugins](https://raw.githubusercontent.com/VimaFFXIV/DalamudPlugins/master/repo.json) | 3 | ok |
-| ⚠️ | [wasdcxz / DalamudPlugins](https://raw.githubusercontent.com/wasdcxz/DalamudPlugins/main/pluginmaster.json) | 3 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [wasdcxz / DalamudPlugins](https://raw.githubusercontent.com/wasdcxz/DalamudPlugins/main/pluginmaster.json) | 3 | ok |
 | ✅ | [WigglyCorp / DalamudPlugins](https://raw.githubusercontent.com/WigglyCorp/DalamudPlugins/main/pluginmaster.json) | 3 | ok |
 | ✅ | [xa-io / MyDalamudPlugins](https://raw.githubusercontent.com/xa-io/MyDalamudPlugins/master/pluginmaster.json) | 3 | ok |
 | ✅ | [xivhub / pluginmaster](https://plugins.xivhub.net/pluginmaster.json) | 9 | ok |
-| ⚠️ | [yagi2 / dalamud-plugins](https://raw.githubusercontent.com/yagi2/dalamud-plugins/main/repo.json) | 3 | stale – `HTTP 429 Too Many Requests` |
+| ✅ | [yagi2 / dalamud-plugins](https://raw.githubusercontent.com/yagi2/dalamud-plugins/main/repo.json) | 3 | ok |
 | ✅ | [Yhumi / Plogons](https://raw.githubusercontent.com/Yhumi/Plogons/master/plugins.json) | 10 | ok |
 | ✅ | [zunetrix / DalamudPlugins](https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/pluginmaster.json) | 4 | ok |
 
@@ -311,7 +311,7 @@ Zuletzt aktualisiert: **2026-08-17 15:43 UTC**
 | 👗 Glamour & Charakter | 95 | `repos/glamour.json` |
 | ⚔️ Kampf & Rotation | 70 | `repos/combat.json` |
 | 🤖 Automatisierung | 111 | `repos/automation.json` |
-| ⚒️ Crafting & Gathering | 23 | `repos/crafting.json` |
+| ⚒️ Crafting & Gathering | 24 | `repos/crafting.json` |
 | ✨ Quality of Life & UI | 141 | `repos/qol.json` |
 | 🎭 Social & Roleplay | 54 | `repos/social.json` |
 | 🔞 Adult (18+) | 6 | `repos/nsfw.json` |
@@ -330,7 +330,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Glamourer` | Glamourer `1.6.1.7` | Sea of Stars `1.6.1.7` |
 | `DynamicBridge` | Sea of Stars `1.0.8.8` | NightmareXIV `1.0.8.8` |
 | `BossMod` | Veyn (BossMod) `7.5.5.7` | 44451516 / ffxiv_bossmod `7.5.1.3` |
-| `BossModReborn` | 44451516-ff14 / BossmodRebornCN `7.5.0.41` | CombatReborn `7.2.0.144` |
+| `BossModReborn` | CombatReborn `7.5.5.50` | 44451516-ff14 / BossmodRebornCN `7.5.0.41` |
 | `CustomizePlus` | Sea of Stars `2.2.0.3` | Aether Tools `2.2.0.3` |
 | `Armoire` | Armoire `0.1.1.3` | ElfShelf `0.0.171` |
 | `DailyRoutines` | AtmoOmen / DalamudPlugins `2.1.6.1` | AtmoOmen / DalamudPlugins `2.0.4.4` |
@@ -342,7 +342,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `visland` | Veyn (BossMod) `0.0.0.150` | awgil plugin distribution `0.0.0.16` |
 | `AntiAfkKick-Dalamud` | NightmareXIV `2.1.0.11` | bees-repo `2.1.0.11` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.18` | bees-repo `4.0.5.18` |
-| `AutoDuty` | erdelf `0.0.0.330` | bees-repo `0.0.0.330` |
+| `AutoDuty` | erdelf `0.0.0.335` | bees-repo `0.0.0.330` |
 | `AutoHook` | Puni.sh (Ment) `6.0.0.91` | bees-repo `6.0.0.91` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | bees-repo `4.6.1.27` |
 | `BossMod` | Veyn (BossMod) `7.5.5.7` | bees-repo `7.5.5.7` |
@@ -453,7 +453,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `TextAdvance` | NightmareXIV `3.3.0.1` | eScape `3.3.0.1` |
 | `DynamicBridge` | Sea of Stars `1.0.8.8` | eScape `1.0.8.8` |
 | `GatherBuddyReborn` | CombatReborn `7.5.5.0` | eScape `7.5.5.0` |
-| `AutoDuty` | erdelf `0.0.0.330` | eScape `0.0.0.330` |
+| `AutoDuty` | erdelf `0.0.0.335` | eScape `0.0.0.330` |
 | `Brio` | Sea of Stars `0.8.0.11` | Etheirys/WorldOfEtheirys `0.8.0.11` |
 | `HidePadlock` | Fr4nsson / MyDalamudPlugins `1.4.0.0` | Caraxi / DalamudPlugins `1.3.0.0` |
 | `EasySort` | Frogworks-Interactive / PluginRepository `0.0.0.5` | DalamudRepoCollection `0.0.0.4` |
@@ -495,16 +495,16 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | Marketbuddy `0.2.4.1` |
 | `StartupCommands` | Maxunit / MyDalamudPlugins `1.3.0.1` | DalamudRepoCollection `1.1.0.2` |
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
-| `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.12` | MEGA Repository `2.2.0.12` |
-| `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
-| `YesAlready` | Puni.sh (Ment) `1.15.3.0` | MEGA Repository `1.15.3.0` |
-| `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
+| `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
 | `AutoHook` | Puni.sh (Ment) `6.0.0.91` | MEGA Repository `6.0.0.91` |
-| `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | MEGA Repository `4.6.1.27` |
+| `YesAlready` | Puni.sh (Ment) `1.15.3.0` | MEGA Repository `1.15.3.0` |
+| `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
+| `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
-| `Questionable` | Puni.sh (Ment) `15.306.2.0` | MEGA Repository `15.306.2.0` |
+| `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | MEGA Repository `4.6.1.27` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.21` | MEGA Repository `3.9.2.21` |
+| `Questionable` | Puni.sh (Ment) `15.306.2.0` | MEGA Repository `15.306.2.0` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.20` | MEGA Repository `1.0.4.20` |
 | `Saucy` | Puni.sh (Ment) `2.1.1.17` | MEGA Repository `2.1.1.17` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.18` | MEGA Repository `4.0.5.18` |
@@ -548,8 +548,8 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `vfallguy` | Veyn (BossMod) `0.0.0.12` | MEGA Repository `0.0.0.12` |
 | `vnavmesh` | Veyn (BossMod) `1.2.3.13` | MEGA Repository `1.2.3.13` |
 | `MBT` | Herculezz's Repo `0.0.0.16` | MEGA Repository `0.0.0.16` |
-| `RotationSolver` | MEGA Repository `7.5.5.33` | CombatReborn `7.2.0.40` |
-| `BossModReborn` | MEGA Repository `7.5.5.50` | 44451516-ff14 / BossmodRebornCN `7.5.0.41` |
+| `RotationSolver` | CombatReborn `7.5.5.33` | MEGA Repository `7.5.5.33` |
+| `BossModReborn` | CombatReborn `7.5.5.50` | MEGA Repository `7.5.5.50` |
 | `ActionTimelineReborn` | CombatReborn `7.5.5.1` | MEGA Repository `7.5.5.1` |
 | `EasyZoomReborn` | CombatReborn `7.5.0.3` | MEGA Repository `7.5.0.3` |
 | `GatherBuddyReborn` | CombatReborn `7.5.5.0` | MEGA Repository `7.5.5.0` |
@@ -624,7 +624,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Battlevest` | NightmareXIV `1.0.2.3` | NexusFFXIV DalamudRepo `1.0.2.3` |
 | `BDTHPlugin` | bees-repo `1.7.4.1` | NexusFFXIV DalamudRepo `1.7.4.1` |
 | `BossMod` | Veyn (BossMod) `7.5.5.7` | NexusFFXIV DalamudRepo `7.5.5.7` |
-| `BossModReborn` | MEGA Repository `7.5.5.50` | NexusFFXIV DalamudRepo `7.5.5.48` |
+| `BossModReborn` | CombatReborn `7.5.5.50` | NexusFFXIV DalamudRepo `7.5.5.48` |
 | `Brio` | Sea of Stars `0.8.0.11` | NexusFFXIV DalamudRepo `0.8.0.11` |
 | `ChatDeathRoll` | anya-hichu/DalamudPluginRepo `0.0.6.0` | NexusFFXIV DalamudRepo `0.0.6.0` |
 | `ChilledLeves` | ICE (Island Sanctuary) `1.0.1.24` | NexusFFXIV DalamudRepo `1.0.1.24` |
@@ -669,7 +669,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `RebornToolbox` | CombatReborn `7.5.0.0` | NexusFFXIV DalamudRepo `7.5.0.0` |
 | `RecruitmentRefresher` | anya-hichu/DalamudPluginRepo `0.0.5.0` | NexusFFXIV DalamudRepo `0.0.5.0` |
 | `Reggiex` | anya-hichu/DalamudPluginRepo `0.0.3.0` | NexusFFXIV DalamudRepo `0.0.3.0` |
-| `RotationSolver` | MEGA Repository `7.5.5.33` | NexusFFXIV DalamudRepo `7.5.5.32` |
+| `RotationSolver` | CombatReborn `7.5.5.33` | NexusFFXIV DalamudRepo `7.5.5.32` |
 | `Saucy` | Puni.sh (Ment) `2.1.1.17` | NexusFFXIV DalamudRepo `2.1.1.17` |
 | `SelectString` | NightmareXIV `1.0.1.12` | NexusFFXIV DalamudRepo `1.0.1.12` |
 | `SimpleHeels` | Sea of Stars `0.11.1.8` | NexusFFXIV DalamudRepo `0.11.1.8` |
@@ -712,9 +712,9 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `BOCCHI` | OhKannaDuh `4.0.2.27` | NiGuangOwO / DalamudPlugins `3.3.3.0` |
 | `BOCCHI` | OhKannaDuh `4.0.2.27` | NiGuangOwO / DalamudPlugins `0.69.1.12` |
 | `BOCCHI` | OhKannaDuh `4.0.2.27` | NiGuangOwO / DalamudPlugins `2.1.1.4` |
-| `BossModReborn` | MEGA Repository `7.5.5.50` | NiGuangOwO / DalamudPlugins `7.5.5.50` |
-| `BossModReborn` | MEGA Repository `7.5.5.50` | NiGuangOwO / DalamudPlugins `7.3.5.27` |
-| `BossModReborn` | MEGA Repository `7.5.5.50` | NiGuangOwO / DalamudPlugins `7.4.5.18` |
+| `BossModReborn` | CombatReborn `7.5.5.50` | NiGuangOwO / DalamudPlugins `7.5.5.50` |
+| `BossModReborn` | CombatReborn `7.5.5.50` | NiGuangOwO / DalamudPlugins `7.3.5.27` |
+| `BossModReborn` | CombatReborn `7.5.5.50` | NiGuangOwO / DalamudPlugins `7.4.5.18` |
 | `FuckAnimationLock` | NiGuangOwO / DalamudPlugins `3.0.17.1` | NiGuangOwO / DalamudPlugins `3.0.12.4` |
 | `FuckAnimationLock` | NiGuangOwO / DalamudPlugins `3.0.17.1` | NiGuangOwO / DalamudPlugins `3.0.13.0` |
 | `FuckAnimationLock` | NiGuangOwO / DalamudPlugins `3.0.17.1` | NiGuangOwO / DalamudPlugins `3.0.14.6` |
@@ -744,13 +744,13 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `AntiAfkKick-Dalamud` | MeowZWR / DalamudPlugin `2.1.0.12` | nite-cat / the-giga-repo `2.1.0.7` |
 | `ARControl` | a1hena/PluginRepository `14.2` | nite-cat / the-giga-repo `6.0` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.18` | nite-cat / the-giga-repo `4.0.2.10` |
-| `AutoDuty` | erdelf `0.0.0.330` | nite-cat / the-giga-repo `0.0.0.182` |
+| `AutoDuty` | erdelf `0.0.0.335` | nite-cat / the-giga-repo `0.0.0.182` |
 | `AutoHook` | Puni.sh (Ment) `6.0.0.91` | nite-cat / the-giga-repo `4.3.1.10` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | nite-cat / the-giga-repo `4.4.3.9` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.12` | nite-cat / the-giga-repo `2.1.0.8` |
 | `Battlevest` | NightmareXIV `1.0.2.3` | nite-cat / the-giga-repo `1.0.1.5` |
 | `BossMod` | Veyn (BossMod) `7.5.5.7` | nite-cat / the-giga-repo `0.0.0.281` |
-| `BossModReborn` | MEGA Repository `7.5.5.50` | nite-cat / the-giga-repo `7.2.0.261` |
+| `BossModReborn` | CombatReborn `7.5.5.50` | nite-cat / the-giga-repo `7.2.0.261` |
 | `Brio` | Sea of Stars `0.8.0.11` | nite-cat / the-giga-repo `0.4.3.1` |
 | `Cammy` | bees-repo `2.1.1.2` | nite-cat / the-giga-repo `2.1.0.10` |
 | `Automaton` | Croizat's Repo `69.204` | nite-cat / the-giga-repo `69.55` |
@@ -791,7 +791,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Questionable` | Puni.sh (Ment) `15.306.2.0` | nite-cat / the-giga-repo `4.13` |
 | `ReAction` | DalamudRepoCollection `69.1.6.5` | nite-cat / the-giga-repo `1.3.4.0` |
 | `RebornToolbox` | CombatReborn `7.5.0.0` | nite-cat / the-giga-repo `7.1.1.1` |
-| `RotationSolver` | MEGA Repository `7.5.5.33` | nite-cat / the-giga-repo `7.1.5.38` |
+| `RotationSolver` | CombatReborn `7.5.5.33` | nite-cat / the-giga-repo `7.1.5.38` |
 | `vsatisfy` | Veyn (BossMod) `0.0.0.37` | nite-cat / the-giga-repo `0.0.0.10` |
 | `Saucy` | Puni.sh (Ment) `2.1.1.17` | nite-cat / the-giga-repo `1.4.1.1` |
 | `SelectString` | NightmareXIV `1.0.1.12` | nite-cat / the-giga-repo `1.0.1.1` |
@@ -902,11 +902,11 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `SpiritbondWatcher` | DalamudRepoCollection `1.1.0.0` | Cyenia / DalamudPlugins `1.7.5.0` |
 | `JobIcons2` | DalamudRepoCollection `6.2.0.2` | Cyenia / DalamudPlugins `6.5.8.0` |
 | `InventoryTools` | Caraxi / DalamudPlugins `1.1.0.6` | dal4kr / Dalamud.Resources `4242.14.1.2` |
-| `BossModReborn` | MEGA Repository `7.5.5.50` | dal4kr / Dalamud.Resources `7.4.5.14` |
+| `BossModReborn` | CombatReborn `7.5.5.50` | dal4kr / Dalamud.Resources `7.4.5.14` |
 | `FCTracker` | erdelf `0.0.0.38` | dexcss / DalamudPlugins `1.9.0.0` |
 | `HOutfits` | HOutfits `0.3.0.0` | Enceladeum / DalamudPlugins `0.3.0.0` |
-| `RotationSolver` | MEGA Repository `7.5.5.33` | fenk19 / DalamudPluginRepo `99.0.1.0` |
-| `BossModReborn` | MEGA Repository `7.5.5.50` | fenk19 / DalamudPluginRepo `99.0.1.0` |
+| `RotationSolver` | CombatReborn `7.5.5.33` | fenk19 / DalamudPluginRepo `99.0.1.0` |
+| `BossModReborn` | CombatReborn `7.5.5.50` | fenk19 / DalamudPluginRepo `99.0.1.0` |
 | `PostMeteion` | DalamudRepoCollection `1.0.0.0` | gamous / PostMeteion `1.0.0.0` |
 | `HypnotoadPlugin` | GiR-Zippo / Hypnotoad-Plugin `0.0.3.2` | GiR-Zippo / PluginMaster `0.0.3.2` |
 | `visland` | Veyn (BossMod) `0.0.0.150` | Glaives-of-Eorzea / FFXIV.Plugin.Distribution `0.0.0.143` |
@@ -923,7 +923,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | KirisameVanilla / Radar `1.0.1.3` |
 | `FakeName` | tigurand/DalamudPlugins `0.3.1.2` | KirisameVanilla / Radar `2.0.0.9` |
 | `GposeCameraSaver` | Gpose Camera Saver `1.0.1.0` | Laboon2501 / DalamudPlugins `1.0.1.0` |
-| `RotationSolver` | MEGA Repository `7.5.5.33` | Lzsony / dalamud-plugins-tw `7.2.5.122` |
+| `RotationSolver` | CombatReborn `7.5.5.33` | Lzsony / dalamud-plugins-tw `7.2.5.122` |
 | `Lifestream` | NightmareXIV `2.5.4.16` | Lzsony / dalamud-plugins-tw `2.5.1.13` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | Lzsony / dalamud-plugins-tw `4.5.1.13` |
 | `Saucy` | Puni.sh (Ment) `2.1.1.17` | Lzsony / dalamud-plugins-tw `1.4.2.0` |
@@ -932,15 +932,15 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `PriceInsight` | Kouzukii DalamudPlugins `2.0.0.0` | Lzsony / dalamud-plugins-tw `2.11.2.2` |
 | `PingPlugin` | Caraxi / DalamudPlugins `2.4.1.0` | Lzsony / dalamud-plugins-tw `2.10.3.0` |
 | `vnavmesh` | Veyn (BossMod) `1.2.3.13` | nihil-string / puppys-plugins `0.0.0.9` |
-| `BossModReborn` | MEGA Repository `7.5.5.50` | nihil-string / puppys-plugins `0.0.0.9` |
+| `BossModReborn` | CombatReborn `7.5.5.50` | nihil-string / puppys-plugins `0.0.0.9` |
 | `TextAdvance` | NightmareXIV `3.3.0.1` | nihil-string / puppys-plugins `3.2.4.12` |
 | `Lifestream` | NightmareXIV `2.5.4.16` | nihil-string / puppys-plugins `2.5.3.26` |
 | `Questionable` | Puni.sh (Ment) `15.306.2.0` | nihil-string / puppys-plugins `5.31` |
-| `AutoDuty` | erdelf `0.0.0.330` | nihil-string / puppys-plugins `0.0.0.307` |
+| `AutoDuty` | erdelf `0.0.0.335` | nihil-string / puppys-plugins `0.0.0.307` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.21` | nihil-string / puppys-plugins `3.7.0.12` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.18` | OLDBAI213 / ff14-dalamud-plugin-zh `4.0.5.16` |
 | `AutoHook` | Puni.sh (Ment) `6.0.0.91` | OLDBAI213 / ff14-dalamud-plugin-zh `6.0.0.68` |
-| `BossModReborn` | MEGA Repository `7.5.5.50` | OLDBAI213 / ff14-dalamud-plugin-zh `7.5.1.23` |
+| `BossModReborn` | CombatReborn `7.5.5.50` | OLDBAI213 / ff14-dalamud-plugin-zh `7.5.1.23` |
 | `GatherBuddyReborn` | CombatReborn `7.5.5.0` | OLDBAI213 / ff14-dalamud-plugin-zh `7.5.0.3` |
 | `ICE` | ICE (Island Sanctuary) `1.0.0.1` | OLDBAI213 / ff14-dalamud-plugin-zh `1.0.0.0` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.20` | OLDBAI213 / ff14-dalamud-plugin-zh `1.0.4.13` |

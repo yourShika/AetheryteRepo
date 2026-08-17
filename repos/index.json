@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-17T15:43:23.146Z",
-  "contentHash": "5b9f759760be1d3b",
-  "totalPlugins": 568,
-  "masterPlugins": 562,
+  "generatedAt": "2026-08-17T18:57:07.552Z",
+  "contentHash": "b3d8ac5ae57fe4bb",
+  "totalPlugins": 569,
+  "masterPlugins": 563,
   "currentApiLevel": 15,
   "minApiLevel": 13,
-  "legacyPlugins": 350,
+  "legacyPlugins": 351,
   "sources": [
     {
       "id": "penumbra",
@@ -147,9 +147,9 @@
       "id": "baanderson40",
       "name": "baanderson40",
       "url": "https://raw.githubusercontent.com/baanderson40/dalamud_plugins/master/repo.json",
-      "status": "stale",
+      "status": "ok",
       "count": 2,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "ohkannaduh",
@@ -227,9 +227,9 @@
       "id": "link-0402-advanced-penumbra-item-converter",
       "name": "Advanced Penumbra Item Converter",
       "url": "https://raw.githubusercontent.com/link-0402/Advanced-Penumbra-Item-Converter/main/repo.json",
-      "status": "stale",
+      "status": "ok",
       "count": 1,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "aetherremote-aetherremote",
@@ -307,9 +307,9 @@
       "id": "anomek-mydalamudplugins",
       "name": "anomek MyDalamudPlugins",
       "url": "https://raw.githubusercontent.com/anomek/MyDalamudPlugins/master/pluginmaster.json",
-      "status": "stale",
+      "status": "ok",
       "count": 3,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "anya-hichu-dalamudpluginrepo",
@@ -323,9 +323,9 @@
       "id": "arcticnw-dalamudplugins",
       "name": "arcticnw/DalamudPlugins",
       "url": "https://raw.githubusercontent.com/arcticnw/DalamudPlugins/main/repo.json",
-      "status": "stale",
+      "status": "ok",
       "count": 4,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "almerisbe-armoire",
@@ -339,9 +339,9 @@
       "id": "selken-ixx-selkendalamud",
       "name": "Armoire Butler / Fashion Check",
       "url": "https://raw.githubusercontent.com/selken-ixx/SelkenDalamud/main/pluginmaster.json",
-      "status": "stale",
+      "status": "ok",
       "count": 2,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "sebane1-roleplayingvoicedalamud",
@@ -427,9 +427,9 @@
       "id": "miragiumxiv-bodyflux",
       "name": "Body Flux",
       "url": "https://raw.githubusercontent.com/miragiumxiv/BodyFlux/master/pluginmaster.json",
-      "status": "stale",
+      "status": "ok",
       "count": 1,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "etheirys-brio",
@@ -451,9 +451,9 @@
       "id": "gist-githubusercontent-com-caiclone-0aad66569dbf",
       "name": "CaiClone gist repo",
       "url": "https://gist.githubusercontent.com/CaiClone/0aad66569dbf63a9bbeec6a8e95a123f/raw/pluginmaster.json",
-      "status": "stale",
+      "status": "ok",
       "count": 1,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "caraxi-dalamudplugins",
@@ -515,9 +515,9 @@
       "id": "critical-impact-pluginrepo",
       "name": "Critical-Impact PluginRepo",
       "url": "https://raw.githubusercontent.com/Critical-Impact/PluginRepo/main/plugins.json",
-      "status": "stale",
+      "status": "ok",
       "count": 1,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "punish-croizat",
@@ -547,9 +547,9 @@
       "id": "daemitus-mydalamudplugins",
       "name": "daemitus MyDalamudPlugins",
       "url": "https://github.com/daemitus/MyDalamudPlugins/raw/master/pluginmaster.json",
-      "status": "stale",
+      "status": "ok",
       "count": 1,
-      "note": "HTTP 404 Not Found"
+      "note": null
     },
     {
       "id": "deccentric-dalamud-depot",
@@ -611,17 +611,17 @@
       "id": "limiana-dynamicbridgestandalone",
       "name": "DynamicBridge Standalone",
       "url": "https://raw.githubusercontent.com/Limiana/DynamicBridgeStandalone/main/pluginmaster.json",
-      "status": "stale",
+      "status": "ok",
       "count": 1,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "echoxiv-com-pluginmaster-json",
       "name": "EchoXIV",
       "url": "https://echoxiv.com/pluginmaster.json",
-      "status": "stale",
+      "status": "ok",
       "count": 5,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "eisenhuth-trustworthydalamudplugins",
@@ -643,9 +643,9 @@
       "id": "murakumo-jp-escape",
       "name": "eScape",
       "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
-      "status": "stale",
+      "status": "ok",
       "count": 13,
-      "note": "HTTP 503 Service Unavailable"
+      "note": null
     },
     {
       "id": "etheirys-worldofetheirys",
@@ -723,9 +723,9 @@
       "id": "lichie567-glamapply",
       "name": "GlamApply",
       "url": "https://raw.githubusercontent.com/lichie567/GlamApply/main/repo.json",
-      "status": "stale",
+      "status": "ok",
       "count": 1,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "elyfura-glamourdocumenter",
@@ -779,9 +779,9 @@
       "id": "reyalexffxiv-gposecast",
       "name": "Gpose Cast",
       "url": "https://raw.githubusercontent.com/reyalexffxiv/GposeCast/master/repo.json",
-      "status": "stale",
+      "status": "ok",
       "count": 1,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "cazzar-gposeutils",
@@ -867,9 +867,9 @@
       "id": "juntalis-dalamudplugins",
       "name": "juntalis/DalamudPlugins",
       "url": "https://raw.githubusercontent.com/juntalis/DalamudPlugins/main/pluginmaster.json",
-      "status": "stale",
+      "status": "ok",
       "count": 1,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "punish-justbees",
@@ -1027,9 +1027,9 @@
       "id": "chalkos-marketbuddy",
       "name": "Marketbuddy",
       "url": "https://raw.githubusercontent.com/Chalkos/Marketbuddy/main/repo.json",
-      "status": "stale",
+      "status": "ok",
       "count": 1,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "maxunit-mydalamudplugins",
@@ -1059,9 +1059,9 @@
       "id": "williamw1979-ffxiv",
       "name": "MEGA Repository",
       "url": "https://raw.githubusercontent.com/WilliamW1979/FFXIV/main/repository.json",
-      "status": "stale",
+      "status": "ok",
       "count": 111,
-      "note": "HTTP 503 first byte timeout"
+      "note": null
     },
     {
       "id": "meisterlala-nekofans",
@@ -1107,9 +1107,9 @@
       "id": "ursabear-mydalamudplugins",
       "name": "MyDalamudPlugins",
       "url": "https://raw.githubusercontent.com/UrsaBear/MyDalamudPlugins/master/pluginmaster.json",
-      "status": "stale",
+      "status": "ok",
       "count": 4,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "grammernatzi-mydalamudplugins",
@@ -1531,9 +1531,9 @@
       "id": "nohideout-timelineanimator",
       "name": "TimelineAnimator",
       "url": "https://raw.githubusercontent.com/NoHideout/TimelineAnimator/master/repo.json",
-      "status": "stale",
+      "status": "ok",
       "count": 1,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "tomestonegg-dalamud-tomestone",
@@ -1555,9 +1555,9 @@
       "id": "blooym-dalamud-travelcase",
       "name": "Travelcase",
       "url": "https://raw.githubusercontent.com/Blooym/Dalamud.Travelcase/main/repo.json",
-      "status": "stale",
+      "status": "ok",
       "count": 1,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "unknownx7-dalamudpluginrepo",
@@ -1715,9 +1715,9 @@
       "id": "adalyia-dalamudplugins",
       "name": "Adalyia / DalamudPlugins",
       "url": "https://raw.githubusercontent.com/Adalyia/DalamudPlugins/main/repo.json",
-      "status": "stale",
+      "status": "ok",
       "count": 4,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "aemiliusxiv-dalamudplugins",
@@ -1803,9 +1803,9 @@
       "id": "boxuchan-hako",
       "name": "BoxuChan / Hako",
       "url": "https://raw.githubusercontent.com/BoxuChan/Hako/main/repo.json",
-      "status": "stale",
+      "status": "ok",
       "count": 4,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "catphinaud-dalamudplugins",
@@ -1827,9 +1827,9 @@
       "id": "cloa-resonant",
       "name": "Cloa / resonant",
       "url": "https://raw.githubusercontent.com/Cloa/resonant/main/repo/latest.json",
-      "status": "stale",
+      "status": "ok",
       "count": 1,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "cycleapple-dalamudplugins-tw",
@@ -1843,9 +1843,9 @@
       "id": "cyenia-dalamudplugins",
       "name": "Cyenia / DalamudPlugins",
       "url": "https://raw.githubusercontent.com/Cyenia/DalamudPlugins/master/pluginmaster.json",
-      "status": "stale",
+      "status": "ok",
       "count": 5,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "dajoey-lalalazy",
@@ -1931,9 +1931,9 @@
       "id": "ffxiv-sonar-sonarrepo",
       "name": "FFXIV-Sonar / SonarRepo",
       "url": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/pluginmaster.json",
-      "status": "stale",
+      "status": "ok",
       "count": 3,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "flawedbliss-dalamudplugins",
@@ -1971,9 +1971,9 @@
       "id": "gir-zippo-pluginmaster",
       "name": "GiR-Zippo / PluginMaster",
       "url": "https://raw.githubusercontent.com/GiR-Zippo/PluginMaster/main/pluginmaster.json",
-      "status": "stale",
+      "status": "ok",
       "count": 3,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "gitpaulo-dalamudrepo",
@@ -2019,9 +2019,9 @@
       "id": "ifan0927-ffxivtc-plugins-pack",
       "name": "ifan0927 / FFXIVTC_Plugins_Pack",
       "url": "https://raw.githubusercontent.com/ifan0927/FFXIVTC_Plugins_Pack/main/repo.json",
-      "status": "stale",
+      "status": "ok",
       "count": 2,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "j3sven-j3plugins",
@@ -2171,9 +2171,9 @@
       "id": "pffxivtools-ffxiv-bard-plugins-linux",
       "name": "pffxivtools / ffxiv-bard-plugins-linux",
       "url": "https://raw.githubusercontent.com/pffxivtools/ffxiv-bard-plugins-linux/main/pluginmaster.json",
-      "status": "stale",
+      "status": "ok",
       "count": 3,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "pistachio-dev-dalamudpluginrepository",
@@ -2204,7 +2204,7 @@
       "name": "Recursive-Entity-Matrix / NostraPlugins",
       "url": "https://raw.githubusercontent.com/Recursive-Entity-Matrix/NostraPlugins/main/pluginmaster.json",
       "status": "ok",
-      "count": 1,
+      "count": 3,
       "note": null
     },
     {
@@ -2227,9 +2227,9 @@
       "id": "ryonive-xivplugins",
       "name": "ryonive / XIVPlugins",
       "url": "https://raw.githubusercontent.com/ryonive/XIVPlugins/main/repo.json",
-      "status": "stale",
+      "status": "ok",
       "count": 4,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "scytraiin-mydalamudplugins",
@@ -2243,9 +2243,9 @@
       "id": "thakyz-mydalamudplugins",
       "name": "thakyZ / MyDalamudPlugins",
       "url": "https://raw.githubusercontent.com/thakyZ/MyDalamudPlugins/main/pluginmaster.json",
-      "status": "stale",
+      "status": "ok",
       "count": 4,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "theredheadedwitch-ffxivrepository",
@@ -2283,9 +2283,9 @@
       "id": "wasdcxz-dalamudplugins",
       "name": "wasdcxz / DalamudPlugins",
       "url": "https://raw.githubusercontent.com/wasdcxz/DalamudPlugins/main/pluginmaster.json",
-      "status": "stale",
+      "status": "ok",
       "count": 3,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "wigglycorp-dalamudplugins",
@@ -2315,9 +2315,9 @@
       "id": "yagi2-dalamud-plugins",
       "name": "yagi2 / dalamud-plugins",
       "url": "https://raw.githubusercontent.com/yagi2/dalamud-plugins/main/repo.json",
-      "status": "stale",
+      "status": "ok",
       "count": 3,
-      "note": "HTTP 429 Too Many Requests"
+      "note": null
     },
     {
       "id": "yhumi-plogons",
@@ -2366,7 +2366,7 @@
       "name": "Crafting & Gathering",
       "emoji": "⚒️",
       "description": "Handwerk, Sammeln, Marktbrett",
-      "count": 23,
+      "count": 24,
       "file": "repos/crafting.json"
     },
     {
@@ -2457,10 +2457,10 @@
     },
     {
       "internalName": "BossModReborn",
-      "kept": "44451516-ff14 / BossmodRebornCN",
-      "dropped": "CombatReborn",
-      "keptVersion": "7.5.0.41",
-      "droppedVersion": "7.2.0.144"
+      "kept": "CombatReborn",
+      "dropped": "44451516-ff14 / BossmodRebornCN",
+      "keptVersion": "7.5.5.50",
+      "droppedVersion": "7.5.0.41"
     },
     {
       "internalName": "CustomizePlus",
@@ -2543,7 +2543,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.330",
+      "keptVersion": "0.0.0.335",
       "droppedVersion": "0.0.0.330"
     },
     {
@@ -3320,7 +3320,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.330",
+      "keptVersion": "0.0.0.335",
       "droppedVersion": "0.0.0.330"
     },
     {
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,25 +3618,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "PalacePal",
+      "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
-    },
-    {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
-    },
-    {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
     },
     {
       "internalName": "AutoHook",
@@ -3653,11 +3632,25 @@
       "droppedVersion": "6.0.0.91"
     },
     {
-      "internalName": "AutoRetainer",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.27",
-      "droppedVersion": "4.6.1.27"
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
+    },
+    {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "Marketbuddy",
@@ -3667,11 +3660,11 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "Questionable",
+      "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.306.2.0",
-      "droppedVersion": "15.306.2.0"
+      "keptVersion": "4.6.1.27",
+      "droppedVersion": "4.6.1.27"
     },
     {
       "internalName": "Splatoon",
@@ -3679,6 +3672,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.21",
       "droppedVersion": "3.9.2.21"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.2.0",
+      "droppedVersion": "15.306.2.0"
     },
     {
       "internalName": "WrathCombo",
@@ -3983,17 +3983,17 @@
     },
     {
       "internalName": "RotationSolver",
-      "kept": "MEGA Repository",
-      "dropped": "CombatReborn",
+      "kept": "CombatReborn",
+      "dropped": "MEGA Repository",
       "keptVersion": "7.5.5.33",
-      "droppedVersion": "7.2.0.40"
+      "droppedVersion": "7.5.5.33"
     },
     {
       "internalName": "BossModReborn",
-      "kept": "MEGA Repository",
-      "dropped": "44451516-ff14 / BossmodRebornCN",
+      "kept": "CombatReborn",
+      "dropped": "MEGA Repository",
       "keptVersion": "7.5.5.50",
-      "droppedVersion": "7.5.0.41"
+      "droppedVersion": "7.5.5.50"
     },
     {
       "internalName": "ActionTimelineReborn",
@@ -4515,7 +4515,7 @@
     },
     {
       "internalName": "BossModReborn",
-      "kept": "MEGA Repository",
+      "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.5.50",
       "droppedVersion": "7.5.5.48"
@@ -4830,7 +4830,7 @@
     },
     {
       "internalName": "RotationSolver",
-      "kept": "MEGA Repository",
+      "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.5.33",
       "droppedVersion": "7.5.5.32"
@@ -5131,21 +5131,21 @@
     },
     {
       "internalName": "BossModReborn",
-      "kept": "MEGA Repository",
+      "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.5.50",
       "droppedVersion": "7.5.5.50"
     },
     {
       "internalName": "BossModReborn",
-      "kept": "MEGA Repository",
+      "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.5.50",
       "droppedVersion": "7.3.5.27"
     },
     {
       "internalName": "BossModReborn",
-      "kept": "MEGA Repository",
+      "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.5.50",
       "droppedVersion": "7.4.5.18"
@@ -5357,7 +5357,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.330",
+      "keptVersion": "0.0.0.335",
       "droppedVersion": "0.0.0.182"
     },
     {
@@ -5397,7 +5397,7 @@
     },
     {
       "internalName": "BossModReborn",
-      "kept": "MEGA Repository",
+      "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
       "keptVersion": "7.5.5.50",
       "droppedVersion": "7.2.0.261"
@@ -5684,7 +5684,7 @@
     },
     {
       "internalName": "RotationSolver",
-      "kept": "MEGA Repository",
+      "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
       "keptVersion": "7.5.5.33",
       "droppedVersion": "7.1.5.38"
@@ -6461,7 +6461,7 @@
     },
     {
       "internalName": "BossModReborn",
-      "kept": "MEGA Repository",
+      "kept": "CombatReborn",
       "dropped": "dal4kr / Dalamud.Resources",
       "keptVersion": "7.5.5.50",
       "droppedVersion": "7.4.5.14"
@@ -6482,14 +6482,14 @@
     },
     {
       "internalName": "RotationSolver",
-      "kept": "MEGA Repository",
+      "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
       "keptVersion": "7.5.5.33",
       "droppedVersion": "99.0.1.0"
     },
     {
       "internalName": "BossModReborn",
-      "kept": "MEGA Repository",
+      "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
       "keptVersion": "7.5.5.50",
       "droppedVersion": "99.0.1.0"
@@ -6608,7 +6608,7 @@
     },
     {
       "internalName": "RotationSolver",
-      "kept": "MEGA Repository",
+      "kept": "CombatReborn",
       "dropped": "Lzsony / dalamud-plugins-tw",
       "keptVersion": "7.5.5.33",
       "droppedVersion": "7.2.5.122"
@@ -6671,7 +6671,7 @@
     },
     {
       "internalName": "BossModReborn",
-      "kept": "MEGA Repository",
+      "kept": "CombatReborn",
       "dropped": "nihil-string / puppys-plugins",
       "keptVersion": "7.5.5.50",
       "droppedVersion": "0.0.0.9"
@@ -6701,7 +6701,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "0.0.0.330",
+      "keptVersion": "0.0.0.335",
       "droppedVersion": "0.0.0.307"
     },
     {
@@ -6727,7 +6727,7 @@
     },
     {
       "internalName": "BossModReborn",
-      "kept": "MEGA Repository",
+      "kept": "CombatReborn",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
       "keptVersion": "7.5.5.50",
       "droppedVersion": "7.5.1.23"
