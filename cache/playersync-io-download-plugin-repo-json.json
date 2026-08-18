@@ -1,15 +1,14 @@
 {
   "sourceId": "playersync-io-download-plugin-repo-json",
   "url": "https://playersync.io/download/plugin/repo.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-08-18",
   "count": 1,
   "plugins": [
     {
       "Author": "The PlayerSync Team",
       "Name": "PlayerSync",
       "InternalName": "MareSempiterne",
-      "AssemblyVersion": "1.15.3.10",
-      "TestingAssemblyVersion": "1.15.4.4",
+      "AssemblyVersion": "1.15.4.7",
       "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
       "ApplicableVersion": "any",
       "RepoUrl": "",
@@ -17,7 +16,6 @@
         "customization"
       ],
       "DalamudApiLevel": 15,
-      "TestingDalamudApiLevel": 15,
       "LoadRequiredState": 0,
       "LoadSync": false,
       "CanUnloadAsync": false,
