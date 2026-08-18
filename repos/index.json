@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T15:45:56.663Z",
-  "contentHash": "6176cbedaaecf5e4",
+  "generatedAt": "2026-08-18T18:55:54.208Z",
+  "contentHash": "e7713ae8fb100469",
   "totalPlugins": 569,
   "masterPlugins": 563,
   "currentApiLevel": 15,
@@ -3625,13 +3625,6 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3653,11 +3646,11 @@
       "droppedVersion": "6.0.0.91"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "AutoRetainer",
@@ -3665,6 +3658,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.6.1.27",
       "droppedVersion": "4.6.1.27"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Splatoon",
