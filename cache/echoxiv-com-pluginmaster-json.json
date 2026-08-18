@@ -1,7 +1,7 @@
 {
   "sourceId": "echoxiv-com-pluginmaster-json",
   "url": "https://echoxiv.com/pluginmaster.json",
-  "fetchedAt": "2026-08-17",
+  "fetchedAt": "2026-08-18",
   "count": 5,
   "plugins": [
     {
@@ -106,10 +106,10 @@
       "Author": "jFray",
       "Name": "EchoGlam",
       "InternalName": "EchoGlam.Plugin",
-      "AssemblyVersion": "1.1.0.0",
+      "AssemblyVersion": "1.1.0.1",
       "Description": "Dress your character in any item in the game from a searchable in-game wardrobe, dye every slot, edit full appearance and save named outfits. Then publish the look to a community catalogue you can browse, filter, vote on and favourite without leaving the game - and put anyone else's glamour on with one click, with a revert that is always one click away. No other plugins required.",
       "Punchline": "Build a glamour, share it, and wear anyone else's.",
-      "LastUpdate": 1786912382,
+      "LastUpdate": 1787022902,
       "Changelog": "Added Friends. Turn on Glamour Sharing, then right-click somebody in game and choose Add EchoGlam Friend.\nFriends see the glamours you wear, and you see theirs. Nobody else does, and nothing about you is shared until you turn it on.\nOutfit changes show on your friends' screens as you make them, along with the appearance you are wearing.\nAn outfit's swap animation plays on their screen too, at the same moment it plays on yours.\nHide a friend's glamours without unfriending them, from their row in the Friends tab.\nTurning sharing off stops anyone looking you up, and keeps your friends.\n/eg opens EchoGlam, the same as /echoglam.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://echoxiv.com",

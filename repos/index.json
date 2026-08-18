@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T01:50:08.195Z",
-  "contentHash": "fcfa87c024853600",
+  "generatedAt": "2026-08-18T03:57:37.470Z",
+  "contentHash": "034b8d9616d8367a",
   "totalPlugins": 569,
   "masterPlugins": 563,
   "currentApiLevel": 15,
@@ -2565,7 +2565,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
       "keptVersion": "7.5.5.8",
-      "droppedVersion": "7.5.5.7"
+      "droppedVersion": "7.5.5.8"
     },
     {
       "internalName": "Brio",
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,11 +3618,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
     },
     {
       "internalName": "PalacePal",
@@ -3637,6 +3630,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.16.0.0",
       "droppedVersion": "4.16.0.0"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "YesAlready",
@@ -3653,18 +3653,18 @@
       "droppedVersion": "6.0.0.91"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.6.1.27",
       "droppedVersion": "4.6.1.27"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Splatoon",
@@ -6986,10 +6986,10 @@
     },
     {
       "internalName": "MasterOfPuppets",
-      "kept": "zunetrix / DalamudPlugins",
-      "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
+      "kept": "pffxivtools / ffxiv-bard-plugins-linux",
+      "dropped": "zunetrix / DalamudPlugins",
       "keptVersion": "1.15.0.227",
-      "droppedVersion": "1.15.0.225"
+      "droppedVersion": "1.15.0.227"
     }
   ]
 }
