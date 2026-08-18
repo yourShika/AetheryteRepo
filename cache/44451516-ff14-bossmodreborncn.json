@@ -1,15 +1,15 @@
 {
   "sourceId": "44451516-ff14-bossmodreborncn",
   "url": "https://raw.githubusercontent.com/44451516-ff14/BossmodRebornCN/refs/heads/main/pluginmaster.json",
-  "fetchedAt": "2026-08-17",
+  "fetchedAt": "2026-08-18",
   "count": 1,
   "plugins": [
     {
       "Author": "The Combat Reborn Team",
       "Name": "Bossmod Reborn",
       "InternalName": "BossModReborn",
-      "AssemblyVersion": "7.5.0.41",
-      "Description": "20260817-请支持逆光喵，谢谢喵-画得更全喵",
+      "AssemblyVersion": "7.5.0.42",
+      "Description": "20260818-请支持逆光喵，谢谢喵-画得更全喵",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/44451516-ff14/BossmodRebornCN",
       "Changelog": "请支持逆光喵，谢谢喵",
