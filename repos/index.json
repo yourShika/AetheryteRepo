@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T13:07:59.805Z",
-  "contentHash": "ee1336bcbd60106b",
+  "generatedAt": "2026-08-19T15:45:57.454Z",
+  "contentHash": "75f7068cb1714527",
   "totalPlugins": 569,
   "masterPlugins": 563,
   "currentApiLevel": 15,
@@ -2670,7 +2670,7 @@
       "kept": "Sea of Stars",
       "dropped": "bees-repo",
       "keptVersion": "0.11.1.9",
-      "droppedVersion": "0.11.1.8"
+      "droppedVersion": "0.11.1.9"
     },
     {
       "internalName": "Splatoon",
@@ -3632,6 +3632,13 @@
       "droppedVersion": "4.16.0.0"
     },
     {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3644,13 +3651,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "6.0.0.91",
       "droppedVersion": "6.0.0.91"
-    },
-    {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "AutoRetainer",
@@ -3670,8 +3670,8 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.306.2.3",
-      "droppedVersion": "15.306.2.3"
+      "keptVersion": "15.306.2.4",
+      "droppedVersion": "15.306.2.4"
     },
     {
       "internalName": "Splatoon",
@@ -4797,7 +4797,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.306.2.3",
+      "keptVersion": "15.306.2.4",
       "droppedVersion": "15.306.2.2"
     },
     {
@@ -5665,7 +5665,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.306.2.3",
+      "keptVersion": "15.306.2.4",
       "droppedVersion": "4.13"
     },
     {
@@ -6694,7 +6694,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.306.2.3",
+      "keptVersion": "15.306.2.4",
       "droppedVersion": "5.31"
     },
     {
@@ -6960,7 +6960,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.306.2.3",
+      "keptVersion": "15.306.2.4",
       "droppedVersion": "7.5.12"
     },
     {
