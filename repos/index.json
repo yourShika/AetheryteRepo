@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T15:45:57.454Z",
-  "contentHash": "75f7068cb1714527",
+  "generatedAt": "2026-08-19T18:52:55.601Z",
+  "contentHash": "aa7205865ff965a7",
   "totalPlugins": 569,
   "masterPlugins": 563,
   "currentApiLevel": 15,
@@ -3625,6 +3625,13 @@
       "droppedVersion": "2.2.0.12"
     },
     {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
+    },
+    {
       "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3639,25 +3646,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "6.0.0.91",
       "droppedVersion": "6.0.0.91"
-    },
-    {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.27",
-      "droppedVersion": "4.6.1.27"
     },
     {
       "internalName": "Marketbuddy",
@@ -3667,11 +3660,11 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "Questionable",
+      "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.306.2.4",
-      "droppedVersion": "15.306.2.4"
+      "keptVersion": "4.6.1.27",
+      "droppedVersion": "4.6.1.27"
     },
     {
       "internalName": "Splatoon",
@@ -3681,6 +3674,13 @@
       "droppedVersion": "3.9.2.21"
     },
     {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.2.4",
+      "droppedVersion": "15.306.2.4"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "1.0.4.20"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.1.17",
-      "droppedVersion": "2.1.1.17"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.18",
       "droppedVersion": "4.0.5.18"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.1.17",
+      "droppedVersion": "2.1.1.17"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -6792,7 +6792,7 @@
       "internalName": "ChocoboRacingGamba",
       "kept": "OOF Games",
       "dropped": "OOFGamesss / OOFGamesPlugins",
-      "keptVersion": "1.0.4.1",
+      "keptVersion": "1.0.5.0",
       "droppedVersion": "1.0.0.1"
     },
     {

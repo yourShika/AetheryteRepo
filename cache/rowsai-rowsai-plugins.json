@@ -1,7 +1,7 @@
 {
   "sourceId": "rowsai-rowsai-plugins",
   "url": "https://raw.githubusercontent.com/Rowsai/Rowsai-Plugins/main/pluginmaster.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-08-19",
   "count": 5,
   "plugins": [
     {
@@ -127,11 +127,11 @@
     {
       "Author": "Rowsai",
       "Name": "Phase DPS Checker",
-      "Punchline": "Checks DPS and action usage by phase.",
-      "Description": "FFXIV Dalamud plugin for reviewing phase DPS and action usage.",
+      "Punchline": "ACT互換集計をフェーズ単位で表示します。",
+      "Description": "IINACTのCombatDataをWebSocketまたはIPCから取得し、DPS、総ダメージ、回復量、Crit/DH率、被ダメージをフェーズ単位で表示します。IINACT未接続時はActionEffect集計へフォールバックします。",
       "Changelog": "https://github.com/Rowsai/PhaseDpsChecker/releases",
       "InternalName": "PhaseDpsChecker",
-      "AssemblyVersion": "0.10.0.0",
+      "AssemblyVersion": "0.11.1.0",
       "RepoUrl": "https://github.com/Rowsai/PhaseDpsChecker",
       "ApplicableVersion": "any",
       "Tags": [
@@ -147,7 +147,7 @@
       "IsHide": false,
       "IsTestingExclusive": false,
       "DownloadCount": 0,
-      "LastUpdate": "1784269479",
+      "LastUpdate": "1787158424",
       "_SourceId": "rowsai-rowsai-plugins",
       "_SourceName": "Rowsai / Rowsai-Plugins",
       "_SourceUrl": "https://raw.githubusercontent.com/Rowsai/Rowsai-Plugins/main/pluginmaster.json"
