@@ -1,6 +1,6 @@
 # Status
 
-Zuletzt aktualisiert: **2026-08-19 07:05 UTC**
+Zuletzt aktualisiert: **2026-08-19 09:49 UTC**
 
 - Plugins im Master-Feed: **563**
 - Plugins insgesamt (inkl. 18+): **569**
@@ -360,7 +360,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | bees-repo `1.6.4.4` |
 | `Penumbra` | Penumbra `1.6.1.12` | bees-repo `1.6.1.12` |
 | `Saucy` | Puni.sh (Ment) `2.1.1.17` | bees-repo `2.1.1.17` |
-| `SimpleHeels` | Sea of Stars `0.11.1.8` | bees-repo `0.11.1.8` |
+| `SimpleHeels` | Sea of Stars `0.11.1.9` | bees-repo `0.11.1.8` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.21` | bees-repo `3.9.2.21` |
 | `UnloadErrorFuckOff` | NightmareXIV `1.0.0.10` | bees-repo `1.0.0.10` |
 | `visland` | Veyn (BossMod) `0.0.0.150` | bees-repo `0.0.0.150` |
@@ -371,7 +371,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Brio` | Sea of Stars `0.8.0.11` | Brio `0.2.1.9` |
 | `JobBars` | a1hena/PluginRepository `1.3.2.0` | Caraxi / DalamudPlugins `1.2.2.1` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | Caraxi / MyPlugins `1.0.0.5` |
-| `SimpleHeels` | Sea of Stars `0.11.1.8` | Caraxi plugin repo `0.11.1.8` |
+| `SimpleHeels` | Sea of Stars `0.11.1.9` | Caraxi plugin repo `0.11.1.9` |
 | `CustomizePlus` | Sea of Stars `2.2.0.3` | CustomizePlus `2.2.0.3` |
 | `Cammy` | bees-repo `2.1.1.2` | DalamudPluginRepo `2.0.3.5` |
 | `NoClippy` | bees-repo `0.5.0.24` | DalamudPluginRepo `0.4.0.12` |
@@ -443,7 +443,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `ChatGPTPlugin` | Eisenhuth / TrustworthyDalamudPlugins `1.1.2.6` | DalamudRepoCollection `1.0.0.0` |
 | `Penumbra` | Penumbra `1.6.1.12` | eScape `1.6.1.12` |
 | `Glamourer` | Glamourer `1.6.1.7` | eScape `1.6.1.7` |
-| `SimpleHeels` | Sea of Stars `0.11.1.8` | eScape `0.11.1.8` |
+| `SimpleHeels` | Sea of Stars `0.11.1.9` | eScape `0.11.1.9` |
 | `Brio` | Sea of Stars `0.8.0.11` | eScape `0.8.0.11` |
 | `BDTHPlugin` | bees-repo `1.7.4.1` | eScape `1.7.4.1` |
 | `visland` | Veyn (BossMod) `0.0.0.150` | eScape `0.0.0.150` |
@@ -495,16 +495,16 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | Marketbuddy `0.2.4.1` |
 | `StartupCommands` | Maxunit / MyDalamudPlugins `1.3.0.1` | DalamudRepoCollection `1.1.0.2` |
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
-| `Avarice` | Puni.sh (Ment) `2.2.0.12` | MEGA Repository `2.2.0.12` |
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
+| `Avarice` | Puni.sh (Ment) `2.2.0.12` | MEGA Repository `2.2.0.12` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
-| `YesAlready` | Puni.sh (Ment) `1.15.3.0` | MEGA Repository `1.15.3.0` |
-| `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
 | `AutoHook` | Puni.sh (Ment) `6.0.0.91` | MEGA Repository `6.0.0.91` |
+| `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
+| `YesAlready` | Puni.sh (Ment) `1.15.3.0` | MEGA Repository `1.15.3.0` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | MEGA Repository `4.6.1.27` |
-| `Questionable` | Puni.sh (Ment) `15.306.2.3` | MEGA Repository `15.306.2.3` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.21` | MEGA Repository `3.9.2.21` |
+| `Questionable` | Puni.sh (Ment) `15.306.2.3` | MEGA Repository `15.306.2.3` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.20` | MEGA Repository `1.0.4.20` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.18` | MEGA Repository `4.0.5.18` |
 | `Saucy` | Puni.sh (Ment) `2.1.1.17` | MEGA Repository `2.1.1.17` |
@@ -578,7 +578,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Glamourer` | Glamourer `1.6.1.7` | MEGA Repository `1.6.1.7` |
 | `Penumbra` | Penumbra `1.6.1.12` | MEGA Repository `1.6.1.12` |
 | `CustomizePlus` | Sea of Stars `2.2.0.3` | MEGA Repository `2.2.0.3` |
-| `SimpleHeels` | Sea of Stars `0.11.1.8` | MEGA Repository `0.11.1.8` |
+| `SimpleHeels` | Sea of Stars `0.11.1.9` | MEGA Repository `0.11.1.9` |
 | `heliosphere-plugin` | Sea of Stars `4.10.3.0` | MEGA Repository `4.10.3.0` |
 | `Ktisis` | Sea of Stars `0.4.0.5` | MEGA Repository `0.4.0.5` |
 | `Brio` | Sea of Stars `0.8.0.11` | MEGA Repository `0.8.0.11` |
@@ -593,7 +593,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `NekoLewd` | Meisterlala / NekoFans `1.0.11` | DalamudRepoCollection `1.0.1` |
 | `Penumbra` | Penumbra `1.6.1.12` | MeowZWR / DalamudPlugin `1.6.1.12` |
 | `Glamourer` | Glamourer `1.6.1.7` | MeowZWR / DalamudPlugin `1.6.1.8` |
-| `SimpleHeels` | Sea of Stars `0.11.1.8` | MeowZWR / DalamudPlugin `0.11.1.5` |
+| `SimpleHeels` | Sea of Stars `0.11.1.9` | MeowZWR / DalamudPlugin `0.11.1.5` |
 | `CustomizePlus` | Sea of Stars `2.2.0.3` | MeowZWR / DalamudPlugin `2.2.0.2` |
 | `Brio` | Sea of Stars `0.8.0.11` | MeowZWR / DalamudPlugin `0.8.0.10` |
 | `Ktisis` | Sea of Stars `0.4.0.5` | MeowZWR / DalamudPlugin `0.4.0.5` |
@@ -672,7 +672,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `RotationSolver` | CombatReborn `7.5.5.33` | NexusFFXIV DalamudRepo `7.5.5.33` |
 | `Saucy` | Puni.sh (Ment) `2.1.1.17` | NexusFFXIV DalamudRepo `2.1.1.17` |
 | `SelectString` | NightmareXIV `1.0.1.12` | NexusFFXIV DalamudRepo `1.0.1.12` |
-| `SimpleHeels` | Sea of Stars `0.11.1.8` | NexusFFXIV DalamudRepo `0.11.1.8` |
+| `SimpleHeels` | Sea of Stars `0.11.1.9` | NexusFFXIV DalamudRepo `0.11.1.8` |
 | `SkipCutscene` | KangasZ / DalamudPluginRepository `3.0.1.5` | NexusFFXIV DalamudRepo `1.2.3.2` |
 | `SmartPings` | Proximity Voice Chat `0.3.12.0` | NexusFFXIV DalamudRepo `0.3.12.0` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.21` | NexusFFXIV DalamudRepo `3.9.2.21` |
@@ -795,7 +795,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `vsatisfy` | Veyn (BossMod) `0.0.0.37` | nite-cat / the-giga-repo `0.0.0.10` |
 | `Saucy` | Puni.sh (Ment) `2.1.1.17` | nite-cat / the-giga-repo `1.4.1.1` |
 | `SelectString` | NightmareXIV `1.0.1.12` | nite-cat / the-giga-repo `1.0.1.1` |
-| `SimpleHeels` | Sea of Stars `0.11.1.8` | nite-cat / the-giga-repo `0.10.3.0` |
+| `SimpleHeels` | Sea of Stars `0.11.1.9` | nite-cat / the-giga-repo `0.10.3.0` |
 | `SliceIsRight` | nite-cat / the-giga-repo `9.0` | DalamudRepoCollection `4.1.0.1` |
 | `SomethingNeedDoing` | Croizat's Repo `15.8` | nite-cat / the-giga-repo `1.62` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.21` | nite-cat / the-giga-repo `3.7.4.6` |
@@ -890,7 +890,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Skippy` | Hako / 箱 `2.2.4.2` | BoxuChan / Hako `2.2.4.2` |
 | `Resonant` | DalamudRepoCollection `0.0.0.6` | Cloa / resonant `0.0.0.6` |
 | `Penumbra` | Penumbra `1.6.1.12` | cycleapple / DalamudPlugins-TW `1.5.1.26` |
-| `SimpleHeels` | Sea of Stars `0.11.1.8` | cycleapple / DalamudPlugins-TW `0.10.7.5` |
+| `SimpleHeels` | Sea of Stars `0.11.1.9` | cycleapple / DalamudPlugins-TW `0.10.7.5` |
 | `Brio` | Sea of Stars `0.8.0.11` | cycleapple / DalamudPlugins-TW `0.5.2.2` |
 | `Ktisis` | Sea of Stars `0.4.0.5` | cycleapple / DalamudPlugins-TW `0.3.14.5` |
 | `Glamourer` | Glamourer `1.6.1.7` | cycleapple / DalamudPlugins-TW `1.5.0.13` |

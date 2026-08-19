@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T07:05:11.173Z",
-  "contentHash": "0875f05c3da34a35",
+  "generatedAt": "2026-08-19T09:49:04.025Z",
+  "contentHash": "52600b04a40393ca",
   "totalPlugins": 569,
   "masterPlugins": 563,
   "currentApiLevel": 15,
@@ -2669,7 +2669,7 @@
       "internalName": "SimpleHeels",
       "kept": "Sea of Stars",
       "dropped": "bees-repo",
-      "keptVersion": "0.11.1.8",
+      "keptVersion": "0.11.1.9",
       "droppedVersion": "0.11.1.8"
     },
     {
@@ -2746,8 +2746,8 @@
       "internalName": "SimpleHeels",
       "kept": "Sea of Stars",
       "dropped": "Caraxi plugin repo",
-      "keptVersion": "0.11.1.8",
-      "droppedVersion": "0.11.1.8"
+      "keptVersion": "0.11.1.9",
+      "droppedVersion": "0.11.1.9"
     },
     {
       "internalName": "CustomizePlus",
@@ -3250,8 +3250,8 @@
       "internalName": "SimpleHeels",
       "kept": "Sea of Stars",
       "dropped": "eScape",
-      "keptVersion": "0.11.1.8",
-      "droppedVersion": "0.11.1.8"
+      "keptVersion": "0.11.1.9",
+      "droppedVersion": "0.11.1.9"
     },
     {
       "internalName": "Brio",
@@ -3611,18 +3611,18 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "Avarice",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.12",
-      "droppedVersion": "2.2.0.12"
-    },
-    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.6.4.4",
       "droppedVersion": "1.6.4.4"
+    },
+    {
+      "internalName": "Avarice",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.0.12",
+      "droppedVersion": "2.2.0.12"
     },
     {
       "internalName": "LazyLoot",
@@ -3632,11 +3632,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
+      "keptVersion": "6.0.0.91",
+      "droppedVersion": "6.0.0.91"
     },
     {
       "internalName": "PalacePal",
@@ -3646,11 +3646,11 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.91",
-      "droppedVersion": "6.0.0.91"
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "Marketbuddy",
@@ -3667,18 +3667,18 @@
       "droppedVersion": "4.6.1.27"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.306.2.3",
-      "droppedVersion": "15.306.2.3"
-    },
-    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.21",
       "droppedVersion": "3.9.2.21"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.2.3",
+      "droppedVersion": "15.306.2.3"
     },
     {
       "internalName": "WrathCombo",
@@ -4195,8 +4195,8 @@
       "internalName": "SimpleHeels",
       "kept": "Sea of Stars",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.11.1.8",
-      "droppedVersion": "0.11.1.8"
+      "keptVersion": "0.11.1.9",
+      "droppedVersion": "0.11.1.9"
     },
     {
       "internalName": "heliosphere-plugin",
@@ -4300,7 +4300,7 @@
       "internalName": "SimpleHeels",
       "kept": "Sea of Stars",
       "dropped": "MeowZWR / DalamudPlugin",
-      "keptVersion": "0.11.1.8",
+      "keptVersion": "0.11.1.9",
       "droppedVersion": "0.11.1.5"
     },
     {
@@ -4853,7 +4853,7 @@
       "internalName": "SimpleHeels",
       "kept": "Sea of Stars",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "0.11.1.8",
+      "keptVersion": "0.11.1.9",
       "droppedVersion": "0.11.1.8"
     },
     {
@@ -5714,7 +5714,7 @@
       "internalName": "SimpleHeels",
       "kept": "Sea of Stars",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.11.1.8",
+      "keptVersion": "0.11.1.9",
       "droppedVersion": "0.10.3.0"
     },
     {
@@ -6379,7 +6379,7 @@
       "internalName": "SimpleHeels",
       "kept": "Sea of Stars",
       "dropped": "cycleapple / DalamudPlugins-TW",
-      "keptVersion": "0.11.1.8",
+      "keptVersion": "0.11.1.9",
       "droppedVersion": "0.10.7.5"
     },
     {
