@@ -1,6 +1,6 @@
 # Status
 
-Zuletzt aktualisiert: **2026-08-18 21:37 UTC**
+Zuletzt aktualisiert: **2026-08-19 01:52 UTC**
 
 - Plugins im Master-Feed: **563**
 - Plugins insgesamt (inkl. 18+): **569**
@@ -495,19 +495,19 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | Marketbuddy `0.2.4.1` |
 | `StartupCommands` | Maxunit / MyDalamudPlugins `1.3.0.1` | DalamudRepoCollection `1.1.0.2` |
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
-| `Avarice` | Puni.sh (Ment) `2.2.0.12` | MEGA Repository `2.2.0.12` |
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
-| `AutoHook` | Puni.sh (Ment) `6.0.0.91` | MEGA Repository `6.0.0.91` |
+| `Avarice` | Puni.sh (Ment) `2.2.0.12` | MEGA Repository `2.2.0.12` |
 | `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
+| `AutoHook` | Puni.sh (Ment) `6.0.0.91` | MEGA Repository `6.0.0.91` |
 | `YesAlready` | Puni.sh (Ment) `1.15.3.0` | MEGA Repository `1.15.3.0` |
-| `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | MEGA Repository `4.6.1.27` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
-| `Splatoon` | Puni.sh (Ment) `3.9.2.21` | MEGA Repository `3.9.2.21` |
+| `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | MEGA Repository `4.6.1.27` |
 | `Questionable` | Puni.sh (Ment) `15.306.2.2` | MEGA Repository `15.306.2.2` |
+| `Splatoon` | Puni.sh (Ment) `3.9.2.21` | MEGA Repository `3.9.2.21` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.20` | MEGA Repository `1.0.4.20` |
-| `Artisan` | Puni.sh (Ment) `4.0.5.18` | MEGA Repository `4.0.5.18` |
 | `Saucy` | Puni.sh (Ment) `2.1.1.17` | MEGA Repository `2.1.1.17` |
+| `Artisan` | Puni.sh (Ment) `4.0.5.18` | MEGA Repository `4.0.5.18` |
 | `XIVComboExpanded` | daemitus MyDalamudPlugins `2.0.6.2` | MEGA Repository `2.0.6.2` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | MEGA Repository `1.3.1.4` |
 | `AutoPillion` | Aida-Enna XIVPlugins `1.0.0.5` | MEGA Repository `1.0.0.5` |
@@ -573,7 +573,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Inviter` | Bluefissure DalamudPlugins `1.1.4.0` | MEGA Repository `1.1.4.0` |
 | `SmartVote` | Bluefissure DalamudPlugins `1.0.3.1` | MEGA Repository `1.0.3.1` |
 | `WindowLocker` | Bluefissure DalamudPlugins `1.0.1.0` | MEGA Repository `1.0.1.0` |
-| `HuntAlerts` | Asuna's Repo `1.4.1.4` | MEGA Repository `1.4.1.4` |
+| `HuntAlerts` | Asuna's Repo `1.4.1.6` | MEGA Repository `1.4.1.4` |
 | `HypnotoadPlugin` | GiR-Zippo / Hypnotoad-Plugin `0.0.3.2` | MEGA Repository `0.0.3.2` |
 | `Glamourer` | Glamourer `1.6.1.7` | MEGA Repository `1.6.1.7` |
 | `Penumbra` | Penumbra `1.6.1.12` | MEGA Repository `1.6.1.12` |
@@ -624,7 +624,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Battlevest` | NightmareXIV `1.0.2.3` | NexusFFXIV DalamudRepo `1.0.2.3` |
 | `BDTHPlugin` | bees-repo `1.7.4.1` | NexusFFXIV DalamudRepo `1.7.4.1` |
 | `BossMod` | Veyn (BossMod) `7.5.5.8` | NexusFFXIV DalamudRepo `7.5.5.8` |
-| `BossModReborn` | CombatReborn `7.5.5.52` | NexusFFXIV DalamudRepo `7.5.5.50` |
+| `BossModReborn` | CombatReborn `7.5.5.52` | NexusFFXIV DalamudRepo `7.5.5.52` |
 | `Brio` | Sea of Stars `0.8.0.11` | NexusFFXIV DalamudRepo `0.8.0.11` |
 | `ChatDeathRoll` | anya-hichu/DalamudPluginRepo `0.0.6.0` | NexusFFXIV DalamudRepo `0.0.6.0` |
 | `ChilledLeves` | ICE (Island Sanctuary) `1.0.1.24` | NexusFFXIV DalamudRepo `1.0.1.24` |
@@ -664,7 +664,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Prioritizer` | NightmareXIV `2.0.1.4` | NexusFFXIV DalamudRepo `2.0.1.4` |
 | `ProximityVoiceChat` | Proximity Voice Chat `0.5.16.0` | NexusFFXIV DalamudRepo `0.5.16.0` |
 | `Quack` | anya-hichu/DalamudPluginRepo `0.1.5.0` | NexusFFXIV DalamudRepo `0.1.5.0` |
-| `Questionable` | Puni.sh (Ment) `15.306.2.2` | NexusFFXIV DalamudRepo `15.306.2.0` |
+| `Questionable` | Puni.sh (Ment) `15.306.2.2` | NexusFFXIV DalamudRepo `15.306.2.2` |
 | `RaidsRewritten` | Proximity Voice Chat `1.2.2.0` | NexusFFXIV DalamudRepo `1.2.2.0` |
 | `RebornToolbox` | CombatReborn `7.5.0.0` | NexusFFXIV DalamudRepo `7.5.0.0` |
 | `RecruitmentRefresher` | anya-hichu/DalamudPluginRepo `0.0.5.0` | NexusFFXIV DalamudRepo `0.0.5.0` |
@@ -709,9 +709,9 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `AetheryteLinkInChat` | MEGA Repository `7.5.0.0` | NiGuangOwO / DalamudPlugins `7.5.0.0` |
 | `AetheryteLinkInChat` | MEGA Repository `7.5.0.0` | NiGuangOwO / DalamudPlugins `7.3.0.0` |
 | `AetheryteLinkInChat` | MEGA Repository `7.5.0.0` | NiGuangOwO / DalamudPlugins `7.3.1.41` |
-| `BOCCHI` | OhKannaDuh `4.1.0.1` | NiGuangOwO / DalamudPlugins `3.3.3.0` |
-| `BOCCHI` | OhKannaDuh `4.1.0.1` | NiGuangOwO / DalamudPlugins `0.69.1.12` |
-| `BOCCHI` | OhKannaDuh `4.1.0.1` | NiGuangOwO / DalamudPlugins `2.1.1.4` |
+| `BOCCHI` | OhKannaDuh `4.1.0.2` | NiGuangOwO / DalamudPlugins `3.3.3.0` |
+| `BOCCHI` | OhKannaDuh `4.1.0.2` | NiGuangOwO / DalamudPlugins `0.69.1.12` |
+| `BOCCHI` | OhKannaDuh `4.1.0.2` | NiGuangOwO / DalamudPlugins `2.1.1.4` |
 | `BossModReborn` | CombatReborn `7.5.5.52` | NiGuangOwO / DalamudPlugins `7.5.5.52` |
 | `BossModReborn` | CombatReborn `7.5.5.52` | NiGuangOwO / DalamudPlugins `7.3.5.27` |
 | `BossModReborn` | CombatReborn `7.5.5.52` | NiGuangOwO / DalamudPlugins `7.4.5.18` |
@@ -973,7 +973,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `CharacterSelectPlugin` | Character Select+ `2.1.1.1` | wasdcxz / DalamudPlugins `2.1.1.2` |
 | `GatherBuddyReborn` | CombatReborn `7.5.5.0` | wasdcxz / DalamudPlugins `7.5.5.0` |
 | `Glamourer` | Glamourer `1.6.1.7` | wasdcxz / DalamudPlugins `1.6.1.7` |
-| `Questionable` | Puni.sh (Ment) `15.306.2.2` | WigglyCorp / DalamudPlugins `7.5.11` |
+| `Questionable` | Puni.sh (Ment) `15.306.2.2` | WigglyCorp / DalamudPlugins `7.5.12` |
 | `Influx` | MEGA Repository `4.2` | WigglyCorp / DalamudPlugins `7.5.4` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.18` | xivhub / pluginmaster `4.0.5.33` |
 | `ICE` | ICE (Island Sanctuary) `1.0.0.1` | xivhub / pluginmaster `1.0.0.7` |
