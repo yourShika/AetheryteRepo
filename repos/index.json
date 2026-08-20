@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T01:51:16.760Z",
-  "contentHash": "3c7d45bbd1548731",
+  "generatedAt": "2026-08-20T03:58:32.386Z",
+  "contentHash": "3cc4db8b60c60371",
   "totalPlugins": 570,
   "masterPlugins": 564,
   "currentApiLevel": 15,
@@ -3639,18 +3639,18 @@
       "droppedVersion": "1.15.3.0"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.16.0.0",
       "droppedVersion": "4.16.0.0"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "AutoRetainer",
@@ -5915,10 +5915,10 @@
     },
     {
       "internalName": "BetterFateList",
-      "kept": "PrincessRTFM / MyDalamudPlugins",
-      "dropped": "MEGA Repository",
+      "kept": "MEGA Repository",
+      "dropped": "PrincessRTFM / MyDalamudPlugins",
       "keptVersion": "1.1.5",
-      "droppedVersion": "1.1.4"
+      "droppedVersion": "1.1.5"
     },
     {
       "internalName": "XIVComboVX",
@@ -6062,7 +6062,7 @@
     },
     {
       "internalName": "BetterFateList",
-      "kept": "PrincessRTFM / MyDalamudPlugins",
+      "kept": "MEGA Repository",
       "dropped": "VariableVixen (PrincessRTFM) / MyDalamudPlugins",
       "keptVersion": "1.1.5",
       "droppedVersion": "1.1.5"
