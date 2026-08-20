@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T09:49:52.681Z",
-  "contentHash": "0ccf760483790523",
+  "generatedAt": "2026-08-20T13:10:32.244Z",
+  "contentHash": "fdbc74f4dedf516a",
   "totalPlugins": 570,
   "masterPlugins": 564,
   "currentApiLevel": 15,
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "Avarice",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.12",
-      "droppedVersion": "2.2.0.12"
-    },
-    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,18 +3618,11 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "PalacePal",
+      "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
-    },
-    {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "2.2.0.12",
+      "droppedVersion": "2.2.0.12"
     },
     {
       "internalName": "AutoHook",
@@ -3646,11 +3632,25 @@
       "droppedVersion": "6.0.0.91"
     },
     {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.3.0",
       "droppedVersion": "1.15.3.0"
+    },
+    {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "AutoRetainer",
