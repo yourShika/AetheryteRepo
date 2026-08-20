@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T03:58:32.386Z",
-  "contentHash": "3cc4db8b60c60371",
+  "generatedAt": "2026-08-20T07:05:37.663Z",
+  "contentHash": "5721e7cded25ad32",
   "totalPlugins": 570,
   "masterPlugins": 564,
   "currentApiLevel": 15,
@@ -3625,25 +3625,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.91",
-      "droppedVersion": "6.0.0.91"
-    },
-    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.3.0",
       "droppedVersion": "1.15.3.0"
-    },
-    {
-      "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "LazyLoot",
@@ -3653,11 +3639,18 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "AutoRetainer",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.27",
-      "droppedVersion": "4.6.1.27"
+      "keptVersion": "6.0.0.91",
+      "droppedVersion": "6.0.0.91"
+    },
+    {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "Marketbuddy",
@@ -3665,6 +3658,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.1.27",
+      "droppedVersion": "4.6.1.27"
     },
     {
       "internalName": "Splatoon",
