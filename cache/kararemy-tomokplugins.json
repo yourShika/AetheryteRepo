@@ -1,7 +1,7 @@
 {
   "sourceId": "kararemy-tomokplugins",
   "url": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-08-19",
+  "fetchedAt": "2026-08-20",
   "count": 6,
   "plugins": [
     {
@@ -62,7 +62,7 @@
       "Author": "Tomok",
       "Name": "Glamourer Preview Manager",
       "InternalName": "GlamourerPreviewManager",
-      "AssemblyVersion": "1.1.3.0",
+      "AssemblyVersion": "1.1.3.1",
       "Description": "A helper tool to easily attach local, XIVModArchive, direct URL preview/cover images, or take cropped screenshots of your characters to attach to your Glamourer designs.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/KaraRemy/GlamourerPreviewManager",
