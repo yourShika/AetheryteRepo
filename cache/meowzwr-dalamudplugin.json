@@ -1,7 +1,7 @@
 {
   "sourceId": "meowzwr-dalamudplugin",
   "url": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-08-21",
   "count": 15,
   "plugins": [
     {
@@ -18,7 +18,7 @@
       "TestingDalamudApiLevel": 15,
       "IsHide": false,
       "IsTestingExclusive": false,
-      "DownloadCount": 185745,
+      "DownloadCount": 187646,
       "LastUpdate": 0,
       "LoadPriority": 69420,
       "LoadRequiredState": 2,
@@ -61,7 +61,7 @@
       "TestingDalamudApiLevel": 15,
       "IsHide": false,
       "IsTestingExclusive": false,
-      "DownloadCount": 129479,
+      "DownloadCount": 129969,
       "LastUpdate": 1618608322,
       "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.1.8-cn/Glamourer.zip",
       "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.6.1.8-cn/Glamourer.zip",
@@ -92,7 +92,7 @@
       "Tags": [
         "Sea Of Stars"
       ],
-      "DownloadCount": 68449,
+      "DownloadCount": 68695,
       "_SourceId": "meowzwr-dalamudplugin",
       "_SourceName": "MeowZWR / DalamudPlugin",
       "_SourceUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
@@ -111,7 +111,7 @@
       "TestingDalamudApiLevel": 15,
       "IsHide": false,
       "IsTestingExclusive": false,
-      "DownloadCount": 76272,
+      "DownloadCount": 76506,
       "LastUpdate": 0,
       "LoadPriority": 0,
       "DownloadLinkInstall": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.2.0.2-cn/CustomizePlus.zip",
@@ -158,7 +158,7 @@
         "tools",
         "Sea Of Stars"
       ],
-      "DownloadCount": 152749,
+      "DownloadCount": 153727,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "meowzwr-dalamudplugin",
@@ -187,7 +187,7 @@
       "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.5/latest.zip",
       "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.5/latest.zip",
       "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.5/latest.zip",
-      "DownloadCount": 1104084,
+      "DownloadCount": 1111680,
       "Punchline": "集体动作姿势编辑工具。",
       "IsHide": false,
       "IsTestingExclusive": false,
@@ -214,7 +214,7 @@
       "Tags": [
         "Sea Of Stars"
       ],
-      "DownloadCount": 40897,
+      "DownloadCount": 41048,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "meowzwr-dalamudplugin",
@@ -240,7 +240,7 @@
       "DownloadLinkInstall": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
       "DownloadLinkTesting": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
       "DownloadLinkUpdate": "https://github.com/MeowZWR/DynamicBridge/releases/download/1.0.8.8-cn/DynamicBridge.zip",
-      "DownloadCount": 12814,
+      "DownloadCount": 12854,
       "LastUpdated": "0",
       "Changelog": "",
       "Tags": [
@@ -302,7 +302,7 @@
       "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.1.2-cn/Cammy.zip",
       "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
       "Changelog": "",
-      "DownloadCount": 35455,
+      "DownloadCount": 35571,
       "_SourceId": "meowzwr-dalamudplugin",
       "_SourceName": "MeowZWR / DalamudPlugin",
       "_SourceUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
@@ -333,7 +333,7 @@
       "DownloadLinkUpdate": "https://github.com/MeowZWR/BDTHPlugin/releases/download/1.7.3-cn/BDTHPlugin.zip",
       "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
       "Changelog": "",
-      "DownloadCount": 33829,
+      "DownloadCount": 34042,
       "_SourceId": "meowzwr-dalamudplugin",
       "_SourceName": "MeowZWR / DalamudPlugin",
       "_SourceUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
@@ -357,7 +357,7 @@
       "DownloadLinkTesting": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.2/latest.zip",
       "DownloadLinkUpdate": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.2/latest.zip",
       "IconUrl": "",
-      "DownloadCount": 28991,
+      "DownloadCount": 29121,
       "_SourceId": "meowzwr-dalamudplugin",
       "_SourceName": "MeowZWR / DalamudPlugin",
       "_SourceUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
@@ -379,7 +379,7 @@
       "DownloadLinkInstall": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
       "DownloadLinkTesting": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
       "DownloadLinkUpdate": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
-      "DownloadCount": 20283,
+      "DownloadCount": 20432,
       "_SourceId": "meowzwr-dalamudplugin",
       "_SourceName": "MeowZWR / DalamudPlugin",
       "_SourceUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
@@ -403,7 +403,7 @@
       "TestingDalamudApiLevel": 15,
       "IsHide": false,
       "IsTestingExclusive": false,
-      "DownloadCount": 1211,
+      "DownloadCount": 1264,
       "LastUpdate": 1746230400,
       "DownloadLinkInstall": "https://github.com/MeowZWR/XIVWindowResizer/releases/download/2.0.0.2-x/XIVWindowResizerX.zip",
       "DownloadLinkUpdate": "https://github.com/MeowZWR/XIVWindowResizer/releases/download/2.0.0.2-x/XIVWindowResizerX.zip",
@@ -422,18 +422,18 @@
         "Texturing"
       ],
       "InternalName": "XivMediaPlayer",
-      "AssemblyVersion": "0.1.2.13",
-      "TestingAssemblyVersion": "0.1.2.13",
+      "AssemblyVersion": "0.1.6.9",
+      "TestingAssemblyVersion": "0.1.6.9",
       "RepoUrl": "https://github.com/MeowZWR/XivMediaPlayer",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "IsHide": false,
       "IsTestingExclusive": false,
-      "DownloadCount": 617,
+      "DownloadCount": 715,
       "LastUpdate": 0,
-      "DownloadLinkInstall": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.2.13-cn/XivMediaPlayer.zip",
-      "DownloadLinkTesting": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.2.13-cn/XivMediaPlayer.zip",
-      "DownloadLinkUpdate": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.2.13-cn/XivMediaPlayer.zip",
+      "DownloadLinkInstall": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.6.9-cn/XivMediaPlayer.zip",
+      "DownloadLinkTesting": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.6.9-cn/XivMediaPlayer.zip",
+      "DownloadLinkUpdate": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.6.9-cn/XivMediaPlayer.zip",
       "IconUrl": "",
       "_SourceId": "meowzwr-dalamudplugin",
       "_SourceName": "MeowZWR / DalamudPlugin",
