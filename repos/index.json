@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T07:06:59.707Z",
-  "contentHash": "912eaaf90dc6527a",
+  "generatedAt": "2026-08-21T09:52:11.606Z",
+  "contentHash": "d5f90745c7f6239a",
   "totalPlugins": 570,
   "masterPlugins": 564,
   "currentApiLevel": 15,
@@ -2480,14 +2480,14 @@
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.1.6.1",
+      "keptVersion": "2.1.7.0",
       "droppedVersion": "2.0.4.4"
     },
     {
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.1.6.1",
+      "keptVersion": "2.1.7.0",
       "droppedVersion": "1.9.3.3"
     },
     {
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,11 +3618,18 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "PalacePal",
+      "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "AutoHook",
@@ -3639,11 +3639,11 @@
       "droppedVersion": "6.0.0.92"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "LazyLoot",
@@ -3667,18 +3667,18 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.306.3.1",
-      "droppedVersion": "15.306.3.1"
-    },
-    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.21",
       "droppedVersion": "3.9.2.21"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.3.1",
+      "droppedVersion": "15.306.3.1"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "1.0.4.20"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.18",
-      "droppedVersion": "4.0.5.18"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.1.17",
       "droppedVersion": "2.1.1.17"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.18",
+      "droppedVersion": "4.0.5.18"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -5112,21 +5112,21 @@
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.1.0.5",
+      "keptVersion": "4.1.0.6",
       "droppedVersion": "3.3.3.0"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.1.0.5",
+      "keptVersion": "4.1.0.6",
       "droppedVersion": "0.69.1.12"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.1.0.5",
+      "keptVersion": "4.1.0.6",
       "droppedVersion": "2.1.1.4"
     },
     {

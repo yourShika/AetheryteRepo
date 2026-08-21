@@ -1,13 +1,13 @@
 {
   "sourceId": "atmoomen-dalamudplugins",
   "url": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-08-21",
   "count": 14,
   "plugins": [
     {
       "Name": "Daily Routines",
       "InternalName": "DailyRoutines",
-      "AssemblyVersion": "2.1.6.1",
+      "AssemblyVersion": "2.1.7.0",
       "Author": "AtmoOmen",
       "Punchline": "帮忙解决一些日常重复性劳动 / Help with some of the daily repetitive tasks",
       "Description": "海量自动化/易用性游戏系统优化模块合集, 帮你从一些无意义的重复性工作中解放出来\nA massive collection of automation / QoL optimization modules to free you from meaningless repetitive tasks.",
@@ -23,8 +23,8 @@
       "AcceptsFeedback": true,
       "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines",
       "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
-      "DownloadLinkInstall": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/download/2.1.6.1/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/download/2.1.6.1/latest.zip",
+      "DownloadLinkInstall": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/download/2.1.7.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/download/2.1.7.0/latest.zip",
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "atmoomen-dalamudplugins",

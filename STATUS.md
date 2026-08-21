@@ -1,6 +1,6 @@
 # Status
 
-Zuletzt aktualisiert: **2026-08-21 07:06 UTC**
+Zuletzt aktualisiert: **2026-08-21 09:52 UTC**
 
 - Plugins im Master-Feed: **564**
 - Plugins insgesamt (inkl. 18+): **570**
@@ -333,8 +333,8 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `BossModReborn` | CombatReborn `7.5.5.53` | 44451516-ff14 / BossmodRebornCN `7.5.0.42` |
 | `CustomizePlus` | Sea of Stars `2.2.0.3` | Aether Tools `2.2.0.3` |
 | `Armoire` | Armoire `0.1.1.3` | ElfShelf `0.0.171` |
-| `DailyRoutines` | AtmoOmen / DalamudPlugins `2.1.6.1` | AtmoOmen / DalamudPlugins `2.0.4.4` |
-| `DailyRoutines` | AtmoOmen / DalamudPlugins `2.1.6.1` | AtmoOmen / DalamudPlugins `1.9.3.3` |
+| `DailyRoutines` | AtmoOmen / DalamudPlugins `2.1.7.0` | AtmoOmen / DalamudPlugins `2.0.4.4` |
+| `DailyRoutines` | AtmoOmen / DalamudPlugins `2.1.7.0` | AtmoOmen / DalamudPlugins `1.9.3.3` |
 | `vnavmesh` | Veyn (BossMod) `1.2.3.13` | AtmoOmen / DalamudPlugins `0.8.0.0` |
 | `GatherBuddyReborn` | CombatReborn `7.5.5.0` | AtmoOmen / DalamudPlugins `7.5.0.4` |
 | `BossMod` | Veyn (BossMod) `7.5.5.8` | awgil plugin distribution `0.0.0.122` |
@@ -495,19 +495,19 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | Marketbuddy `0.2.4.1` |
 | `StartupCommands` | Maxunit / MyDalamudPlugins `1.3.0.1` | DalamudRepoCollection `1.1.0.2` |
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
-| `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.12` | MEGA Repository `2.2.0.12` |
-| `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
-| `AutoHook` | Puni.sh (Ment) `6.0.0.92` | MEGA Repository `6.0.0.92` |
+| `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
 | `YesAlready` | Puni.sh (Ment) `1.15.3.0` | MEGA Repository `1.15.3.0` |
+| `AutoHook` | Puni.sh (Ment) `6.0.0.92` | MEGA Repository `6.0.0.92` |
+| `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | MEGA Repository `4.6.1.27` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
-| `Questionable` | Puni.sh (Ment) `15.306.3.1` | MEGA Repository `15.306.3.1` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.21` | MEGA Repository `3.9.2.21` |
+| `Questionable` | Puni.sh (Ment) `15.306.3.1` | MEGA Repository `15.306.3.1` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.20` | MEGA Repository `1.0.4.20` |
-| `Artisan` | Puni.sh (Ment) `4.0.5.18` | MEGA Repository `4.0.5.18` |
 | `Saucy` | Puni.sh (Ment) `2.1.1.17` | MEGA Repository `2.1.1.17` |
+| `Artisan` | Puni.sh (Ment) `4.0.5.18` | MEGA Repository `4.0.5.18` |
 | `XIVComboExpanded` | daemitus MyDalamudPlugins `2.0.6.2` | MEGA Repository `2.0.6.2` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | MEGA Repository `1.3.1.4` |
 | `AutoPillion` | Aida-Enna XIVPlugins `1.0.0.5` | MEGA Repository `1.0.0.5` |
@@ -709,9 +709,9 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `AetheryteLinkInChat` | MEGA Repository `7.5.0.0` | NiGuangOwO / DalamudPlugins `7.5.0.0` |
 | `AetheryteLinkInChat` | MEGA Repository `7.5.0.0` | NiGuangOwO / DalamudPlugins `7.3.0.0` |
 | `AetheryteLinkInChat` | MEGA Repository `7.5.0.0` | NiGuangOwO / DalamudPlugins `7.3.1.41` |
-| `BOCCHI` | OhKannaDuh `4.1.0.5` | NiGuangOwO / DalamudPlugins `3.3.3.0` |
-| `BOCCHI` | OhKannaDuh `4.1.0.5` | NiGuangOwO / DalamudPlugins `0.69.1.12` |
-| `BOCCHI` | OhKannaDuh `4.1.0.5` | NiGuangOwO / DalamudPlugins `2.1.1.4` |
+| `BOCCHI` | OhKannaDuh `4.1.0.6` | NiGuangOwO / DalamudPlugins `3.3.3.0` |
+| `BOCCHI` | OhKannaDuh `4.1.0.6` | NiGuangOwO / DalamudPlugins `0.69.1.12` |
+| `BOCCHI` | OhKannaDuh `4.1.0.6` | NiGuangOwO / DalamudPlugins `2.1.1.4` |
 | `BossModReborn` | CombatReborn `7.5.5.53` | NiGuangOwO / DalamudPlugins `7.5.5.52` |
 | `BossModReborn` | CombatReborn `7.5.5.53` | NiGuangOwO / DalamudPlugins `7.3.5.27` |
 | `BossModReborn` | CombatReborn `7.5.5.53` | NiGuangOwO / DalamudPlugins `7.4.5.18` |
