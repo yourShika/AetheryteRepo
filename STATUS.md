@@ -1,6 +1,6 @@
 # Status
 
-Zuletzt aktualisiert: **2026-08-21 13:10 UTC**
+Zuletzt aktualisiert: **2026-08-21 15:48 UTC**
 
 - Plugins im Master-Feed: **564**
 - Plugins insgesamt (inkl. 18+): **570**
@@ -279,7 +279,7 @@ Zuletzt aktualisiert: **2026-08-21 13:10 UTC**
 | ✅ | [nihil-string / puppys-plugins](https://raw.githubusercontent.com/nihil-string/puppys-plugins/main/pluginmaster.json) | 7 | ok |
 | ✅ | [OLDBAI213 / ff14-dalamud-plugin-zh](https://raw.githubusercontent.com/OLDBAI213/ff14-dalamud-plugin-zh/main/pluginmaster.json) | 9 | ok |
 | ✅ | [OLDBAI213 / OLDBAI](https://raw.githubusercontent.com/OLDBAI213/OLDBAI/Main-Branch/pluginmaster.json) | 5 | ok |
-| ✅ | [OOFGamesss / OOFGamesPlugins](https://raw.githubusercontent.com/OOFGamesss/OOFGamesPlugins/main/pluginmaster.json) | 3 | ok |
+| ⚠️ | [OOFGamesss / OOFGamesPlugins](https://raw.githubusercontent.com/OOFGamesss/OOFGamesPlugins/main/pluginmaster.json) | 3 | stale – `HTTP 404 Not Found` |
 | ✅ | [OpaqueReptile / daemitus_MyDalamudPlugins](https://raw.githubusercontent.com/OpaqueReptile/daemitus_MyDalamudPlugins/master/pluginmaster.json) | 4 | ok |
 | ✅ | [Paparogue / PaparogueRepo](https://raw.githubusercontent.com/Paparogue/PaparogueRepo/refs/heads/main/repo.json) | 3 | ok |
 | ✅ | [pffxivtools / ffxiv-bard-plugins-linux](https://raw.githubusercontent.com/pffxivtools/ffxiv-bard-plugins-linux/main/pluginmaster.json) | 3 | ok |
@@ -495,14 +495,14 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | Marketbuddy `0.2.4.1` |
 | `StartupCommands` | Maxunit / MyDalamudPlugins `1.3.0.1` | DalamudRepoCollection `1.1.0.2` |
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
-| `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.12` | MEGA Repository `2.2.0.12` |
+| `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
 | `YesAlready` | Puni.sh (Ment) `1.15.3.0` | MEGA Repository `1.15.3.0` |
 | `AutoHook` | Puni.sh (Ment) `6.0.0.92` | MEGA Repository `6.0.0.92` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
 | `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
-| `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | MEGA Repository `4.6.1.27` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
+| `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | MEGA Repository `4.6.1.27` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.21` | MEGA Repository `3.9.2.21` |
 | `Questionable` | Puni.sh (Ment) `15.306.3.2` | MEGA Repository `15.306.3.2` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.20` | MEGA Repository `1.0.4.20` |

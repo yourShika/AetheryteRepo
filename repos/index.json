@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T13:10:23.470Z",
-  "contentHash": "8f64acf0c8097875",
+  "generatedAt": "2026-08-21T15:48:44.648Z",
+  "contentHash": "ff8f2c7a7d2a9b72",
   "totalPlugins": 570,
   "masterPlugins": 564,
   "currentApiLevel": 15,
@@ -2147,9 +2147,9 @@
       "id": "oofgamesss-oofgamesplugins",
       "name": "OOFGamesss / OOFGamesPlugins",
       "url": "https://raw.githubusercontent.com/OOFGamesss/OOFGamesPlugins/main/pluginmaster.json",
-      "status": "ok",
+      "status": "stale",
       "count": 3,
-      "note": null
+      "note": "HTTP 404 Not Found"
     },
     {
       "id": "opaquereptile-daemitus-mydalamudplugins",
@@ -3611,18 +3611,18 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.2.0.12",
       "droppedVersion": "2.2.0.12"
+    },
+    {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
     },
     {
       "internalName": "YesAlready",
@@ -3653,18 +3653,18 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.27",
-      "droppedVersion": "4.6.1.27"
-    },
-    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.1.27",
+      "droppedVersion": "4.6.1.27"
     },
     {
       "internalName": "Splatoon",
