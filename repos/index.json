@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T15:48:44.648Z",
-  "contentHash": "ff8f2c7a7d2a9b72",
+  "generatedAt": "2026-08-21T18:55:55.819Z",
+  "contentHash": "81991fa15ae8e8d5",
   "totalPlugins": 570,
   "masterPlugins": 564,
   "currentApiLevel": 15,
@@ -2550,7 +2550,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "6.0.0.92",
+      "keptVersion": "6.0.0.93",
       "droppedVersion": "6.0.0.92"
     },
     {
@@ -2816,7 +2816,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "6.0.0.92",
+      "keptVersion": "6.0.0.93",
       "droppedVersion": "2.3.0.3"
     },
     {
@@ -3625,18 +3625,11 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.92",
-      "droppedVersion": "6.0.0.92"
+      "keptVersion": "6.0.0.93",
+      "droppedVersion": "6.0.0.93"
     },
     {
       "internalName": "LazyLoot",
@@ -3644,6 +3637,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "5.3.3.3",
       "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "PalacePal",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "1.0.4.20"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.18",
-      "droppedVersion": "4.0.5.18"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.1.17",
       "droppedVersion": "2.1.1.17"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.18",
+      "droppedVersion": "4.0.5.18"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3985,8 +3985,8 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.5.33",
-      "droppedVersion": "7.5.5.33"
+      "keptVersion": "7.5.5.34",
+      "droppedVersion": "7.5.5.34"
     },
     {
       "internalName": "BossModReborn",
@@ -4468,7 +4468,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "6.0.0.92",
+      "keptVersion": "6.0.0.93",
       "droppedVersion": "6.0.0.92"
     },
     {
@@ -4832,7 +4832,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.5.33",
+      "keptVersion": "7.5.5.34",
       "droppedVersion": "7.5.5.33"
     },
     {
@@ -5112,21 +5112,21 @@
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.1.0.6",
+      "keptVersion": "4.1.0.7",
       "droppedVersion": "3.3.3.0"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.1.0.6",
+      "keptVersion": "4.1.0.7",
       "droppedVersion": "0.69.1.12"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.1.0.6",
+      "keptVersion": "4.1.0.7",
       "droppedVersion": "2.1.1.4"
     },
     {
@@ -5215,23 +5215,23 @@
     },
     {
       "internalName": "Lifestream",
-      "kept": "NightmareXIV",
-      "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "2.5.4.16",
-      "droppedVersion": "2.5.4.14"
+      "kept": "NiGuangOwO / DalamudPlugins",
+      "dropped": "NightmareXIV",
+      "keptVersion": "2.5.4.17",
+      "droppedVersion": "2.5.4.16"
     },
     {
       "internalName": "Lifestream",
-      "kept": "NightmareXIV",
+      "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "2.5.4.16",
+      "keptVersion": "2.5.4.17",
       "droppedVersion": "2.5.3.3"
     },
     {
       "internalName": "Lifestream",
-      "kept": "NightmareXIV",
+      "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "2.5.4.16",
+      "keptVersion": "2.5.4.17",
       "droppedVersion": "2.5.4.8"
     },
     {
@@ -5364,7 +5364,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "6.0.0.92",
+      "keptVersion": "6.0.0.93",
       "droppedVersion": "4.3.1.10"
     },
     {
@@ -5565,9 +5565,9 @@
     },
     {
       "internalName": "Lifestream",
-      "kept": "NightmareXIV",
+      "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "2.5.4.16",
+      "keptVersion": "2.5.4.17",
       "droppedVersion": "2.3.2.8"
     },
     {
@@ -5686,7 +5686,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.5.33",
+      "keptVersion": "7.5.5.34",
       "droppedVersion": "7.1.5.38"
     },
     {
@@ -6253,7 +6253,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "6.0.0.92",
+      "keptVersion": "6.0.0.93",
       "droppedVersion": "6.0.0.12"
     },
     {
@@ -6484,7 +6484,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.5.33",
+      "keptVersion": "7.5.5.34",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -6610,14 +6610,14 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "7.5.5.33",
+      "keptVersion": "7.5.5.34",
       "droppedVersion": "7.2.5.122"
     },
     {
       "internalName": "Lifestream",
-      "kept": "NightmareXIV",
+      "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "2.5.4.16",
+      "keptVersion": "2.5.4.17",
       "droppedVersion": "2.5.1.13"
     },
     {
@@ -6638,7 +6638,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "6.0.0.92",
+      "keptVersion": "6.0.0.93",
       "droppedVersion": "4.3.4.1"
     },
     {
@@ -6685,9 +6685,9 @@
     },
     {
       "internalName": "Lifestream",
-      "kept": "NightmareXIV",
+      "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "2.5.4.16",
+      "keptVersion": "2.5.4.17",
       "droppedVersion": "2.5.3.26"
     },
     {
@@ -6722,7 +6722,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "6.0.0.92",
+      "keptVersion": "6.0.0.93",
       "droppedVersion": "6.0.0.68"
     },
     {
@@ -6771,7 +6771,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / OLDBAI",
-      "keptVersion": "6.0.0.92",
+      "keptVersion": "6.0.0.93",
       "droppedVersion": "6.0.0.46"
     },
     {
