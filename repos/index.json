@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T03:59:46.891Z",
-  "contentHash": "c0812711fe225737",
+  "generatedAt": "2026-08-21T07:06:59.707Z",
+  "contentHash": "912eaaf90dc6527a",
   "totalPlugins": 570,
   "masterPlugins": 564,
   "currentApiLevel": 15,
@@ -3611,6 +3611,13 @@
       "droppedVersion": "1.0.1.10"
     },
     {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
+    },
+    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3618,11 +3625,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "PandorasBox",
+      "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "AutoHook",
@@ -3646,11 +3653,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "PalacePal",
+      "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
+      "keptVersion": "4.6.1.27",
+      "droppedVersion": "4.6.1.27"
     },
     {
       "internalName": "Marketbuddy",
@@ -3660,11 +3667,11 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "AutoRetainer",
+      "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.27",
-      "droppedVersion": "4.6.1.27"
+      "keptVersion": "15.306.3.1",
+      "droppedVersion": "15.306.3.1"
     },
     {
       "internalName": "Splatoon",
@@ -3674,13 +3681,6 @@
       "droppedVersion": "3.9.2.21"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.306.3.1",
-      "droppedVersion": "15.306.3.1"
-    },
-    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "1.0.4.20"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.1.17",
-      "droppedVersion": "2.1.1.17"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.18",
       "droppedVersion": "4.0.5.18"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.1.17",
+      "droppedVersion": "2.1.1.17"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4343,7 +4343,7 @@
       "kept": "A Quest Reborn",
       "dropped": "MeowZWR / DalamudPlugin",
       "keptVersion": "0.2.9.8",
-      "droppedVersion": "0.1.6.3"
+      "droppedVersion": "0.2.9.8"
     },
     {
       "internalName": "Cammy",
