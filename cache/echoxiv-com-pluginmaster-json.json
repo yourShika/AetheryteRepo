@@ -1,7 +1,7 @@
 {
   "sourceId": "echoxiv-com-pluginmaster-json",
   "url": "https://echoxiv.com/pluginmaster.json",
-  "fetchedAt": "2026-08-21",
+  "fetchedAt": "2026-08-22",
   "count": 5,
   "plugins": [
     {
@@ -46,7 +46,7 @@
       "LastUpdate": 1787083416,
       "Changelog": "Ninja was losing an ability every cycle. A weave was refused whenever it came off cooldown during an animation lock, so the window went unused - worth about 0.7% of the job's damage. Ninja scores on the leaderboards have been rescored against the corrected ceiling.",
       "ApplicableVersion": "any",
-      "RepoUrl": "https://echoxiv.com",
+      "RepoUrl": "https://github.com/jfraygit/EchoXIV/tree/main/EchoSim",
       "Tags": [
         "dps",
         "simulator",
@@ -80,7 +80,7 @@
       "LastUpdate": 1786806827,
       "Changelog": "The aetheryte network now works whatever language you play in. Playing in anything but English, no shard was ever found and EchoNav quietly walked everywhere instead.\nTravelling to a shard you have never stood at yourself now works. It used to need you to have visited a shard before it could take you there.\nThe window no longer appears on the title and character select screens.",
       "ApplicableVersion": "any",
-      "RepoUrl": "https://echoxiv.com",
+      "RepoUrl": "https://github.com/jfraygit/EchoXIV/tree/main/EchoNav",
       "Tags": [
         "fate",
         "navigation",
@@ -112,7 +112,7 @@
       "LastUpdate": 1787333283,
       "Changelog": "Bring your Glamourer designs across. Copy one in Glamourer, then press Paste Design in the Outfits pane.\nCopy Design puts what you are wearing on the clipboard, ready to paste into Glamourer.\nAn imported outfit dresses you from bare, so the slots the design leaves empty are emptied rather than left as they were.\nA design that hides your headgear or your weapon is imported hidden too.\nGlasses, advanced dyes and Penumbra settings cannot come across. EchoGlam tells you what a design was carrying before you save it.\nHide now works both ways. Press it again to put back whatever was in the slot.",
       "ApplicableVersion": "any",
-      "RepoUrl": "https://echoxiv.com",
+      "RepoUrl": "https://github.com/jfraygit/EchoXIV/tree/main/EchoGlam",
       "Tags": [
         "glamour",
         "fashion",
@@ -146,7 +146,7 @@
       "LastUpdate": 1787080420,
       "Changelog": "",
       "ApplicableVersion": "any",
-      "RepoUrl": "https://echoxiv.com",
+      "RepoUrl": "https://github.com/jfraygit/EchoXIV/tree/main/EchoRoleplay",
       "Tags": [
         "roleplay",
         "rp",

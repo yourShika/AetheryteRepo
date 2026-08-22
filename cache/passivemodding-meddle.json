@@ -1,7 +1,7 @@
 {
   "sourceId": "passivemodding-meddle",
   "url": "https://raw.githubusercontent.com/PassiveModding/Meddle/main/repo.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-08-22",
   "count": 1,
   "plugins": [
     {
@@ -9,8 +9,8 @@
       "Name": "Meddle",
       "InternalName": "Meddle.Plugin",
       "Description": "Did I mention I'm a model? Export models to glTF format.",
-      "AssemblyVersion": "0.1.55.0",
-      "TestingAssemblyVersion": "0.1.55.0",
+      "AssemblyVersion": "0.1.56.0",
+      "TestingAssemblyVersion": "0.1.56.0",
       "RepoUrl": "https://github.com/PassiveModding/Meddle",
       "IconUrl": "https://github.com/PassiveModding/Meddle/raw/main/icon.png",
       "ApplicableVersion": "any",
@@ -20,9 +20,9 @@
         "Xande",
         "Models"
       ],
-      "DownloadLinkInstall": "https://github.com/PassiveModding/Meddle/releases/download/v0.1.55.0/latest.zip",
-      "DownloadLinkTesting": "https://github.com/PassiveModding/Meddle/releases/download/v0.1.55.0/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/PassiveModding/Meddle/releases/download/v0.1.55.0/latest.zip",
+      "DownloadLinkInstall": "https://github.com/PassiveModding/Meddle/releases/download/v0.1.56.0/latest.zip",
+      "DownloadLinkTesting": "https://github.com/PassiveModding/Meddle/releases/download/v0.1.56.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/PassiveModding/Meddle/releases/download/v0.1.56.0/latest.zip",
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "passivemodding-meddle",

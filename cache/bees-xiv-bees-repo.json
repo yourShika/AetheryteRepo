@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-08-20",
+  "fetchedAt": "2026-08-22",
   "count": 51,
   "plugins": [
     {
@@ -105,10 +105,10 @@
       "InternalName": "AutoHook",
       "RepoUrl": "https://github.com/PunishXIV/AutoHook",
       "DownloadCount": 69696969,
-      "LastUpdate": 1787241702,
+      "LastUpdate": 1787332685,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoHook.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoHook.zip",
-      "AssemblyVersion": "6.0.0.92",
+      "AssemblyVersion": "6.0.0.93",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "Changelog": "",
