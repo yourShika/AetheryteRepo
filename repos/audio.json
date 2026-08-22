@@ -123,7 +123,7 @@
     "LastUpdate": 1787025230,
     "Changelog": "Added a Web Listen Link - broadcasting hosts can generate a public link so anyone can tune into a live show right in their browser, no EchoMix required.\nAdded /emix - jumps straight to the DJ Deck view, no matter what's currently on screen, the same way /el already does for the Listener view.\nEchoMix no longer opens or draws its window at the title screen or character select - it appears again once actually logged into a character, matching the rest of the Echo plugin suite.\nGenres now capitalize every word instead of just the first one, so \"heavy metal\" displays as \"Heavy Metal\" - applies to genres already saved on an existing profile too, not just newly-typed ones.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://echoxiv.com",
+    "RepoUrl": "https://github.com/jfraygit/EchoXIV/tree/main/EchoMix",
     "Tags": [
       "dj",
       "music",
@@ -135,10 +135,10 @@
       "Sound"
     ],
     "DalamudApiLevel": 15,
-    "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/icon.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoMix-latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoMix-latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/EchoMix-latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoXIV/main/icons/echomix-icon.png",
+    "DownloadLinkInstall": "https://github.com/jfraygit/EchoXIV/releases/download/latest/EchoMix-latest.zip",
+    "DownloadLinkUpdate": "https://github.com/jfraygit/EchoXIV/releases/download/latest/EchoMix-latest.zip",
+    "DownloadLinkTesting": "https://github.com/jfraygit/EchoXIV/releases/download/latest/EchoMix-latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "_SourceId": "echoxiv-com-pluginmaster-json",

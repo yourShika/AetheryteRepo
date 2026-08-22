@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T03:55:57.759Z",
-  "contentHash": "9ba7d4f73997f025",
+  "generatedAt": "2026-08-22T06:59:20.721Z",
+  "contentHash": "4b2d810ff9c3ea77",
   "totalPlugins": 570,
   "masterPlugins": 564,
   "currentApiLevel": 15,
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "Avarice",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.12",
-      "droppedVersion": "2.2.0.12"
-    },
-    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,11 +3618,25 @@
       "droppedVersion": "1.6.4.4"
     },
     {
+      "internalName": "Avarice",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.0.12",
+      "droppedVersion": "2.2.0.12"
+    },
+    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.3.0",
       "droppedVersion": "1.15.3.0"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.0.93",
+      "droppedVersion": "6.0.0.93"
     },
     {
       "internalName": "PalacePal",
@@ -3646,13 +3653,6 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.93",
-      "droppedVersion": "6.0.0.93"
-    },
-    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3667,18 +3667,18 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.21",
-      "droppedVersion": "3.9.2.21"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "15.306.3.2",
       "droppedVersion": "15.306.3.2"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.21",
+      "droppedVersion": "3.9.2.21"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "1.0.4.20"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.1.17",
-      "droppedVersion": "2.1.1.17"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.18",
       "droppedVersion": "4.0.5.18"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.1.17",
+      "droppedVersion": "2.1.1.17"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3916,7 +3916,7 @@
       "kept": "Haselnussbomber",
       "dropped": "MEGA Repository",
       "keptVersion": "1.71.0.0",
-      "droppedVersion": "1.70.0.0"
+      "droppedVersion": "1.71.0.0"
     },
     {
       "internalName": "HaselTweaks",
