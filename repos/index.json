@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T01:50:11.064Z",
-  "contentHash": "1aa0b7cf80dcc6b5",
+  "generatedAt": "2026-08-22T03:55:57.759Z",
+  "contentHash": "9ba7d4f73997f025",
   "totalPlugins": 570,
   "masterPlugins": 564,
   "currentApiLevel": 15,
@@ -2606,8 +2606,8 @@
       "internalName": "ICE",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "bees-repo",
-      "keptVersion": "1.0.0.1",
-      "droppedVersion": "1.0.0.1"
+      "keptVersion": "1.0.0.2",
+      "droppedVersion": "1.0.0.2"
     },
     {
       "internalName": "LazyLoot",
@@ -3360,9 +3360,9 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "bees-repo",
-      "dropped": "Haselnussbomber",
-      "keptVersion": "1.70.0.0",
+      "kept": "Haselnussbomber",
+      "dropped": "bees-repo",
+      "keptVersion": "1.71.0.0",
       "droppedVersion": "1.70.0.0"
     },
     {
@@ -3625,20 +3625,6 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
-    },
-    {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.93",
-      "droppedVersion": "6.0.0.93"
-    },
-    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3646,11 +3632,25 @@
       "droppedVersion": "1.15.3.0"
     },
     {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
+    },
+    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "5.3.3.3",
       "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.0.93",
+      "droppedVersion": "6.0.0.93"
     },
     {
       "internalName": "AutoRetainer",
@@ -3667,18 +3667,18 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.306.3.2",
-      "droppedVersion": "15.306.3.2"
-    },
-    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.21",
       "droppedVersion": "3.9.2.21"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.3.2",
+      "droppedVersion": "15.306.3.2"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "1.0.4.20"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.18",
-      "droppedVersion": "4.0.5.18"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.1.17",
       "droppedVersion": "2.1.1.17"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.18",
+      "droppedVersion": "4.0.5.18"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3913,9 +3913,9 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "bees-repo",
+      "kept": "Haselnussbomber",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.70.0.0",
+      "keptVersion": "1.71.0.0",
       "droppedVersion": "1.70.0.0"
     },
     {
@@ -4629,7 +4629,7 @@
       "internalName": "ICE",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.0.1",
+      "keptVersion": "1.0.0.2",
       "droppedVersion": "1.0.0.1"
     },
     {
@@ -6517,10 +6517,10 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "bees-repo",
+      "kept": "Haselnussbomber",
       "dropped": "Haselnussbomber / DalamudPlugins",
-      "keptVersion": "1.70.0.0",
-      "droppedVersion": "1.70.0.0"
+      "keptVersion": "1.71.0.0",
+      "droppedVersion": "1.71.0.0"
     },
     {
       "internalName": "HaselTweaks",
@@ -6561,7 +6561,7 @@
       "internalName": "ICE",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "jkleinne / ascended-plugins",
-      "keptVersion": "1.0.0.1",
+      "keptVersion": "1.0.0.2",
       "droppedVersion": "1.0.0.2"
     },
     {
@@ -6743,7 +6743,7 @@
       "internalName": "ICE",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "1.0.0.1",
+      "keptVersion": "1.0.0.2",
       "droppedVersion": "1.0.0.0"
     },
     {
@@ -6757,7 +6757,7 @@
       "internalName": "ICE",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "OLDBAI213 / OLDBAI",
-      "keptVersion": "1.0.0.1",
+      "keptVersion": "1.0.0.2",
       "droppedVersion": "0.0.78.7000"
     },
     {
@@ -6981,7 +6981,7 @@
       "internalName": "ICE",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "xivhub / pluginmaster",
-      "keptVersion": "1.0.0.1",
+      "keptVersion": "1.0.0.2",
       "droppedVersion": "1.0.0.7"
     },
     {
