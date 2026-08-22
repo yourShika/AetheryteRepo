@@ -1,7 +1,7 @@
 {
   "sourceId": "zunetrix-dalamudplugins",
   "url": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-08-18",
+  "fetchedAt": "2026-08-22",
   "count": 4,
   "plugins": [
     {
@@ -18,7 +18,7 @@
         "utility"
       ],
       "IconUrl": "https://i.imgur.com/uFq8py7.png",
-      "Changelog": "Fix Normalize World Separator",
+      "Changelog": "Fix Chat Message handler PMD",
       "DownloadCount": 0,
       "LastUpdate": "1756257632",
       "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MasterOfPuppets/latest.zip",
@@ -33,7 +33,7 @@
       "Author": "akira0245, Ori, Kalle, Zune",
       "Name": "MidiBard 2 (BETA)",
       "InternalName": "ZuneBard",
-      "AssemblyVersion": "1.15.0.151",
+      "AssemblyVersion": "1.15.0.152",
       "DalamudApiLevel": 15,
       "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
       "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
@@ -46,7 +46,7 @@
         "bard"
       ],
       "IconUrl": "https://i.imgur.com/rjtwhnY.png",
-      "Changelog": "Add sort by file added at playlist",
+      "Changelog": "Fix Chat Message handler PMD",
       "DownloadCount": 0,
       "LastUpdate": "1743473513",
       "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MidiBard2/latest.zip",
@@ -61,7 +61,7 @@
       "Author": "akira0245, Ori, Kalle, Zune",
       "Name": "MidiBard 2 (ALPHA)",
       "InternalName": "ZuneBardAlpha",
-      "AssemblyVersion": "1.15.0.151",
+      "AssemblyVersion": "1.15.0.152",
       "DalamudApiLevel": 15,
       "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
       "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",

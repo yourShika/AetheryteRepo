@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T09:41:59.552Z",
-  "contentHash": "f5960db4473eed8d",
+  "generatedAt": "2026-08-22T15:34:50.107Z",
+  "contentHash": "83313ca93c90d538",
   "totalPlugins": 570,
   "masterPlugins": 564,
   "currentApiLevel": 15,
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,18 +3618,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
-    },
-    {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
     },
     {
       "internalName": "AutoHook",
@@ -3651,6 +3637,20 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.16.0.0",
       "droppedVersion": "4.16.0.0"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "AutoRetainer",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "1.0.4.20"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.18",
-      "droppedVersion": "4.0.5.18"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.1.17",
       "droppedVersion": "2.1.1.17"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.18",
+      "droppedVersion": "4.0.5.18"
     },
     {
       "internalName": "XIVComboExpanded",

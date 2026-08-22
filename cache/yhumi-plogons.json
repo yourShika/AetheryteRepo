@@ -1,7 +1,7 @@
 {
   "sourceId": "yhumi-plogons",
   "url": "https://raw.githubusercontent.com/Yhumi/Plogons/master/plugins.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-08-22",
   "count": 10,
   "plugins": [
     {
@@ -183,14 +183,14 @@
       "Changelog": "",
       "IsHide": false,
       "InternalName": "YhumiTweaks",
-      "AssemblyVersion": "0.3.1.0",
-      "TestingAssemblyVersion": "0.3.1.0",
+      "AssemblyVersion": "0.3.2.0",
+      "TestingAssemblyVersion": "0.3.2.0",
       "IsTestingExclusive": false,
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "TestingDalamudApiLevel": 15,
       "DownloadCount": 0,
-      "LastUpdate": 1785837111,
+      "LastUpdate": 1787410638,
       "DownloadLinkInstall": "https://github.com/Yhumi/YhumiTweaks/releases/download/release/latest.zip",
       "DownloadLinkUpdate": "https://github.com/Yhumi/YhumiTweaks/releases/download/release/latest.zip",
       "DownloadLinkTesting": "https://github.com/Yhumi/YhumiTweaks/releases/download/release/latest.zip",
