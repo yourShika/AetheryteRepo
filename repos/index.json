@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T06:59:20.721Z",
-  "contentHash": "4b2d810ff9c3ea77",
+  "generatedAt": "2026-08-22T09:41:59.552Z",
+  "contentHash": "f5960db4473eed8d",
   "totalPlugins": 570,
   "masterPlugins": 564,
   "currentApiLevel": 15,
@@ -2599,7 +2599,7 @@
       "internalName": "HaselDebug",
       "kept": "bees-repo",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "1.70.0.0",
+      "keptVersion": "1.71.0.0",
       "droppedVersion": "1.66.0.0"
     },
     {
@@ -3360,10 +3360,10 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "Haselnussbomber",
-      "dropped": "bees-repo",
+      "kept": "bees-repo",
+      "dropped": "Haselnussbomber",
       "keptVersion": "1.71.0.0",
-      "droppedVersion": "1.70.0.0"
+      "droppedVersion": "1.71.0.0"
     },
     {
       "internalName": "HaselTweaks",
@@ -3632,6 +3632,13 @@
       "droppedVersion": "1.15.3.0"
     },
     {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3644,13 +3651,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.16.0.0",
       "droppedVersion": "4.16.0.0"
-    },
-    {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "AutoRetainer",
@@ -3667,18 +3667,18 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.306.3.2",
-      "droppedVersion": "15.306.3.2"
-    },
-    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.21",
       "droppedVersion": "3.9.2.21"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.3.2",
+      "droppedVersion": "15.306.3.2"
     },
     {
       "internalName": "WrathCombo",
@@ -3913,7 +3913,7 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "Haselnussbomber",
+      "kept": "bees-repo",
       "dropped": "MEGA Repository",
       "keptVersion": "1.71.0.0",
       "droppedVersion": "1.71.0.0"
@@ -6517,7 +6517,7 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "Haselnussbomber",
+      "kept": "bees-repo",
       "dropped": "Haselnussbomber / DalamudPlugins",
       "keptVersion": "1.71.0.0",
       "droppedVersion": "1.71.0.0"
