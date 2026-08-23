@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T09:42:54.572Z",
-  "contentHash": "5b40da94870bd2d6",
+  "generatedAt": "2026-08-23T13:01:43.621Z",
+  "contentHash": "8bc339a8a0fd6233",
   "totalPlugins": 570,
   "masterPlugins": 564,
   "currentApiLevel": 15,
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,18 +3618,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.93",
-      "droppedVersion": "6.0.0.93"
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
     },
     {
       "internalName": "YesAlready",
@@ -3653,11 +3639,18 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "6.0.0.93",
+      "droppedVersion": "6.0.0.93"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "AutoRetainer",
@@ -3665,6 +3658,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.6.1.27",
       "droppedVersion": "4.6.1.27"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Splatoon",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "1.0.4.20"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.18",
-      "droppedVersion": "4.0.5.18"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.1.17",
       "droppedVersion": "2.1.1.17"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.18",
+      "droppedVersion": "4.0.5.18"
     },
     {
       "internalName": "XIVComboExpanded",
