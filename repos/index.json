@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T15:35:52.411Z",
-  "contentHash": "d9dc1c7864fa02c2",
+  "generatedAt": "2026-08-23T18:47:51.125Z",
+  "contentHash": "d184c7e1533c9f24",
   "totalPlugins": 570,
   "masterPlugins": 564,
   "currentApiLevel": 15,
@@ -3507,9 +3507,9 @@
     },
     {
       "internalName": "Hyperborea",
-      "kept": "bees-repo",
-      "dropped": "kawaii's repo",
-      "keptVersion": "1.0.0.37",
+      "kept": "kawaii's repo",
+      "dropped": "bees-repo",
+      "keptVersion": "1.0.1.2",
       "droppedVersion": "1.0.0.37"
     },
     {
@@ -3625,11 +3625,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "PalacePal",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "AutoHook",
@@ -3646,18 +3646,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
-    },
-    {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.27",
-      "droppedVersion": "4.6.1.27"
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "Marketbuddy",
@@ -3665,6 +3658,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.1.27",
+      "droppedVersion": "4.6.1.27"
     },
     {
       "internalName": "Questionable",
@@ -5112,21 +5112,21 @@
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.1.0.8",
+      "keptVersion": "4.1.0.9",
       "droppedVersion": "3.3.3.0"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.1.0.8",
+      "keptVersion": "4.1.0.9",
       "droppedVersion": "0.69.1.12"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.1.0.8",
+      "keptVersion": "4.1.0.9",
       "droppedVersion": "2.1.1.4"
     },
     {
@@ -5523,9 +5523,9 @@
     },
     {
       "internalName": "Hyperborea",
-      "kept": "bees-repo",
+      "kept": "kawaii's repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.0.0.37",
+      "keptVersion": "1.0.1.2",
       "droppedVersion": "1.0.0.17"
     },
     {

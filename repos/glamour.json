@@ -85,7 +85,7 @@
     "Author": "Sevii",
     "DalamudApiLevel": 15,
     "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
-    "DownloadCount": 260054,
+    "DownloadCount": 260075,
     "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
     "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
@@ -1006,7 +1006,7 @@
     ],
     "InternalName": "GlamourLog",
     "RepoUrl": "https://github.com/Jaksuhn/ffxiv_glamourlog",
-    "DownloadCount": 24112,
+    "DownloadCount": 24139,
     "LastUpdate": 1786900183,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.65/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.65/update/latest.zip",
@@ -1380,6 +1380,38 @@
     "_Category": "glamour"
   },
   {
+    "Author": "kawaii, NightmareXIV",
+    "Name": "Hyperborea",
+    "Punchline": "What if we GPosed in the Mordion Gaol?",
+    "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
+    "Tags": [
+      "gpose"
+    ],
+    "InternalName": "Hyperborea",
+    "RepoUrl": "https://github.com/kawaii/Hyperborea",
+    "DownloadCount": 44462,
+    "LastUpdate": 1787504034,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.2/update/latest.zip",
+    "AssemblyVersion": "1.0.1.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Changelog": "",
+    "TestingAssemblyVersion": "1.0.1.1",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/45/Hyperborea/versions/1.0.1.1/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/45",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/45/image-qh8re4eb0f.png"
+    ],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "_SourceId": "punish-kawaii",
+    "_SourceName": "kawaii's repo",
+    "_SourceUrl": "https://puni.sh/api/repository/kawaii",
+    "_Category": "glamour"
+  },
+  {
     "Author": "kawaii, Veever(汉化+额外功能)",
     "Name": "Hyperborea",
     "InternalName": "HyperboreaCN",
@@ -1401,35 +1433,6 @@
     "_SourceId": "laboon2501-dalamudplugins",
     "_SourceName": "Laboon2501 / DalamudPlugins",
     "_SourceUrl": "https://raw.githubusercontent.com/Laboon2501/DalamudPlugins/main/repo.json",
-    "_Category": "glamour"
-  },
-  {
-    "Author": "kawaii, NightmareXIV",
-    "Name": "Hyperborea [Bees]",
-    "Punchline": "What if we GPosed in the Mordion Gaol?",
-    "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
-    "Tags": [
-      "gpose"
-    ],
-    "InternalName": "Hyperborea",
-    "RepoUrl": "https://github.com/kawaii/Hyperborea",
-    "DownloadCount": 69696969,
-    "LastUpdate": 1781710078,
-    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Hyperborea.zip",
-    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Hyperborea.zip",
-    "AssemblyVersion": "1.0.0.37",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "Changelog": "",
-    "IconUrl": "https://puni.sh/api/plugins/icon/45",
-    "ImageUrls": [
-      "https://s3.puni.sh/media/plugin/45/image-qh8re4eb0f.png"
-    ],
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "_SourceId": "bees-xiv-bees-repo",
-    "_SourceName": "bees-repo",
-    "_SourceUrl": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
     "_Category": "glamour"
   },
   {
@@ -2538,7 +2541,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Valiice/SpotifyHonorific/releases/download/v1.17.4/SpotifyHonorific.zip",
     "DownloadLinkUpdate": "https://github.com/Valiice/SpotifyHonorific/releases/download/v1.17.4/SpotifyHonorific.zip",
-    "DownloadCount": 14760,
+    "DownloadCount": 14771,
     "LastUpdate": 1785824349,
     "_SourceId": "valiice-dalamudpluginrepo",
     "_SourceName": "Valiice DalamudPluginRepo",
