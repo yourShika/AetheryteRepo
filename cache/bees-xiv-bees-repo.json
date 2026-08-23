@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-08-22",
+  "fetchedAt": "2026-08-23",
   "count": 51,
   "plugins": [
     {
@@ -720,13 +720,14 @@
       "InternalName": "Hyperborea",
       "RepoUrl": "https://github.com/kawaii/Hyperborea",
       "DownloadCount": 69696969,
-      "LastUpdate": 1781710078,
+      "LastUpdate": 1787504034,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Hyperborea.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Hyperborea.zip",
-      "AssemblyVersion": "1.0.0.37",
+      "AssemblyVersion": "1.0.1.2",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "Changelog": "",
+      "TestingDalamudApiLevel": "15",
       "IconUrl": "https://puni.sh/api/plugins/icon/45",
       "ImageUrls": [
         "https://s3.puni.sh/media/plugin/45/image-qh8re4eb0f.png"
