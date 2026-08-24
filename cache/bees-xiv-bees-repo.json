@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-08-23",
+  "fetchedAt": "2026-08-24",
   "count": 51,
   "plugins": [
     {
@@ -1523,14 +1523,14 @@
         "tts"
       ],
       "InternalName": "XivVoices",
-      "AssemblyVersion": "1.5.3.5",
+      "AssemblyVersion": "1.5.3.6",
       "IsTestingExclusive": false,
       "RepoUrl": "https://github.com/keifufu/XivVoices",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "TestingDalamudApiLevel": 0,
       "DownloadCount": 69696969,
-      "LastUpdate": 1786910778,
+      "LastUpdate": 1787594987,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/XivVoices.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/XivVoices.zip",
       "LoadRequiredState": 2,
