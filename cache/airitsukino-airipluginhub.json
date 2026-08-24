@@ -1,7 +1,7 @@
 {
   "sourceId": "airitsukino-airipluginhub",
   "url": "https://raw.githubusercontent.com/AiriTsukino/AiriPluginHub/main/pluginmaster.json",
-  "fetchedAt": "2026-08-22",
+  "fetchedAt": "2026-08-24",
   "count": 7,
   "plugins": [
     {
@@ -128,7 +128,7 @@
       "Author": "Airi Tsukino",
       "Name": "AirTablet",
       "InternalName": "AirTablet",
-      "AssemblyVersion": "1.0.45.1",
+      "AssemblyVersion": "1.0.47.1",
       "Description": "A modern tablet OS for Airi's venue apps.",
       "Punchline": "Your plugin suite in one modern tablet OS.",
       "RepoUrl": "https://github.com/AiriTsukino/AirTablet",
