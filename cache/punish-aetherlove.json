@@ -1,7 +1,7 @@
 {
   "sourceId": "punish-aetherlove",
   "url": "https://puni.sh/api/repository/aetherlove",
-  "fetchedAt": "2026-08-17",
+  "fetchedAt": "2026-08-24",
   "count": 1,
   "plugins": [
     {
@@ -17,11 +17,11 @@
       ],
       "InternalName": "AetherLovePlugin",
       "RepoUrl": "https://github.com/FFXIV-Aetherlove/Aetherlove",
-      "DownloadCount": 109079,
-      "LastUpdate": 1786956248,
-      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/154/AetherLovePlugin/versions/2.4.0.0/install/latest.zip",
-      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/154/AetherLovePlugin/versions/2.4.0.0/update/latest.zip",
-      "AssemblyVersion": "2.4.0.0",
+      "DownloadCount": 113983,
+      "LastUpdate": 1787565639,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/154/AetherLovePlugin/versions/2.5.0.0/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/154/AetherLovePlugin/versions/2.5.0.0/update/latest.zip",
+      "AssemblyVersion": "2.5.0.0",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "Changelog": "",
