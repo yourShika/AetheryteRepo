@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T21:35:17.059Z",
-  "contentHash": "58c0f7111e537543",
+  "generatedAt": "2026-08-24T01:57:34.084Z",
+  "contentHash": "113aae3bce66800d",
   "totalPlugins": 570,
   "masterPlugins": 564,
   "currentApiLevel": 15,
@@ -2459,7 +2459,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "44451516-ff14 / BossmodRebornCN",
-      "keptVersion": "7.5.5.53",
+      "keptVersion": "7.5.5.54",
       "droppedVersion": "7.5.0.42"
     },
     {
@@ -3625,11 +3625,11 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "PalacePal",
@@ -3639,18 +3639,18 @@
       "droppedVersion": "4.16.0.0"
     },
     {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "6.0.0.93",
       "droppedVersion": "6.0.0.93"
-    },
-    {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "Marketbuddy",
@@ -3677,8 +3677,8 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.306.3.6",
-      "droppedVersion": "15.306.3.6"
+      "keptVersion": "15.306.3.7",
+      "droppedVersion": "15.306.3.7"
     },
     {
       "internalName": "WrathCombo",
@@ -3992,8 +3992,8 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.5.53",
-      "droppedVersion": "7.5.5.53"
+      "keptVersion": "7.5.5.54",
+      "droppedVersion": "7.5.5.54"
     },
     {
       "internalName": "ActionTimelineReborn",
@@ -4063,7 +4063,7 @@
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
       "keptVersion": "69.205",
-      "droppedVersion": "69.204"
+      "droppedVersion": "69.205"
     },
     {
       "internalName": "GlamourLog",
@@ -4517,8 +4517,8 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.5.53",
-      "droppedVersion": "7.5.5.53"
+      "keptVersion": "7.5.5.54",
+      "droppedVersion": "7.5.5.54"
     },
     {
       "internalName": "Brio",
@@ -4797,8 +4797,8 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.306.3.6",
-      "droppedVersion": "15.306.3.6"
+      "keptVersion": "15.306.3.7",
+      "droppedVersion": "15.306.3.7"
     },
     {
       "internalName": "RaidsRewritten",
@@ -4833,7 +4833,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.5.36",
-      "droppedVersion": "7.5.5.34"
+      "droppedVersion": "7.5.5.36"
     },
     {
       "internalName": "Saucy",
@@ -5133,21 +5133,21 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.5.53",
+      "keptVersion": "7.5.5.54",
       "droppedVersion": "7.5.5.53"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.5.53",
+      "keptVersion": "7.5.5.54",
       "droppedVersion": "7.3.5.27"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.5.53",
+      "keptVersion": "7.5.5.54",
       "droppedVersion": "7.4.5.18"
     },
     {
@@ -5399,7 +5399,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.5.53",
+      "keptVersion": "7.5.5.54",
       "droppedVersion": "7.2.0.261"
     },
     {
@@ -5665,7 +5665,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.306.3.6",
+      "keptVersion": "15.306.3.7",
       "droppedVersion": "4.13"
     },
     {
@@ -6463,7 +6463,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "dal4kr / Dalamud.Resources",
-      "keptVersion": "7.5.5.53",
+      "keptVersion": "7.5.5.54",
       "droppedVersion": "7.4.5.14"
     },
     {
@@ -6491,7 +6491,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.5.53",
+      "keptVersion": "7.5.5.54",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -6673,7 +6673,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "7.5.5.53",
+      "keptVersion": "7.5.5.54",
       "droppedVersion": "0.0.0.9"
     },
     {
@@ -6694,7 +6694,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.306.3.6",
+      "keptVersion": "15.306.3.7",
       "droppedVersion": "5.31"
     },
     {
@@ -6729,7 +6729,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "7.5.5.53",
+      "keptVersion": "7.5.5.54",
       "droppedVersion": "7.5.1.23"
     },
     {
@@ -6960,7 +6960,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.306.3.6",
+      "keptVersion": "15.306.3.7",
       "droppedVersion": "7.5.13"
     },
     {
