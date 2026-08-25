@@ -517,7 +517,7 @@
   },
   {
     "Author": "keifufu",
-    "Name": "XivVoices",
+    "Name": "XivVoices [Bees]",
     "Punchline": "Advanced TTS plugin voicing all dialogue in the game.",
     "Description": "XivVoices is a text-to-speech plugin that ships with high-quality pre-generated voicelines covering most of the game's content, with built-in local TTS to fill the gaps.",
     "Tags": [
@@ -525,27 +525,25 @@
       "xivv",
       "tts"
     ],
-    "IsHide": false,
     "InternalName": "XivVoices",
     "AssemblyVersion": "1.5.3.7",
-    "TestingAssemblyVersion": null,
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/keifufu/XivVoices",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 0,
-    "DownloadCount": 21852,
+    "DownloadCount": 69696969,
     "LastUpdate": 1787654283,
-    "DownloadLinkInstall": "https://github.com/keifufu/XivVoices/releases/download/1.5.3.7/XivVoices.zip",
-    "DownloadLinkUpdate": "https://github.com/keifufu/XivVoices/releases/download/1.5.3.7/XivVoices.zip",
-    "DownloadLinkTesting": "https://github.com/keifufu/XivVoices/releases/download/1.5.3.7/XivVoices.zip",
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/XivVoices.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/XivVoices.zip",
     "LoadRequiredState": 2,
     "LoadSync": true,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/keifufu/XivVoices/main/XivVoices/assets/logo.png",
-    "_SourceId": "xivv-keifufu-dev-repo",
-    "_SourceName": "XivVoices",
-    "_SourceUrl": "https://xivv.keifufu.dev/repo",
+    "IsHide": false,
+    "_SourceId": "bees-xiv-bees-repo",
+    "_SourceName": "bees-repo",
+    "_SourceUrl": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
     "_Category": "audio"
   }
 ]
