@@ -2,7 +2,7 @@
   "sourceId": "enceladeum-dalamudplugins",
   "url": "https://raw.githubusercontent.com/Enceladeum/DalamudPlugins/main/repo.json",
   "fetchedAt": "2026-08-25",
-  "count": 5,
+  "count": 6,
   "plugins": [
     {
       "Author": "The Enceladeum",
@@ -194,6 +194,46 @@
       "DownloadLinkUpdate": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
       "DownloadLinkTesting": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
       "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMapSync/main/images/icon.png",
+      "_SourceId": "enceladeum-dalamudplugins",
+      "_SourceName": "Enceladeum / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/Enceladeum/DalamudPlugins/main/repo.json"
+    },
+    {
+      "Author": "The Enceladeum",
+      "Name": "HDM",
+      "InternalName": "HDM",
+      "Punchline": "Wear any monster's face. Client-side mob disguises with a searchable catalog and animation triggers.",
+      "Description": "A catalog of every mob in the game (16k+ models, 15.5k named) plus the full set of humanoid NPCs (Glamourer's NPC tab). Apply any mob's or NPC's look to yourself client-side (Brio-style ModelCharaId swap + redraw, or a Glamourer paint for humans), spawn disguised puppets, trigger action timelines for theatrics, and revert cleanly. Self-apply only, like Glamourer — never enforced on other players. Built for DM/event use — no mechanics, just the face.",
+      "Changelog": "1.0.0.0: first public release.",
+      "Tags": [
+        "disguise",
+        "mob",
+        "monster",
+        "transform",
+        "roleplay",
+        "dm",
+        "event"
+      ],
+      "CategoryTags": [
+        "other"
+      ],
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/Enceladeum/HDM",
+      "AssemblyVersion": "1.0.0.0",
+      "DalamudApiLevel": 15,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "AcceptsFeedback": true,
+      "DownloadCount": 0,
+      "LastUpdate": 1787675596,
+      "DownloadLinkInstall": "https://github.com/Enceladeum/HDM/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Enceladeum/HDM/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Enceladeum/HDM/releases/latest/download/latest.zip",
+      "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HDM/main/images/icon.png",
       "_SourceId": "enceladeum-dalamudplugins",
       "_SourceName": "Enceladeum / DalamudPlugins",
       "_SourceUrl": "https://raw.githubusercontent.com/Enceladeum/DalamudPlugins/main/repo.json"
