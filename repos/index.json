@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T01:52:11.758Z",
-  "contentHash": "832ffa8796627a45",
+  "generatedAt": "2026-08-25T03:59:00.648Z",
+  "contentHash": "851731ec0bd20917",
   "totalPlugins": 570,
   "masterPlugins": 564,
   "currentApiLevel": 15,
@@ -3625,11 +3625,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "PalacePal",
@@ -3639,18 +3639,18 @@
       "droppedVersion": "4.16.0.0"
     },
     {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "6.0.0.93",
       "droppedVersion": "6.0.0.93"
-    },
-    {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "Marketbuddy",
@@ -3670,8 +3670,8 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.306.3.9",
-      "droppedVersion": "15.306.3.8"
+      "keptVersion": "15.306.3.10",
+      "droppedVersion": "15.306.3.10"
     },
     {
       "internalName": "Splatoon",
@@ -4797,7 +4797,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.306.3.9",
+      "keptVersion": "15.306.3.10",
       "droppedVersion": "15.306.3.9"
     },
     {
@@ -5665,7 +5665,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.306.3.9",
+      "keptVersion": "15.306.3.10",
       "droppedVersion": "4.13"
     },
     {
@@ -6694,7 +6694,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.306.3.9",
+      "keptVersion": "15.306.3.10",
       "droppedVersion": "5.31"
     },
     {
@@ -6960,7 +6960,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.306.3.9",
+      "keptVersion": "15.306.3.10",
       "droppedVersion": "7.5.13"
     },
     {
