@@ -1,7 +1,7 @@
 {
   "sourceId": "devoreofox-foxs-hollow",
   "url": "https://raw.githubusercontent.com/devoreofox/foxs-hollow/main/repo.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-08-25",
   "count": 2,
   "plugins": [
     {
@@ -18,8 +18,8 @@
         "utility"
       ],
       "DalamudApiLevel": 15,
-      "AssemblyVersion": "2.0.0.0",
-      "Version": "2.0.0.0",
+      "AssemblyVersion": "2.0.1.0",
+      "Version": "2.0.1.0",
       "ApplicableVersion": "any",
       "DownloadLinkInstall": "https://github.com/devoreofox/Silkstring/releases/latest/download/Silkstring.zip",
       "DownloadLinkUpdate": "https://github.com/devoreofox/Silkstring/releases/latest/download/Silkstring.zip",

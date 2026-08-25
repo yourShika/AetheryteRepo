@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T18:56:32.586Z",
-  "contentHash": "acc68d97b8e139c1",
+  "generatedAt": "2026-08-25T21:44:03.475Z",
+  "contentHash": "5852ea90921ecc20",
   "totalPlugins": 572,
   "masterPlugins": 566,
   "currentApiLevel": 15,
@@ -3625,11 +3625,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "YesAlready",
@@ -3639,18 +3639,18 @@
       "droppedVersion": "1.15.3.0"
     },
     {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "6.0.0.93",
       "droppedVersion": "6.0.0.93"
-    },
-    {
-      "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "Marketbuddy",
@@ -5980,8 +5980,8 @@
       "internalName": "Snowcloak",
       "kept": "ElfShelf",
       "dropped": "Snowcloak",
-      "keptVersion": "4.1.1.1",
-      "droppedVersion": "4.1.1.1"
+      "keptVersion": "4.1.2.0",
+      "droppedVersion": "4.1.2.0"
     },
     {
       "internalName": "BigMac",
