@@ -1,8 +1,8 @@
 {
   "sourceId": "devoreofox-foxs-hollow",
   "url": "https://raw.githubusercontent.com/devoreofox/foxs-hollow/main/repo.json",
-  "fetchedAt": "2026-08-25",
-  "count": 2,
+  "fetchedAt": "2026-08-26",
+  "count": 3,
   "plugins": [
     {
       "Author": "Oreo",
@@ -48,6 +48,33 @@
       "DownloadLinkInstall": "https://github.com/devoreofox/LittleLuxuries/releases/latest/download/LittleLuxuries.zip",
       "DownloadLinkUpdate": "https://github.com/devoreofox/LittleLuxuries/releases/latest/download/LittleLuxuries.zip",
       "DownloadLinkTesting": "https://github.com/devoreofox/LittleLuxuries/releases/latest/download/LittleLuxuries.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "devoreofox-foxs-hollow",
+      "_SourceName": "devoreofox / foxs-hollow",
+      "_SourceUrl": "https://raw.githubusercontent.com/devoreofox/foxs-hollow/main/repo.json"
+    },
+    {
+      "Author": "Oreo",
+      "Name": "Persona",
+      "InternalName": "persona",
+      "Punchline": "Automatic Penumbra mod-conflict management for your Glamourer designs.",
+      "Description": "Persona reads your Glamourer designs and the Penumbra mods behind them, works out which mod belongs to which item in each outfit, and flags when two outfits fight over the same item. It keeps every design self-contained so applying one never leaves a mod bleeding through from the last. Open it with /persona.",
+      "RepoUrl": "https://github.com/devoreofox/persona",
+      "IconUrl": "https://raw.githubusercontent.com/devoreofox/persona/main/persona/images/icon.png",
+      "Tags": [
+        "glamourer",
+        "penumbra",
+        "mods",
+        "utility"
+      ],
+      "DalamudApiLevel": 15,
+      "AssemblyVersion": "0.0.0.3",
+      "Version": "0.0.0.3",
+      "ApplicableVersion": "any",
+      "DownloadLinkInstall": "https://github.com/devoreofox/persona/releases/latest/download/persona.zip",
+      "DownloadLinkUpdate": "https://github.com/devoreofox/persona/releases/latest/download/persona.zip",
+      "DownloadLinkTesting": "https://github.com/devoreofox/persona/releases/latest/download/persona.zip",
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "devoreofox-foxs-hollow",

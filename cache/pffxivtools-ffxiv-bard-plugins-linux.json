@@ -1,7 +1,7 @@
 {
   "sourceId": "pffxivtools-ffxiv-bard-plugins-linux",
   "url": "https://raw.githubusercontent.com/pffxivtools/ffxiv-bard-plugins-linux/main/pluginmaster.json",
-  "fetchedAt": "2026-08-18",
+  "fetchedAt": "2026-08-26",
   "count": 3,
   "plugins": [
     {
@@ -89,7 +89,7 @@
       "Author": "Zune",
       "Name": "Master Of Puppets",
       "InternalName": "MasterOfPuppets",
-      "AssemblyVersion": "1.15.0.227",
+      "AssemblyVersion": "1.15.0.228",
       "DalamudApiLevel": 15,
       "Punchline": "Gremlins Control Center",
       "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
@@ -99,12 +99,12 @@
         "utility"
       ],
       "IconUrl": "https://i.imgur.com/uFq8py7.png",
-      "Changelog": "Fix Normalize World Separator",
+      "Changelog": " Improve stop commands \n Add formation tracking \n Add macro conditionals \n Add formation target support \n Add formation move natural movenent move option \n Add importer improvements",
       "DownloadCount": 0,
-      "LastUpdate": "1787018021",
-      "DownloadLinkInstall": "https://github.com/pffxivtools/ffxiv-bard-plugins-linux/releases/download/MasterOfPuppets-1.15.0.227/MasterOfPuppets-1.15.0.227.zip",
-      "DownloadLinkUpdate": "https://github.com/pffxivtools/ffxiv-bard-plugins-linux/releases/download/MasterOfPuppets-1.15.0.227/MasterOfPuppets-1.15.0.227.zip",
-      "DownloadLinkTesting": "https://github.com/pffxivtools/ffxiv-bard-plugins-linux/releases/download/MasterOfPuppets-1.15.0.227/MasterOfPuppets-1.15.0.227.zip",
+      "LastUpdate": "1787709710",
+      "DownloadLinkInstall": "https://github.com/pffxivtools/ffxiv-bard-plugins-linux/releases/download/MasterOfPuppets-1.15.0.228/MasterOfPuppets-1.15.0.228.zip",
+      "DownloadLinkUpdate": "https://github.com/pffxivtools/ffxiv-bard-plugins-linux/releases/download/MasterOfPuppets-1.15.0.228/MasterOfPuppets-1.15.0.228.zip",
+      "DownloadLinkTesting": "https://github.com/pffxivtools/ffxiv-bard-plugins-linux/releases/download/MasterOfPuppets-1.15.0.228/MasterOfPuppets-1.15.0.228.zip",
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "pffxivtools-ffxiv-bard-plugins-linux",
