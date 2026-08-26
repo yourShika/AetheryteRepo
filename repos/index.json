@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T16:34:12.138Z",
-  "contentHash": "9d930879968cd06f",
+  "generatedAt": "2026-08-26T20:03:32.648Z",
+  "contentHash": "123646c9fa5727a6",
   "totalPlugins": 579,
   "masterPlugins": 573,
   "currentApiLevel": 15,
@@ -2550,7 +2550,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "6.0.0.93",
+      "keptVersion": "6.0.0.94",
       "droppedVersion": "6.0.0.93"
     },
     {
@@ -2816,7 +2816,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "6.0.0.93",
+      "keptVersion": "6.0.0.94",
       "droppedVersion": "2.3.0.3"
     },
     {
@@ -3611,6 +3611,13 @@
       "droppedVersion": "1.0.1.10"
     },
     {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
+    },
+    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3618,11 +3625,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "PandorasBox",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
+      "keptVersion": "6.0.0.94",
+      "droppedVersion": "6.0.0.94"
     },
     {
       "internalName": "YesAlready",
@@ -3646,11 +3653,11 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.93",
-      "droppedVersion": "6.0.0.93"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "AutoRetainer",
@@ -3658,13 +3665,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.6.1.27",
       "droppedVersion": "4.6.1.27"
-    },
-    {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Questionable",
@@ -4468,7 +4468,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "6.0.0.93",
+      "keptVersion": "6.0.0.94",
       "droppedVersion": "6.0.0.93"
     },
     {
@@ -5364,7 +5364,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "6.0.0.93",
+      "keptVersion": "6.0.0.94",
       "droppedVersion": "4.3.1.10"
     },
     {
@@ -6253,7 +6253,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "6.0.0.93",
+      "keptVersion": "6.0.0.94",
       "droppedVersion": "6.0.0.12"
     },
     {
@@ -6638,7 +6638,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "6.0.0.93",
+      "keptVersion": "6.0.0.94",
       "droppedVersion": "4.3.4.1"
     },
     {
@@ -6722,7 +6722,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "6.0.0.93",
+      "keptVersion": "6.0.0.94",
       "droppedVersion": "6.0.0.68"
     },
     {
@@ -6771,7 +6771,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / OLDBAI",
-      "keptVersion": "6.0.0.93",
+      "keptVersion": "6.0.0.94",
       "droppedVersion": "6.0.0.46"
     },
     {
