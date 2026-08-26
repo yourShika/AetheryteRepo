@@ -1,14 +1,14 @@
 {
   "sourceId": "zunetrix-dalamudplugins",
   "url": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-08-22",
+  "fetchedAt": "2026-08-26",
   "count": 4,
   "plugins": [
     {
       "Author": "Zune",
       "Name": "Master Of Puppets",
       "InternalName": "MasterOfPuppets",
-      "AssemblyVersion": "1.15.0.227",
+      "AssemblyVersion": "1.15.0.228",
       "DalamudApiLevel": 15,
       "Punchline": "Gremlins Control Center",
       "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
@@ -18,7 +18,7 @@
         "utility"
       ],
       "IconUrl": "https://i.imgur.com/uFq8py7.png",
-      "Changelog": "Fix Chat Message handler PMD",
+      "Changelog": " Improve stop commands \n Add formation tracking \n Add macro conditionals \n Add formation target support \n Add formation move natural movenent move option \n Add importer improvements",
       "DownloadCount": 0,
       "LastUpdate": "1756257632",
       "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MasterOfPuppets/latest.zip",
@@ -74,7 +74,7 @@
         "bard"
       ],
       "IconUrl": "https://i.imgur.com/Am5a7yS.png",
-      "Changelog": "Add sort by file added at playlist",
+      "Changelog": "Fix Chat Message handler PMD",
       "DownloadCount": 0,
       "LastUpdate": "1743473513",
       "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MidiBard2Alpha/latest.zip",

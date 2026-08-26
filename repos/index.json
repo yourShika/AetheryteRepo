@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T21:44:03.475Z",
-  "contentHash": "5852ea90921ecc20",
-  "totalPlugins": 572,
-  "masterPlugins": 566,
+  "generatedAt": "2026-08-26T01:58:02.253Z",
+  "contentHash": "d1a551efb403b912",
+  "totalPlugins": 578,
+  "masterPlugins": 572,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -2100,7 +2100,7 @@
       "name": "McVaxius / TheDumpsterFire",
       "url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
       "status": "ok",
-      "count": 12,
+      "count": 21,
       "note": null
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 112,
+      "count": 117,
       "file": "repos/automation.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 13,
+      "count": 14,
       "file": "repos/misc.json"
     }
   ],
@@ -3625,20 +3625,6 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
-    },
-    {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
-    },
-    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3653,11 +3639,18 @@
       "droppedVersion": "6.0.0.93"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
+    },
+    {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "AutoRetainer",
@@ -3667,10 +3660,17 @@
       "droppedVersion": "4.6.1.27"
     },
     {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.306.3.13",
+      "keptVersion": "15.306.3.14",
       "droppedVersion": "15.306.3.13"
     },
     {
@@ -3688,18 +3688,18 @@
       "droppedVersion": "1.0.4.20"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.18",
-      "droppedVersion": "4.0.5.18"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.1.17",
       "droppedVersion": "2.1.1.17"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.18",
+      "droppedVersion": "4.0.5.18"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4518,7 +4518,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.5.59",
-      "droppedVersion": "7.5.5.57"
+      "droppedVersion": "7.5.5.59"
     },
     {
       "internalName": "Brio",
@@ -4797,8 +4797,8 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.306.3.13",
-      "droppedVersion": "15.306.3.9"
+      "keptVersion": "15.306.3.14",
+      "droppedVersion": "15.306.3.13"
     },
     {
       "internalName": "RaidsRewritten",
@@ -5665,7 +5665,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.306.3.13",
+      "keptVersion": "15.306.3.14",
       "droppedVersion": "4.13"
     },
     {
@@ -5980,8 +5980,8 @@
       "internalName": "Snowcloak",
       "kept": "ElfShelf",
       "dropped": "Snowcloak",
-      "keptVersion": "4.1.2.0",
-      "droppedVersion": "4.1.2.0"
+      "keptVersion": "4.1.2.2",
+      "droppedVersion": "4.1.2.2"
     },
     {
       "internalName": "BigMac",
@@ -6694,7 +6694,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.306.3.13",
+      "keptVersion": "15.306.3.14",
       "droppedVersion": "5.31"
     },
     {
@@ -6960,7 +6960,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.306.3.13",
+      "keptVersion": "15.306.3.14",
       "droppedVersion": "7.5.13"
     },
     {
@@ -6969,6 +6969,27 @@
       "dropped": "WigglyCorp / DalamudPlugins",
       "keptVersion": "4.2",
       "droppedVersion": "7.5.4"
+    },
+    {
+      "internalName": "XADatabase",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.40",
+      "droppedVersion": "0.0.0.40"
+    },
+    {
+      "internalName": "XASlave",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.43",
+      "droppedVersion": "0.0.0.43"
+    },
+    {
+      "internalName": "XAHudNavigator",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.8",
+      "droppedVersion": "0.0.0.8"
     },
     {
       "internalName": "Artisan",
@@ -6986,9 +7007,9 @@
     },
     {
       "internalName": "MasterOfPuppets",
-      "kept": "pffxivtools / ffxiv-bard-plugins-linux",
-      "dropped": "zunetrix / DalamudPlugins",
-      "keptVersion": "1.15.0.227",
+      "kept": "zunetrix / DalamudPlugins",
+      "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
+      "keptVersion": "1.15.0.228",
       "droppedVersion": "1.15.0.227"
     }
   ]
