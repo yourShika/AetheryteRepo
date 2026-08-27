@@ -1,7 +1,7 @@
 {
   "sourceId": "icarusxiv-encore",
   "url": "https://raw.githubusercontent.com/IcarusXIV/Encore/master/Encore/repo.json",
-  "fetchedAt": "2026-08-22",
+  "fetchedAt": "2026-08-27",
   "count": 1,
   "plugins": [
     {
@@ -15,16 +15,16 @@
         "Penumbra"
       ],
       "InternalName": "Encore",
-      "AssemblyVersion": "1.0.1.0",
-      "TestingAssemblyVersion": "1.0.1.0",
+      "AssemblyVersion": "1.0.1.2",
+      "TestingAssemblyVersion": "1.0.1.2",
       "RepoUrl": "https://github.com/IcarusXIV/Encore",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "IsHide": false,
       "IsTestingExclusive": false,
-      "DownloadLinkInstall": "https://github.com/IcarusXIV/Encore/releases/download/1.0.1.0/Encore.zip",
-      "DownloadLinkTesting": "https://github.com/IcarusXIV/Encore/releases/download/1.0.1.0/Encore.zip",
-      "DownloadLinkUpdate": "https://github.com/IcarusXIV/Encore/releases/download/1.0.1.0/Encore.zip",
+      "DownloadLinkInstall": "https://github.com/IcarusXIV/Encore/releases/download/1.0.1.2/Encore.zip",
+      "DownloadLinkTesting": "https://github.com/IcarusXIV/Encore/releases/download/1.0.1.2/Encore.zip",
+      "DownloadLinkUpdate": "https://github.com/IcarusXIV/Encore/releases/download/1.0.1.2/Encore.zip",
       "IconUrl": "https://raw.githubusercontent.com/IcarusXIV/Encore/master/Encore/Assets/Icon.png",
       "_SourceId": "icarusxiv-encore",
       "_SourceName": "Encore",

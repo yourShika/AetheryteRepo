@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T20:03:32.648Z",
-  "contentHash": "123646c9fa5727a6",
+  "generatedAt": "2026-08-27T00:47:23.803Z",
+  "contentHash": "dd1d48c801220d1d",
   "totalPlugins": 579,
   "masterPlugins": 573,
   "currentApiLevel": 15,
@@ -2551,7 +2551,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "6.0.0.94",
-      "droppedVersion": "6.0.0.93"
+      "droppedVersion": "6.0.0.94"
     },
     {
       "internalName": "AutoRetainer",
@@ -2663,7 +2663,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "2.1.1.18",
-      "droppedVersion": "2.1.1.17"
+      "droppedVersion": "2.1.1.18"
     },
     {
       "internalName": "SimpleHeels",
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,18 +3618,18 @@
       "droppedVersion": "2.2.0.12"
     },
     {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
+    },
+    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "6.0.0.94",
       "droppedVersion": "6.0.0.94"
-    },
-    {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "LazyLoot",
@@ -3653,11 +3646,11 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "AutoRetainer",
@@ -3665,6 +3658,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.6.1.27",
       "droppedVersion": "4.6.1.27"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Questionable",
@@ -4062,7 +4062,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "69.205",
+      "keptVersion": "69.206",
       "droppedVersion": "69.205"
     },
     {
@@ -5420,7 +5420,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "69.205",
+      "keptVersion": "69.206",
       "droppedVersion": "69.55"
     },
     {
@@ -6939,7 +6939,7 @@
       "internalName": "CharacterSelectPlugin",
       "kept": "Character Select+",
       "dropped": "wasdcxz / DalamudPlugins",
-      "keptVersion": "2.1.1.1",
+      "keptVersion": "2.1.2.1",
       "droppedVersion": "2.1.1.2"
     },
     {
