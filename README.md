@@ -53,9 +53,9 @@ beliebig mit anderen kombinieren — die Tabelle wird bei jedem Lauf automatisch
 | 🎭 Social & Roleplay | RP-Profile, Emotes, Free Company, Discord | 54 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/social.json` |
 | 🔞 Adult (18+) | Nur fuer Erwachsene – standardmaessig NICHT im Master | 6 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/nsfw.json` |
 | 🏡 Housing & Deko | Moebel, Layouts, Grundstuecke | 16 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/housing.json` |
-| 🔊 Audio & Voice | Voicechat, TTS, Musik, Sound | 19 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/audio.json` |
+| 🔊 Audio & Voice | Voicechat, TTS, Musik, Sound | 18 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/audio.json` |
 | 🛠️ Developer & Data | Debugging, Datenexplorer, Editoren | 20 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/dev.json` |
-| 📦 Sonstiges | Alles ohne klare Zuordnung | 13 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/misc.json` |
+| 📦 Sonstiges | Alles ohne klare Zuordnung | 14 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/misc.json` |
 
 <!-- FEEDS:END -->
 
