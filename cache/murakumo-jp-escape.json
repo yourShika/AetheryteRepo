@@ -1,7 +1,7 @@
 {
   "sourceId": "murakumo-jp-escape",
   "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
-  "fetchedAt": "2026-08-28",
+  "fetchedAt": "2026-08-29",
   "count": 13,
   "plugins": [
     {
@@ -11,7 +11,7 @@
       "Description": "Runtime mod loader and manager.",
       "InternalName": "Penumbra",
       "AssemblyVersion": "1.6.1.12",
-      "TestingAssemblyVersion": "1.7.0.9",
+      "TestingAssemblyVersion": "1.7.0.10",
       "RepoUrl": "https://github.com/xivdev/Penumbra",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
@@ -22,7 +22,7 @@
       "LoadRequiredState": 2,
       "LoadSync": true,
       "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/1.6.1.12/Penumbra.zip",
-      "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/testing_1.7.0.9/Penumbra.zip",
+      "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/testing_1.7.0.10/Penumbra.zip",
       "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/1.6.1.12/Penumbra.zip",
       "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
       "Tags": [
@@ -53,7 +53,7 @@
       "InternalName": "Glamourer",
       "MinimumDalamudVersion": "15.0.0.2",
       "AssemblyVersion": "1.6.1.7",
-      "TestingAssemblyVersion": "1.7.0.6",
+      "TestingAssemblyVersion": "1.7.0.8",
       "RepoUrl": "https://github.com/Ottermandias/Glamourer",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
@@ -62,7 +62,7 @@
       "IsTestingExclusive": false,
       "DownloadLinkInstall": "https://github.com/Ottermandias/Glamourer/releases/download/1.6.1.7/Glamourer.zip",
       "DownloadLinkUpdate": "https://github.com/Ottermandias/Glamourer/releases/download/1.6.1.7/Glamourer.zip",
-      "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/testing_1.7.0.6/Glamourer.zip",
+      "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/testing_1.7.0.8/Glamourer.zip",
       "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png",
       "_SourceId": "murakumo-jp-escape",
       "_SourceName": "eScape",

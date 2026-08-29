@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29T16:42:48.152Z",
-  "contentHash": "33d8292e6318abf2",
+  "generatedAt": "2026-08-29T20:54:55.164Z",
+  "contentHash": "12de6079e433c85b",
   "totalPlugins": 581,
   "masterPlugins": 575,
   "currentApiLevel": 15,
@@ -2662,7 +2662,7 @@
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "2.1.2.0",
+      "keptVersion": "2.1.2.1",
       "droppedVersion": "2.1.2.0"
     },
     {
@@ -2705,7 +2705,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "1.0.4.23",
-      "droppedVersion": "1.0.4.21"
+      "droppedVersion": "1.0.4.23"
     },
     {
       "internalName": "YesAlready",
@@ -3625,18 +3625,18 @@
       "droppedVersion": "2.2.0.12"
     },
     {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
       "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.16.0.0",
       "droppedVersion": "4.16.0.0"
-    },
-    {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.95",
-      "droppedVersion": "6.0.0.95"
     },
     {
       "internalName": "YesAlready",
@@ -3646,18 +3646,11 @@
       "droppedVersion": "1.15.3.0"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.27",
-      "droppedVersion": "4.6.1.27"
+      "keptVersion": "6.0.0.95",
+      "droppedVersion": "6.0.0.95"
     },
     {
       "internalName": "Marketbuddy",
@@ -3667,11 +3660,25 @@
       "droppedVersion": "0.2.4.2"
     },
     {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.1.27",
+      "droppedVersion": "4.6.1.27"
+    },
+    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "15.306.3.19",
       "droppedVersion": "15.306.3.19"
+    },
+    {
+      "internalName": "WrathCombo",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.4.23",
+      "droppedVersion": "1.0.4.23"
     },
     {
       "internalName": "Splatoon",
@@ -3681,18 +3688,11 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "WrathCombo",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.0.4.23",
-      "droppedVersion": "1.0.4.22"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.0",
-      "droppedVersion": "2.1.2.0"
+      "keptVersion": "2.1.2.1",
+      "droppedVersion": "2.1.2.1"
     },
     {
       "internalName": "Artisan",
@@ -4063,7 +4063,7 @@
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
       "keptVersion": "69.210",
-      "droppedVersion": "69.209"
+      "droppedVersion": "69.210"
     },
     {
       "internalName": "GlamourLog",
@@ -4839,7 +4839,7 @@
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.1.2.0",
+      "keptVersion": "2.1.2.1",
       "droppedVersion": "2.1.2.0"
     },
     {
@@ -5700,7 +5700,7 @@
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "2.1.2.0",
+      "keptVersion": "2.1.2.1",
       "droppedVersion": "1.4.1.1"
     },
     {
@@ -6225,7 +6225,7 @@
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "2.1.2.0",
+      "keptVersion": "2.1.2.1",
       "droppedVersion": "1.6.0.0"
     },
     {
@@ -6631,7 +6631,7 @@
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "2.1.2.0",
+      "keptVersion": "2.1.2.1",
       "droppedVersion": "1.4.2.0"
     },
     {
@@ -6939,7 +6939,7 @@
       "internalName": "CharacterSelectPlugin",
       "kept": "Character Select+",
       "dropped": "wasdcxz / DalamudPlugins",
-      "keptVersion": "2.1.2.1",
+      "keptVersion": "2.1.2.2",
       "droppedVersion": "2.1.1.2"
     },
     {

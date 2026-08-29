@@ -1,7 +1,7 @@
 {
   "sourceId": "icarusxiv-character-select",
   "url": "https://raw.githubusercontent.com/IcarusXIV/Character-Select-/master/CharacterSelectPlugin/repo.json",
-  "fetchedAt": "2026-08-27",
+  "fetchedAt": "2026-08-29",
   "count": 1,
   "plugins": [
     {
@@ -13,16 +13,16 @@
         "Select"
       ],
       "InternalName": "CharacterSelectPlugin",
-      "AssemblyVersion": "2.1.2.1",
-      "TestingAssemblyVersion": "2.1.2.1",
+      "AssemblyVersion": "2.1.2.2",
+      "TestingAssemblyVersion": "2.1.2.2",
       "RepoUrl": "https://github.com/IcarusXIV/Character-Select-",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "IsHide": false,
       "IsTestingExclusive": false,
-      "DownloadLinkInstall": "https://github.com/IcarusXIV/Character-Select-/releases/download/2.1.2.1/CharacterSelectPlugin.zip",
-      "DownloadLinkTesting": "https://github.com/IcarusXIV/Character-Select-/releases/download/2.1.2.1/CharacterSelectPlugin.zip",
-      "DownloadLinkUpdate": "https://github.com/IcarusXIV/Character-Select-/releases/download/2.1.2.1/CharacterSelectPlugin.zip",
+      "DownloadLinkInstall": "https://github.com/IcarusXIV/Character-Select-/releases/download/2.1.2.2/CharacterSelectPlugin.zip",
+      "DownloadLinkTesting": "https://github.com/IcarusXIV/Character-Select-/releases/download/2.1.2.2/CharacterSelectPlugin.zip",
+      "DownloadLinkUpdate": "https://github.com/IcarusXIV/Character-Select-/releases/download/2.1.2.2/CharacterSelectPlugin.zip",
       "IconUrl": "https://raw.githubusercontent.com/IcarusXIV/Character-Select-/master/CharacterSelectPlugin/Assets/Icon.png",
       "_SourceId": "icarusxiv-character-select",
       "_SourceName": "Character Select+",
