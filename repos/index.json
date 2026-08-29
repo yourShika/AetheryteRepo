@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-29T10:02:49.673Z",
-  "contentHash": "4cbc429538109bf8",
-  "totalPlugins": 575,
-  "masterPlugins": 569,
+  "generatedAt": "2026-08-29T16:42:48.152Z",
+  "contentHash": "33d8292e6318abf2",
+  "totalPlugins": 581,
+  "masterPlugins": 575,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -2100,7 +2100,7 @@
       "name": "McVaxius / TheDumpsterFire",
       "url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
       "status": "ok",
-      "count": 12,
+      "count": 21,
       "note": null
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 112,
+      "count": 117,
       "file": "repos/automation.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 13,
+      "count": 14,
       "file": "repos/misc.json"
     }
   ],
@@ -2704,7 +2704,7 @@
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "1.0.4.21",
+      "keptVersion": "1.0.4.23",
       "droppedVersion": "1.0.4.21"
     },
     {
@@ -3632,11 +3632,11 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "6.0.0.95",
+      "droppedVersion": "6.0.0.95"
     },
     {
       "internalName": "YesAlready",
@@ -3646,18 +3646,11 @@
       "droppedVersion": "1.15.3.0"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.95",
-      "droppedVersion": "6.0.0.95"
-    },
-    {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "AutoRetainer",
@@ -3665,6 +3658,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.6.1.27",
       "droppedVersion": "4.6.1.27"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Questionable",
@@ -3684,8 +3684,8 @@
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.0.4.21",
-      "droppedVersion": "1.0.4.21"
+      "keptVersion": "1.0.4.23",
+      "droppedVersion": "1.0.4.22"
     },
     {
       "internalName": "Saucy",
@@ -4062,7 +4062,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "69.209",
+      "keptVersion": "69.210",
       "droppedVersion": "69.209"
     },
     {
@@ -4958,7 +4958,7 @@
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.4.21",
+      "keptVersion": "1.0.4.23",
       "droppedVersion": "1.0.4.21"
     },
     {
@@ -5112,21 +5112,21 @@
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.4",
+      "keptVersion": "4.2.0.5",
       "droppedVersion": "3.3.4.0"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.4",
+      "keptVersion": "4.2.0.5",
       "droppedVersion": "0.69.1.12"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.4",
+      "keptVersion": "4.2.0.5",
       "droppedVersion": "2.1.1.4"
     },
     {
@@ -5134,7 +5134,7 @@
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.5.62",
-      "droppedVersion": "7.5.5.61"
+      "droppedVersion": "7.5.5.62"
     },
     {
       "internalName": "BossModReborn",
@@ -5252,21 +5252,21 @@
       "internalName": "NyaDraw",
       "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "1.15.1.2",
+      "keptVersion": "1.15.1.3",
       "droppedVersion": "1.0.12.9992"
     },
     {
       "internalName": "NyaDraw",
       "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "1.15.1.2",
+      "keptVersion": "1.15.1.3",
       "droppedVersion": "1.13.1.8"
     },
     {
       "internalName": "NyaDraw",
       "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "1.15.1.2",
+      "keptVersion": "1.15.1.3",
       "droppedVersion": "1.14.0.35"
     },
     {
@@ -5420,7 +5420,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "69.209",
+      "keptVersion": "69.210",
       "droppedVersion": "69.55"
     },
     {
@@ -5805,7 +5805,7 @@
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.0.4.21",
+      "keptVersion": "1.0.4.23",
       "droppedVersion": "1.0.0.8"
     },
     {
@@ -5980,8 +5980,8 @@
       "internalName": "Snowcloak",
       "kept": "ElfShelf",
       "dropped": "Snowcloak",
-      "keptVersion": "4.1.2.2",
-      "droppedVersion": "4.1.2.2"
+      "keptVersion": "4.1.3.1",
+      "droppedVersion": "4.1.3.1"
     },
     {
       "internalName": "BigMac",
@@ -6750,7 +6750,7 @@
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "1.0.4.21",
+      "keptVersion": "1.0.4.23",
       "droppedVersion": "1.0.4.13"
     },
     {
@@ -6969,6 +6969,27 @@
       "dropped": "WigglyCorp / DalamudPlugins",
       "keptVersion": "4.2",
       "droppedVersion": "7.5.4"
+    },
+    {
+      "internalName": "XADatabase",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.40",
+      "droppedVersion": "0.0.0.40"
+    },
+    {
+      "internalName": "XASlave",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.43",
+      "droppedVersion": "0.0.0.43"
+    },
+    {
+      "internalName": "XAHudNavigator",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.8",
+      "droppedVersion": "0.0.0.8"
     },
     {
       "internalName": "Artisan",
