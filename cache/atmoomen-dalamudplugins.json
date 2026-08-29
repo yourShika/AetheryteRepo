@@ -1,7 +1,7 @@
 {
   "sourceId": "atmoomen-dalamudplugins",
   "url": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-08-21",
+  "fetchedAt": "2026-08-29",
   "count": 14,
   "plugins": [
     {
@@ -140,7 +140,7 @@
     {
       "Name": "vnavmesh",
       "InternalName": "vnavmesh",
-      "AssemblyVersion": "0.8.0.0",
+      "AssemblyVersion": "0.8.1.0",
       "Author": "veyn, AtmoOmen",
       "Punchline": "行遍千里",
       "Description": "不仅会自动寻路, 还能自动避障",
@@ -149,8 +149,8 @@
       "DalamudApiLevel": 15,
       "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
       "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/CN/Resources/icon2.png",
-      "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.8.0.0/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.8.0.0/latest.zip",
+      "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.8.1.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.8.1.0/latest.zip",
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "atmoomen-dalamudplugins",

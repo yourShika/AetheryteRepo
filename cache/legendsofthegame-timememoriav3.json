@@ -1,14 +1,14 @@
 {
   "sourceId": "legendsofthegame-timememoriav3",
   "url": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json",
-  "fetchedAt": "2026-08-26",
+  "fetchedAt": "2026-08-29",
   "count": 1,
   "plugins": [
     {
       "Author": "Legends of the Game",
       "Name": "Time Memoria",
       "InternalName": "TimeMemoriaV3",
-      "AssemblyVersion": "3.3.0.15",
+      "AssemblyVersion": "3.3.1.15",
       "Description": "Quest progression and pacing — a reflective notebook for your story journey, not a scoreboard.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/LegendsOfTheGame/TimeMemoriaV3",
@@ -36,7 +36,7 @@
       "DownloadLinkTesting": "https://github.com/LegendsOfTheGame/TimeMemoriaV3/releases/latest/download/latest.zip",
       "IconUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/assets/icon.png",
       "DownloadCount": 0,
-      "Changelog": "Native window improvements: a cleaner News tab, an at-a-glance achievement total, and role-coloured, correctly-ranked food.\n\nNews and What's New:\n- Merge What's New into the News tab. It was dormant between content patches and had one line to say the rest of the year while permanently holding 40% of the tab's height for it - now it's one continuous panel that only grows a list when there is something to list.\n- List up to 60 new quests on a big patch, and say so (\"...and N more\") rather than silently dropping the rest.\n\nOverview:\n- Add an \"Achievements\" section - \"Overall X/Y Z%\" - the same grand tally the game's own Achievements window shows, in both Classic and Native.\n- Hidden until that window has loaded this login, the same way other totals hide rather than showing a false 0/0.\n- Fixes a related gap: switching characters mid-session could silently skip this and other free achievement reads for every character after the first.\n\nBonuses:\n- Colour each held food's stat line by role - Tank, Healer, DPS, Crafter, Gatherer - matching the palette Progression already uses.\n- Fix a ranking bug: food was scored by summing every stat's cap regardless of relevance, so a Skill Speed/Direct Hit food could outrank a Piety food for a healer. Ranking now counts only the stats your equipped gear actually uses.\n- Rank held food by your real, current stat totals while you are not fed, instead of assuming every food reaches its cap; falls back to the simpler cap-based ranking while fed, since your current total already includes that food's own bonus and multiplying it in again would double-count it.\n- Pin the food you are currently eating to the top of its group.\n\nSomething not working, or a figure that looks wrong? Please reach out.",
+      "Changelog": "Fixed: Quest completion dates\n- A character switch could write one character's completed quests into another character's journal. The sweep now waits for the login event and re-checks who is playing after reading the tree, discarding anything gathered across a change.\n- An entry for a quest the game reports unfinished is now dropped, so a bad date corrects itself instead of persisting forever.\n- The first reading for a new character waits for the completed count to hold steady across two sweeps, so a still-loading quest tree is not mistaken for a character who has done less.",
       "_SourceId": "legendsofthegame-timememoriav3",
       "_SourceName": "LegendsOfTheGame / TimeMemoriaV3",
       "_SourceUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json"
