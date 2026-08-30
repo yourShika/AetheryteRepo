@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T16:40:20.412Z",
-  "contentHash": "8521a90c8516968f",
+  "generatedAt": "2026-08-30T21:04:59.821Z",
+  "contentHash": "3e5853525a0c0a20",
   "totalPlugins": 581,
   "masterPlugins": 575,
   "currentApiLevel": 15,
@@ -2100,7 +2100,7 @@
       "name": "McVaxius / TheDumpsterFire",
       "url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
       "status": "ok",
-      "count": 21,
+      "count": 18,
       "note": null
     },
     {
@@ -3625,18 +3625,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
-    },
-    {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.95",
-      "droppedVersion": "6.0.0.95"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "PalacePal",
@@ -3646,18 +3639,18 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "6.0.0.95",
+      "droppedVersion": "6.0.0.95"
     },
     {
-      "internalName": "AutoRetainer",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.27",
-      "droppedVersion": "4.6.1.27"
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "Marketbuddy",
@@ -3667,18 +3660,18 @@
       "droppedVersion": "0.2.4.2"
     },
     {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.1.27",
+      "droppedVersion": "4.6.1.27"
+    },
+    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "15.306.3.19",
       "droppedVersion": "15.306.3.19"
-    },
-    {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.25",
-      "droppedVersion": "3.9.2.25"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,11 +3681,11 @@
       "droppedVersion": "1.0.4.23"
     },
     {
-      "internalName": "Artisan",
+      "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.18",
-      "droppedVersion": "4.0.5.18"
+      "keptVersion": "3.9.2.25",
+      "droppedVersion": "3.9.2.25"
     },
     {
       "internalName": "Saucy",
@@ -3700,6 +3693,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.1",
       "droppedVersion": "2.1.2.1"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.18",
+      "droppedVersion": "4.0.5.18"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -5943,9 +5943,9 @@
     },
     {
       "internalName": "ProjectGagSpeak",
-      "kept": "bees-repo",
-      "dropped": "Project GagSpeak",
-      "keptVersion": "2.2.0.4",
+      "kept": "Project GagSpeak",
+      "dropped": "bees-repo",
+      "keptVersion": "2.2.0.5",
       "droppedVersion": "2.2.0.4"
     },
     {
@@ -6969,27 +6969,6 @@
       "dropped": "WigglyCorp / DalamudPlugins",
       "keptVersion": "4.2",
       "droppedVersion": "7.5.4"
-    },
-    {
-      "internalName": "XADatabase",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.40",
-      "droppedVersion": "0.0.0.40"
-    },
-    {
-      "internalName": "XASlave",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.43",
-      "droppedVersion": "0.0.0.43"
-    },
-    {
-      "internalName": "XAHudNavigator",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.8",
-      "droppedVersion": "0.0.0.8"
     },
     {
       "internalName": "Artisan",
