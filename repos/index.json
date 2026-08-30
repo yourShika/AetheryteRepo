@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29T23:18:39.713Z",
-  "contentHash": "86b9f75a683aa962",
+  "generatedAt": "2026-08-30T05:23:50.047Z",
+  "contentHash": "5de01e4363915b46",
   "totalPlugins": 581,
   "masterPlugins": 575,
   "currentApiLevel": 15,
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "Avarice",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.12",
-      "droppedVersion": "2.2.0.12"
-    },
-    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,11 +3618,11 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "2.2.0.12",
+      "droppedVersion": "2.2.0.12"
     },
     {
       "internalName": "PalacePal",
@@ -3653,6 +3646,13 @@
       "droppedVersion": "1.15.3.0"
     },
     {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
@@ -3674,18 +3674,18 @@
       "droppedVersion": "15.306.3.19"
     },
     {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.25",
-      "droppedVersion": "3.9.2.25"
-    },
-    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.23",
       "droppedVersion": "1.0.4.23"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.25",
+      "droppedVersion": "3.9.2.25"
     },
     {
       "internalName": "Saucy",
@@ -4518,7 +4518,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.5.62",
-      "droppedVersion": "7.5.5.61"
+      "droppedVersion": "7.5.5.62"
     },
     {
       "internalName": "Brio",
@@ -4798,7 +4798,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "15.306.3.19",
-      "droppedVersion": "15.306.3.18"
+      "droppedVersion": "15.306.3.19"
     },
     {
       "internalName": "RaidsRewritten",
@@ -4840,7 +4840,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "2.1.2.1",
-      "droppedVersion": "2.1.2.0"
+      "droppedVersion": "2.1.2.1"
     },
     {
       "internalName": "SelectString",
@@ -4959,7 +4959,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.0.4.23",
-      "droppedVersion": "1.0.4.21"
+      "droppedVersion": "1.0.4.23"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -7007,9 +7007,9 @@
     },
     {
       "internalName": "MasterOfPuppets",
-      "kept": "pffxivtools / ffxiv-bard-plugins-linux",
-      "dropped": "zunetrix / DalamudPlugins",
-      "keptVersion": "1.15.0.228",
+      "kept": "zunetrix / DalamudPlugins",
+      "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
+      "keptVersion": "1.15.0.230",
       "droppedVersion": "1.15.0.228"
     }
   ]

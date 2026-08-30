@@ -1,7 +1,7 @@
 {
   "sourceId": "seaofstars",
   "url": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
-  "fetchedAt": "2026-08-29",
+  "fetchedAt": "2026-08-30",
   "count": 9,
   "plugins": [
     {
@@ -55,7 +55,7 @@
       "InternalName": "Glamourer",
       "MinimumDalamudVersion": "15.0.0.2",
       "AssemblyVersion": "1.6.1.7",
-      "TestingAssemblyVersion": "1.7.0.8",
+      "TestingAssemblyVersion": "1.7.0.10",
       "RepoUrl": "https://github.com/Ottermandias/Glamourer",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
@@ -66,7 +66,7 @@
       "LastUpdate": 1618608322,
       "DownloadLinkInstall": "https://github.com/Ottermandias/Glamourer/releases/download/1.6.1.7/Glamourer.zip",
       "DownloadLinkUpdate": "https://github.com/Ottermandias/Glamourer/releases/download/1.6.1.7/Glamourer.zip",
-      "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/testing_1.7.0.8/Glamourer.zip",
+      "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/testing_1.7.0.10/Glamourer.zip",
       "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png",
       "_SourceId": "seaofstars",
       "_SourceName": "Sea of Stars",
