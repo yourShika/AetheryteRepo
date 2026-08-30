@@ -1,14 +1,14 @@
 {
   "sourceId": "juiposa-simple-character-select",
   "url": "https://raw.githubusercontent.com/juiposa/Simple-Character-Select/main/Releases/repo.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-08-30",
   "count": 1,
   "plugins": [
     {
       "Author": "Juiposa",
       "Name": "Simple Character Select",
       "InternalName": "SimpleCharacterSelectPlugin",
-      "AssemblyVersion": "0.1.2.0",
+      "AssemblyVersion": "0.1.3.0",
       "Description": "Simple Character Select",
       "ApplicableVersion": "any",
       "Tags": [
@@ -25,9 +25,9 @@
       "Punchline": "Straightforward character selection, no fluff or hassle",
       "AcceptsFeedback": true,
       "IsTestingExclusive": false,
-      "DownloadLinkInstall": "https://github.com/juiposa/Simple-Character-Select/releases/download/0.1.2/latest.zip",
-      "DownloadLinkTesting": "https://github.com/juiposa/Simple-Character-Select/releases/download/0.1.2/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/Juiposa/Simple-Character-Select/releases/download/0.1.2/latest.zip",
+      "DownloadLinkInstall": "https://github.com/juiposa/Simple-Character-Select/releases/download/0.1.3/latest.zip",
+      "DownloadLinkTesting": "https://github.com/juiposa/Simple-Character-Select/releases/download/0.1.3/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Juiposa/Simple-Character-Select/releases/download/0.1.3/latest.zip",
       "IsHide": false,
       "_SourceId": "juiposa-simple-character-select",
       "_SourceName": "Simple Character Select",

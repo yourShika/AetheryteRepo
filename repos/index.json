@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T21:04:59.821Z",
-  "contentHash": "3e5853525a0c0a20",
+  "generatedAt": "2026-08-30T23:29:35.033Z",
+  "contentHash": "386be2835c91ca6e",
   "totalPlugins": 581,
   "masterPlugins": 575,
   "currentApiLevel": 15,
@@ -3625,11 +3625,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "6.0.0.95",
+      "droppedVersion": "6.0.0.95"
     },
     {
       "internalName": "PalacePal",
@@ -3639,11 +3639,11 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.95",
-      "droppedVersion": "6.0.0.95"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "YesAlready",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.1",
-      "droppedVersion": "2.1.2.1"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.18",
       "droppedVersion": "4.0.5.18"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.1",
+      "droppedVersion": "2.1.2.1"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4244,8 +4244,8 @@
       "internalName": "ProjectGagSpeak",
       "kept": "bees-repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.4",
-      "droppedVersion": "2.2.0.4"
+      "keptVersion": "2.2.0.5",
+      "droppedVersion": "2.2.0.5"
     },
     {
       "internalName": "PuppetMaster",
@@ -5112,21 +5112,21 @@
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.5",
+      "keptVersion": "4.2.0.6",
       "droppedVersion": "3.3.4.0"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.5",
+      "keptVersion": "4.2.0.6",
       "droppedVersion": "0.69.1.12"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.5",
+      "keptVersion": "4.2.0.6",
       "droppedVersion": "2.1.1.4"
     },
     {
@@ -5945,8 +5945,8 @@
       "internalName": "ProjectGagSpeak",
       "kept": "Project GagSpeak",
       "dropped": "bees-repo",
-      "keptVersion": "2.2.0.5",
-      "droppedVersion": "2.2.0.4"
+      "keptVersion": "2.2.0.6",
+      "droppedVersion": "2.2.0.5"
     },
     {
       "internalName": "PuppetMaster",
