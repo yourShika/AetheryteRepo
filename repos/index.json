@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T23:29:35.033Z",
-  "contentHash": "386be2835c91ca6e",
+  "generatedAt": "2026-08-31T05:33:34.864Z",
+  "contentHash": "ad649db2660742bd",
   "totalPlugins": 581,
   "masterPlugins": 575,
   "currentApiLevel": 15,
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,18 +3618,18 @@
       "droppedVersion": "2.2.0.12"
     },
     {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
+    },
+    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "6.0.0.95",
       "droppedVersion": "6.0.0.95"
-    },
-    {
-      "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "LazyLoot",
@@ -3653,11 +3646,11 @@
       "droppedVersion": "1.15.3.0"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "AutoRetainer",
@@ -3667,10 +3660,17 @@
       "droppedVersion": "4.6.1.27"
     },
     {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.306.3.19",
+      "keptVersion": "15.306.3.20",
       "droppedVersion": "15.306.3.19"
     },
     {
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.18",
-      "droppedVersion": "4.0.5.18"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.1",
       "droppedVersion": "2.1.2.1"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.18",
+      "droppedVersion": "4.0.5.18"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4242,9 +4242,9 @@
     },
     {
       "internalName": "ProjectGagSpeak",
-      "kept": "bees-repo",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.5",
+      "kept": "MEGA Repository",
+      "dropped": "bees-repo",
+      "keptVersion": "2.2.0.6",
       "droppedVersion": "2.2.0.5"
     },
     {
@@ -4797,8 +4797,8 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.306.3.19",
-      "droppedVersion": "15.306.3.19"
+      "keptVersion": "15.306.3.20",
+      "droppedVersion": "15.306.3.20"
     },
     {
       "internalName": "RaidsRewritten",
@@ -5665,7 +5665,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.306.3.19",
+      "keptVersion": "15.306.3.20",
       "droppedVersion": "4.13"
     },
     {
@@ -5943,10 +5943,10 @@
     },
     {
       "internalName": "ProjectGagSpeak",
-      "kept": "Project GagSpeak",
-      "dropped": "bees-repo",
+      "kept": "MEGA Repository",
+      "dropped": "Project GagSpeak",
       "keptVersion": "2.2.0.6",
-      "droppedVersion": "2.2.0.5"
+      "droppedVersion": "2.2.0.6"
     },
     {
       "internalName": "PuppetMaster",
@@ -6694,7 +6694,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.306.3.19",
+      "keptVersion": "15.306.3.20",
       "droppedVersion": "5.31"
     },
     {
@@ -6960,7 +6960,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.306.3.19",
+      "keptVersion": "15.306.3.20",
       "droppedVersion": "7.5.13"
     },
     {

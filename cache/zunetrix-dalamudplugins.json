@@ -1,7 +1,7 @@
 {
   "sourceId": "zunetrix-dalamudplugins",
   "url": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-08-30",
+  "fetchedAt": "2026-08-31",
   "count": 4,
   "plugins": [
     {
@@ -33,7 +33,7 @@
       "Author": "akira0245, Ori, Kalle, Zune",
       "Name": "MidiBard 2 (BETA)",
       "InternalName": "ZuneBard",
-      "AssemblyVersion": "1.15.0.152",
+      "AssemblyVersion": "1.15.0.153",
       "DalamudApiLevel": 15,
       "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
       "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
@@ -61,7 +61,7 @@
       "Author": "akira0245, Ori, Kalle, Zune",
       "Name": "MidiBard 2 (ALPHA)",
       "InternalName": "ZuneBardAlpha",
-      "AssemblyVersion": "1.15.0.152",
+      "AssemblyVersion": "1.15.0.153",
       "DalamudApiLevel": 15,
       "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
       "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",

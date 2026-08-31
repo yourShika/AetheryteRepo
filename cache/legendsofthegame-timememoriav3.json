@@ -1,14 +1,14 @@
 {
   "sourceId": "legendsofthegame-timememoriav3",
   "url": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json",
-  "fetchedAt": "2026-08-29",
+  "fetchedAt": "2026-08-31",
   "count": 1,
   "plugins": [
     {
       "Author": "Legends of the Game",
       "Name": "Time Memoria",
       "InternalName": "TimeMemoriaV3",
-      "AssemblyVersion": "3.3.1.15",
+      "AssemblyVersion": "3.4.0.15",
       "Description": "Quest progression and pacing — a reflective notebook for your story journey, not a scoreboard.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/LegendsOfTheGame/TimeMemoriaV3",
@@ -36,7 +36,7 @@
       "DownloadLinkTesting": "https://github.com/LegendsOfTheGame/TimeMemoriaV3/releases/latest/download/latest.zip",
       "IconUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/assets/icon.png",
       "DownloadCount": 0,
-      "Changelog": "Fixed: Quest completion dates\n- A character switch could write one character's completed quests into another character's journal. The sweep now waits for the login event and re-checks who is playing after reading the tree, discarding anything gathered across a change.\n- An entry for a quest the game reports unfinished is now dropped, so a bad date corrects itself instead of persisting forever.\n- The first reading for a new character waits for the completed count to hold steady across two sweeps, so a still-loading quest tree is not mistaken for a character who has done less.",
+      "Changelog": "Seasonal quests now appear only while their festival is running, in the quest tree and What's New alike, read from the game's own festival data.",
       "_SourceId": "legendsofthegame-timememoriav3",
       "_SourceName": "LegendsOfTheGame / TimeMemoriaV3",
       "_SourceUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json"

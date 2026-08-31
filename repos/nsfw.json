@@ -192,9 +192,10 @@
     "DownloadLinkInstall": "https://files.kinkporium.studio/releases/gagspeak/2.2.0.6.zip",
     "DownloadLinkTesting": "https://files.kinkporium.studio/releases/gagspeak/2.2.0.6.zip",
     "DownloadLinkUpdate": "https://files.kinkporium.studio/releases/gagspeak/2.2.0.6.zip",
-    "_SourceId": "project-gagspeak-repo",
-    "_SourceName": "Project GagSpeak",
-    "_SourceUrl": "https://raw.githubusercontent.com/Project-GagSpeak/repo/main/projectgagspeak.json",
+    "SourceRepo": "https://raw.githubusercontent.com/Project-GagSpeak/repo/main/projectgagspeak.json",
+    "_SourceId": "williamw1979-ffxiv",
+    "_SourceName": "MEGA Repository",
+    "_SourceUrl": "https://raw.githubusercontent.com/WilliamW1979/FFXIV/main/repository.json",
     "_Category": "nsfw"
   }
 ]
