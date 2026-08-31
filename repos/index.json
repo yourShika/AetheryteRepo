@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T13:48:35.122Z",
-  "contentHash": "3defb7d1c7cd01a1",
+  "generatedAt": "2026-08-31T20:49:59.323Z",
+  "contentHash": "8cb70015bf44397c",
   "totalPlugins": 581,
   "masterPlugins": 575,
   "currentApiLevel": 15,
@@ -2100,7 +2100,7 @@
       "name": "McVaxius / TheDumpsterFire",
       "url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
       "status": "ok",
-      "count": 18,
+      "count": 21,
       "note": null
     },
     {
@@ -2599,7 +2599,7 @@
       "internalName": "HaselDebug",
       "kept": "bees-repo",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "1.71.0.0",
+      "keptVersion": "1.72.0.0",
       "droppedVersion": "1.66.0.0"
     },
     {
@@ -2662,7 +2662,7 @@
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "2.1.2.1",
+      "keptVersion": "2.1.2.2",
       "droppedVersion": "2.1.2.1"
     },
     {
@@ -3360,10 +3360,10 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "Haselnussbomber",
-      "dropped": "bees-repo",
+      "kept": "bees-repo",
+      "dropped": "Haselnussbomber",
       "keptVersion": "1.72.0.0",
-      "droppedVersion": "1.71.0.0"
+      "droppedVersion": "1.72.0.0"
     },
     {
       "internalName": "HaselTweaks",
@@ -3611,6 +3611,13 @@
       "droppedVersion": "1.0.1.10"
     },
     {
+      "internalName": "Avarice",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.0.12",
+      "droppedVersion": "2.2.0.12"
+    },
+    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3618,11 +3625,11 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "Avarice",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.12",
-      "droppedVersion": "2.2.0.12"
+      "keptVersion": "6.0.0.95",
+      "droppedVersion": "6.0.0.95"
     },
     {
       "internalName": "LazyLoot",
@@ -3637,13 +3644,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.3.0",
       "droppedVersion": "1.15.3.0"
-    },
-    {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.95",
-      "droppedVersion": "6.0.0.95"
     },
     {
       "internalName": "PalacePal",
@@ -3671,7 +3671,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "15.306.3.24",
-      "droppedVersion": "15.306.3.21"
+      "droppedVersion": "15.306.3.24"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.2",
+      "droppedVersion": "2.1.2.1"
+    },
+    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.18",
       "droppedVersion": "4.0.5.18"
-    },
-    {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.1",
-      "droppedVersion": "2.1.2.1"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3913,10 +3913,10 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "Haselnussbomber",
+      "kept": "bees-repo",
       "dropped": "MEGA Repository",
       "keptVersion": "1.72.0.0",
-      "droppedVersion": "1.71.0.0"
+      "droppedVersion": "1.72.0.0"
     },
     {
       "internalName": "HaselTweaks",
@@ -4063,7 +4063,7 @@
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
       "keptVersion": "69.211",
-      "droppedVersion": "69.210"
+      "droppedVersion": "69.211"
     },
     {
       "internalName": "GlamourLog",
@@ -4839,7 +4839,7 @@
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.1.2.1",
+      "keptVersion": "2.1.2.2",
       "droppedVersion": "2.1.2.1"
     },
     {
@@ -5700,7 +5700,7 @@
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "2.1.2.1",
+      "keptVersion": "2.1.2.2",
       "droppedVersion": "1.4.1.1"
     },
     {
@@ -6225,7 +6225,7 @@
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "2.1.2.1",
+      "keptVersion": "2.1.2.2",
       "droppedVersion": "1.6.0.0"
     },
     {
@@ -6517,7 +6517,7 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "Haselnussbomber",
+      "kept": "bees-repo",
       "dropped": "Haselnussbomber / DalamudPlugins",
       "keptVersion": "1.72.0.0",
       "droppedVersion": "1.72.0.0"
@@ -6631,7 +6631,7 @@
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "2.1.2.1",
+      "keptVersion": "2.1.2.2",
       "droppedVersion": "1.4.2.0"
     },
     {
@@ -6969,6 +6969,27 @@
       "dropped": "WigglyCorp / DalamudPlugins",
       "keptVersion": "4.2",
       "droppedVersion": "7.5.4"
+    },
+    {
+      "internalName": "XADatabase",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.40",
+      "droppedVersion": "0.0.0.40"
+    },
+    {
+      "internalName": "XASlave",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.43",
+      "droppedVersion": "0.0.0.43"
+    },
+    {
+      "internalName": "XAHudNavigator",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.8",
+      "droppedVersion": "0.0.0.8"
     },
     {
       "internalName": "Artisan",
