@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-08-30",
+  "fetchedAt": "2026-08-31",
   "count": 51,
   "plugins": [
     {
@@ -1176,7 +1176,7 @@
       "Author": "Cordelia",
       "Name": "Project GagSpeak [Bees]",
       "InternalName": "ProjectGagSpeak",
-      "AssemblyVersion": "2.2.0.5",
+      "AssemblyVersion": "2.2.0.6",
       "Punchline": "The Only BDSM Plugin You'll Ever Need!",
       "Description": "GagSpeak 2.0 Release. 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
       "ApplicableVersion": "any",
@@ -1386,21 +1386,21 @@
       "Name": "VanillaPlus [Bees]",
       "Punchline": "A collection of various game modifications",
       "Description": "This plugin is primarily focused on various UI adjustments, behavior adjustments, and adding new native elements to the game",
-      "Changelog": "Clock Overlay - Fix failing to enable\r\n\r\nBetter Emote Window - Fix weird line in certain themes\r\n\r\nShow Active Signs - Fix showing checkmark for no longer valid objects",
+      "Changelog": "Additional Hotbars - Add Hotkey and Command Support\r\n(Still highly experimental, please report issues, but I am not currently accepting feature requests)",
       "TestingChangelog": "Adjust an original text node position for system config search bar",
       "Tags": [
         "ui"
       ],
       "CategoryTags": null,
       "InternalName": "VanillaPlusBees",
-      "AssemblyVersion": "1.4.3.10",
+      "AssemblyVersion": "1.4.3.11",
       "IsTestingExclusive": false,
       "RepoUrl": "https://github.com/MidoriKami/VanillaPlus",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "TestingDalamudApiLevel": 15,
       "DownloadCount": 69696969,
-      "LastUpdate": 1788021408,
+      "LastUpdate": 1788128483,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/VanillaPlus.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/VanillaPlus.zip",
       "LoadPriority": 0,
