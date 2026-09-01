@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T08:38:39.260Z",
-  "contentHash": "7e2924efdbd48156",
+  "generatedAt": "2026-09-01T14:09:03.967Z",
+  "contentHash": "7b5d6fed9e2dbd23",
   "totalPlugins": 581,
   "masterPlugins": 575,
   "currentApiLevel": 15,
@@ -2100,7 +2100,7 @@
       "name": "McVaxius / TheDumpsterFire",
       "url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
       "status": "ok",
-      "count": 18,
+      "count": 21,
       "note": null
     },
     {
@@ -2480,14 +2480,14 @@
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.1.7.0",
+      "keptVersion": "2.1.7.1",
       "droppedVersion": "2.0.4.4"
     },
     {
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.1.7.0",
+      "keptVersion": "2.1.7.1",
       "droppedVersion": "1.9.3.3"
     },
     {
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "Avarice",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.12",
-      "droppedVersion": "2.2.0.12"
-    },
-    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,11 +3618,11 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.95",
-      "droppedVersion": "6.0.0.95"
+      "keptVersion": "2.2.0.12",
+      "droppedVersion": "2.2.0.12"
     },
     {
       "internalName": "YesAlready",
@@ -3637,6 +3630,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.3.0",
       "droppedVersion": "1.15.3.0"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.0.95",
+      "droppedVersion": "6.0.0.95"
     },
     {
       "internalName": "LazyLoot",
@@ -3653,11 +3653,11 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "AutoRetainer",
+      "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.27",
-      "droppedVersion": "4.6.1.27"
+      "keptVersion": "15.306.3.26",
+      "droppedVersion": "15.306.3.26"
     },
     {
       "internalName": "Marketbuddy",
@@ -3667,11 +3667,11 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "Questionable",
+      "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.306.3.26",
-      "droppedVersion": "15.306.3.26"
+      "keptVersion": "4.6.1.27",
+      "droppedVersion": "4.6.1.27"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.2",
-      "droppedVersion": "2.1.2.2"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.18",
       "droppedVersion": "4.0.5.18"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.2",
+      "droppedVersion": "2.1.2.2"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3993,7 +3993,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.5.64",
-      "droppedVersion": "7.5.5.62"
+      "droppedVersion": "7.5.5.64"
     },
     {
       "internalName": "ActionTimelineReborn",
@@ -5134,7 +5134,7 @@
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.5.64",
-      "droppedVersion": "7.5.5.62"
+      "droppedVersion": "7.5.5.64"
     },
     {
       "internalName": "BossModReborn",
@@ -5252,21 +5252,21 @@
       "internalName": "NyaDraw",
       "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "1.15.1.4",
+      "keptVersion": "1.15.1.5",
       "droppedVersion": "1.0.12.9992"
     },
     {
       "internalName": "NyaDraw",
       "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "1.15.1.4",
+      "keptVersion": "1.15.1.5",
       "droppedVersion": "1.13.1.8"
     },
     {
       "internalName": "NyaDraw",
       "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "1.15.1.4",
+      "keptVersion": "1.15.1.5",
       "droppedVersion": "1.14.0.35"
     },
     {
@@ -6969,6 +6969,27 @@
       "dropped": "WigglyCorp / DalamudPlugins",
       "keptVersion": "4.2",
       "droppedVersion": "7.5.4"
+    },
+    {
+      "internalName": "XADatabase",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.40",
+      "droppedVersion": "0.0.0.40"
+    },
+    {
+      "internalName": "XASlave",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.43",
+      "droppedVersion": "0.0.0.43"
+    },
+    {
+      "internalName": "XAHudNavigator",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.8",
+      "droppedVersion": "0.0.0.8"
     },
     {
       "internalName": "Artisan",
