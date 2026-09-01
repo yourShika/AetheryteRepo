@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-08-31",
+  "fetchedAt": "2026-09-01",
   "count": 51,
   "plugins": [
     {
@@ -1245,13 +1245,13 @@
       "InternalName": "Saucy",
       "RepoUrl": "https://github.com/PunishXIV/Saucy",
       "DownloadCount": 69696969,
-      "LastUpdate": 1788029101,
+      "LastUpdate": 1788197704,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Saucy.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Saucy.zip",
-      "AssemblyVersion": "2.1.2.1",
+      "AssemblyVersion": "2.1.2.2",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "update pathing",
+      "Changelog": "fix jumbo cactpot",
       "IconUrl": "https://puni.sh/api/plugins/icon/7",
       "IsHide": false,
       "IsTestingExclusive": false,

@@ -1,7 +1,7 @@
 {
   "sourceId": "seaofstars",
   "url": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
-  "fetchedAt": "2026-08-30",
+  "fetchedAt": "2026-09-01",
   "count": 9,
   "plugins": [
     {
@@ -11,7 +11,7 @@
       "Description": "Runtime mod loader and manager.",
       "InternalName": "Penumbra",
       "AssemblyVersion": "1.6.1.12",
-      "TestingAssemblyVersion": "1.7.0.10",
+      "TestingAssemblyVersion": "1.7.0.11",
       "RepoUrl": "https://github.com/xivdev/Penumbra",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
@@ -24,7 +24,7 @@
       "LoadRequiredState": 2,
       "LoadSync": true,
       "DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/1.6.1.12/Penumbra.zip",
-      "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/testing_1.7.0.10/Penumbra.zip",
+      "DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/testing_1.7.0.11/Penumbra.zip",
       "DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/1.6.1.12/Penumbra.zip",
       "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
       "Tags": [
@@ -55,7 +55,7 @@
       "InternalName": "Glamourer",
       "MinimumDalamudVersion": "15.0.0.2",
       "AssemblyVersion": "1.6.1.7",
-      "TestingAssemblyVersion": "1.7.0.10",
+      "TestingAssemblyVersion": "1.7.0.11",
       "RepoUrl": "https://github.com/Ottermandias/Glamourer",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
@@ -66,7 +66,7 @@
       "LastUpdate": 1618608322,
       "DownloadLinkInstall": "https://github.com/Ottermandias/Glamourer/releases/download/1.6.1.7/Glamourer.zip",
       "DownloadLinkUpdate": "https://github.com/Ottermandias/Glamourer/releases/download/1.6.1.7/Glamourer.zip",
-      "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/testing_1.7.0.10/Glamourer.zip",
+      "DownloadLinkTesting": "https://github.com/Ottermandias/Glamourer/releases/download/testing_1.7.0.11/Glamourer.zip",
       "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png",
       "_SourceId": "seaofstars",
       "_SourceName": "Sea of Stars",
@@ -204,7 +204,7 @@
       "TestingAssemblyVersion": "0.8.0.11",
       "RepoUrl": "https://github.com/Etheirys/Brio",
       "ApplicableVersion": "any",
-      "DownloadCount": 2369723,
+      "DownloadCount": 2370870,
       "DalamudApiLevel": 15,
       "TestingDalamudApiLevel": 15,
       "DownloadLinkInstall": "https://github.com/Etheirys/Brio/releases/download/v0.8.0.11/Brio.zip",

@@ -1,7 +1,7 @@
 {
   "sourceId": "baanderson40",
   "url": "https://raw.githubusercontent.com/baanderson40/dalamud_plugins/master/repo.json",
-  "fetchedAt": "2026-08-25",
+  "fetchedAt": "2026-09-01",
   "count": 2,
   "plugins": [
     {
@@ -40,13 +40,13 @@
       ],
       "InternalName": "AOCCH",
       "RepoUrl": "https://github.com/baanderson40/Another_Occult_Crescent_Helper",
-      "AssemblyVersion": "0.1.6.3",
+      "AssemblyVersion": "0.1.6.4",
       "IsTestingExclusive": false,
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "DownloadCount": 187,
-      "DownloadLinkInstall": "https://github.com/baanderson40/Another_Occult_Crescent_Helper/releases/download/v0.1.6.3/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/baanderson40/Another_Occult_Crescent_Helper/releases/download/v0.1.6.3/latest.zip",
+      "DownloadLinkInstall": "https://github.com/baanderson40/Another_Occult_Crescent_Helper/releases/download/v0.1.6.4/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/baanderson40/Another_Occult_Crescent_Helper/releases/download/v0.1.6.4/latest.zip",
       "SupportsProfiles": false,
       "IsHide": false,
       "_SourceId": "baanderson40",
