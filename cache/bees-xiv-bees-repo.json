@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-09-01",
+  "fetchedAt": "2026-09-02",
   "count": 51,
   "plugins": [
     {
@@ -532,7 +532,7 @@
       "Author": "Haselnussbomber",
       "Name": "HaselDebug [Bees]",
       "InternalName": "HaselDebug",
-      "AssemblyVersion": "1.72.0.0",
+      "AssemblyVersion": "1.73.0.0",
       "Description": "For developers.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -543,9 +543,9 @@
       "LoadPriority": 0,
       "Punchline": "Various tools to debug things.",
       "AcceptsFeedback": true,
-      "Changelog": "- Added: Rapture Gearset Module tab to display gearsets in a nice table. (Thanks to @Jaksuhn)\n- Updated: ClientStructs now at a2b1eace (compare).",
+      "Changelog": "- Updated: The AtkResNode highlight now supports transformations. (Thanks to @MidoriKami)\n- Updated: The GameObject highlight now draws a line even if the object is out of field of view.\n- Updated: The GameObject highlight now draws an oriented bounding box, if available.\n- Updated: ClientStructs now at 5af9ff4c (compare).",
       "DownloadCount": 69696969,
-      "LastUpdate": 1788179890,
+      "LastUpdate": 1788362395,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/HaselDebug.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/HaselDebug.zip",
       "IsHide": false,
