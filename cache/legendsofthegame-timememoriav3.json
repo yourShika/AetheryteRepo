@@ -1,14 +1,14 @@
 {
   "sourceId": "legendsofthegame-timememoriav3",
   "url": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json",
-  "fetchedAt": "2026-08-31",
+  "fetchedAt": "2026-09-02",
   "count": 1,
   "plugins": [
     {
       "Author": "Legends of the Game",
       "Name": "Time Memoria",
       "InternalName": "TimeMemoriaV3",
-      "AssemblyVersion": "3.4.0.15",
+      "AssemblyVersion": "3.4.1.15",
       "Description": "Quest progression and pacing — a reflective notebook for your story journey, not a scoreboard.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/LegendsOfTheGame/TimeMemoriaV3",
@@ -36,7 +36,7 @@
       "DownloadLinkTesting": "https://github.com/LegendsOfTheGame/TimeMemoriaV3/releases/latest/download/latest.zip",
       "IconUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/assets/icon.png",
       "DownloadCount": 0,
-      "Changelog": "Seasonal quests now appear only while their festival is running, in the quest tree and What's New alike, read from the game's own festival data.",
+      "Changelog": "Map:\n- Click a quest's flag (Native) or its Area column (Classic) to open the game's own map at the spot it's picked up. Classic's version was broken since it first existed -- it passed the wrong coordinate format into the map link, so it never actually opened anywhere.\n- A handful of quests sit in interior rooms the game has no map graphic for; those are quietly skipped rather than opening to an error.\n\nNative:\n- Maintenance and Active Events now show the same detail Classic always has -- countdowns, start and end times, and a note when a festival is running in game but hasn't reached the news feed yet.",
       "_SourceId": "legendsofthegame-timememoriav3",
       "_SourceName": "LegendsOfTheGame / TimeMemoriaV3",
       "_SourceUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json"
