@@ -1,6 +1,6 @@
 # Status
 
-Zuletzt aktualisiert: **2026-09-02 21:02 UTC**
+Zuletzt aktualisiert: **2026-09-02 23:18 UTC**
 
 - Plugins im Master-Feed: **575**
 - Plugins insgesamt (inkl. 18+): **581**
@@ -344,7 +344,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Artisan` | Puni.sh (Ment) `4.0.5.19` | bees-repo `4.0.5.19` |
 | `AutoDuty` | erdelf `0.0.0.335` | bees-repo `0.0.0.335` |
 | `AutoHook` | Puni.sh (Ment) `6.0.0.95` | bees-repo `6.0.0.95` |
-| `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | bees-repo `4.6.1.27` |
+| `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | bees-repo `4.6.1.27` |
 | `BossMod` | Veyn (BossMod) `7.5.5.8` | bees-repo `7.5.5.8` |
 | `Brio` | Sea of Stars `0.8.0.11` | bees-repo `0.8.0.11` |
 | `CustomizePlus` | Sea of Stars `2.2.0.3` | bees-repo `2.2.0.3` |
@@ -382,7 +382,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Artisan` | Puni.sh (Ment) `4.0.5.19` | DalamudRepoCollection `1.0.6.1` |
 | `Athavar.FFXIV.Plugin` | Athavar / Athavar.FFXIV.DalaRepo `2.5.0.1` | DalamudRepoCollection `1.4.11` |
 | `AutoHook` | Puni.sh (Ment) `6.0.0.95` | DalamudRepoCollection `2.3.0.3` |
-| `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | DalamudRepoCollection `2.2.0.0` |
+| `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | DalamudRepoCollection `2.2.0.0` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.12` | DalamudRepoCollection `2.0.0.0` |
 | `BDTHPlugin` | bees-repo `1.7.4.1` | DalamudRepoCollection `1.5.7` |
 | `BardToolbox` | BardToolbox / BardToolbox-Release `2.2.7.0` | DalamudRepoCollection `1.2.3.0` |
@@ -495,15 +495,15 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | Marketbuddy `0.2.4.1` |
 | `StartupCommands` | Maxunit / MyDalamudPlugins `1.3.0.1` | DalamudRepoCollection `1.1.0.2` |
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
-| `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.12` | MEGA Repository `2.2.0.12` |
-| `YesAlready` | Puni.sh (Ment) `1.15.3.0` | MEGA Repository `1.15.3.0` |
-| `AutoHook` | Puni.sh (Ment) `6.0.0.95` | MEGA Repository `6.0.0.95` |
+| `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
+| `YesAlready` | Puni.sh (Ment) `1.15.3.0` | MEGA Repository `1.15.3.0` |
 | `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
-| `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
+| `AutoHook` | Puni.sh (Ment) `6.0.0.95` | MEGA Repository `6.0.0.95` |
+| `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | MEGA Repository `4.6.1.34` |
 | `Questionable` | Puni.sh (Ment) `15.306.3.30` | MEGA Repository `15.306.3.30` |
-| `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | MEGA Repository `4.6.1.27` |
+| `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.23` | MEGA Repository `1.0.4.23` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.25` | MEGA Repository `3.9.2.25` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.2` | MEGA Repository `2.1.2.2` |
@@ -619,7 +619,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Artisan` | Puni.sh (Ment) `4.0.5.19` | NexusFFXIV DalamudRepo `4.0.5.19` |
 | `AutoHook` | Puni.sh (Ment) `6.0.0.95` | NexusFFXIV DalamudRepo `6.0.0.95` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | NexusFFXIV DalamudRepo `1.3.1.4` |
-| `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | NexusFFXIV DalamudRepo `4.6.1.27` |
+| `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | NexusFFXIV DalamudRepo `4.6.1.27` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.12` | NexusFFXIV DalamudRepo `2.2.0.12` |
 | `Battlevest` | NightmareXIV `1.0.2.3` | NexusFFXIV DalamudRepo `1.0.2.3` |
 | `BDTHPlugin` | bees-repo `1.7.4.1` | NexusFFXIV DalamudRepo `1.7.4.1` |
@@ -746,7 +746,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Artisan` | Puni.sh (Ment) `4.0.5.19` | nite-cat / the-giga-repo `4.0.2.10` |
 | `AutoDuty` | erdelf `0.0.0.335` | nite-cat / the-giga-repo `0.0.0.182` |
 | `AutoHook` | Puni.sh (Ment) `6.0.0.95` | nite-cat / the-giga-repo `4.3.1.10` |
-| `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | nite-cat / the-giga-repo `4.4.3.9` |
+| `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | nite-cat / the-giga-repo `4.4.3.9` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.12` | nite-cat / the-giga-repo `2.1.0.8` |
 | `Battlevest` | NightmareXIV `1.0.2.3` | nite-cat / the-giga-repo `1.0.1.5` |
 | `BossMod` | Veyn (BossMod) `7.5.5.8` | nite-cat / the-giga-repo `0.0.0.281` |
@@ -867,7 +867,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `PandorasBox` | zhouhuichen741/dalamud-plugins `1.6.4.14` | Puni.sh (Ment) `1.6.4.4` |
 | `FishersIntuition` | NukoOoOoOoO / DalamudPlugins `1.0.0.14` | zhouhuichen741/dalamud-plugins `1.0.0.13` |
 | `MidiBard2` | MEGA Repository `3.2.4.5` | zhouhuichen741/dalamud-plugins `3.2.4.0` |
-| `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | zhouhuichen741/dalamud-plugins `4.6.0.8` |
+| `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | zhouhuichen741/dalamud-plugins `4.6.0.8` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.2` | zhouhuichen741/dalamud-plugins `1.6.0.0` |
 | `AetheryteLinkInChat` | zhouhuichen741/dalamud-plugins `7.5.1.2` | MEGA Repository `7.5.0.0` |
 | `AutoJailMarker` | zhouhuichen741/dalamud-plugins `3.4.3.1` | DalamudRepoCollection `3.2.1.0` |
@@ -925,7 +925,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `GposeCameraSaver` | Gpose Camera Saver `1.0.1.0` | Laboon2501 / DalamudPlugins `1.0.1.0` |
 | `RotationSolver` | CombatReborn `7.5.5.39` | Lzsony / dalamud-plugins-tw `7.2.5.122` |
 | `Lifestream` | NiGuangOwO / DalamudPlugins `2.5.4.17` | Lzsony / dalamud-plugins-tw `2.5.1.13` |
-| `AutoRetainer` | Puni.sh (Ment) `4.6.1.27` | Lzsony / dalamud-plugins-tw `4.5.1.13` |
+| `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | Lzsony / dalamud-plugins-tw `4.5.1.13` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.2` | Lzsony / dalamud-plugins-tw `1.4.2.0` |
 | `AutoHook` | Puni.sh (Ment) `6.0.0.95` | Lzsony / dalamud-plugins-tw `4.3.4.1` |
 | `itemVendorLocation` | Caraxi / DalamudPlugins `0.0.0.4` | Lzsony / dalamud-plugins-tw `2.10.0.0` |

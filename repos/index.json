@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T21:02:38.101Z",
-  "contentHash": "ad34c69dee40424f",
+  "generatedAt": "2026-09-02T23:18:35.478Z",
+  "contentHash": "39339003c58eb09a",
   "totalPlugins": 581,
   "masterPlugins": 575,
   "currentApiLevel": 15,
@@ -2557,7 +2557,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "4.6.1.27",
+      "keptVersion": "4.6.1.34",
       "droppedVersion": "4.6.1.27"
     },
     {
@@ -2823,7 +2823,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "4.6.1.27",
+      "keptVersion": "4.6.1.34",
       "droppedVersion": "2.2.0.0"
     },
     {
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,18 +3618,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
-    },
-    {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.95",
-      "droppedVersion": "6.0.0.95"
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
     },
     {
       "internalName": "LazyLoot",
@@ -3646,6 +3632,13 @@
       "droppedVersion": "5.3.3.3"
     },
     {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
+    },
+    {
       "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3653,11 +3646,18 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "6.0.0.95",
+      "droppedVersion": "6.0.0.95"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.1.34",
+      "droppedVersion": "4.6.1.34"
     },
     {
       "internalName": "Questionable",
@@ -3667,11 +3667,11 @@
       "droppedVersion": "15.306.3.30"
     },
     {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.27",
-      "droppedVersion": "4.6.1.27"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "WrathCombo",
@@ -4482,7 +4482,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "4.6.1.27",
+      "keptVersion": "4.6.1.34",
       "droppedVersion": "4.6.1.27"
     },
     {
@@ -5371,7 +5371,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "4.6.1.27",
+      "keptVersion": "4.6.1.34",
       "droppedVersion": "4.4.3.9"
     },
     {
@@ -6218,7 +6218,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "4.6.1.27",
+      "keptVersion": "4.6.1.34",
       "droppedVersion": "4.6.0.8"
     },
     {
@@ -6624,7 +6624,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "4.6.1.27",
+      "keptVersion": "4.6.1.34",
       "droppedVersion": "4.5.1.13"
     },
     {
