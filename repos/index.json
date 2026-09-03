@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T16:25:10.007Z",
-  "contentHash": "28c8ca1d4148a2ec",
+  "generatedAt": "2026-09-03T21:01:31.074Z",
+  "contentHash": "bb38417cc2377810",
   "totalPlugins": 581,
   "masterPlugins": 575,
   "currentApiLevel": 15,
@@ -3611,18 +3611,18 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.2.0.12",
       "droppedVersion": "2.2.0.12"
+    },
+    {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
     },
     {
       "internalName": "YesAlready",
@@ -3639,18 +3639,18 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.95",
-      "droppedVersion": "6.0.0.95"
-    },
-    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "5.3.3.3",
       "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.0.95",
+      "droppedVersion": "6.0.0.95"
     },
     {
       "internalName": "AutoRetainer",
@@ -3660,18 +3660,18 @@
       "droppedVersion": "4.6.1.34"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.306.3.32",
-      "droppedVersion": "15.306.3.32"
-    },
-    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.3.32",
+      "droppedVersion": "15.306.3.32"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.19",
-      "droppedVersion": "4.0.5.19"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.2",
       "droppedVersion": "2.1.2.2"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.19",
+      "droppedVersion": "4.0.5.19"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3863,6 +3863,27 @@
       "droppedVersion": "1.7.4.1"
     },
     {
+      "internalName": "DalamudRepoBrowser",
+      "kept": "MEGA Repository",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.0.3.3",
+      "droppedVersion": "2.0.2.1"
+    },
+    {
+      "internalName": "Fractionality",
+      "kept": "MEGA Repository",
+      "dropped": "DalamudPluginRepo",
+      "keptVersion": "1.0.1.5",
+      "droppedVersion": "1.0.1.3"
+    },
+    {
+      "internalName": "OOBlugin",
+      "kept": "MEGA Repository",
+      "dropped": "DalamudPluginRepo",
+      "keptVersion": "1.1.2.11",
+      "droppedVersion": "1.1.2.7"
+    },
+    {
       "internalName": "NoClippy",
       "kept": "bees-repo",
       "dropped": "MEGA Repository",
@@ -3882,27 +3903,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.1.2",
       "droppedVersion": "2.1.1.2"
-    },
-    {
-      "internalName": "OOBlugin",
-      "kept": "MEGA Repository",
-      "dropped": "DalamudPluginRepo",
-      "keptVersion": "1.1.2.11",
-      "droppedVersion": "1.1.2.7"
-    },
-    {
-      "internalName": "Fractionality",
-      "kept": "MEGA Repository",
-      "dropped": "DalamudPluginRepo",
-      "keptVersion": "1.0.1.5",
-      "droppedVersion": "1.0.1.3"
-    },
-    {
-      "internalName": "DalamudRepoBrowser",
-      "kept": "MEGA Repository",
-      "dropped": "DalamudRepoCollection",
-      "keptVersion": "2.0.3.3",
-      "droppedVersion": "2.0.2.1"
     },
     {
       "internalName": "ARControl",
@@ -3993,7 +3993,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.5.69",
-      "droppedVersion": "7.5.5.68"
+      "droppedVersion": "7.5.5.69"
     },
     {
       "internalName": "ActionTimelineReborn",
