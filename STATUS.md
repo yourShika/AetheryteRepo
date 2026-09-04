@@ -1,6 +1,6 @@
 # Status
 
-Zuletzt aktualisiert: **2026-09-04 11:17 UTC**
+Zuletzt aktualisiert: **2026-09-04 16:20 UTC**
 
 - Plugins im Master-Feed: **576**
 - Plugins insgesamt (inkl. 18+): **582**
@@ -497,13 +497,13 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.12` | MEGA Repository `2.2.0.12` |
-| `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
-| `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
-| `AutoHook` | Puni.sh (Ment) `6.0.0.95` | MEGA Repository `6.0.0.95` |
 | `YesAlready` | Puni.sh (Ment) `1.15.3.0` | MEGA Repository `1.15.3.0` |
+| `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
+| `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
+| `AutoHook` | Puni.sh (Ment) `6.0.0.95` | MEGA Repository `6.0.0.95` |
+| `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | MEGA Repository `4.6.1.34` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
 | `Questionable` | Puni.sh (Ment) `15.306.3.34` | MEGA Repository `15.306.3.34` |
-| `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | MEGA Repository `4.6.1.34` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.23` | MEGA Repository `1.0.4.23` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.25` | MEGA Repository `3.9.2.25` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.19` | MEGA Repository `4.0.5.19` |
@@ -548,7 +548,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `vfallguy` | Veyn (BossMod) `0.0.0.12` | MEGA Repository `0.0.0.12` |
 | `vnavmesh` | Veyn (BossMod) `1.2.3.14` | MEGA Repository `1.2.3.14` |
 | `MBT` | Herculezz's Repo `0.0.0.16` | MEGA Repository `0.0.0.16` |
-| `RotationSolver` | CombatReborn `7.5.5.40` | MEGA Repository `7.5.5.39` |
+| `RotationSolver` | CombatReborn `7.5.5.40` | MEGA Repository `7.5.5.40` |
 | `BossModReborn` | CombatReborn `7.5.5.70` | MEGA Repository `7.5.5.70` |
 | `ActionTimelineReborn` | CombatReborn `7.5.5.1` | MEGA Repository `7.5.5.1` |
 | `EasyZoomReborn` | CombatReborn `7.5.0.3` | MEGA Repository `7.5.0.3` |
@@ -712,7 +712,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `BOCCHI` | OhKannaDuh `4.2.0.9` | NiGuangOwO / DalamudPlugins `3.3.4.0` |
 | `BOCCHI` | OhKannaDuh `4.2.0.9` | NiGuangOwO / DalamudPlugins `0.69.1.12` |
 | `BOCCHI` | OhKannaDuh `4.2.0.9` | NiGuangOwO / DalamudPlugins `2.1.1.4` |
-| `BossModReborn` | CombatReborn `7.5.5.70` | NiGuangOwO / DalamudPlugins `7.5.5.64` |
+| `BossModReborn` | CombatReborn `7.5.5.70` | NiGuangOwO / DalamudPlugins `7.5.5.70` |
 | `BossModReborn` | CombatReborn `7.5.5.70` | NiGuangOwO / DalamudPlugins `7.3.5.27` |
 | `BossModReborn` | CombatReborn `7.5.5.70` | NiGuangOwO / DalamudPlugins `7.4.5.18` |
 | `FuckAnimationLock` | NiGuangOwO / DalamudPlugins `3.0.17.1` | NiGuangOwO / DalamudPlugins `3.0.12.4` |
@@ -729,9 +729,9 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Lifestream` | NiGuangOwO / DalamudPlugins `2.5.4.17` | NiGuangOwO / DalamudPlugins `2.5.4.8` |
 | `LuckyStar` | NiGuangOwO / DalamudPlugins `1.2.0.0` | NiGuangOwO / DalamudPlugins `1.0.0.0` |
 | `LuckyStar` | NiGuangOwO / DalamudPlugins `1.2.0.0` | NiGuangOwO / DalamudPlugins `1.1.0.0` |
-| `NyaDraw` | NiGuangOwO / DalamudPlugins `1.15.1.5` | NiGuangOwO / DalamudPlugins `1.0.12.9992` |
-| `NyaDraw` | NiGuangOwO / DalamudPlugins `1.15.1.5` | NiGuangOwO / DalamudPlugins `1.13.1.8` |
-| `NyaDraw` | NiGuangOwO / DalamudPlugins `1.15.1.5` | NiGuangOwO / DalamudPlugins `1.14.0.35` |
+| `NyaDraw` | NiGuangOwO / DalamudPlugins `1.15.1.6` | NiGuangOwO / DalamudPlugins `1.0.12.9992` |
+| `NyaDraw` | NiGuangOwO / DalamudPlugins `1.15.1.6` | NiGuangOwO / DalamudPlugins `1.13.1.8` |
+| `NyaDraw` | NiGuangOwO / DalamudPlugins `1.15.1.6` | NiGuangOwO / DalamudPlugins `1.14.0.35` |
 | `PalacePal` | Puni.sh (Ment) `4.16.0.0` | NiGuangOwO / DalamudPlugins `4.15.0.0` |
 | `PalacePal` | Puni.sh (Ment) `4.16.0.0` | NiGuangOwO / DalamudPlugins `4.12.0.0` |
 | `PalacePal` | Puni.sh (Ment) `4.16.0.0` | NiGuangOwO / DalamudPlugins `4.14.0.1` |
@@ -838,12 +838,12 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Ledger` | ElfShelf `1.1.0` | Snowcloak `1.1.0.0` |
 | `DozeAnywhere` | MEGA Repository `0.2.2.8` | SoyaX / SoyaPlugins `0.2.2.8` |
 | `Buttplugin` | thesuccubus/repo `7.1.5.34407` | DalamudRepoCollection `7.1.2.24489` |
+| `DalamudRepoBrowser` | MEGA Repository `2.0.3.3` | UnknownX7 `2.0.3.3` |
+| `Fractionality` | MEGA Repository `1.0.1.5` | UnknownX7 `1.0.1.5` |
+| `OOBlugin` | MEGA Repository `1.1.2.11` | UnknownX7 `1.1.2.11` |
 | `NoClippy` | bees-repo `0.5.0.24` | UnknownX7 `0.5.0.24` |
 | `ReAction` | DalamudRepoCollection `69.1.6.5` | UnknownX7 `1.3.5.1` |
 | `Cammy` | bees-repo `2.1.1.2` | UnknownX7 `2.1.1.2` |
-| `OOBlugin` | MEGA Repository `1.1.2.11` | UnknownX7 `1.1.2.11` |
-| `Fractionality` | MEGA Repository `1.0.1.5` | UnknownX7 `1.0.1.5` |
-| `DalamudRepoBrowser` | MEGA Repository `2.0.3.3` | UnknownX7 `2.0.3.3` |
 | `XivEsp` | MEGA Repository `1.11.3` | VariableVixen (PrincessRTFM) / MyDalamudPlugins `1.11.3` |
 | `BetterFateList` | MEGA Repository `1.2.0` | VariableVixen (PrincessRTFM) / MyDalamudPlugins `1.2.0` |
 | `XIVComboVX` | MEGA Repository `9.35.3` | VariableVixen (PrincessRTFM) / MyDalamudPlugins `9.35.3` |

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T11:17:05.958Z",
-  "contentHash": "f10b7b79f7b1150b",
+  "generatedAt": "2026-09-04T16:20:50.281Z",
+  "contentHash": "eda7e1a98302d2f1",
   "totalPlugins": 582,
   "masterPlugins": 576,
   "currentApiLevel": 15,
@@ -3625,11 +3625,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "PalacePal",
@@ -3639,6 +3639,13 @@
       "droppedVersion": "4.16.0.0"
     },
     {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3646,11 +3653,11 @@
       "droppedVersion": "6.0.0.95"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
+      "keptVersion": "4.6.1.34",
+      "droppedVersion": "4.6.1.34"
     },
     {
       "internalName": "Marketbuddy",
@@ -3665,13 +3672,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "15.306.3.34",
       "droppedVersion": "15.306.3.34"
-    },
-    {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.34",
-      "droppedVersion": "4.6.1.34"
     },
     {
       "internalName": "WrathCombo",
@@ -3986,7 +3986,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.5.40",
-      "droppedVersion": "7.5.5.39"
+      "droppedVersion": "7.5.5.40"
     },
     {
       "internalName": "BossModReborn",
@@ -5134,7 +5134,7 @@
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.5.70",
-      "droppedVersion": "7.5.5.64"
+      "droppedVersion": "7.5.5.70"
     },
     {
       "internalName": "BossModReborn",
@@ -5252,21 +5252,21 @@
       "internalName": "NyaDraw",
       "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "1.15.1.5",
+      "keptVersion": "1.15.1.6",
       "droppedVersion": "1.0.12.9992"
     },
     {
       "internalName": "NyaDraw",
       "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "1.15.1.5",
+      "keptVersion": "1.15.1.6",
       "droppedVersion": "1.13.1.8"
     },
     {
       "internalName": "NyaDraw",
       "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "1.15.1.5",
+      "keptVersion": "1.15.1.6",
       "droppedVersion": "1.14.0.35"
     },
     {
@@ -6012,6 +6012,27 @@
       "droppedVersion": "7.1.2.24489"
     },
     {
+      "internalName": "DalamudRepoBrowser",
+      "kept": "MEGA Repository",
+      "dropped": "UnknownX7",
+      "keptVersion": "2.0.3.3",
+      "droppedVersion": "2.0.3.3"
+    },
+    {
+      "internalName": "Fractionality",
+      "kept": "MEGA Repository",
+      "dropped": "UnknownX7",
+      "keptVersion": "1.0.1.5",
+      "droppedVersion": "1.0.1.5"
+    },
+    {
+      "internalName": "OOBlugin",
+      "kept": "MEGA Repository",
+      "dropped": "UnknownX7",
+      "keptVersion": "1.1.2.11",
+      "droppedVersion": "1.1.2.11"
+    },
+    {
       "internalName": "NoClippy",
       "kept": "bees-repo",
       "dropped": "UnknownX7",
@@ -6031,27 +6052,6 @@
       "dropped": "UnknownX7",
       "keptVersion": "2.1.1.2",
       "droppedVersion": "2.1.1.2"
-    },
-    {
-      "internalName": "OOBlugin",
-      "kept": "MEGA Repository",
-      "dropped": "UnknownX7",
-      "keptVersion": "1.1.2.11",
-      "droppedVersion": "1.1.2.11"
-    },
-    {
-      "internalName": "Fractionality",
-      "kept": "MEGA Repository",
-      "dropped": "UnknownX7",
-      "keptVersion": "1.0.1.5",
-      "droppedVersion": "1.0.1.5"
-    },
-    {
-      "internalName": "DalamudRepoBrowser",
-      "kept": "MEGA Repository",
-      "dropped": "UnknownX7",
-      "keptVersion": "2.0.3.3",
-      "droppedVersion": "2.0.3.3"
     },
     {
       "internalName": "XivEsp",
