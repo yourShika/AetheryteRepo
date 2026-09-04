@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-03T23:16:36.101Z",
-  "contentHash": "b51cbde1d0c8095b",
-  "totalPlugins": 581,
-  "masterPlugins": 575,
+  "generatedAt": "2026-09-04T04:31:53.740Z",
+  "contentHash": "781195538f6bc094",
+  "totalPlugins": 582,
+  "masterPlugins": 576,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -1852,7 +1852,7 @@
       "name": "dajoey / lalalazy",
       "url": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json",
       "status": "ok",
-      "count": 12,
+      "count": 13,
       "note": null
     },
     {
@@ -2366,7 +2366,7 @@
       "name": "Crafting & Gathering",
       "emoji": "⚒️",
       "description": "Handwerk, Sammeln, Marktbrett",
-      "count": 24,
+      "count": 25,
       "file": "repos/crafting.json"
     },
     {
@@ -3219,18 +3219,18 @@
       "droppedVersion": "1.0.8.8"
     },
     {
-      "internalName": "NaelPlugin",
-      "kept": "Eisenhuth / TrustworthyDalamudPlugins",
-      "dropped": "DalamudRepoCollection",
-      "keptVersion": "1.5.0.4",
-      "droppedVersion": "1.1.2.0"
-    },
-    {
       "internalName": "ChatGPTPlugin",
       "kept": "Eisenhuth / TrustworthyDalamudPlugins",
       "dropped": "DalamudRepoCollection",
       "keptVersion": "1.1.2.6",
       "droppedVersion": "1.0.0.0"
+    },
+    {
+      "internalName": "NaelPlugin",
+      "kept": "Eisenhuth / TrustworthyDalamudPlugins",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "1.5.0.4",
+      "droppedVersion": "1.1.2.0"
     },
     {
       "internalName": "Penumbra",
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,11 +3618,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
     },
     {
       "internalName": "YesAlready",
@@ -3637,6 +3630,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.3.0",
       "droppedVersion": "1.15.3.0"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "AutoHook",
@@ -3653,25 +3653,25 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.34",
-      "droppedVersion": "4.6.1.34"
-    },
-    {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.306.3.32",
-      "droppedVersion": "15.306.3.32"
-    },
-    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.3.34",
+      "droppedVersion": "15.306.3.32"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.1.34",
+      "droppedVersion": "4.6.1.34"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.2",
-      "droppedVersion": "2.1.2.2"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.19",
       "droppedVersion": "4.0.5.19"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.2",
+      "droppedVersion": "2.1.2.2"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3993,7 +3993,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.5.70",
-      "droppedVersion": "7.5.5.69"
+      "droppedVersion": "7.5.5.70"
     },
     {
       "internalName": "ActionTimelineReborn",
@@ -4518,7 +4518,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.5.70",
-      "droppedVersion": "7.5.5.68"
+      "droppedVersion": "7.5.5.70"
     },
     {
       "internalName": "Brio",
@@ -4797,8 +4797,8 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.306.3.32",
-      "droppedVersion": "15.306.3.31"
+      "keptVersion": "15.306.3.34",
+      "droppedVersion": "15.306.3.33"
     },
     {
       "internalName": "RaidsRewritten",
@@ -5665,7 +5665,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.306.3.32",
+      "keptVersion": "15.306.3.34",
       "droppedVersion": "4.13"
     },
     {
@@ -6012,27 +6012,6 @@
       "droppedVersion": "7.1.2.24489"
     },
     {
-      "internalName": "DalamudRepoBrowser",
-      "kept": "MEGA Repository",
-      "dropped": "UnknownX7",
-      "keptVersion": "2.0.3.3",
-      "droppedVersion": "2.0.3.3"
-    },
-    {
-      "internalName": "Fractionality",
-      "kept": "MEGA Repository",
-      "dropped": "UnknownX7",
-      "keptVersion": "1.0.1.5",
-      "droppedVersion": "1.0.1.5"
-    },
-    {
-      "internalName": "OOBlugin",
-      "kept": "MEGA Repository",
-      "dropped": "UnknownX7",
-      "keptVersion": "1.1.2.11",
-      "droppedVersion": "1.1.2.11"
-    },
-    {
       "internalName": "NoClippy",
       "kept": "bees-repo",
       "dropped": "UnknownX7",
@@ -6052,6 +6031,27 @@
       "dropped": "UnknownX7",
       "keptVersion": "2.1.1.2",
       "droppedVersion": "2.1.1.2"
+    },
+    {
+      "internalName": "OOBlugin",
+      "kept": "MEGA Repository",
+      "dropped": "UnknownX7",
+      "keptVersion": "1.1.2.11",
+      "droppedVersion": "1.1.2.11"
+    },
+    {
+      "internalName": "Fractionality",
+      "kept": "MEGA Repository",
+      "dropped": "UnknownX7",
+      "keptVersion": "1.0.1.5",
+      "droppedVersion": "1.0.1.5"
+    },
+    {
+      "internalName": "DalamudRepoBrowser",
+      "kept": "MEGA Repository",
+      "dropped": "UnknownX7",
+      "keptVersion": "2.0.3.3",
+      "droppedVersion": "2.0.3.3"
     },
     {
       "internalName": "XivEsp",
@@ -6694,7 +6694,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.306.3.32",
+      "keptVersion": "15.306.3.34",
       "droppedVersion": "5.31"
     },
     {
@@ -6960,7 +6960,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.306.3.32",
+      "keptVersion": "15.306.3.34",
       "droppedVersion": "7.5.13"
     },
     {
