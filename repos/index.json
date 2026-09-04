@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T20:45:04.844Z",
-  "contentHash": "a21870742a47d336",
+  "generatedAt": "2026-09-04T23:02:49.266Z",
+  "contentHash": "6fb740ddcc94da2c",
   "totalPlugins": 582,
   "masterPlugins": 576,
   "currentApiLevel": 15,
@@ -3625,18 +3625,11 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
-    },
-    {
-      "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
+      "keptVersion": "6.0.0.95",
+      "droppedVersion": "6.0.0.95"
     },
     {
       "internalName": "LazyLoot",
@@ -3646,11 +3639,25 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.95",
-      "droppedVersion": "6.0.0.95"
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.3.34",
+      "droppedVersion": "15.306.3.34"
     },
     {
       "internalName": "AutoRetainer",
@@ -3665,13 +3672,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
-    },
-    {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.306.3.34",
-      "droppedVersion": "15.306.3.34"
     },
     {
       "internalName": "WrathCombo",
