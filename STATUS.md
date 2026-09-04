@@ -1,6 +1,6 @@
 # Status
 
-Zuletzt aktualisiert: **2026-09-04 04:31 UTC**
+Zuletzt aktualisiert: **2026-09-04 11:17 UTC**
 
 - Plugins im Master-Feed: **576**
 - Plugins insgesamt (inkl. 18+): **582**
@@ -333,8 +333,8 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `BossModReborn` | CombatReborn `7.5.5.70` | 44451516-ff14 / BossmodRebornCN `7.5.0.64` |
 | `CustomizePlus` | Sea of Stars `2.2.0.3` | Aether Tools `2.2.0.3` |
 | `Armoire` | Armoire `0.1.1.3` | ElfShelf `0.0.171` |
-| `DailyRoutines` | AtmoOmen / DalamudPlugins `2.1.7.1` | AtmoOmen / DalamudPlugins `2.0.4.4` |
-| `DailyRoutines` | AtmoOmen / DalamudPlugins `2.1.7.1` | AtmoOmen / DalamudPlugins `1.9.3.3` |
+| `DailyRoutines` | AtmoOmen / DalamudPlugins `2.1.8.0` | AtmoOmen / DalamudPlugins `2.0.4.4` |
+| `DailyRoutines` | AtmoOmen / DalamudPlugins `2.1.8.0` | AtmoOmen / DalamudPlugins `1.9.3.3` |
 | `vnavmesh` | Veyn (BossMod) `1.2.3.14` | AtmoOmen / DalamudPlugins `0.8.1.0` |
 | `GatherBuddyReborn` | CombatReborn `7.5.5.0` | AtmoOmen / DalamudPlugins `7.5.0.4` |
 | `BossMod` | Veyn (BossMod) `7.5.5.8` | awgil plugin distribution `0.0.0.122` |
@@ -495,14 +495,14 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | Marketbuddy `0.2.4.1` |
 | `StartupCommands` | Maxunit / MyDalamudPlugins `1.3.0.1` | DalamudRepoCollection `1.1.0.2` |
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
-| `Avarice` | Puni.sh (Ment) `2.2.0.12` | MEGA Repository `2.2.0.12` |
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
-| `YesAlready` | Puni.sh (Ment) `1.15.3.0` | MEGA Repository `1.15.3.0` |
+| `Avarice` | Puni.sh (Ment) `2.2.0.12` | MEGA Repository `2.2.0.12` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
-| `AutoHook` | Puni.sh (Ment) `6.0.0.95` | MEGA Repository `6.0.0.95` |
 | `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
+| `AutoHook` | Puni.sh (Ment) `6.0.0.95` | MEGA Repository `6.0.0.95` |
+| `YesAlready` | Puni.sh (Ment) `1.15.3.0` | MEGA Repository `1.15.3.0` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
-| `Questionable` | Puni.sh (Ment) `15.306.3.34` | MEGA Repository `15.306.3.32` |
+| `Questionable` | Puni.sh (Ment) `15.306.3.34` | MEGA Repository `15.306.3.34` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | MEGA Repository `4.6.1.34` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.23` | MEGA Repository `1.0.4.23` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.25` | MEGA Repository `3.9.2.25` |
@@ -531,12 +531,12 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `MinionRoulette` | InitialDet / MyDalamudPlugins `1.2.0.3` | MEGA Repository `1.2.0.3` |
 | `MidiBard2` | MEGA Repository `3.2.4.5` | DalamudRepoCollection `2.2.3.1` |
 | `BDTHPlugin` | bees-repo `1.7.4.1` | MEGA Repository `1.7.4.1` |
-| `DalamudRepoBrowser` | MEGA Repository `2.0.3.3` | DalamudRepoCollection `2.0.2.1` |
-| `Fractionality` | MEGA Repository `1.0.1.5` | DalamudPluginRepo `1.0.1.3` |
-| `OOBlugin` | MEGA Repository `1.1.2.11` | DalamudPluginRepo `1.1.2.7` |
 | `NoClippy` | bees-repo `0.5.0.24` | MEGA Repository `0.5.0.24` |
 | `ReAction` | DalamudRepoCollection `69.1.6.5` | MEGA Repository `1.3.5.1` |
 | `Cammy` | bees-repo `2.1.1.2` | MEGA Repository `2.1.1.2` |
+| `OOBlugin` | MEGA Repository `1.1.2.11` | DalamudPluginRepo `1.1.2.7` |
+| `Fractionality` | MEGA Repository `1.0.1.5` | DalamudPluginRepo `1.0.1.3` |
+| `DalamudRepoBrowser` | MEGA Repository `2.0.3.3` | DalamudRepoCollection `2.0.2.1` |
 | `ARControl` | a1hena/PluginRepository `14.2` | MEGA Repository `7.1` |
 | `HaselDebug` | bees-repo `1.73.0.0` | MEGA Repository `1.73.0.0` |
 | `HaselTweaks` | bees-repo `50.0.0.0` | MEGA Repository `50.0.0.0` |
@@ -548,7 +548,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `vfallguy` | Veyn (BossMod) `0.0.0.12` | MEGA Repository `0.0.0.12` |
 | `vnavmesh` | Veyn (BossMod) `1.2.3.14` | MEGA Repository `1.2.3.14` |
 | `MBT` | Herculezz's Repo `0.0.0.16` | MEGA Repository `0.0.0.16` |
-| `RotationSolver` | CombatReborn `7.5.5.39` | MEGA Repository `7.5.5.39` |
+| `RotationSolver` | CombatReborn `7.5.5.40` | MEGA Repository `7.5.5.39` |
 | `BossModReborn` | CombatReborn `7.5.5.70` | MEGA Repository `7.5.5.70` |
 | `ActionTimelineReborn` | CombatReborn `7.5.5.1` | MEGA Repository `7.5.5.1` |
 | `EasyZoomReborn` | CombatReborn `7.5.0.3` | MEGA Repository `7.5.0.3` |
@@ -669,7 +669,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `RebornToolbox` | CombatReborn `7.5.0.0` | NexusFFXIV DalamudRepo `7.5.0.0` |
 | `RecruitmentRefresher` | anya-hichu/DalamudPluginRepo `0.0.5.0` | NexusFFXIV DalamudRepo `0.0.5.0` |
 | `Reggiex` | anya-hichu/DalamudPluginRepo `0.0.3.0` | NexusFFXIV DalamudRepo `0.0.3.0` |
-| `RotationSolver` | CombatReborn `7.5.5.39` | NexusFFXIV DalamudRepo `7.5.5.39` |
+| `RotationSolver` | CombatReborn `7.5.5.40` | NexusFFXIV DalamudRepo `7.5.5.39` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.2` | NexusFFXIV DalamudRepo `2.1.2.2` |
 | `SelectString` | NightmareXIV `1.0.1.12` | NexusFFXIV DalamudRepo `1.0.1.12` |
 | `SimpleHeels` | Sea of Stars `0.11.1.9` | NexusFFXIV DalamudRepo `0.11.1.9` |
@@ -791,7 +791,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Questionable` | Puni.sh (Ment) `15.306.3.34` | nite-cat / the-giga-repo `4.13` |
 | `ReAction` | DalamudRepoCollection `69.1.6.5` | nite-cat / the-giga-repo `1.3.4.0` |
 | `RebornToolbox` | CombatReborn `7.5.0.0` | nite-cat / the-giga-repo `7.1.1.1` |
-| `RotationSolver` | CombatReborn `7.5.5.39` | nite-cat / the-giga-repo `7.1.5.38` |
+| `RotationSolver` | CombatReborn `7.5.5.40` | nite-cat / the-giga-repo `7.1.5.38` |
 | `vsatisfy` | Veyn (BossMod) `0.0.0.37` | nite-cat / the-giga-repo `0.0.0.10` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.2` | nite-cat / the-giga-repo `1.4.1.1` |
 | `SelectString` | NightmareXIV `1.0.1.12` | nite-cat / the-giga-repo `1.0.1.1` |
@@ -905,7 +905,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `BossModReborn` | CombatReborn `7.5.5.70` | dal4kr / Dalamud.Resources `7.4.5.14` |
 | `FCTracker` | erdelf `0.0.0.38` | dexcss / DalamudPlugins `1.9.0.0` |
 | `HOutfits` | HOutfits `0.3.0.0` | Enceladeum / DalamudPlugins `0.3.0.0` |
-| `RotationSolver` | CombatReborn `7.5.5.39` | fenk19 / DalamudPluginRepo `99.0.1.0` |
+| `RotationSolver` | CombatReborn `7.5.5.40` | fenk19 / DalamudPluginRepo `99.0.1.0` |
 | `BossModReborn` | CombatReborn `7.5.5.70` | fenk19 / DalamudPluginRepo `99.0.1.0` |
 | `PostMeteion` | DalamudRepoCollection `1.0.0.0` | gamous / PostMeteion `1.0.0.0` |
 | `HypnotoadPlugin` | GiR-Zippo / Hypnotoad-Plugin `0.0.3.2` | GiR-Zippo / PluginMaster `0.0.3.2` |
@@ -923,7 +923,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | KirisameVanilla / Radar `1.0.1.3` |
 | `FakeName` | tigurand/DalamudPlugins `0.3.1.2` | KirisameVanilla / Radar `2.0.0.9` |
 | `GposeCameraSaver` | Gpose Camera Saver `1.0.1.0` | Laboon2501 / DalamudPlugins `1.0.1.0` |
-| `RotationSolver` | CombatReborn `7.5.5.39` | Lzsony / dalamud-plugins-tw `7.2.5.122` |
+| `RotationSolver` | CombatReborn `7.5.5.40` | Lzsony / dalamud-plugins-tw `7.2.5.122` |
 | `Lifestream` | NiGuangOwO / DalamudPlugins `2.5.4.17` | Lzsony / dalamud-plugins-tw `2.5.1.13` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | Lzsony / dalamud-plugins-tw `4.5.1.13` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.2` | Lzsony / dalamud-plugins-tw `1.4.2.0` |

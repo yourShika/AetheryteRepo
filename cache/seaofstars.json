@@ -1,7 +1,7 @@
 {
   "sourceId": "seaofstars",
   "url": "https://raw.githubusercontent.com/Ottermandias/SeaOfStars/main/repo.json",
-  "fetchedAt": "2026-09-03",
+  "fetchedAt": "2026-09-04",
   "count": 9,
   "plugins": [
     {
@@ -79,7 +79,7 @@
       "Punchline": "Customize your character beyond FFXIV's limitations.",
       "InternalName": "CustomizePlus",
       "AssemblyVersion": "2.2.0.3",
-      "TestingAssemblyVersion": "2.2.0.3",
+      "TestingAssemblyVersion": "2.2.0.4",
       "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
@@ -91,7 +91,7 @@
       "LoadPriority": 0,
       "DownloadLinkInstall": "https://github.com/Aether-Tools/CustomizePlus/releases/download/2.2.0.3/CustomizePlus.zip",
       "DownloadLinkUpdate": "https://github.com/Aether-Tools/CustomizePlus/releases/download/2.2.0.3/CustomizePlus.zip",
-      "DownloadLinkTesting": "https://github.com/Aether-Tools/CustomizePlus/releases/download/2.2.0.3/CustomizePlus.zip",
+      "DownloadLinkTesting": "https://github.com/Aether-Tools/CustomizePlus/releases/download/testing_2.2.0.4/CustomizePlus.zip",
       "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png",
       "Tags": [
         "Anamnesis",
