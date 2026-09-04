@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T16:20:50.281Z",
-  "contentHash": "eda7e1a98302d2f1",
+  "generatedAt": "2026-09-04T20:45:04.844Z",
+  "contentHash": "a21870742a47d336",
   "totalPlugins": 582,
   "masterPlugins": 576,
   "currentApiLevel": 15,
@@ -3611,18 +3611,18 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.2.0.12",
       "droppedVersion": "2.2.0.12"
+    },
+    {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
     },
     {
       "internalName": "YesAlready",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.19",
-      "droppedVersion": "4.0.5.19"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.2",
       "droppedVersion": "2.1.2.2"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.19",
+      "droppedVersion": "4.0.5.19"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3863,6 +3863,27 @@
       "droppedVersion": "1.7.4.1"
     },
     {
+      "internalName": "DalamudRepoBrowser",
+      "kept": "MEGA Repository",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.0.3.3",
+      "droppedVersion": "2.0.2.1"
+    },
+    {
+      "internalName": "Fractionality",
+      "kept": "MEGA Repository",
+      "dropped": "DalamudPluginRepo",
+      "keptVersion": "1.0.1.5",
+      "droppedVersion": "1.0.1.3"
+    },
+    {
+      "internalName": "OOBlugin",
+      "kept": "MEGA Repository",
+      "dropped": "DalamudPluginRepo",
+      "keptVersion": "1.1.2.11",
+      "droppedVersion": "1.1.2.7"
+    },
+    {
       "internalName": "NoClippy",
       "kept": "bees-repo",
       "dropped": "MEGA Repository",
@@ -3882,27 +3903,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.1.2",
       "droppedVersion": "2.1.1.2"
-    },
-    {
-      "internalName": "OOBlugin",
-      "kept": "MEGA Repository",
-      "dropped": "DalamudPluginRepo",
-      "keptVersion": "1.1.2.11",
-      "droppedVersion": "1.1.2.7"
-    },
-    {
-      "internalName": "Fractionality",
-      "kept": "MEGA Repository",
-      "dropped": "DalamudPluginRepo",
-      "keptVersion": "1.0.1.5",
-      "droppedVersion": "1.0.1.3"
-    },
-    {
-      "internalName": "DalamudRepoBrowser",
-      "kept": "MEGA Repository",
-      "dropped": "DalamudRepoCollection",
-      "keptVersion": "2.0.3.3",
-      "droppedVersion": "2.0.2.1"
     },
     {
       "internalName": "ARControl",

@@ -1,7 +1,7 @@
 {
   "sourceId": "enceladeum-dalamudplugins",
   "url": "https://raw.githubusercontent.com/Enceladeum/DalamudPlugins/main/repo.json",
-  "fetchedAt": "2026-08-30",
+  "fetchedAt": "2026-09-04",
   "count": 6,
   "plugins": [
     {
@@ -163,7 +163,7 @@
       "InternalName": "HMSync",
       "Punchline": "Explore any zone together.",
       "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
-      "Changelog": "1.0.1.5: custom Moniker names can now show in the chat log too (say, yell, shout, emote), on by default; possessed NPCs and frozen poses driven through HDM now sync to everyone in the session; and ending a session while disguised restores your normal size and height right away. HDM features require the HDM plugin.",
+      "Changelog": "1.0.1.6: new lights-out toggles for your whole session. /hms stagelights darkens the map's ambient lights and /hms vfxoff hides every visual effect (flames, weather, effect props); /hms vfxlist previews what would be hidden. Anyone in the session can toggle it and everyone sees the same result.",
       "Tags": [
         "exploration",
         "zone",
@@ -181,7 +181,7 @@
       "IsTestingExclusive": false,
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/Enceladeum/HMapSync",
-      "AssemblyVersion": "1.0.1.5",
+      "AssemblyVersion": "1.0.1.6",
       "DalamudApiLevel": 15,
       "LoadRequiredState": 0,
       "LoadSync": false,
@@ -189,7 +189,7 @@
       "LoadPriority": 0,
       "AcceptsFeedback": true,
       "DownloadCount": 0,
-      "LastUpdate": 1788097355,
+      "LastUpdate": 1788549215,
       "DownloadLinkInstall": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
       "DownloadLinkUpdate": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
       "DownloadLinkTesting": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
