@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-05T15:12:59.166Z",
-  "contentHash": "e4da6f5b59ae4ec5",
-  "totalPlugins": 582,
-  "masterPlugins": 576,
+  "generatedAt": "2026-09-05T17:21:04.772Z",
+  "contentHash": "c4bd1c3367f144bd",
+  "totalPlugins": 583,
+  "masterPlugins": 577,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -1852,7 +1852,7 @@
       "name": "dajoey / lalalazy",
       "url": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json",
       "status": "ok",
-      "count": 13,
+      "count": 14,
       "note": null
     },
     {
@@ -2366,7 +2366,7 @@
       "name": "Crafting & Gathering",
       "emoji": "⚒️",
       "description": "Handwerk, Sammeln, Marktbrett",
-      "count": 25,
+      "count": 26,
       "file": "repos/crafting.json"
     },
     {
@@ -3625,25 +3625,11 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.16.0.0",
       "droppedVersion": "4.16.0.0"
-    },
-    {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "AutoHook",
@@ -3653,18 +3639,18 @@
       "droppedVersion": "6.0.0.95"
     },
     {
-      "internalName": "Questionable",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.306.3.36",
-      "droppedVersion": "15.306.3.35"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "AutoRetainer",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.34",
-      "droppedVersion": "4.6.1.34"
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "Marketbuddy",
@@ -3672,6 +3658,20 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.3.37",
+      "droppedVersion": "15.306.3.36"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.1.34",
+      "droppedVersion": "4.6.1.34"
     },
     {
       "internalName": "WrathCombo",
@@ -4797,7 +4797,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.306.3.36",
+      "keptVersion": "15.306.3.37",
       "droppedVersion": "15.306.3.34"
     },
     {
@@ -5665,7 +5665,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.306.3.36",
+      "keptVersion": "15.306.3.37",
       "droppedVersion": "4.13"
     },
     {
@@ -6694,7 +6694,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.306.3.36",
+      "keptVersion": "15.306.3.37",
       "droppedVersion": "5.31"
     },
     {
@@ -6960,7 +6960,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.306.3.36",
+      "keptVersion": "15.306.3.37",
       "droppedVersion": "7.5.13"
     },
     {
