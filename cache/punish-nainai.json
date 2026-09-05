@@ -1,7 +1,7 @@
 {
   "sourceId": "punish-nainai",
   "url": "https://puni.sh/api/repository/nainai",
-  "fetchedAt": "2026-09-04",
+  "fetchedAt": "2026-09-05",
   "count": 4,
   "plugins": [
     {
@@ -17,7 +17,7 @@
       ],
       "InternalName": "BetterDeaths",
       "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-      "DownloadCount": 9249,
+      "DownloadCount": 9266,
       "LastUpdate": 1787774249,
       "DownloadLinkInstall": "https://puni.sh/api/plugins/download/160/BetterDeaths/versions/1.0.0.6/install/latest.zip",
       "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/160/BetterDeaths/versions/1.0.0.6/update/latest.zip",
@@ -25,8 +25,8 @@
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "Changelog": "Added a collapsible recorded-pull sidebar to the Analyzer. Cleaned up mitigation chat posts and added new Fun Mode Help wording.",
-      "TestingAssemblyVersion": "1.0.0.21",
-      "DownloadLinkTesting": "https://puni.sh/api/plugins/download/160/BetterDeaths/versions/1.0.0.21/install/testing.zip",
+      "TestingAssemblyVersion": "1.0.0.23",
+      "DownloadLinkTesting": "https://puni.sh/api/plugins/download/160/BetterDeaths/versions/1.0.0.23/install/testing.zip",
       "TestingDalamudApiLevel": "15",
       "IconUrl": "https://puni.sh/api/plugins/icon/160",
       "ImageUrls": [
@@ -85,7 +85,7 @@
       ],
       "InternalName": "DMUP4DebuffHelper",
       "RepoUrl": "https://github.com/Nainaiowo/dmu-p4-debuff-helper",
-      "DownloadCount": 1516,
+      "DownloadCount": 1524,
       "LastUpdate": 1787615360,
       "DownloadLinkInstall": "https://puni.sh/api/plugins/download/162/DMUP4DebuffHelper/versions/0.1.0.18/install/latest.zip",
       "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/162/DMUP4DebuffHelper/versions/0.1.0.18/update/latest.zip",
@@ -113,7 +113,7 @@
       ],
       "InternalName": "DMUMits",
       "RepoUrl": "https://github.com/Nainaiowo/dmu-mits",
-      "DownloadCount": 605,
+      "DownloadCount": 608,
       "LastUpdate": 1787140849,
       "DownloadLinkInstall": "https://puni.sh/api/plugins/download/166/DMUMits/versions/0.1.0.18/install/latest.zip",
       "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/166/DMUMits/versions/0.1.0.18/update/latest.zip",
