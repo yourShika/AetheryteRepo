@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-05T20:19:38.557Z",
-  "contentHash": "e842ec70cd47dc37",
+  "generatedAt": "2026-09-05T22:54:22.777Z",
+  "contentHash": "069c0225bc511184",
   "totalPlugins": 584,
   "masterPlugins": 578,
   "currentApiLevel": 15,
@@ -3625,18 +3625,18 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
-    },
-    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.3.0",
       "droppedVersion": "1.15.3.0"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.0.95",
+      "droppedVersion": "6.0.0.95"
     },
     {
       "internalName": "LazyLoot",
@@ -3646,11 +3646,18 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.95",
-      "droppedVersion": "6.0.0.95"
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.3.37",
+      "droppedVersion": "15.306.3.37"
     },
     {
       "internalName": "AutoRetainer",
@@ -3667,13 +3674,6 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.306.3.37",
-      "droppedVersion": "15.306.3.37"
-    },
-    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.19",
-      "droppedVersion": "4.0.5.19"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.2",
       "droppedVersion": "2.1.2.2"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.19",
+      "droppedVersion": "4.0.5.19"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -5907,10 +5907,17 @@
       "droppedVersion": "0.0.0.6"
     },
     {
-      "internalName": "XivEsp",
+      "internalName": "XIVComboVX",
       "kept": "MEGA Repository",
       "dropped": "PrincessRTFM / MyDalamudPlugins",
-      "keptVersion": "1.11.3",
+      "keptVersion": "9.35.3",
+      "droppedVersion": "9.35.3"
+    },
+    {
+      "internalName": "XivEsp",
+      "kept": "PrincessRTFM / MyDalamudPlugins",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.11.4",
       "droppedVersion": "1.11.3"
     },
     {
@@ -5921,11 +5928,11 @@
       "droppedVersion": "1.2.0"
     },
     {
-      "internalName": "XIVComboVX",
+      "internalName": "TinyCmds",
       "kept": "MEGA Repository",
       "dropped": "PrincessRTFM / MyDalamudPlugins",
-      "keptVersion": "9.35.3",
-      "droppedVersion": "9.35.3"
+      "keptVersion": "8.10.4",
+      "droppedVersion": "8.10.4"
     },
     {
       "internalName": "WoLua",
@@ -5933,13 +5940,6 @@
       "dropped": "PrincessRTFM / MyDalamudPlugins",
       "keptVersion": "4.3.4",
       "droppedVersion": "4.3.4"
-    },
-    {
-      "internalName": "TinyCmds",
-      "kept": "MEGA Repository",
-      "dropped": "PrincessRTFM / MyDalamudPlugins",
-      "keptVersion": "8.10.4",
-      "droppedVersion": "8.10.4"
     },
     {
       "internalName": "ProjectGagSpeak",
@@ -6054,11 +6054,18 @@
       "droppedVersion": "2.1.1.2"
     },
     {
-      "internalName": "XivEsp",
+      "internalName": "XIVComboVX",
       "kept": "MEGA Repository",
       "dropped": "VariableVixen (PrincessRTFM) / MyDalamudPlugins",
-      "keptVersion": "1.11.3",
-      "droppedVersion": "1.11.3"
+      "keptVersion": "9.35.3",
+      "droppedVersion": "9.35.3"
+    },
+    {
+      "internalName": "XivEsp",
+      "kept": "PrincessRTFM / MyDalamudPlugins",
+      "dropped": "VariableVixen (PrincessRTFM) / MyDalamudPlugins",
+      "keptVersion": "1.11.4",
+      "droppedVersion": "1.11.4"
     },
     {
       "internalName": "BetterFateList",
@@ -6068,11 +6075,11 @@
       "droppedVersion": "1.2.0"
     },
     {
-      "internalName": "XIVComboVX",
+      "internalName": "TinyCmds",
       "kept": "MEGA Repository",
       "dropped": "VariableVixen (PrincessRTFM) / MyDalamudPlugins",
-      "keptVersion": "9.35.3",
-      "droppedVersion": "9.35.3"
+      "keptVersion": "8.10.4",
+      "droppedVersion": "8.10.4"
     },
     {
       "internalName": "WoLua",
@@ -6080,13 +6087,6 @@
       "dropped": "VariableVixen (PrincessRTFM) / MyDalamudPlugins",
       "keptVersion": "4.3.4",
       "droppedVersion": "4.3.4"
-    },
-    {
-      "internalName": "TinyCmds",
-      "kept": "MEGA Repository",
-      "dropped": "VariableVixen (PrincessRTFM) / MyDalamudPlugins",
-      "keptVersion": "8.10.4",
-      "droppedVersion": "8.10.4"
     },
     {
       "internalName": "Deliveroo",
