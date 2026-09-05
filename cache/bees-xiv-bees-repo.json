@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-09-03",
+  "fetchedAt": "2026-09-05",
   "count": 51,
   "plugins": [
     {
@@ -1176,7 +1176,7 @@
       "Author": "Cordelia",
       "Name": "Project GagSpeak [Bees]",
       "InternalName": "ProjectGagSpeak",
-      "AssemblyVersion": "2.2.0.6",
+      "AssemblyVersion": "2.2.1.0",
       "Punchline": "The Only BDSM Plugin You'll Ever Need!",
       "Description": "GagSpeak 2.0 Release. 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
       "ApplicableVersion": "any",
@@ -1386,21 +1386,21 @@
       "Name": "VanillaPlus [Bees]",
       "Punchline": "A collection of various game modifications",
       "Description": "This plugin is primarily focused on various UI adjustments, behavior adjustments, and adding new native elements to the game",
-      "Changelog": "Additional Hotbars - Various improvements",
+      "Changelog": "Window Backgrounds - Now allows setting padding in all 4 directions.",
       "TestingChangelog": "Adjust an original text node position for system config search bar",
       "Tags": [
         "ui"
       ],
       "CategoryTags": null,
       "InternalName": "VanillaPlusBees",
-      "AssemblyVersion": "1.4.3.12",
+      "AssemblyVersion": "1.4.3.13",
       "IsTestingExclusive": false,
       "RepoUrl": "https://github.com/MidoriKami/VanillaPlus",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "TestingDalamudApiLevel": 15,
       "DownloadCount": 69696969,
-      "LastUpdate": 1788322666,
+      "LastUpdate": 1788565403,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/VanillaPlus.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/VanillaPlus.zip",
       "LoadPriority": 0,
