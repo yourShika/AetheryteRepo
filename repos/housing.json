@@ -124,6 +124,38 @@
     "_Category": "housing"
   },
   {
+    "Author": "XivHub",
+    "Name": "Gardener",
+    "Punchline": "Track and tend your outdoor garden patches from anywhere, then sweep the plot in one pass.",
+    "Description": "Keeps a persistent journal of every outdoor garden bed you own — personal, FC and shared estates — and reminds you when a crop needs tending, fertilizing or harvesting no matter where you are in the world. While standing at the plot, runs a guarded tend-all, fertilize-all, harvest-all or plant-a-plan sweep across the patch, and plans crossbreed layouts from a bundled dataset. Never travels, mounts or pathfinds on your behalf. This automates gameplay, which violates the FFXIV User Agreement and can get your account penalized or banned; use entirely at your own risk.",
+    "InternalName": "Gardener",
+    "AssemblyVersion": "0.11.4.0",
+    "RepoUrl": "https://github.com/XivHub/Gardener",
+    "IconUrl": "",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "housing",
+      "gardening",
+      "automation"
+    ],
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://edgl.dev/share/zhyra/gardener/0.11.4.0.zip",
+    "DownloadLinkUpdate": "https://edgl.dev/share/zhyra/gardener/0.11.4.0.zip",
+    "DownloadLinkTesting": "https://edgl.dev/share/zhyra/gardener/0.11.4.0.zip",
+    "DownloadCount": 21,
+    "LastUpdate": 1788634476,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "_SourceId": "plugins-xivhub-net-pluginmaster-json",
+    "_SourceName": "xivhub / pluginmaster",
+    "_SourceUrl": "https://plugins.xivhub.net/pluginmaster.json",
+    "_Category": "housing"
+  },
+  {
     "Author": "Catphinaud",
     "Name": "HouseGuest",
     "Punchline": "Waiting",

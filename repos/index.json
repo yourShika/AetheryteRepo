@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-05T17:21:04.772Z",
-  "contentHash": "c4bd1c3367f144bd",
-  "totalPlugins": 583,
-  "masterPlugins": 577,
+  "generatedAt": "2026-09-05T20:19:38.557Z",
+  "contentHash": "e842ec70cd47dc37",
+  "totalPlugins": 584,
+  "masterPlugins": 578,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -2308,7 +2308,7 @@
       "name": "xivhub / pluginmaster",
       "url": "https://plugins.xivhub.net/pluginmaster.json",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "note": null
     },
     {
@@ -2398,7 +2398,7 @@
       "name": "Housing & Deko",
       "emoji": "🏡",
       "description": "Moebel, Layouts, Grundstuecke",
-      "count": 16,
+      "count": 17,
       "file": "repos/housing.json"
     },
     {
@@ -3632,11 +3632,11 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.95",
-      "droppedVersion": "6.0.0.95"
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "LazyLoot",
@@ -3646,11 +3646,18 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
+      "keptVersion": "6.0.0.95",
+      "droppedVersion": "6.0.0.95"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.1.34",
+      "droppedVersion": "4.6.1.34"
     },
     {
       "internalName": "Marketbuddy",
@@ -3664,14 +3671,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "15.306.3.37",
-      "droppedVersion": "15.306.3.36"
-    },
-    {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.34",
-      "droppedVersion": "4.6.1.34"
+      "droppedVersion": "15.306.3.37"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.2",
-      "droppedVersion": "2.1.2.2"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.19",
       "droppedVersion": "4.0.5.19"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.2",
+      "droppedVersion": "2.1.2.2"
     },
     {
       "internalName": "XIVComboExpanded",

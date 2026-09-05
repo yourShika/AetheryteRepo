@@ -1,9 +1,9 @@
 # Status
 
-Zuletzt aktualisiert: **2026-09-05 17:21 UTC**
+Zuletzt aktualisiert: **2026-09-05 20:19 UTC**
 
-- Plugins im Master-Feed: **577**
-- Plugins insgesamt (inkl. 18+): **583**
+- Plugins im Master-Feed: **578**
+- Plugins insgesamt (inkl. 18+): **584**
 - Quellen: **291**
 - Aktuelles Dalamud-API-Level: **15** (aufgenommen ab 13)
 - Als veraltet aussortiert: **351** → `repos/legacy.json`
@@ -299,7 +299,7 @@ Zuletzt aktualisiert: **2026-09-05 17:21 UTC**
 | ✅ | [wasdcxz / DalamudPlugins](https://raw.githubusercontent.com/wasdcxz/DalamudPlugins/main/pluginmaster.json) | 3 | ok |
 | ✅ | [WigglyCorp / DalamudPlugins](https://raw.githubusercontent.com/WigglyCorp/DalamudPlugins/main/pluginmaster.json) | 3 | ok |
 | ✅ | [xa-io / MyDalamudPlugins](https://raw.githubusercontent.com/xa-io/MyDalamudPlugins/master/pluginmaster.json) | 3 | ok |
-| ✅ | [xivhub / pluginmaster](https://plugins.xivhub.net/pluginmaster.json) | 9 | ok |
+| ✅ | [xivhub / pluginmaster](https://plugins.xivhub.net/pluginmaster.json) | 10 | ok |
 | ✅ | [yagi2 / dalamud-plugins](https://raw.githubusercontent.com/yagi2/dalamud-plugins/main/repo.json) | 3 | ok |
 | ✅ | [Yhumi / Plogons](https://raw.githubusercontent.com/Yhumi/Plogons/master/plugins.json) | 10 | ok |
 | ✅ | [zunetrix / DalamudPlugins](https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/pluginmaster.json) | 4 | ok |
@@ -315,7 +315,7 @@ Zuletzt aktualisiert: **2026-09-05 17:21 UTC**
 | ✨ Quality of Life & UI | 144 | `repos/qol.json` |
 | 🎭 Social & Roleplay | 54 | `repos/social.json` |
 | 🔞 Adult (18+) | 6 | `repos/nsfw.json` |
-| 🏡 Housing & Deko | 16 | `repos/housing.json` |
+| 🏡 Housing & Deko | 17 | `repos/housing.json` |
 | 🔊 Audio & Voice | 19 | `repos/audio.json` |
 | 🛠️ Developer & Data | 20 | `repos/dev.json` |
 | 📦 Sonstiges | 14 | `repos/misc.json` |
@@ -498,16 +498,16 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Avarice` | Puni.sh (Ment) `2.2.0.12` | MEGA Repository `2.2.0.12` |
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
 | `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
-| `AutoHook` | Puni.sh (Ment) `6.0.0.95` | MEGA Repository `6.0.0.95` |
-| `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
 | `YesAlready` | Puni.sh (Ment) `1.15.3.0` | MEGA Repository `1.15.3.0` |
-| `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
-| `Questionable` | Puni.sh (Ment) `15.306.3.37` | MEGA Repository `15.306.3.36` |
+| `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
+| `AutoHook` | Puni.sh (Ment) `6.0.0.95` | MEGA Repository `6.0.0.95` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | MEGA Repository `4.6.1.34` |
+| `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
+| `Questionable` | Puni.sh (Ment) `15.306.3.37` | MEGA Repository `15.306.3.37` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.23` | MEGA Repository `1.0.4.23` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.25` | MEGA Repository `3.9.2.25` |
-| `Saucy` | Puni.sh (Ment) `2.1.2.2` | MEGA Repository `2.1.2.2` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.19` | MEGA Repository `4.0.5.19` |
+| `Saucy` | Puni.sh (Ment) `2.1.2.2` | MEGA Repository `2.1.2.2` |
 | `XIVComboExpanded` | daemitus MyDalamudPlugins `2.0.6.2` | MEGA Repository `2.0.6.2` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | MEGA Repository `1.3.1.4` |
 | `AutoPillion` | Aida-Enna XIVPlugins `1.0.0.5` | MEGA Repository `1.0.0.5` |
