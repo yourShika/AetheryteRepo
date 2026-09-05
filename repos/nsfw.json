@@ -165,7 +165,7 @@
   },
   {
     "Author": "Cordelia",
-    "Name": "Project GagSpeak",
+    "Name": "Project GagSpeak [Bees]",
     "InternalName": "ProjectGagSpeak",
     "AssemblyVersion": "2.2.1.1",
     "Punchline": "The Only BDSM Plugin You'll Ever Need!",
@@ -185,17 +185,15 @@
     ],
     "DalamudApiLevel": 15,
     "LoadPriority": 69,
-    "DownloadCount": 90860,
+    "DownloadCount": 69696969,
     "IconUrl": "https://raw.githubusercontent.com/Project-GagSpeak/repo/main/ProjectGagSpeak/images/icon.png",
-    "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://files.kinkporium.studio/releases/gagspeak/2.2.1.1.zip",
-    "DownloadLinkTesting": "https://files.kinkporium.studio/releases/gagspeak/2.2.1.1.zip",
-    "DownloadLinkUpdate": "https://files.kinkporium.studio/releases/gagspeak/2.2.1.1.zip",
-    "SourceRepo": "https://raw.githubusercontent.com/Project-GagSpeak/repo/main/projectgagspeak.json",
-    "_SourceId": "williamw1979-ffxiv",
-    "_SourceName": "MEGA Repository",
-    "_SourceUrl": "https://raw.githubusercontent.com/WilliamW1979/FFXIV/main/repository.json",
+    "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/ProjectGagSpeak.zip",
+    "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/ProjectGagSpeak.zip",
+    "IsHide": false,
+    "_SourceId": "bees-xiv-bees-repo",
+    "_SourceName": "bees-repo",
+    "_SourceUrl": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
     "_Category": "nsfw"
   }
 ]
