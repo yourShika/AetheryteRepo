@@ -1,9 +1,9 @@
 # Status
 
-Zuletzt aktualisiert: **2026-09-06 10:55 UTC**
+Zuletzt aktualisiert: **2026-09-06 15:27 UTC**
 
-- Plugins im Master-Feed: **579**
-- Plugins insgesamt (inkl. 18+): **585**
+- Plugins im Master-Feed: **580**
+- Plugins insgesamt (inkl. 18+): **586**
 - Quellen: **291**
 - Aktuelles Dalamud-API-Level: **15** (aufgenommen ab 13)
 - Als veraltet aussortiert: **351** → `repos/legacy.json`
@@ -26,7 +26,7 @@ Zuletzt aktualisiert: **2026-09-06 10:55 UTC**
 | ✅ | [erdelf](https://puni.sh/api/repository/erdelf) | 2 | ok |
 | ✅ | [NightmareXIV](https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json) | 15 | ok |
 | ✅ | [CombatReborn](https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json) | 10 | ok |
-| ✅ | [Knightmore](https://puni.sh/api/repository/knightmore) | 1 | ok |
+| ✅ | [Knightmore](https://puni.sh/api/repository/knightmore) | 2 | ok |
 | ✅ | [XeldarAlz](https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/main/repo.json) | 6 | ok |
 | ✅ | [ReMakePlace](https://raw.githubusercontent.com/RemakePlace/plugin/master/ReMakePlacePlugin.json) | 1 | ok |
 | ✅ | [baanderson40](https://raw.githubusercontent.com/baanderson40/dalamud_plugins/master/repo.json) | 2 | ok |
@@ -318,7 +318,7 @@ Zuletzt aktualisiert: **2026-09-06 10:55 UTC**
 | 🏡 Housing & Deko | 17 | `repos/housing.json` |
 | 🔊 Audio & Voice | 19 | `repos/audio.json` |
 | 🛠️ Developer & Data | 20 | `repos/dev.json` |
-| 📦 Sonstiges | 14 | `repos/misc.json` |
+| 📦 Sonstiges | 15 | `repos/misc.json` |
 
 ## Aufgeloeste Duplikate
 
@@ -330,7 +330,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Glamourer` | Glamourer `1.6.1.7` | Sea of Stars `1.6.1.7` |
 | `DynamicBridge` | Sea of Stars `1.0.8.8` | NightmareXIV `1.0.8.8` |
 | `BossMod` | Veyn (BossMod) `7.5.5.8` | 44451516 / ffxiv_bossmod `7.5.5.8` |
-| `BossModReborn` | CombatReborn `7.5.5.71` | 44451516-ff14 / BossmodRebornCN `7.5.0.64` |
+| `BossModReborn` | CombatReborn `7.5.5.71` | 44451516-ff14 / BossmodRebornCN `7.5.5.71` |
 | `CustomizePlus` | Sea of Stars `2.2.0.3` | Aether Tools `2.2.0.3` |
 | `Armoire` | Armoire `0.1.1.3` | ElfShelf `0.0.171` |
 | `DailyRoutines` | AtmoOmen / DalamudPlugins `2.1.8.0` | AtmoOmen / DalamudPlugins `2.0.4.4` |
@@ -348,7 +348,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `BossMod` | Veyn (BossMod) `7.5.5.8` | bees-repo `7.5.5.8` |
 | `Brio` | Sea of Stars `0.8.0.11` | bees-repo `0.8.0.11` |
 | `CustomizePlus` | Sea of Stars `2.2.0.3` | bees-repo `2.2.0.3` |
-| `GatherBuddyReborn` | CombatReborn `7.5.5.2` | bees-repo `7.5.5.1` |
+| `GatherBuddyReborn` | CombatReborn `7.5.5.2` | bees-repo `7.5.5.2` |
 | `Glamourer` | Glamourer `1.6.1.7` | bees-repo `1.6.1.7` |
 | `HaselDebug` | bees-repo `1.73.0.0` | AtmoOmen / DalamudPlugins `1.66.0.0` |
 | `ICE` | ICE (Island Sanctuary) `1.0.0.2` | bees-repo `1.0.0.2` |
@@ -497,17 +497,17 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.12` | MEGA Repository `2.2.0.12` |
-| `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
-| `AutoHook` | Puni.sh (Ment) `6.0.0.95` | MEGA Repository `6.0.0.95` |
 | `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
+| `AutoHook` | Puni.sh (Ment) `6.0.0.95` | MEGA Repository `6.0.0.95` |
 | `YesAlready` | Puni.sh (Ment) `1.15.3.0` | MEGA Repository `1.15.3.0` |
-| `Questionable` | Puni.sh (Ment) `15.306.3.37` | MEGA Repository `15.306.3.37` |
+| `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | MEGA Repository `4.6.1.34` |
+| `Questionable` | Puni.sh (Ment) `15.306.3.37` | MEGA Repository `15.306.3.37` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.23` | MEGA Repository `1.0.4.23` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.25` | MEGA Repository `3.9.2.25` |
-| `Artisan` | Puni.sh (Ment) `4.0.5.19` | MEGA Repository `4.0.5.19` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.2` | MEGA Repository `2.1.2.2` |
+| `Artisan` | Puni.sh (Ment) `4.0.5.19` | MEGA Repository `4.0.5.19` |
 | `XIVComboExpanded` | daemitus MyDalamudPlugins `2.0.6.2` | MEGA Repository `2.0.6.2` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | MEGA Repository `1.3.1.4` |
 | `AutoPillion` | Aida-Enna XIVPlugins `1.0.0.5` | MEGA Repository `1.0.0.5` |

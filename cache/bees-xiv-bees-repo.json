@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-09-05",
+  "fetchedAt": "2026-09-06",
   "count": 51,
   "plugins": [
     {
@@ -484,9 +484,9 @@
       "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
       "AcceptsFeedback": true,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-      "AssemblyVersion": "7.5.5.1",
+      "AssemblyVersion": "7.5.5.2",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-      "Changelog": "## What's Changed\r\n* Squashing bugs by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/661\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.5.0...7.5.5.1",
+      "Changelog": "## What's Changed\r\n* QuickSynth fix by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/664\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.5.1...7.5.5.2",
       "DownloadCount": 69696969,
       "IsHide": false,
       "_SourceId": "bees-xiv-bees-repo",
