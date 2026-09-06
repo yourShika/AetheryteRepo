@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-06T15:27:43.548Z",
-  "contentHash": "ae18f853eac18478",
-  "totalPlugins": 586,
-  "masterPlugins": 580,
+  "generatedAt": "2026-09-06T20:23:34.331Z",
+  "contentHash": "7674e10d8dcbccc6",
+  "totalPlugins": 587,
+  "masterPlugins": 581,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -1852,7 +1852,7 @@
       "name": "dajoey / lalalazy",
       "url": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json",
       "status": "ok",
-      "count": 15,
+      "count": 16,
       "note": null
     },
     {
@@ -2342,7 +2342,7 @@
       "name": "Glamour & Charakter",
       "emoji": "👗",
       "description": "Mods, Aussehen, Posing, Sync",
-      "count": 96,
+      "count": 97,
       "file": "repos/glamour.json"
     },
     {
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,11 +3618,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "PalacePal",
+      "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
     },
     {
       "internalName": "AutoHook",
@@ -3639,11 +3632,11 @@
       "droppedVersion": "6.0.0.95"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "LazyLoot",
@@ -3653,11 +3646,18 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.3.37",
+      "droppedVersion": "15.306.3.37"
     },
     {
       "internalName": "AutoRetainer",
@@ -3667,11 +3667,11 @@
       "droppedVersion": "4.6.1.34"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.306.3.37",
-      "droppedVersion": "15.306.3.37"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "WrathCombo",
@@ -4062,7 +4062,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "69.211",
+      "keptVersion": "69.212",
       "droppedVersion": "69.211"
     },
     {
@@ -5420,7 +5420,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "69.211",
+      "keptVersion": "69.212",
       "droppedVersion": "69.55"
     },
     {
@@ -5980,8 +5980,8 @@
       "internalName": "Snowcloak",
       "kept": "ElfShelf",
       "dropped": "Snowcloak",
-      "keptVersion": "4.1.3.1",
-      "droppedVersion": "4.1.3.1"
+      "keptVersion": "4.2.0.0",
+      "droppedVersion": "4.2.0.0"
     },
     {
       "internalName": "BigMac",
