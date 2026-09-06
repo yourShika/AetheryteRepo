@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-06T20:23:34.331Z",
-  "contentHash": "7674e10d8dcbccc6",
-  "totalPlugins": 587,
-  "masterPlugins": 581,
+  "generatedAt": "2026-09-06T22:53:12.630Z",
+  "contentHash": "6f23d28a42189d95",
+  "totalPlugins": 588,
+  "masterPlugins": 582,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -1604,7 +1604,7 @@
       "name": "wah",
       "url": "https://puni.sh/api/repository/wah",
       "status": "ok",
-      "count": 4,
+      "count": 5,
       "note": null
     },
     {
@@ -2374,7 +2374,7 @@
       "name": "Quality of Life & UI",
       "emoji": "✨",
       "description": "Tweaks, Interface, Chat, Inventar, Karten",
-      "count": 144,
+      "count": 145,
       "file": "repos/qol.json"
     },
     {
@@ -3096,7 +3096,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "15.8",
+      "keptVersion": "15.9",
       "droppedVersion": "1.3.0.8"
     },
     {
@@ -3625,11 +3625,11 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.95",
-      "droppedVersion": "6.0.0.95"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "PalacePal",
@@ -3639,11 +3639,11 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "6.0.0.95",
+      "droppedVersion": "6.0.0.95"
     },
     {
       "internalName": "YesAlready",
@@ -3653,18 +3653,18 @@
       "droppedVersion": "1.15.3.0"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.306.3.37",
-      "droppedVersion": "15.306.3.37"
-    },
-    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.6.1.34",
       "droppedVersion": "4.6.1.34"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.306.3.37",
+      "droppedVersion": "15.306.3.37"
     },
     {
       "internalName": "Marketbuddy",
@@ -4055,15 +4055,15 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.8",
-      "droppedVersion": "15.8"
+      "keptVersion": "15.9",
+      "droppedVersion": "15.9"
     },
     {
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
       "keptVersion": "69.212",
-      "droppedVersion": "69.211"
+      "droppedVersion": "69.212"
     },
     {
       "internalName": "GlamourLog",
@@ -4412,7 +4412,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "MyDalamudPlugins",
-      "keptVersion": "15.8",
+      "keptVersion": "15.9",
       "droppedVersion": "1.3.0.5"
     },
     {
@@ -5728,7 +5728,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.8",
+      "keptVersion": "15.9",
       "droppedVersion": "1.62"
     },
     {
@@ -6162,7 +6162,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "WorkingRobot (Asriel) / MyDalamudPlugins",
-      "keptVersion": "15.8",
+      "keptVersion": "15.9",
       "droppedVersion": "1.5.1.0"
     },
     {
@@ -6288,7 +6288,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "Adalyia / DalamudPlugins",
-      "keptVersion": "15.8",
+      "keptVersion": "15.9",
       "droppedVersion": "1.4.2.1"
     },
     {
@@ -6834,7 +6834,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "OpaqueReptile / daemitus_MyDalamudPlugins",
-      "keptVersion": "15.8",
+      "keptVersion": "15.9",
       "droppedVersion": "1.3.0.5"
     },
     {
