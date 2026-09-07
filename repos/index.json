@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-07T19:09:09.552Z",
-  "contentHash": "aa928ab0713f94c6",
-  "totalPlugins": 586,
-  "masterPlugins": 580,
+  "generatedAt": "2026-09-07T23:29:24.854Z",
+  "contentHash": "bcd3b7fab527e19f",
+  "totalPlugins": 584,
+  "masterPlugins": 578,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -1876,7 +1876,7 @@
       "name": "devckuw / DistribPluginFFXIV",
       "url": "https://raw.githubusercontent.com/devckuw/DistribPluginFFXIV/main/repo.json",
       "status": "ok",
-      "count": 5,
+      "count": 3,
       "note": null
     },
     {
@@ -2382,7 +2382,7 @@
       "name": "Social & Roleplay",
       "emoji": "🎭",
       "description": "RP-Profile, Emotes, Free Company, Discord",
-      "count": 54,
+      "count": 52,
       "file": "repos/social.json"
     },
     {
@@ -3632,18 +3632,18 @@
       "droppedVersion": "6.0.0.95"
     },
     {
-      "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
-    },
-    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.3.0",
       "droppedVersion": "1.15.3.0"
+    },
+    {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "LazyLoot",
@@ -3653,18 +3653,18 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "15.306.3.37",
       "droppedVersion": "15.306.3.37"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "AutoRetainer",
@@ -5105,21 +5105,21 @@
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.10",
+      "keptVersion": "4.2.0.11",
       "droppedVersion": "3.3.4.0"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.10",
+      "keptVersion": "4.2.0.11",
       "droppedVersion": "0.69.1.12"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.10",
+      "keptVersion": "4.2.0.11",
       "droppedVersion": "2.1.1.4"
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "enceladeum-dalamudplugins",
   "url": "https://raw.githubusercontent.com/Enceladeum/DalamudPlugins/main/repo.json",
-  "fetchedAt": "2026-09-06",
+  "fetchedAt": "2026-09-07",
   "count": 6,
   "plugins": [
     {
@@ -163,7 +163,7 @@
       "InternalName": "HMSync",
       "Punchline": "Explore any zone together.",
       "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
-      "Changelog": "1.0.1.8: custom names in chat can now be toggled per channel group (map chat, party, cross-world linkshells, other), so you can keep a disguise name in some channels and your real name in others; late joiners become visible to the whole room right away, even after a game update; and HDM disguises worn by other members clear automatically when a session ends. The chat toggles need Moniker; the disguise fix needs HDM.",
+      "Changelog": "1.0.1.9: the lights-out and hide-VFX controls now have checkboxes in Map Control, so you can toggle a map's ambient lights and effects without typing a command, and the checkbox mirrors the live state including changes made by other members. These toggles now also reset on every map change instead of carrying over, so each map starts with its lights and effects on.",
       "Tags": [
         "exploration",
         "zone",
@@ -181,7 +181,7 @@
       "IsTestingExclusive": false,
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/Enceladeum/HMapSync",
-      "AssemblyVersion": "1.0.1.8",
+      "AssemblyVersion": "1.0.1.9",
       "DalamudApiLevel": 15,
       "LoadRequiredState": 0,
       "LoadSync": false,
@@ -189,7 +189,7 @@
       "LoadPriority": 0,
       "AcceptsFeedback": true,
       "DownloadCount": 0,
-      "LastUpdate": 1788663995,
+      "LastUpdate": 1788816824,
       "DownloadLinkInstall": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
       "DownloadLinkUpdate": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
       "DownloadLinkTesting": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
