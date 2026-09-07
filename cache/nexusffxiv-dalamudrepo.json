@@ -1,7 +1,7 @@
 {
   "sourceId": "nexusffxiv-dalamudrepo",
   "url": "https://raw.githubusercontent.com/NexusFFXIV/DalamudRepo/main/all-repo.json",
-  "fetchedAt": "2026-09-06",
+  "fetchedAt": "2026-09-07",
   "count": 81,
   "plugins": [
     {
@@ -728,13 +728,13 @@
       "Punchline": "Simplify Gathering and Fishing to the extreme.",
       "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
       "AcceptsFeedback": true,
-      "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.5.5.1/GatherbuddyReborn.zip",
-      "AssemblyVersion": "7.5.5.1",
-      "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.5.5.1/GatherbuddyReborn.zip",
+      "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.5.5.3/GatherbuddyReborn.zip",
+      "AssemblyVersion": "7.5.5.3",
+      "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.5.5.3/GatherbuddyReborn.zip",
       "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
       "TestingAssemblyVersion": "7.4.5.17",
-      "Changelog": "## What's Changed\r\n* Squashing bugs by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/661\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.5.0...7.5.5.1",
-      "DownloadCount": 1060424,
+      "Changelog": "## What's Changed\r\n* Validator/Food setting by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/665\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.5.2...7.5.5.3",
+      "DownloadCount": 1069922,
       "IsHide": false,
       "_SourceId": "nexusffxiv-dalamudrepo",
       "_SourceName": "NexusFFXIV DalamudRepo",

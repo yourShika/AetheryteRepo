@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-06T22:53:12.630Z",
-  "contentHash": "6f23d28a42189d95",
-  "totalPlugins": 588,
-  "masterPlugins": 582,
+  "generatedAt": "2026-09-07T04:40:00.535Z",
+  "contentHash": "58b86de26f5bba5e",
+  "totalPlugins": 587,
+  "masterPlugins": 581,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -1852,7 +1852,7 @@
       "name": "dajoey / lalalazy",
       "url": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json",
       "status": "ok",
-      "count": 16,
+      "count": 15,
       "note": null
     },
     {
@@ -2374,7 +2374,7 @@
       "name": "Quality of Life & UI",
       "emoji": "✨",
       "description": "Tweaks, Interface, Chat, Inventar, Karten",
-      "count": 145,
+      "count": 144,
       "file": "repos/qol.json"
     },
     {
@@ -2501,7 +2501,7 @@
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "7.5.5.2",
+      "keptVersion": "7.5.5.3",
       "droppedVersion": "7.5.0.4"
     },
     {
@@ -2585,7 +2585,7 @@
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "bees-repo",
-      "keptVersion": "7.5.5.2",
+      "keptVersion": "7.5.5.3",
       "droppedVersion": "7.5.5.2"
     },
     {
@@ -3313,7 +3313,7 @@
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "eScape",
-      "keptVersion": "7.5.5.2",
+      "keptVersion": "7.5.5.3",
       "droppedVersion": "7.5.5.2"
     },
     {
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "Avarice",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.12",
-      "droppedVersion": "2.2.0.12"
-    },
-    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,11 +3618,25 @@
       "droppedVersion": "1.6.4.4"
     },
     {
+      "internalName": "Avarice",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.0.12",
+      "droppedVersion": "2.2.0.12"
+    },
+    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "5.3.3.3",
       "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.3.0",
+      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "PalacePal",
@@ -3644,13 +3651,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "6.0.0.95",
       "droppedVersion": "6.0.0.95"
-    },
-    {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.3.0",
-      "droppedVersion": "1.15.3.0"
     },
     {
       "internalName": "AutoRetainer",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.2",
-      "droppedVersion": "2.1.2.2"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.19",
       "droppedVersion": "4.0.5.19"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.2",
+      "droppedVersion": "2.1.2.2"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4013,8 +4013,8 @@
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.5.2",
-      "droppedVersion": "7.5.5.2"
+      "keptVersion": "7.5.5.3",
+      "droppedVersion": "7.5.5.3"
     },
     {
       "internalName": "RebornToolbox",
@@ -4601,8 +4601,8 @@
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.5.2",
-      "droppedVersion": "7.5.5.1"
+      "keptVersion": "7.5.5.3",
+      "droppedVersion": "7.5.5.3"
     },
     {
       "internalName": "Glamourer",
@@ -5497,7 +5497,7 @@
       "internalName": "GatherbuddyReborn",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.5.2",
+      "keptVersion": "7.5.5.3",
       "droppedVersion": "7.2.2.16"
     },
     {
@@ -6736,7 +6736,7 @@
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "7.5.5.2",
+      "keptVersion": "7.5.5.3",
       "droppedVersion": "7.5.0.3"
     },
     {
@@ -6778,7 +6778,7 @@
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "OLDBAI213 / OLDBAI",
-      "keptVersion": "7.5.5.2",
+      "keptVersion": "7.5.5.3",
       "droppedVersion": "7.5.0.2"
     },
     {
@@ -6946,7 +6946,7 @@
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "wasdcxz / DalamudPlugins",
-      "keptVersion": "7.5.5.2",
+      "keptVersion": "7.5.5.3",
       "droppedVersion": "7.5.5.0"
     },
     {
