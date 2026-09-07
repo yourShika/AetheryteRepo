@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-07T12:31:25.143Z",
-  "contentHash": "97939b9423118846",
-  "totalPlugins": 587,
-  "masterPlugins": 581,
+  "generatedAt": "2026-09-07T19:09:09.552Z",
+  "contentHash": "aa928ab0713f94c6",
+  "totalPlugins": 586,
+  "masterPlugins": 580,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -1060,7 +1060,7 @@
       "name": "MEGA Repository",
       "url": "https://raw.githubusercontent.com/WilliamW1979/FFXIV/main/repository.json",
       "status": "ok",
-      "count": 111,
+      "count": 109,
       "note": null
     },
     {
@@ -2374,7 +2374,7 @@
       "name": "Quality of Life & UI",
       "emoji": "✨",
       "description": "Tweaks, Interface, Chat, Inventar, Karten",
-      "count": 144,
+      "count": 143,
       "file": "repos/qol.json"
     },
     {
@@ -3625,11 +3625,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "6.0.0.95",
+      "droppedVersion": "6.0.0.95"
     },
     {
       "internalName": "PalacePal",
@@ -3639,18 +3639,18 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.95",
-      "droppedVersion": "6.0.0.95"
-    },
-    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.3.0",
       "droppedVersion": "1.15.3.0"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "Marketbuddy",
@@ -4160,7 +4160,7 @@
       "internalName": "HuntAlerts",
       "kept": "Asuna's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.4.1.6",
+      "keptVersion": "1.4.1.7",
       "droppedVersion": "1.4.1.4"
     },
     {
@@ -5089,21 +5089,14 @@
     },
     {
       "internalName": "AetheryteLinkInChat",
-      "kept": "MEGA Repository",
-      "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.0.0",
-      "droppedVersion": "7.5.0.0"
-    },
-    {
-      "internalName": "AetheryteLinkInChat",
-      "kept": "MEGA Repository",
+      "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.0.0",
       "droppedVersion": "7.3.0.0"
     },
     {
       "internalName": "AetheryteLinkInChat",
-      "kept": "MEGA Repository",
+      "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.0.0",
       "droppedVersion": "7.3.1.41"
@@ -6231,7 +6224,7 @@
     {
       "internalName": "AetheryteLinkInChat",
       "kept": "zhouhuichen741/dalamud-plugins",
-      "dropped": "MEGA Repository",
+      "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.1.2",
       "droppedVersion": "7.5.0.0"
     },
@@ -7007,9 +7000,9 @@
     },
     {
       "internalName": "MasterOfPuppets",
-      "kept": "pffxivtools / ffxiv-bard-plugins-linux",
-      "dropped": "zunetrix / DalamudPlugins",
-      "keptVersion": "1.15.0.231",
+      "kept": "zunetrix / DalamudPlugins",
+      "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
+      "keptVersion": "1.15.0.234",
       "droppedVersion": "1.15.0.231"
     }
   ]
