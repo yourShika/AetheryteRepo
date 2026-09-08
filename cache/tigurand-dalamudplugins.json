@@ -1,7 +1,7 @@
 {
   "sourceId": "tigurand-dalamudplugins",
   "url": "https://raw.githubusercontent.com/tigurand/DalamudPlugins/refs/heads/main/repo.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-09-08",
   "count": 4,
   "plugins": [
     {
@@ -33,7 +33,7 @@
       "Author": "Avaflow, Ars Magna, Kelvin, A Fox, Lucille",
       "Name": "OopsAllNudist",
       "InternalName": "OopsAllNudist",
-      "AssemblyVersion": "2.3.2.5",
+      "AssemblyVersion": "2.3.2.6",
       "Description": "Turn everyone around you into a nudist.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/tigurand/OopsAllNudist",

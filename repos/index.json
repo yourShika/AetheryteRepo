@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-08T11:18:00.670Z",
-  "contentHash": "f49456351a7ce973",
-  "totalPlugins": 584,
-  "masterPlugins": 578,
+  "generatedAt": "2026-09-08T16:37:40.006Z",
+  "contentHash": "61616bbcb7ddbb40",
+  "totalPlugins": 585,
+  "masterPlugins": 579,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -1916,7 +1916,7 @@
       "name": "exatrines / DalamudPlugins",
       "url": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json",
       "status": "ok",
-      "count": 6,
+      "count": 7,
       "note": null
     },
     {
@@ -2100,7 +2100,7 @@
       "name": "McVaxius / TheDumpsterFire",
       "url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
       "status": "ok",
-      "count": 18,
+      "count": 21,
       "note": null
     },
     {
@@ -2374,7 +2374,7 @@
       "name": "Quality of Life & UI",
       "emoji": "✨",
       "description": "Tweaks, Interface, Chat, Inventar, Karten",
-      "count": 143,
+      "count": 144,
       "file": "repos/qol.json"
     },
     {
@@ -2597,9 +2597,9 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "AtmoOmen / DalamudPlugins",
-      "dropped": "bees-repo",
-      "keptVersion": "1.73.0.0",
+      "kept": "bees-repo",
+      "dropped": "AtmoOmen / DalamudPlugins",
+      "keptVersion": "1.74.0.0",
       "droppedVersion": "1.73.0.0"
     },
     {
@@ -2928,7 +2928,7 @@
       "internalName": "HaselTweaks",
       "kept": "bees-repo",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "50.0.0.0",
+      "keptVersion": "50.0.1.0",
       "droppedVersion": "0.7.6"
     },
     {
@@ -3360,17 +3360,17 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "Haselnussbomber",
-      "dropped": "AtmoOmen / DalamudPlugins",
+      "kept": "bees-repo",
+      "dropped": "Haselnussbomber",
       "keptVersion": "1.74.0.0",
-      "droppedVersion": "1.73.0.0"
+      "droppedVersion": "1.74.0.0"
     },
     {
       "internalName": "HaselTweaks",
       "kept": "bees-repo",
       "dropped": "Haselnussbomber",
-      "keptVersion": "50.0.0.0",
-      "droppedVersion": "50.0.0.0"
+      "keptVersion": "50.0.1.0",
+      "droppedVersion": "50.0.1.0"
     },
     {
       "internalName": "LeveHelper",
@@ -3451,10 +3451,10 @@
     },
     {
       "internalName": "IINACT",
-      "kept": "IINACT",
-      "dropped": "bees-repo",
+      "kept": "bees-repo",
+      "dropped": "IINACT",
       "keptVersion": "2.10.3.7",
-      "droppedVersion": "2.10.3.6"
+      "droppedVersion": "2.10.3.7"
     },
     {
       "internalName": "MinionRoulette",
@@ -3625,11 +3625,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.95",
-      "droppedVersion": "6.0.0.95"
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "YesAlready",
@@ -3639,11 +3639,11 @@
       "droppedVersion": "1.15.3.0"
     },
     {
-      "internalName": "PalacePal",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
+      "keptVersion": "6.0.0.95",
+      "droppedVersion": "6.0.0.95"
     },
     {
       "internalName": "LazyLoot",
@@ -3651,13 +3651,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "5.3.3.3",
       "droppedVersion": "5.3.3.3"
-    },
-    {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.34",
-      "droppedVersion": "4.6.1.34"
     },
     {
       "internalName": "Questionable",
@@ -3674,6 +3667,13 @@
       "droppedVersion": "0.2.4.2"
     },
     {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.1.34",
+      "droppedVersion": "4.6.1.34"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.2",
-      "droppedVersion": "2.1.2.2"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.19",
       "droppedVersion": "4.0.5.19"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.2",
+      "droppedVersion": "2.1.2.2"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3852,7 +3852,7 @@
       "internalName": "MidiBard2",
       "kept": "MEGA Repository",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "3.2.4.5",
+      "keptVersion": "3.2.5.0",
       "droppedVersion": "2.2.3.1"
     },
     {
@@ -3913,17 +3913,17 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "Haselnussbomber",
+      "kept": "bees-repo",
       "dropped": "MEGA Repository",
       "keptVersion": "1.74.0.0",
-      "droppedVersion": "1.73.0.0"
+      "droppedVersion": "1.74.0.0"
     },
     {
       "internalName": "HaselTweaks",
       "kept": "bees-repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "50.0.0.0",
-      "droppedVersion": "50.0.0.0"
+      "keptVersion": "50.0.1.0",
+      "droppedVersion": "50.0.1.0"
     },
     {
       "internalName": "LeveHelper",
@@ -4377,8 +4377,8 @@
       "internalName": "MidiBard2",
       "kept": "MEGA Repository",
       "dropped": "MidiBard 2",
-      "keptVersion": "3.2.4.5",
-      "droppedVersion": "3.2.4.5"
+      "keptVersion": "3.2.5.0",
+      "droppedVersion": "3.2.5.0"
     },
     {
       "internalName": "Moodles",
@@ -4431,7 +4431,7 @@
     },
     {
       "internalName": "IINACT",
-      "kept": "IINACT",
+      "kept": "bees-repo",
       "dropped": "MyPlugins",
       "keptVersion": "2.10.3.7",
       "droppedVersion": "2.1.4.3"
@@ -4692,7 +4692,7 @@
       "internalName": "MidiBard2",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "3.2.4.5",
+      "keptVersion": "3.2.5.0",
       "droppedVersion": "3.2.4.5"
     },
     {
@@ -5127,7 +5127,7 @@
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.5.73",
-      "droppedVersion": "7.5.5.72"
+      "droppedVersion": "7.5.5.73"
     },
     {
       "internalName": "BossModReborn",
@@ -5523,7 +5523,7 @@
     },
     {
       "internalName": "IINACT",
-      "kept": "IINACT",
+      "kept": "bees-repo",
       "dropped": "nite-cat / the-giga-repo",
       "keptVersion": "2.10.3.7",
       "droppedVersion": "2.7.3.5"
@@ -6181,10 +6181,10 @@
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "zhouhuichen741/dalamud-plugins",
-      "dropped": "bees-repo",
-      "keptVersion": "50.0.0.1",
-      "droppedVersion": "50.0.0.0"
+      "kept": "bees-repo",
+      "dropped": "zhouhuichen741/dalamud-plugins",
+      "keptVersion": "50.0.1.0",
+      "droppedVersion": "50.0.1.0"
     },
     {
       "internalName": "PandorasBox",
@@ -6204,7 +6204,7 @@
       "internalName": "MidiBard2",
       "kept": "MEGA Repository",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "3.2.4.5",
+      "keptVersion": "3.2.5.0",
       "droppedVersion": "3.2.4.0"
     },
     {
@@ -6510,17 +6510,17 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "Haselnussbomber",
+      "kept": "bees-repo",
       "dropped": "Haselnussbomber / DalamudPlugins",
       "keptVersion": "1.74.0.0",
       "droppedVersion": "1.74.0.0"
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "zhouhuichen741/dalamud-plugins",
+      "kept": "bees-repo",
       "dropped": "Haselnussbomber / DalamudPlugins",
-      "keptVersion": "50.0.0.1",
-      "droppedVersion": "50.0.0.0"
+      "keptVersion": "50.0.1.0",
+      "droppedVersion": "50.0.1.0"
     },
     {
       "internalName": "LeveHelper",
@@ -6841,7 +6841,7 @@
       "internalName": "MidiBard2",
       "kept": "MEGA Repository",
       "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
-      "keptVersion": "3.2.4.5",
+      "keptVersion": "3.2.5.0",
       "droppedVersion": "3.2.4.5"
     },
     {
@@ -6962,6 +6962,27 @@
       "dropped": "WigglyCorp / DalamudPlugins",
       "keptVersion": "4.2",
       "droppedVersion": "7.5.4"
+    },
+    {
+      "internalName": "XADatabase",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.40",
+      "droppedVersion": "0.0.0.40"
+    },
+    {
+      "internalName": "XASlave",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.43",
+      "droppedVersion": "0.0.0.43"
+    },
+    {
+      "internalName": "XAHudNavigator",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.8",
+      "droppedVersion": "0.0.0.8"
     },
     {
       "internalName": "Artisan",
