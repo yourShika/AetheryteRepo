@@ -1,7 +1,7 @@
 {
   "sourceId": "atmoomen-dalamudplugins",
   "url": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-09-04",
+  "fetchedAt": "2026-09-08",
   "count": 14,
   "plugins": [
     {
@@ -205,7 +205,7 @@
     {
       "Name": "HaselDebug",
       "InternalName": "HaselDebug",
-      "AssemblyVersion": "1.66.0.0",
+      "AssemblyVersion": "1.73.0.0",
       "Author": "Haselnussbomber",
       "Punchline": "多功能开发用工具箱",
       "Description": "开发者专用",
@@ -213,8 +213,8 @@
       "AcceptsFeedback": true,
       "DalamudApiLevel": 15,
       "RepoUrl": "https://github.com/AtmoOmen/HaselDebug",
-      "DownloadLinkInstall": "https://github.com/AtmoOmen/HaselDebug/releases/download/1.66.0/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/AtmoOmen/HaselDebug/releases/download/1.66.0/latest.zip",
+      "DownloadLinkInstall": "https://github.com/AtmoOmen/HaselDebug/releases/download/1.73.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/AtmoOmen/HaselDebug/releases/download/1.73.0/latest.zip",
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "atmoomen-dalamudplugins",
