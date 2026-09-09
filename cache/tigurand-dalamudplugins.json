@@ -1,8 +1,8 @@
 {
   "sourceId": "tigurand-dalamudplugins",
   "url": "https://raw.githubusercontent.com/tigurand/DalamudPlugins/refs/heads/main/repo.json",
-  "fetchedAt": "2026-09-08",
-  "count": 4,
+  "fetchedAt": "2026-09-09",
+  "count": 5,
   "plugins": [
     {
       "Author": "Lucille",
@@ -25,6 +25,31 @@
       "DownloadLinkInstall": "https://github.com/tigurand/HotKeyIt/releases/latest/download/latest.zip",
       "DownloadLinkTesting": "https://github.com/tigurand/HotKeyIt/releases/latest/download/latest.zip",
       "DownloadLinkUpdate": "https://github.com/tigurand/HotKeyIt/releases/latest/download/latest.zip",
+      "_SourceId": "tigurand-dalamudplugins",
+      "_SourceName": "tigurand/DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/tigurand/DalamudPlugins/refs/heads/main/repo.json"
+    },
+    {
+      "Author": "Lucille",
+      "Name": "MapFocus",
+      "InternalName": "MapFocus",
+      "AssemblyVersion": "1.0.0.0",
+      "Description": "Map QoL for FFXIV.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/tigurand/MapFocus",
+      "Tags": [
+        "qol",
+        "map"
+      ],
+      "DalamudApiLevel": 15,
+      "LoadPriority": 0,
+      "IconUrl": "https://raw.githubusercontent.com/tigurand/MapFocus/refs/heads/main/image/icon.png",
+      "Punchline": "Make map less annoying.",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkInstall": "https://github.com/tigurand/MapFocus/releases/latest/download/latest.zip",
+      "DownloadLinkTesting": "https://github.com/tigurand/MapFocus/releases/latest/download/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/tigurand/MapFocus/releases/latest/download/latest.zip",
       "_SourceId": "tigurand-dalamudplugins",
       "_SourceName": "tigurand/DalamudPlugins",
       "_SourceUrl": "https://raw.githubusercontent.com/tigurand/DalamudPlugins/refs/heads/main/repo.json"
