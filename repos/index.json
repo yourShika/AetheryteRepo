@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T20:55:42.406Z",
-  "contentHash": "e95cf867f7869af7",
+  "generatedAt": "2026-09-09T23:14:18.848Z",
+  "contentHash": "9691094c957dacb4",
   "totalPlugins": 586,
   "masterPlugins": 580,
   "currentApiLevel": 15,
@@ -2100,7 +2100,7 @@
       "name": "McVaxius / TheDumpsterFire",
       "url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
       "status": "ok",
-      "count": 21,
+      "count": 18,
       "note": null
     },
     {
@@ -2431,15 +2431,15 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "Sea of Stars",
-      "keptVersion": "1.6.1.12",
-      "droppedVersion": "1.6.1.12"
+      "keptVersion": "1.7.1.1",
+      "droppedVersion": "1.7.1.1"
     },
     {
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "Sea of Stars",
-      "keptVersion": "1.6.1.7",
-      "droppedVersion": "1.6.1.7"
+      "keptVersion": "1.7.1.0",
+      "droppedVersion": "1.7.1.0"
     },
     {
       "internalName": "DynamicBridge",
@@ -2565,7 +2565,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
       "keptVersion": "7.5.6.2",
-      "droppedVersion": "7.5.5.8"
+      "droppedVersion": "7.5.6.2"
     },
     {
       "internalName": "Brio",
@@ -2592,8 +2592,8 @@
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "bees-repo",
-      "keptVersion": "1.6.1.7",
-      "droppedVersion": "1.6.1.7"
+      "keptVersion": "1.7.1.0",
+      "droppedVersion": "1.7.1.0"
     },
     {
       "internalName": "HaselDebug",
@@ -2621,7 +2621,7 @@
       "kept": "NightmareXIV",
       "dropped": "bees-repo",
       "keptVersion": "2.5.4.21",
-      "droppedVersion": "2.5.4.16"
+      "droppedVersion": "2.5.4.21"
     },
     {
       "internalName": "Marketbuddy",
@@ -2655,8 +2655,8 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "bees-repo",
-      "keptVersion": "1.6.1.12",
-      "droppedVersion": "1.6.1.12"
+      "keptVersion": "1.7.1.1",
+      "droppedVersion": "1.7.1.1"
     },
     {
       "internalName": "Saucy",
@@ -2711,8 +2711,8 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "1.15.4.1",
-      "droppedVersion": "1.15.4.1"
+      "keptVersion": "1.15.4.2",
+      "droppedVersion": "1.15.4.2"
     },
     {
       "internalName": "Brio",
@@ -2921,7 +2921,7 @@
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "1.6.1.7",
+      "keptVersion": "1.7.1.0",
       "droppedVersion": "0.1.1.1"
     },
     {
@@ -3187,7 +3187,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "1.15.4.1",
+      "keptVersion": "1.15.4.2",
       "droppedVersion": "1.2.2.3"
     },
     {
@@ -3236,15 +3236,15 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "eScape",
-      "keptVersion": "1.6.1.12",
-      "droppedVersion": "1.6.1.12"
+      "keptVersion": "1.7.1.1",
+      "droppedVersion": "1.7.1.1"
     },
     {
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "eScape",
-      "keptVersion": "1.6.1.7",
-      "droppedVersion": "1.6.1.7"
+      "keptVersion": "1.7.1.0",
+      "droppedVersion": "1.7.1.0"
     },
     {
       "internalName": "SimpleHeels",
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "Avarice",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.12",
-      "droppedVersion": "2.2.0.12"
-    },
-    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,11 +3618,11 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.95",
-      "droppedVersion": "6.0.0.95"
+      "keptVersion": "2.2.0.12",
+      "droppedVersion": "2.2.0.12"
     },
     {
       "internalName": "LazyLoot",
@@ -3639,13 +3632,6 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.4.1",
-      "droppedVersion": "1.15.4.1"
-    },
-    {
       "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3653,11 +3639,25 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "AutoRetainer",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.34",
-      "droppedVersion": "4.6.1.34"
+      "keptVersion": "6.0.0.95",
+      "droppedVersion": "6.0.0.95"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.4.2",
+      "droppedVersion": "1.15.4.2"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Questionable",
@@ -3667,11 +3667,11 @@
       "droppedVersion": "15.756.0.1"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "4.6.1.34",
+      "droppedVersion": "4.6.1.34"
     },
     {
       "internalName": "WrathCombo",
@@ -3958,7 +3958,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.6.2",
-      "droppedVersion": "7.5.6.1"
+      "droppedVersion": "7.5.6.2"
     },
     {
       "internalName": "vfallguy",
@@ -4062,8 +4062,8 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "69.213",
-      "droppedVersion": "69.213"
+      "keptVersion": "69.214",
+      "droppedVersion": "69.214"
     },
     {
       "internalName": "GlamourLog",
@@ -4174,15 +4174,15 @@
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.6.1.7",
-      "droppedVersion": "1.6.1.7"
+      "keptVersion": "1.7.1.0",
+      "droppedVersion": "1.7.1.0"
     },
     {
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.6.1.12",
-      "droppedVersion": "1.6.1.12"
+      "keptVersion": "1.7.1.1",
+      "droppedVersion": "1.7.1.0"
     },
     {
       "internalName": "CustomizePlus",
@@ -4286,14 +4286,14 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "MeowZWR / DalamudPlugin",
-      "keptVersion": "1.6.1.12",
+      "keptVersion": "1.7.1.1",
       "droppedVersion": "1.6.1.12"
     },
     {
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "MeowZWR / DalamudPlugin",
-      "keptVersion": "1.6.1.7",
+      "keptVersion": "1.7.1.0",
       "droppedVersion": "1.6.1.8"
     },
     {
@@ -4398,7 +4398,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MyDalamudPlugins",
-      "keptVersion": "1.15.4.1",
+      "keptVersion": "1.15.4.2",
       "droppedVersion": "1.2.2.1"
     },
     {
@@ -4608,7 +4608,7 @@
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.6.1.7",
+      "keptVersion": "1.7.1.0",
       "droppedVersion": "1.6.1.7"
     },
     {
@@ -4769,7 +4769,7 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.6.1.12",
+      "keptVersion": "1.7.1.1",
       "droppedVersion": "1.6.1.12"
     },
     {
@@ -4972,7 +4972,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.15.4.1",
+      "keptVersion": "1.15.4.2",
       "droppedVersion": "1.15.3.0"
     },
     {
@@ -5413,7 +5413,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "69.213",
+      "keptVersion": "69.214",
       "droppedVersion": "69.55"
     },
     {
@@ -5504,7 +5504,7 @@
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.6.1.7",
+      "keptVersion": "1.7.1.0",
       "droppedVersion": "1.3.4.3"
     },
     {
@@ -5644,7 +5644,7 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.6.1.12",
+      "keptVersion": "1.7.1.1",
       "droppedVersion": "1.3.2.0"
     },
     {
@@ -5805,7 +5805,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.15.4.1",
+      "keptVersion": "1.15.4.2",
       "droppedVersion": "1.9.0"
     },
     {
@@ -5875,7 +5875,7 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "Penumbra Mod Forwarder",
-      "keptVersion": "1.6.1.12",
+      "keptVersion": "1.7.1.1",
       "droppedVersion": "1.0.0.0"
     },
     {
@@ -6365,7 +6365,7 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "cycleapple / DalamudPlugins-TW",
-      "keptVersion": "1.6.1.12",
+      "keptVersion": "1.7.1.1",
       "droppedVersion": "1.5.1.26"
     },
     {
@@ -6393,7 +6393,7 @@
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "cycleapple / DalamudPlugins-TW",
-      "keptVersion": "1.6.1.7",
+      "keptVersion": "1.7.1.0",
       "droppedVersion": "1.5.0.13"
     },
     {
@@ -6813,7 +6813,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "OpaqueReptile / daemitus_MyDalamudPlugins",
-      "keptVersion": "1.15.4.1",
+      "keptVersion": "1.15.4.2",
       "droppedVersion": "1.2.2.1"
     },
     {
@@ -6946,7 +6946,7 @@
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "wasdcxz / DalamudPlugins",
-      "keptVersion": "1.6.1.7",
+      "keptVersion": "1.7.1.0",
       "droppedVersion": "1.6.1.7"
     },
     {
@@ -6962,27 +6962,6 @@
       "dropped": "WigglyCorp / DalamudPlugins",
       "keptVersion": "4.2",
       "droppedVersion": "7.5.4"
-    },
-    {
-      "internalName": "XADatabase",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.41",
-      "droppedVersion": "0.0.0.41"
-    },
-    {
-      "internalName": "XASlave",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.44",
-      "droppedVersion": "0.0.0.44"
-    },
-    {
-      "internalName": "XAHudNavigator",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.9",
-      "droppedVersion": "0.0.0.9"
     },
     {
       "internalName": "Artisan",
