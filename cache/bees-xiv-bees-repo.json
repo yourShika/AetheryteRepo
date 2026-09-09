@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-09-08",
+  "fetchedAt": "2026-09-09",
   "count": 51,
   "plugins": [
     {
@@ -358,7 +358,7 @@
       "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
       "Punchline": "Customize your character beyond FFXIV's limitations.",
       "InternalName": "CustomizePlus",
-      "AssemblyVersion": "2.2.1.0",
+      "AssemblyVersion": "2.2.1.1",
       "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
