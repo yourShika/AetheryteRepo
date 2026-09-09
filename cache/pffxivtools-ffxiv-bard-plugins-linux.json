@@ -1,7 +1,7 @@
 {
   "sourceId": "pffxivtools-ffxiv-bard-plugins-linux",
   "url": "https://raw.githubusercontent.com/pffxivtools/ffxiv-bard-plugins-linux/main/pluginmaster.json",
-  "fetchedAt": "2026-09-08",
+  "fetchedAt": "2026-09-09",
   "count": 3,
   "plugins": [
     {
@@ -115,7 +115,7 @@
       "Author": "akira0245, Ori, Kalle, Zune",
       "Name": "MidiBard 2",
       "InternalName": "MidiBard2",
-      "AssemblyVersion": "3.2.4.5",
+      "AssemblyVersion": "3.2.5.0",
       "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: ffbard.com",
       "ApplicableVersion": "any",
       "RepoUrl": "https://midibard.org",
@@ -140,10 +140,10 @@
       "IsHide": false,
       "IsTestingExclusive": false,
       "DownloadCount": 221454,
-      "LastUpdate": "1779509179",
-      "DownloadLinkInstall": "https://github.com/pffxivtools/ffxiv-bard-plugins-linux/releases/download/MidiBard2-3.2.4.5/MidiBard2-3.2.4.5.zip",
-      "DownloadLinkTesting": "https://github.com/pffxivtools/ffxiv-bard-plugins-linux/releases/download/MidiBard2-3.2.4.5/MidiBard2-3.2.4.5.zip",
-      "DownloadLinkUpdate": "https://github.com/pffxivtools/ffxiv-bard-plugins-linux/releases/download/MidiBard2-3.2.4.5/MidiBard2-3.2.4.5.zip",
+      "LastUpdate": "1788928658",
+      "DownloadLinkInstall": "https://github.com/pffxivtools/ffxiv-bard-plugins-linux/releases/download/MidiBard2-3.2.5.0/MidiBard2-3.2.5.0.zip",
+      "DownloadLinkTesting": "https://github.com/pffxivtools/ffxiv-bard-plugins-linux/releases/download/MidiBard2-3.2.5.0/MidiBard2-3.2.5.0.zip",
+      "DownloadLinkUpdate": "https://github.com/pffxivtools/ffxiv-bard-plugins-linux/releases/download/MidiBard2-3.2.5.0/MidiBard2-3.2.5.0.zip",
       "_SourceId": "pffxivtools-ffxiv-bard-plugins-linux",
       "_SourceName": "pffxivtools / ffxiv-bard-plugins-linux",
       "_SourceUrl": "https://raw.githubusercontent.com/pffxivtools/ffxiv-bard-plugins-linux/main/pluginmaster.json"
