@@ -1,14 +1,14 @@
 {
   "sourceId": "legendsofthegame-timememoriav3",
   "url": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json",
-  "fetchedAt": "2026-09-08",
+  "fetchedAt": "2026-09-10",
   "count": 1,
   "plugins": [
     {
       "Author": "Legends of the Game",
       "Name": "Time Memoria",
       "InternalName": "TimeMemoriaV3",
-      "AssemblyVersion": "3.5.0.15",
+      "AssemblyVersion": "3.6.0.15",
       "Description": "Quest progression and pacing — a reflective notebook for your story journey, not a scoreboard.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/LegendsOfTheGame/TimeMemoriaV3",
@@ -36,7 +36,7 @@
       "DownloadLinkTesting": "https://github.com/LegendsOfTheGame/TimeMemoriaV3/releases/latest/download/latest.zip",
       "IconUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/assets/icon.png",
       "DownloadCount": 0,
-      "Changelog": "Label: Journal\n- Re-baseline: pick a date in Settings, and everything recorded before it is re-marked Pre-Plugin, for when some of those dates are known to be wrong. The journal is backed up first.\n- Real completions now record seconds, not just the day, so a bad write leaves an unmistakable shared timestamp instead of an ambiguous busy day.\n- Rotating backups: a snapshot before any write, when content actually changed and the newest backup is at least 3 days old. Kept to the newest three.\n- A twice-monthly recovery point (1st and 15th of each month), held 32 days, independent of the 3-day rotation.\n\nLabel: Interface\n- Rewrote the Help tab, wrapped to the actual window width in both Classic and Native.\n- Fixed the Progression list overlapping its own footer.\n- Raised the Native window's minimum width to 956, growing it live if it was already open narrower.\n",
+      "Changelog": "New: /tm <expansion> (arr, hw, sb/stb, shb, ew, dt, ec) opens a list of every unfinished quest in that expansion at once, instead of browsing one category at a time.\n- Shows a message instead of a blank list when there's nothing left: congratulations if it's done, or a note that the expansion hasn't released yet.\nFixed: Patch 7.5's Main Scenario finish line now points to the quest 7.56 actually continued the story to (Windborne), not the placeholder set before 7.56 shipped.",
       "_SourceId": "legendsofthegame-timememoriav3",
       "_SourceName": "LegendsOfTheGame / TimeMemoriaV3",
       "_SourceUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json"
