@@ -1,17 +1,17 @@
 {
   "sourceId": "aetherment-sevii-dev-plugin",
   "url": "https://aetherment.sevii.dev/plugin",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-09-10",
   "count": 1,
   "plugins": [
     {
       "AcceptsFeedback": false,
       "ApplicableVersion": "any",
-      "AssemblyVersion": "0.8.9.0",
+      "AssemblyVersion": "0.8.10.0",
       "Author": "Sevii",
       "DalamudApiLevel": 15,
       "Description": "Auto updates mods and allows for more customization such as color and compositing onto other files",
-      "DownloadCount": 258876,
+      "DownloadCount": 263264,
       "DownloadLinkInstall": "https://aetherment.sevii.dev/plugin/install",
       "DownloadLinkTesting": "https://aetherment.sevii.dev/plugin/install",
       "DownloadLinkUpdate": "https://aetherment.sevii.dev/plugin/update",
