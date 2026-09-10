@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T16:23:51.569Z",
-  "contentHash": "a67d5e541447749b",
+  "generatedAt": "2026-09-10T20:51:29.416Z",
+  "contentHash": "7aa9b2b7f2a96c06",
   "totalPlugins": 586,
   "masterPlugins": 580,
   "currentApiLevel": 15,
@@ -2432,14 +2432,14 @@
       "kept": "Penumbra",
       "dropped": "Sea of Stars",
       "keptVersion": "1.7.1.2",
-      "droppedVersion": "1.7.1.1"
+      "droppedVersion": "1.7.1.2"
     },
     {
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "Sea of Stars",
       "keptVersion": "1.7.1.1",
-      "droppedVersion": "1.7.1.0"
+      "droppedVersion": "1.7.1.1"
     },
     {
       "internalName": "DynamicBridge",
@@ -2565,7 +2565,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
       "keptVersion": "7.5.6.3",
-      "droppedVersion": "7.5.6.2"
+      "droppedVersion": "7.5.6.3"
     },
     {
       "internalName": "Brio",
@@ -2593,7 +2593,7 @@
       "kept": "Glamourer",
       "dropped": "bees-repo",
       "keptVersion": "1.7.1.1",
-      "droppedVersion": "1.7.1.0"
+      "droppedVersion": "1.7.1.1"
     },
     {
       "internalName": "HaselDebug",
@@ -2656,7 +2656,7 @@
       "kept": "Penumbra",
       "dropped": "bees-repo",
       "keptVersion": "1.7.1.2",
-      "droppedVersion": "1.7.1.1"
+      "droppedVersion": "1.7.1.2"
     },
     {
       "internalName": "Saucy",
@@ -2754,7 +2754,7 @@
       "kept": "Sea of Stars",
       "dropped": "CustomizePlus",
       "keptVersion": "2.2.1.2",
-      "droppedVersion": "2.2.1.2"
+      "droppedVersion": "2.2.1.3"
     },
     {
       "internalName": "Cammy",
@@ -3376,7 +3376,7 @@
       "internalName": "LeveHelper",
       "kept": "Haselnussbomber",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "2.5.6.0",
+      "keptVersion": "2.6.0.0",
       "droppedVersion": "0.1.3"
     },
     {
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,18 +3618,11 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.4.2",
-      "droppedVersion": "1.15.4.2"
-    },
-    {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
     },
     {
       "internalName": "PalacePal",
@@ -3653,6 +3639,27 @@
       "droppedVersion": "6.0.0.95"
     },
     {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.4.2",
+      "droppedVersion": "1.15.4.2"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.1.34",
+      "droppedVersion": "4.6.1.34"
+    },
+    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
@@ -3663,15 +3670,8 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.0.1",
-      "droppedVersion": "15.756.0.1"
-    },
-    {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.34",
-      "droppedVersion": "4.6.1.34"
+      "keptVersion": "15.756.1.0",
+      "droppedVersion": "15.756.1.0"
     },
     {
       "internalName": "WrathCombo",
@@ -3929,8 +3929,8 @@
       "internalName": "LeveHelper",
       "kept": "Haselnussbomber",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.5.6.0",
-      "droppedVersion": "2.5.6.0"
+      "keptVersion": "2.6.0.0",
+      "droppedVersion": "2.6.0.0"
     },
     {
       "internalName": "vsatisfy",
@@ -3958,7 +3958,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.6.3",
-      "droppedVersion": "7.5.6.2"
+      "droppedVersion": "7.5.6.3"
     },
     {
       "internalName": "vfallguy",
@@ -4175,14 +4175,14 @@
       "kept": "Glamourer",
       "dropped": "MEGA Repository",
       "keptVersion": "1.7.1.1",
-      "droppedVersion": "1.7.1.0"
+      "droppedVersion": "1.7.1.1"
     },
     {
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "MEGA Repository",
       "keptVersion": "1.7.1.2",
-      "droppedVersion": "1.7.1.1"
+      "droppedVersion": "1.7.1.2"
     },
     {
       "internalName": "CustomizePlus",
@@ -4797,7 +4797,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.756.0.1",
+      "keptVersion": "15.756.1.0",
       "droppedVersion": "15.756.0.1"
     },
     {
@@ -5105,21 +5105,21 @@
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.12",
+      "keptVersion": "4.2.0.13",
       "droppedVersion": "3.3.4.0"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.12",
+      "keptVersion": "4.2.0.13",
       "droppedVersion": "0.69.1.12"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.12",
+      "keptVersion": "4.2.0.13",
       "droppedVersion": "2.1.1.4"
     },
     {
@@ -5658,7 +5658,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.756.0.1",
+      "keptVersion": "15.756.1.0",
       "droppedVersion": "4.13"
     },
     {
@@ -6526,8 +6526,8 @@
       "internalName": "LeveHelper",
       "kept": "Haselnussbomber",
       "dropped": "Haselnussbomber / DalamudPlugins",
-      "keptVersion": "2.5.6.0",
-      "droppedVersion": "2.5.6.0"
+      "keptVersion": "2.6.0.0",
+      "droppedVersion": "2.6.0.0"
     },
     {
       "internalName": "Visibility",
@@ -6687,7 +6687,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.756.0.1",
+      "keptVersion": "15.756.1.0",
       "droppedVersion": "5.31"
     },
     {
@@ -6953,7 +6953,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.756.0.1",
+      "keptVersion": "15.756.1.0",
       "droppedVersion": "7.5.13"
     },
     {
