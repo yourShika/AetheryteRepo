@@ -1,7 +1,7 @@
 {
   "sourceId": "zhouhuichen741-dalamud-plugins",
   "url": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
-  "fetchedAt": "2026-09-08",
+  "fetchedAt": "2026-09-10",
   "count": 20,
   "plugins": [
     {
@@ -461,7 +461,7 @@
     {
       "AcceptsFeedback": false,
       "ApplicableVersion": "any",
-      "AssemblyVersion": "0.8.9.0",
+      "AssemblyVersion": "0.8.10.0",
       "Author": "Sevii",
       "DalamudApiLevel": 15,
       "Description": "自动更新Mod，并允许更多的自定义，如颜色和合成到其他文件",
