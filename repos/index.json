@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T23:10:03.794Z",
-  "contentHash": "487258292f4d28c1",
+  "generatedAt": "2026-09-11T04:39:00.143Z",
+  "contentHash": "9386e25e111121bc",
   "totalPlugins": 586,
   "masterPlugins": 580,
   "currentApiLevel": 15,
@@ -1852,7 +1852,7 @@
       "name": "dajoey / lalalazy",
       "url": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json",
       "status": "ok",
-      "count": 15,
+      "count": 16,
       "note": null
     },
     {
@@ -2431,15 +2431,15 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "Sea of Stars",
-      "keptVersion": "1.7.1.2",
-      "droppedVersion": "1.7.1.2"
+      "keptVersion": "1.7.1.3",
+      "droppedVersion": "1.7.1.3"
     },
     {
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "Sea of Stars",
-      "keptVersion": "1.7.1.1",
-      "droppedVersion": "1.7.1.1"
+      "keptVersion": "1.7.1.2",
+      "droppedVersion": "1.7.1.2"
     },
     {
       "internalName": "DynamicBridge",
@@ -2452,7 +2452,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "44451516 / ffxiv_bossmod",
-      "keptVersion": "7.5.6.3",
+      "keptVersion": "7.5.6.4",
       "droppedVersion": "7.5.5.8"
     },
     {
@@ -2508,7 +2508,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "awgil plugin distribution",
-      "keptVersion": "7.5.6.3",
+      "keptVersion": "7.5.6.4",
       "droppedVersion": "0.0.0.122"
     },
     {
@@ -2564,7 +2564,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
-      "keptVersion": "7.5.6.3",
+      "keptVersion": "7.5.6.4",
       "droppedVersion": "7.5.6.3"
     },
     {
@@ -2592,7 +2592,7 @@
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "bees-repo",
-      "keptVersion": "1.7.1.1",
+      "keptVersion": "1.7.1.2",
       "droppedVersion": "1.7.1.1"
     },
     {
@@ -2655,7 +2655,7 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "bees-repo",
-      "keptVersion": "1.7.1.2",
+      "keptVersion": "1.7.1.3",
       "droppedVersion": "1.7.1.2"
     },
     {
@@ -2851,7 +2851,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "7.5.6.3",
+      "keptVersion": "7.5.6.4",
       "droppedVersion": "0.0.0.77"
     },
     {
@@ -2921,7 +2921,7 @@
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "1.7.1.1",
+      "keptVersion": "1.7.1.2",
       "droppedVersion": "0.1.1.1"
     },
     {
@@ -3236,15 +3236,15 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "eScape",
-      "keptVersion": "1.7.1.2",
-      "droppedVersion": "1.7.1.2"
+      "keptVersion": "1.7.1.3",
+      "droppedVersion": "1.7.1.3"
     },
     {
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "eScape",
-      "keptVersion": "1.7.1.1",
-      "droppedVersion": "1.7.1.1"
+      "keptVersion": "1.7.1.2",
+      "droppedVersion": "1.7.1.2"
     },
     {
       "internalName": "SimpleHeels",
@@ -3625,11 +3625,25 @@
       "droppedVersion": "2.2.0.12"
     },
     {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.25",
+      "droppedVersion": "3.9.2.25"
+    },
+    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "5.3.3.3",
       "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "YesAlready",
@@ -3646,18 +3660,11 @@
       "droppedVersion": "6.0.0.95"
     },
     {
-      "internalName": "PalacePal",
+      "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
-    },
-    {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.25",
-      "droppedVersion": "3.9.2.25"
+      "keptVersion": "4.6.1.34",
+      "droppedVersion": "4.6.1.34"
     },
     {
       "internalName": "Questionable",
@@ -3674,13 +3681,6 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.34",
-      "droppedVersion": "4.6.1.34"
-    },
-    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "1.0.4.23"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.2",
-      "droppedVersion": "2.1.2.2"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.19",
       "droppedVersion": "4.0.5.19"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.2",
+      "droppedVersion": "2.1.2.2"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3957,7 +3957,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.6.3",
+      "keptVersion": "7.5.6.4",
       "droppedVersion": "7.5.6.3"
     },
     {
@@ -3985,8 +3985,8 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.6.1",
-      "droppedVersion": "7.5.6.1"
+      "keptVersion": "7.5.6.2",
+      "droppedVersion": "7.5.6.2"
     },
     {
       "internalName": "BossModReborn",
@@ -4174,22 +4174,22 @@
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.7.1.1",
-      "droppedVersion": "1.7.1.1"
+      "keptVersion": "1.7.1.2",
+      "droppedVersion": "1.7.1.2"
     },
     {
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.7.1.2",
-      "droppedVersion": "1.7.1.2"
+      "keptVersion": "1.7.1.3",
+      "droppedVersion": "1.7.1.3"
     },
     {
       "internalName": "CustomizePlus",
       "kept": "Sea of Stars",
       "dropped": "MEGA Repository",
       "keptVersion": "2.2.1.3",
-      "droppedVersion": "2.2.1.2"
+      "droppedVersion": "2.2.1.3"
     },
     {
       "internalName": "SimpleHeels",
@@ -4286,14 +4286,14 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "MeowZWR / DalamudPlugin",
-      "keptVersion": "1.7.1.2",
+      "keptVersion": "1.7.1.3",
       "droppedVersion": "1.7.1.2"
     },
     {
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "MeowZWR / DalamudPlugin",
-      "keptVersion": "1.7.1.1",
+      "keptVersion": "1.7.1.2",
       "droppedVersion": "1.7.1.1"
     },
     {
@@ -4510,8 +4510,8 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.6.3",
-      "droppedVersion": "7.5.6.2"
+      "keptVersion": "7.5.6.4",
+      "droppedVersion": "7.5.6.3"
     },
     {
       "internalName": "BossModReborn",
@@ -4546,7 +4546,7 @@
       "kept": "Sea of Stars",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "2.2.1.3",
-      "droppedVersion": "2.2.1.1"
+      "droppedVersion": "2.2.1.3"
     },
     {
       "internalName": "DeterministicPose",
@@ -4608,8 +4608,8 @@
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.7.1.1",
-      "droppedVersion": "1.7.1.0"
+      "keptVersion": "1.7.1.2",
+      "droppedVersion": "1.7.1.2"
     },
     {
       "internalName": "heliosphere-plugin",
@@ -4769,8 +4769,8 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.7.1.2",
-      "droppedVersion": "1.7.1.1"
+      "keptVersion": "1.7.1.3",
+      "droppedVersion": "1.7.1.3"
     },
     {
       "internalName": "Prioritizer",
@@ -4798,7 +4798,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "15.756.1.0",
-      "droppedVersion": "15.756.0.1"
+      "droppedVersion": "15.756.1.0"
     },
     {
       "internalName": "RaidsRewritten",
@@ -4832,8 +4832,8 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.6.1",
-      "droppedVersion": "7.5.6.1"
+      "keptVersion": "7.5.6.2",
+      "droppedVersion": "7.5.6.2"
     },
     {
       "internalName": "Saucy",
@@ -5385,7 +5385,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.6.3",
+      "keptVersion": "7.5.6.4",
       "droppedVersion": "0.0.0.281"
     },
     {
@@ -5504,7 +5504,7 @@
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.7.1.1",
+      "keptVersion": "1.7.1.2",
       "droppedVersion": "1.3.4.3"
     },
     {
@@ -5644,7 +5644,7 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.7.1.2",
+      "keptVersion": "1.7.1.3",
       "droppedVersion": "1.3.2.0"
     },
     {
@@ -5679,7 +5679,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.6.1",
+      "keptVersion": "7.5.6.2",
       "droppedVersion": "7.1.5.38"
     },
     {
@@ -5875,7 +5875,7 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "Penumbra Mod Forwarder",
-      "keptVersion": "1.7.1.2",
+      "keptVersion": "1.7.1.3",
       "droppedVersion": "1.0.0.0"
     },
     {
@@ -6365,7 +6365,7 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "cycleapple / DalamudPlugins-TW",
-      "keptVersion": "1.7.1.2",
+      "keptVersion": "1.7.1.3",
       "droppedVersion": "1.5.1.26"
     },
     {
@@ -6393,7 +6393,7 @@
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "cycleapple / DalamudPlugins-TW",
-      "keptVersion": "1.7.1.1",
+      "keptVersion": "1.7.1.2",
       "droppedVersion": "1.5.0.13"
     },
     {
@@ -6446,6 +6446,13 @@
       "droppedVersion": "6.5.8.0"
     },
     {
+      "internalName": "ARControl",
+      "kept": "a1hena/PluginRepository",
+      "dropped": "dajoey / lalalazy",
+      "keptVersion": "14.2",
+      "droppedVersion": "0.0.0.0"
+    },
+    {
       "internalName": "InventoryTools",
       "kept": "Caraxi / DalamudPlugins",
       "dropped": "dal4kr / Dalamud.Resources",
@@ -6477,7 +6484,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.6.1",
+      "keptVersion": "7.5.6.2",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -6603,7 +6610,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "7.5.6.1",
+      "keptVersion": "7.5.6.2",
       "droppedVersion": "7.2.5.122"
     },
     {
@@ -6946,7 +6953,7 @@
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "wasdcxz / DalamudPlugins",
-      "keptVersion": "1.7.1.1",
+      "keptVersion": "1.7.1.2",
       "droppedVersion": "1.6.1.7"
     },
     {

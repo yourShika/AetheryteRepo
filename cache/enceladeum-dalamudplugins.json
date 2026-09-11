@@ -1,7 +1,7 @@
 {
   "sourceId": "enceladeum-dalamudplugins",
   "url": "https://raw.githubusercontent.com/Enceladeum/DalamudPlugins/main/repo.json",
-  "fetchedAt": "2026-09-07",
+  "fetchedAt": "2026-09-11",
   "count": 6,
   "plugins": [
     {
@@ -163,7 +163,7 @@
       "InternalName": "HMSync",
       "Punchline": "Explore any zone together.",
       "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
-      "Changelog": "1.0.1.9: the lights-out and hide-VFX controls now have checkboxes in Map Control, so you can toggle a map's ambient lights and effects without typing a command, and the checkbox mirrors the live state including changes made by other members. These toggles now also reset on every map change instead of carrying over, so each map starts with its lights and effects on.",
+      "Changelog": "1.0.2.0: fixes for returning to your real location when a session ends. A member who left mid-session is now returned to their true saved spot instead of at the wrong height, and ending a session from an instance, a busy area or a solo event scene now reliably rebuilds your home zone instead of stranding you on the last map. The right-click Teleport-to action now requires a loaded map or cutscene, and Debug mode gains a fuller command reference.",
       "Tags": [
         "exploration",
         "zone",
@@ -181,7 +181,7 @@
       "IsTestingExclusive": false,
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/Enceladeum/HMapSync",
-      "AssemblyVersion": "1.0.1.9",
+      "AssemblyVersion": "1.0.2.0",
       "DalamudApiLevel": 15,
       "LoadRequiredState": 0,
       "LoadSync": false,
@@ -189,7 +189,7 @@
       "LoadPriority": 0,
       "AcceptsFeedback": true,
       "DownloadCount": 0,
-      "LastUpdate": 1788816824,
+      "LastUpdate": 1789082367,
       "DownloadLinkInstall": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
       "DownloadLinkUpdate": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
       "DownloadLinkTesting": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
