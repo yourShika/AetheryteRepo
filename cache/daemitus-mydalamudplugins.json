@@ -1,7 +1,7 @@
 {
   "sourceId": "daemitus-mydalamudplugins",
   "url": "https://github.com/daemitus/MyDalamudPlugins/raw/master/pluginmaster.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-09-11",
   "count": 1,
   "plugins": [
     {
@@ -10,7 +10,7 @@
       "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
       "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
       "InternalName": "XIVComboExpanded",
-      "AssemblyVersion": "2.0.6.2",
+      "AssemblyVersion": "2.0.6.3",
       "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
       "ApplicableVersion": "any",
       "Tags": [
@@ -29,7 +29,7 @@
       "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
       "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
       "DownloadCount": 0,
-      "LastUpdate": "1786275903",
+      "LastUpdate": "1789126739",
       "_SourceId": "daemitus-mydalamudplugins",
       "_SourceName": "daemitus MyDalamudPlugins",
       "_SourceUrl": "https://github.com/daemitus/MyDalamudPlugins/raw/master/pluginmaster.json"
