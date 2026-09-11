@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-11T20:57:39.579Z",
-  "contentHash": "e15bb8f1d2a5c069",
-  "totalPlugins": 588,
-  "masterPlugins": 582,
+  "generatedAt": "2026-09-11T23:15:32.274Z",
+  "contentHash": "947c3d465622e3ff",
+  "totalPlugins": 589,
+  "masterPlugins": 583,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -2292,7 +2292,7 @@
       "name": "WigglyCorp / DalamudPlugins",
       "url": "https://raw.githubusercontent.com/WigglyCorp/DalamudPlugins/main/pluginmaster.json",
       "status": "ok",
-      "count": 3,
+      "count": 4,
       "note": null
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 119,
+      "count": 120,
       "file": "repos/automation.json"
     },
     {
@@ -2431,7 +2431,7 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "Sea of Stars",
-      "keptVersion": "1.7.1.3",
+      "keptVersion": "1.7.2.0",
       "droppedVersion": "1.7.1.3"
     },
     {
@@ -2452,7 +2452,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "44451516 / ffxiv_bossmod",
-      "keptVersion": "7.5.6.4",
+      "keptVersion": "7.5.6.5",
       "droppedVersion": "7.5.5.8"
     },
     {
@@ -2508,7 +2508,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "awgil plugin distribution",
-      "keptVersion": "7.5.6.4",
+      "keptVersion": "7.5.6.5",
       "droppedVersion": "0.0.0.122"
     },
     {
@@ -2564,7 +2564,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
-      "keptVersion": "7.5.6.4",
+      "keptVersion": "7.5.6.5",
       "droppedVersion": "7.5.6.4"
     },
     {
@@ -2655,7 +2655,7 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "bees-repo",
-      "keptVersion": "1.7.1.3",
+      "keptVersion": "1.7.2.0",
       "droppedVersion": "1.7.1.3"
     },
     {
@@ -2711,7 +2711,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "1.15.4.2",
+      "keptVersion": "1.15.4.3",
       "droppedVersion": "1.15.4.2"
     },
     {
@@ -2851,7 +2851,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "7.5.6.4",
+      "keptVersion": "7.5.6.5",
       "droppedVersion": "0.0.0.77"
     },
     {
@@ -3187,7 +3187,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "1.15.4.2",
+      "keptVersion": "1.15.4.3",
       "droppedVersion": "1.2.2.3"
     },
     {
@@ -3236,7 +3236,7 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "eScape",
-      "keptVersion": "1.7.1.3",
+      "keptVersion": "1.7.2.0",
       "droppedVersion": "1.7.1.3"
     },
     {
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,11 +3618,18 @@
       "droppedVersion": "2.2.0.12"
     },
     {
-      "internalName": "PalacePal",
+      "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "Splatoon",
@@ -3646,24 +3646,17 @@
       "droppedVersion": "6.0.0.98"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.2.4",
-      "droppedVersion": "15.756.2.4"
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.4.2",
+      "keptVersion": "1.15.4.3",
       "droppedVersion": "1.15.4.2"
     },
     {
@@ -3672,6 +3665,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.2.4",
+      "droppedVersion": "15.756.2.4"
     },
     {
       "internalName": "AutoRetainer",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "1.0.4.23"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.19",
-      "droppedVersion": "4.0.5.19"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.2",
       "droppedVersion": "2.1.2.2"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.19",
+      "droppedVersion": "4.0.5.19"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3957,8 +3957,8 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.6.4",
-      "droppedVersion": "7.5.6.4"
+      "keptVersion": "7.5.6.5",
+      "droppedVersion": "7.5.6.5"
     },
     {
       "internalName": "vfallguy",
@@ -3986,7 +3986,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.6.4",
-      "droppedVersion": "7.5.6.2"
+      "droppedVersion": "7.5.6.4"
     },
     {
       "internalName": "BossModReborn",
@@ -4181,7 +4181,7 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.7.1.3",
+      "keptVersion": "1.7.2.0",
       "droppedVersion": "1.7.1.3"
     },
     {
@@ -4286,7 +4286,7 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "MeowZWR / DalamudPlugin",
-      "keptVersion": "1.7.1.3",
+      "keptVersion": "1.7.2.0",
       "droppedVersion": "1.7.1.3"
     },
     {
@@ -4398,7 +4398,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MyDalamudPlugins",
-      "keptVersion": "1.15.4.2",
+      "keptVersion": "1.15.4.3",
       "droppedVersion": "1.2.2.1"
     },
     {
@@ -4510,7 +4510,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.6.4",
+      "keptVersion": "7.5.6.5",
       "droppedVersion": "7.5.6.3"
     },
     {
@@ -4769,7 +4769,7 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.7.1.3",
+      "keptVersion": "1.7.2.0",
       "droppedVersion": "1.7.1.3"
     },
     {
@@ -4972,7 +4972,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.15.4.2",
+      "keptVersion": "1.15.4.3",
       "droppedVersion": "1.15.4.2"
     },
     {
@@ -5385,7 +5385,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.6.4",
+      "keptVersion": "7.5.6.5",
       "droppedVersion": "0.0.0.281"
     },
     {
@@ -5644,7 +5644,7 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.7.1.3",
+      "keptVersion": "1.7.2.0",
       "droppedVersion": "1.3.2.0"
     },
     {
@@ -5805,7 +5805,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.15.4.2",
+      "keptVersion": "1.15.4.3",
       "droppedVersion": "1.9.0"
     },
     {
@@ -5875,7 +5875,7 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "Penumbra Mod Forwarder",
-      "keptVersion": "1.7.1.3",
+      "keptVersion": "1.7.2.0",
       "droppedVersion": "1.0.0.0"
     },
     {
@@ -6365,7 +6365,7 @@
       "internalName": "Penumbra",
       "kept": "Penumbra",
       "dropped": "cycleapple / DalamudPlugins-TW",
-      "keptVersion": "1.7.1.3",
+      "keptVersion": "1.7.2.0",
       "droppedVersion": "1.5.1.26"
     },
     {
@@ -6813,7 +6813,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "OpaqueReptile / daemitus_MyDalamudPlugins",
-      "keptVersion": "1.15.4.2",
+      "keptVersion": "1.15.4.3",
       "droppedVersion": "1.2.2.1"
     },
     {
@@ -6950,18 +6950,18 @@
       "droppedVersion": "1.6.1.7"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.756.2.4",
-      "droppedVersion": "7.5.13"
-    },
-    {
       "internalName": "Influx",
       "kept": "MEGA Repository",
       "dropped": "WigglyCorp / DalamudPlugins",
       "keptVersion": "4.2",
       "droppedVersion": "7.5.4"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "WigglyCorp / DalamudPlugins",
+      "keptVersion": "15.756.2.4",
+      "droppedVersion": "99.0.0.0"
     },
     {
       "internalName": "XADatabase",
@@ -6972,9 +6972,9 @@
     },
     {
       "internalName": "XASlave",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.44",
+      "kept": "xa-io / MyDalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "0.0.0.45",
       "droppedVersion": "0.0.0.44"
     },
     {

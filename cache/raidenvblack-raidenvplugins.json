@@ -59,7 +59,7 @@
       "Name": "BlackjackSolver",
       "Description": "A simple blackjack solver that tells you the best move to make, helps you with bets and customize your calls.",
       "InternalName": "BlackjackSolver",
-      "AssemblyVersion": "1.6.3.0",
+      "AssemblyVersion": "1.6.4.0",
       "IconUrl": "https://raw.githubusercontent.com/RaidenvBlack/RaidenvPlugins/main/icons/casino.png",
       "ApplicableVersion": "any",
       "Tags": [
@@ -85,7 +85,7 @@
       "Name": "LazyKindness",
       "Description": "Answers for you on hello, gg and Good Night messages! Highly customizable! ",
       "InternalName": "LazyKindness",
-      "AssemblyVersion": "1.0.5.0",
+      "AssemblyVersion": "1.0.6.0",
       "IconUrl": "https://raw.githubusercontent.com/RaidenvBlack/RaidenvPlugins/main/icons/lazy.png",
       "ApplicableVersion": "any",
       "Tags": [
@@ -111,7 +111,7 @@
       "Name": "ZeroTweaks",
       "Description": "Tweaks that are already working: Loot Roll Tracker, ChatGPT, Lightless switcher",
       "InternalName": "ZeroTweaks",
-      "AssemblyVersion": "1.1.1.0",
+      "AssemblyVersion": "1.1.2.0",
       "IconUrl": "https://raw.githubusercontent.com/RaidenvBlack/RaidenvPlugins/main/icons/zero.png",
       "ApplicableVersion": "any",
       "Tags": [
