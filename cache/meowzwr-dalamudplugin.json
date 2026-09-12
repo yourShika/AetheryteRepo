@@ -1,7 +1,7 @@
 {
   "sourceId": "meowzwr-dalamudplugin",
   "url": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
-  "fetchedAt": "2026-09-11",
+  "fetchedAt": "2026-09-12",
   "count": 15,
   "plugins": [
     {
@@ -10,22 +10,22 @@
       "Punchline": "运行时模组加载和管理器。",
       "Description": "运行时模组加载和管理器。",
       "InternalName": "Penumbra",
-      "AssemblyVersion": "1.7.1.3",
-      "TestingAssemblyVersion": "1.7.1.3",
+      "AssemblyVersion": "1.7.2.0",
+      "TestingAssemblyVersion": "1.7.2.0",
       "RepoUrl": "https://github.com/MeowZWR/Penumbra-CN",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "TestingDalamudApiLevel": 15,
       "IsHide": false,
       "IsTestingExclusive": false,
-      "DownloadCount": 194908,
+      "DownloadCount": 196410,
       "LastUpdate": 0,
       "LoadPriority": 69420,
       "LoadRequiredState": 2,
       "LoadSync": true,
-      "DownloadLinkInstall": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.7.1.3-cn/Penumbra.zip",
-      "DownloadLinkTesting": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.7.1.3-cn/Penumbra.zip",
-      "DownloadLinkUpdate": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.7.1.3-cn/Penumbra.zip",
+      "DownloadLinkInstall": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.7.2.0-cn/Penumbra.zip",
+      "DownloadLinkTesting": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.7.2.0-cn/Penumbra.zip",
+      "DownloadLinkUpdate": "https://github.com/MeowZWR/Penumbra-CN/releases/download/1.7.2.0-cn/Penumbra.zip",
       "IconUrl": "https://static.meowrs.com/Plugins/Penumbra/icon.png",
       "Tags": [
         "Sea Of Stars"
@@ -61,7 +61,7 @@
       "TestingDalamudApiLevel": 15,
       "IsHide": false,
       "IsTestingExclusive": false,
-      "DownloadCount": 133947,
+      "DownloadCount": 135198,
       "LastUpdate": 1618608322,
       "DownloadLinkInstall": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.7.1.2-cn/Glamourer.zip",
       "DownloadLinkUpdate": "https://github.com/MeowZWR/Glamourer-CN/releases/download/1.7.1.2-cn/Glamourer.zip",
@@ -92,7 +92,7 @@
       "Tags": [
         "Sea Of Stars"
       ],
-      "DownloadCount": 69344,
+      "DownloadCount": 69357,
       "_SourceId": "meowzwr-dalamudplugin",
       "_SourceName": "MeowZWR / DalamudPlugin",
       "_SourceUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
@@ -111,7 +111,7 @@
       "TestingDalamudApiLevel": 15,
       "IsHide": false,
       "IsTestingExclusive": false,
-      "DownloadCount": 78834,
+      "DownloadCount": 79232,
       "LastUpdate": 0,
       "LoadPriority": 0,
       "DownloadLinkInstall": "https://github.com/MeowZWR/CustomizePlus-CN/releases/download/2.2.1.2-cn/CustomizePlus.zip",
@@ -158,7 +158,7 @@
         "tools",
         "Sea Of Stars"
       ],
-      "DownloadCount": 157012,
+      "DownloadCount": 157110,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "meowzwr-dalamudplugin",
@@ -187,7 +187,7 @@
       "DownloadLinkInstall": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.6/latest.zip",
       "DownloadLinkTesting": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.1.1-b/latest.zip",
       "DownloadLinkUpdate": "https://github.com/ktisis-tools/Ktisis/releases/download/v0.4.0.6/latest.zip",
-      "DownloadCount": 1167076,
+      "DownloadCount": 1168163,
       "Punchline": "集体动作姿势编辑工具。",
       "IsHide": false,
       "IsTestingExclusive": false,
@@ -214,7 +214,7 @@
       "Tags": [
         "Sea Of Stars"
       ],
-      "DownloadCount": 41389,
+      "DownloadCount": 41405,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "meowzwr-dalamudplugin",
@@ -267,7 +267,7 @@
       "TestingDalamudApiLevel": 15,
       "IsHide": false,
       "IsTestingExclusive": false,
-      "DownloadCount": 5189,
+      "DownloadCount": 5198,
       "LastUpdate": 0,
       "DownloadLinkInstall": "https://github.com/MeowZWR/AQuestReborn/releases/download/0.2.9.8-cn/AQuestReborn.zip",
       "DownloadLinkTesting": "https://github.com/MeowZWR/AQuestReborn/releases/download/0.2.9.8-cn/AQuestReborn.zip",
@@ -302,7 +302,7 @@
       "DownloadLinkUpdate": "https://github.com/MeowZWR/Cammy/releases/download/2.1.1.2-cn/Cammy.zip",
       "IconUrl": "https://static.meowrs.com/Plugins/Cammy/icon.png",
       "Changelog": "",
-      "DownloadCount": 35993,
+      "DownloadCount": 36006,
       "_SourceId": "meowzwr-dalamudplugin",
       "_SourceName": "MeowZWR / DalamudPlugin",
       "_SourceUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
@@ -333,7 +333,7 @@
       "DownloadLinkUpdate": "https://github.com/MeowZWR/BDTHPlugin/releases/download/1.7.3-cn/BDTHPlugin.zip",
       "IconUrl": "https://static.meowrs.com/Plugins/BDTHPlugin/icon.png",
       "Changelog": "",
-      "DownloadCount": 34617,
+      "DownloadCount": 34636,
       "_SourceId": "meowzwr-dalamudplugin",
       "_SourceName": "MeowZWR / DalamudPlugin",
       "_SourceUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
@@ -357,7 +357,7 @@
       "DownloadLinkTesting": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.2/latest.zip",
       "DownloadLinkUpdate": "https://github.com/MeowZWR/Dalamud.SkipCutscene/releases/download/1.2.3.2/latest.zip",
       "IconUrl": "",
-      "DownloadCount": 29676,
+      "DownloadCount": 29688,
       "_SourceId": "meowzwr-dalamudplugin",
       "_SourceName": "MeowZWR / DalamudPlugin",
       "_SourceUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
@@ -379,7 +379,7 @@
       "DownloadLinkInstall": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
       "DownloadLinkTesting": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
       "DownloadLinkUpdate": "https://github.com/MeowZWR/AntiAfkKick/releases/download/2.1.0.12-cn/antiafkkick-dalamud.zip",
-      "DownloadCount": 20829,
+      "DownloadCount": 20847,
       "_SourceId": "meowzwr-dalamudplugin",
       "_SourceName": "MeowZWR / DalamudPlugin",
       "_SourceUrl": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json"
@@ -403,7 +403,7 @@
       "TestingDalamudApiLevel": 15,
       "IsHide": false,
       "IsTestingExclusive": false,
-      "DownloadCount": 1417,
+      "DownloadCount": 1419,
       "LastUpdate": 1746230400,
       "DownloadLinkInstall": "https://github.com/MeowZWR/XIVWindowResizer/releases/download/2.0.0.2-x/XIVWindowResizerX.zip",
       "DownloadLinkUpdate": "https://github.com/MeowZWR/XIVWindowResizer/releases/download/2.0.0.2-x/XIVWindowResizerX.zip",
