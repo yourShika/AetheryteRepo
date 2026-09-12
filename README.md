@@ -47,7 +47,7 @@ beliebig mit anderen kombinieren — die Tabelle wird bei jedem Lauf automatisch
 | 🌐 **Master inkl. 18+** | Wirklich alles | 590 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master-full.json` |
 | 👗 Glamour & Charakter | Mods, Aussehen, Posing, Sync | 97 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/glamour.json` |
 | ⚔️ Kampf & Rotation | Rotationen, Boss-Timeline, Combos, PvP | 71 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/combat.json` |
-| 🤖 Automatisierung | AutoDuty, Navmesh, Retainer, Questing, Farming | 120 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/automation.json` |
+| 🤖 Automatisierung | AutoDuty, Navmesh, Retainer, Questing, Farming | 121 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/automation.json` |
 | ⚒️ Crafting & Gathering | Handwerk, Sammeln, Marktbrett | 26 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/crafting.json` |
 | ✨ Quality of Life & UI | Tweaks, Interface, Chat, Inventar, Karten | 146 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/qol.json` |
 | 🎭 Social & Roleplay | RP-Profile, Emotes, Free Company, Discord | 52 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/social.json` |
@@ -55,7 +55,7 @@ beliebig mit anderen kombinieren — die Tabelle wird bei jedem Lauf automatisch
 | 🏡 Housing & Deko | Moebel, Layouts, Grundstuecke | 17 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/housing.json` |
 | 🔊 Audio & Voice | Voicechat, TTS, Musik, Sound | 19 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/audio.json` |
 | 🛠️ Developer & Data | Debugging, Datenexplorer, Editoren | 20 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/dev.json` |
-| 📦 Sonstiges | Alles ohne klare Zuordnung | 16 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/misc.json` |
+| 📦 Sonstiges | Alles ohne klare Zuordnung | 15 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/misc.json` |
 
 <!-- FEEDS:END -->
 
