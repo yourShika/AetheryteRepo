@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-12T04:33:27.496Z",
-  "contentHash": "0760af8dcc75762d",
+  "generatedAt": "2026-09-12T10:45:11.833Z",
+  "contentHash": "1028c727c8af9bbb",
   "totalPlugins": 590,
   "masterPlugins": 584,
   "currentApiLevel": 15,
@@ -2480,14 +2480,14 @@
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.1.9.0",
+      "keptVersion": "2.1.9.1",
       "droppedVersion": "2.0.4.4"
     },
     {
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.1.9.0",
+      "keptVersion": "2.1.9.1",
       "droppedVersion": "1.9.3.3"
     },
     {
@@ -2565,7 +2565,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
       "keptVersion": "7.5.6.5",
-      "droppedVersion": "7.5.6.4"
+      "droppedVersion": "7.5.6.5"
     },
     {
       "internalName": "Brio",
@@ -2656,7 +2656,7 @@
       "kept": "Penumbra",
       "dropped": "bees-repo",
       "keptVersion": "1.7.2.0",
-      "droppedVersion": "1.7.1.3"
+      "droppedVersion": "1.7.2.0"
     },
     {
       "internalName": "Saucy",
@@ -2712,7 +2712,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "1.15.4.3",
-      "droppedVersion": "1.15.4.2"
+      "droppedVersion": "1.15.4.3"
     },
     {
       "internalName": "Brio",
@@ -3625,6 +3625,20 @@
       "droppedVersion": "1.6.4.4"
     },
     {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.0.98",
+      "droppedVersion": "6.0.0.98"
+    },
+    {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
+    },
+    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3639,39 +3653,11 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
-    },
-    {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.98",
-      "droppedVersion": "6.0.0.98"
-    },
-    {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.4.3",
-      "droppedVersion": "1.15.4.3"
-    },
-    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
-    },
-    {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.2.4",
-      "droppedVersion": "15.756.2.4"
     },
     {
       "internalName": "AutoRetainer",
@@ -3681,6 +3667,20 @@
       "droppedVersion": "4.6.1.34"
     },
     {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.4.3",
+      "droppedVersion": "1.15.4.3"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.2.4",
+      "droppedVersion": "15.756.2.4"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "1.0.4.23"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.2",
-      "droppedVersion": "2.1.2.2"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.19",
       "droppedVersion": "4.0.5.19"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.2",
+      "droppedVersion": "2.1.2.2"
     },
     {
       "internalName": "XIVComboExpanded",

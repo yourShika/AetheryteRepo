@@ -1,7 +1,7 @@
 {
   "sourceId": "karlin-z-dalamudplugins",
   "url": "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-09-12",
   "count": 3,
   "plugins": [
     {
@@ -36,7 +36,7 @@
       "Author": "Karlin",
       "Name": "KodakkuAssist",
       "InternalName": "KodakkuAssist",
-      "AssemblyVersion": "0.5.1.54",
+      "AssemblyVersion": "0.5.2.0",
       "Description": "A toy.",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
