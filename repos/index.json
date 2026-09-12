@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-12T15:31:06.505Z",
-  "contentHash": "8845e7afd3feb15e",
+  "generatedAt": "2026-09-12T20:32:48.295Z",
+  "contentHash": "8469d81c93455e41",
   "totalPlugins": 590,
   "masterPlugins": 584,
   "currentApiLevel": 15,
@@ -2439,7 +2439,7 @@
       "kept": "Glamourer",
       "dropped": "Sea of Stars",
       "keptVersion": "1.7.1.3",
-      "droppedVersion": "1.7.1.2"
+      "droppedVersion": "1.7.1.3"
     },
     {
       "internalName": "DynamicBridge",
@@ -2593,7 +2593,7 @@
       "kept": "Glamourer",
       "dropped": "bees-repo",
       "keptVersion": "1.7.1.3",
-      "droppedVersion": "1.7.1.2"
+      "droppedVersion": "1.7.1.3"
     },
     {
       "internalName": "HaselDebug",
@@ -2830,7 +2830,7 @@
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "2.2.0.12",
+      "keptVersion": "2.2.0.13",
       "droppedVersion": "2.0.0.0"
     },
     {
@@ -3244,7 +3244,7 @@
       "kept": "Glamourer",
       "dropped": "eScape",
       "keptVersion": "1.7.1.3",
-      "droppedVersion": "1.7.1.2"
+      "droppedVersion": "1.7.1.3"
     },
     {
       "internalName": "SimpleHeels",
@@ -3614,8 +3614,8 @@
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.12",
-      "droppedVersion": "2.2.0.12"
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
     },
     {
       "internalName": "PandorasBox",
@@ -3632,6 +3632,13 @@
       "droppedVersion": "5.3.3.3"
     },
     {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
+    },
+    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3639,11 +3646,11 @@
       "droppedVersion": "6.0.0.98"
     },
     {
-      "internalName": "PalacePal",
+      "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
+      "keptVersion": "4.6.1.34",
+      "droppedVersion": "4.6.1.34"
     },
     {
       "internalName": "YesAlready",
@@ -3658,13 +3665,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "15.756.2.5",
       "droppedVersion": "15.756.2.5"
-    },
-    {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.34",
-      "droppedVersion": "4.6.1.34"
     },
     {
       "internalName": "Marketbuddy",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.2",
-      "droppedVersion": "2.1.2.2"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.19",
       "droppedVersion": "4.0.5.19"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.2",
+      "droppedVersion": "2.1.2.2"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3985,7 +3985,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.6.4",
+      "keptVersion": "7.5.6.5",
       "droppedVersion": "7.5.6.4"
     },
     {
@@ -4489,7 +4489,7 @@
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.2.0.12",
+      "keptVersion": "2.2.0.13",
       "droppedVersion": "2.2.0.12"
     },
     {
@@ -4832,7 +4832,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.6.4",
+      "keptVersion": "7.5.6.5",
       "droppedVersion": "7.5.6.4"
     },
     {
@@ -5127,7 +5127,7 @@
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.6.5",
-      "droppedVersion": "7.5.6.3"
+      "droppedVersion": "7.5.6.5"
     },
     {
       "internalName": "BossModReborn",
@@ -5371,7 +5371,7 @@
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "2.2.0.12",
+      "keptVersion": "2.2.0.13",
       "droppedVersion": "2.1.0.8"
     },
     {
@@ -5679,7 +5679,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.6.4",
+      "keptVersion": "7.5.6.5",
       "droppedVersion": "7.1.5.38"
     },
     {
@@ -6477,7 +6477,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.6.4",
+      "keptVersion": "7.5.6.5",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -6603,7 +6603,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "7.5.6.4",
+      "keptVersion": "7.5.6.5",
       "droppedVersion": "7.2.5.122"
     },
     {
@@ -6799,7 +6799,7 @@
       "internalName": "MiniGamesEmporium",
       "kept": "OOF Games",
       "dropped": "OOFGamesss / OOFGamesPlugins",
-      "keptVersion": "0.0.15.0",
+      "keptVersion": "0.0.16.2",
       "droppedVersion": "0.0.10.1"
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "kararemy-tomokplugins",
   "url": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-09-11",
+  "fetchedAt": "2026-09-12",
   "count": 6,
   "plugins": [
     {
@@ -34,7 +34,7 @@
       "Author": "Tomok",
       "Name": "Penumbra Preview Manager",
       "InternalName": "PenumbraPreviewManager",
-      "AssemblyVersion": "1.2.1.5",
+      "AssemblyVersion": "1.2.2.0",
       "Description": "A helper tool to easily attach local, XIVModArchive, or direct URL preview/cover images to your Penumbra mods.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/KaraRemy/PenumbraPreviewManager",
