@@ -1,14 +1,14 @@
 {
   "sourceId": "legendsofthegame-timememoriav3",
   "url": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json",
-  "fetchedAt": "2026-09-10",
+  "fetchedAt": "2026-09-13",
   "count": 1,
   "plugins": [
     {
       "Author": "Legends of the Game",
       "Name": "Time Memoria",
       "InternalName": "TimeMemoriaV3",
-      "AssemblyVersion": "3.6.0.15",
+      "AssemblyVersion": "3.7.0.15",
       "Description": "Quest progression and pacing — a reflective notebook for your story journey, not a scoreboard.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/LegendsOfTheGame/TimeMemoriaV3",
@@ -36,7 +36,7 @@
       "DownloadLinkTesting": "https://github.com/LegendsOfTheGame/TimeMemoriaV3/releases/latest/download/latest.zip",
       "IconUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/assets/icon.png",
       "DownloadCount": 0,
-      "Changelog": "New: /tm <expansion> (arr, hw, sb/stb, shb, ew, dt, ec) opens a list of every unfinished quest in that expansion at once, instead of browsing one category at a time.\n- Shows a message instead of a blank list when there's nothing left: congratulations if it's done, or a note that the expansion hasn't released yet.\nFixed: Patch 7.5's Main Scenario finish line now points to the quest 7.56 actually continued the story to (Windborne), not the placeholder set before 7.56 shipped.",
+      "Changelog": "The Quests panel now lists every expansion's unfinished quests in one place, alongside the command that opens each.",
       "_SourceId": "legendsofthegame-timememoriav3",
       "_SourceName": "LegendsOfTheGame / TimeMemoriaV3",
       "_SourceUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json"
