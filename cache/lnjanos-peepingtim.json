@@ -1,7 +1,7 @@
 {
   "sourceId": "lnjanos-peepingtim",
   "url": "https://raw.githubusercontent.com/lnjanos/peepingtim/refs/heads/master/SamplePlugin/yuck.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-09-14",
   "count": 5,
   "plugins": [
     {
@@ -107,7 +107,7 @@
         "music import"
       ],
       "InternalName": "Soundy",
-      "AssemblyVersion": "2.4.0.0",
+      "AssemblyVersion": "2.5.0.0",
       "TestingAssemblyVersion": "2.5.0.0",
       "RepoUrl": "https://github.com/lnjanos",
       "ApplicableVersion": "any",
@@ -117,8 +117,8 @@
       "IsTestingExclusive": false,
       "DownloadCount": 2314,
       "LastUpdate": 1783196886,
-      "DownloadLinkInstall": "https://github.com/lnjanos/yueImport/releases/download/release/soundy_2.4.0.0.zip",
-      "DownloadLinkUpdate": "https://github.com/lnjanos/yueImport/releases/download/release/soundy_2.4.0.0.zip",
+      "DownloadLinkInstall": "https://github.com/lnjanos/yueImport/releases/download/release/soundy_2.5.0.0.zip",
+      "DownloadLinkUpdate": "https://github.com/lnjanos/yueImport/releases/download/release/soundy_2.5.0.0.zip",
       "DownloadLinkTesting": "https://github.com/lnjanos/yueImport/releases/download/release/soundy_2.5.0.0.zip",
       "Changelog": "SoundyQ beta update: music-bot style queue modes, per-player request permissions, auto-approve support, improved pre-queue metadata/actions, clearer approved queue controls, duplicate location messages, and automatic self-redraw after Penumbra track switches.",
       "IconUrl": "https://raw.githubusercontent.com/lnjanos/yueImport/refs/heads/master/7onk2b.png",
@@ -140,7 +140,7 @@
         "emotes"
       ],
       "InternalName": "Dancy",
-      "AssemblyVersion": "0.2.0.0",
+      "AssemblyVersion": "0.3.0.0",
       "TestingAssemblyVersion": "0.3.0.0",
       "RepoUrl": "https://github.com/lnjanos/Dancy",
       "ApplicableVersion": "any",
@@ -150,8 +150,8 @@
       "IsTestingExclusive": false,
       "DownloadCount": 1521,
       "LastUpdate": 1733780713,
-      "DownloadLinkInstall": "https://github.com/lnjanos/Dancy/releases/download/release/0.2.0.0.zip",
-      "DownloadLinkUpdate": "https://github.com/lnjanos/Dancy/releases/download/release/0.2.0.0.zip",
+      "DownloadLinkInstall": "https://github.com/lnjanos/Dancy/releases/download/release/0.3.0.0.zip",
+      "DownloadLinkUpdate": "https://github.com/lnjanos/Dancy/releases/download/release/0.3.0.0.zip",
       "DownloadLinkTesting": "https://github.com/lnjanos/Dancy/releases/download/release/0.3.0.0.zip",
       "IconUrl": "https://raw.githubusercontent.com/lnjanos/Dancy/refs/heads/master/dancy.png",
       "_SourceId": "lnjanos-peepingtim",
