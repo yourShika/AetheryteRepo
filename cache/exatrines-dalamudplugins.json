@@ -1,7 +1,7 @@
 {
   "sourceId": "exatrines-dalamudplugins",
   "url": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-09-11",
+  "fetchedAt": "2026-09-14",
   "count": 7,
   "plugins": [
     {
@@ -25,7 +25,7 @@
       ],
       "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/latest/download/Oracle.zip",
       "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/latest/download/Oracle.zip",
-      "DownloadCount": 706,
+      "DownloadCount": 770,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",
@@ -53,7 +53,7 @@
       ],
       "DownloadLinkInstall": "https://github.com/exatrines/SlideGuide/releases/latest/download/SlideGuide.zip",
       "DownloadLinkUpdate": "https://github.com/exatrines/SlideGuide/releases/latest/download/SlideGuide.zip",
-      "DownloadCount": 25,
+      "DownloadCount": 32,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",
@@ -70,7 +70,7 @@
       "ImageUrls": [
         "https://raw.githubusercontent.com/exatrines/EnhancedQuickPanel/master/docs/screenshots/en/overlay.png"
       ],
-      "AssemblyVersion": "1.0.0.0",
+      "AssemblyVersion": "1.0.1.0",
       "RepoUrl": "https://github.com/exatrines/EnhancedQuickPanel",
       "DownloadLinkInstall": "https://github.com/exatrines/EnhancedQuickPanel/releases/latest/download/EnhancedQuickPanel.zip",
       "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedQuickPanel/releases/latest/download/EnhancedQuickPanel.zip",
@@ -81,7 +81,7 @@
         "commandpanel",
         "ui"
       ],
-      "DownloadCount": 89,
+      "DownloadCount": 143,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",
@@ -111,7 +111,7 @@
       ],
       "DownloadLinkInstall": "https://github.com/exatrines/Veilay/releases/latest/download/Veilay.zip",
       "DownloadLinkUpdate": "https://github.com/exatrines/Veilay/releases/latest/download/Veilay.zip",
-      "DownloadCount": 23,
+      "DownloadCount": 24,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",
@@ -166,7 +166,7 @@
       ],
       "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/AutoFrontlineIcon.png",
       "ImageUrl": "",
-      "DownloadCount": 1062,
+      "DownloadCount": 1075,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",
@@ -192,7 +192,7 @@
       ],
       "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/DTROverlayIcon.png",
       "ImageUrl": "",
-      "DownloadCount": 153,
+      "DownloadCount": 156,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",

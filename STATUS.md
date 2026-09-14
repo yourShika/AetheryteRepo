@@ -1,6 +1,6 @@
 # Status
 
-Zuletzt aktualisiert: **2026-09-14 04:55 UTC**
+Zuletzt aktualisiert: **2026-09-14 12:45 UTC**
 
 - Plugins im Master-Feed: **585**
 - Plugins insgesamt (inkl. 18+): **591**
@@ -495,15 +495,15 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | Marketbuddy `0.2.4.1` |
 | `StartupCommands` | Maxunit / MyDalamudPlugins `1.3.0.1` | DalamudRepoCollection `1.1.0.2` |
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
-| `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.13` | MEGA Repository `2.2.0.13` |
+| `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
-| `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
 | `AutoHook` | Puni.sh (Ment) `6.0.0.98` | MEGA Repository `6.0.0.98` |
-| `Questionable` | Puni.sh (Ment) `15.756.2.9` | MEGA Repository `15.756.2.9` |
+| `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
 | `YesAlready` | Puni.sh (Ment) `1.15.4.3` | MEGA Repository `1.15.4.3` |
-| `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | MEGA Repository `4.6.1.34` |
+| `Questionable` | Puni.sh (Ment) `15.756.2.9` | MEGA Repository `15.756.2.9` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
+| `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | MEGA Repository `4.6.1.34` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.25` | MEGA Repository `1.0.4.25` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.25` | MEGA Repository `3.9.2.25` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.2` | MEGA Repository `2.1.2.2` |
@@ -549,7 +549,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `vnavmesh` | Veyn (BossMod) `1.2.3.14` | MEGA Repository `1.2.3.14` |
 | `MBT` | Herculezz's Repo `0.0.0.16` | MEGA Repository `0.0.0.16` |
 | `RotationSolver` | CombatReborn `7.5.6.8` | MEGA Repository `7.5.6.8` |
-| `BossModReborn` | CombatReborn `7.5.6.6` | MEGA Repository `7.5.6.5` |
+| `BossModReborn` | CombatReborn `7.5.6.6` | MEGA Repository `7.5.6.6` |
 | `ActionTimelineReborn` | CombatReborn `7.5.5.1` | MEGA Repository `7.5.5.1` |
 | `EasyZoomReborn` | CombatReborn `7.5.0.3` | MEGA Repository `7.5.0.3` |
 | `GatherBuddyReborn` | CombatReborn `7.5.5.3` | MEGA Repository `7.5.5.3` |
@@ -559,7 +559,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `NoSillyReborn` | CombatReborn `7.5.5.0` | MEGA Repository `7.5.5.0` |
 | `Understudy` | CombatReborn `1.0.0.8` | MEGA Repository `1.0.0.8` |
 | `SomethingNeedDoing` | Croizat's Repo `15.9` | MEGA Repository `15.9` |
-| `Automaton` | Croizat's Repo `69.215` | MEGA Repository `69.215` |
+| `Automaton` | Croizat's Repo `69.216` | MEGA Repository `69.216` |
 | `GlamourLog` | Croizat's Repo `15.68` | MEGA Repository `15.68` |
 | `BattleLog` | KangasZ / DalamudPluginRepository `0.0.0.7` | MEGA Repository `0.0.0.7` |
 | `SkipCutscene` | KangasZ / DalamudPluginRepository `3.0.1.5` | MEGA Repository `3.0.1.5` |
@@ -711,7 +711,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `BOCCHI` | OhKannaDuh `4.2.0.13` | NiGuangOwO / DalamudPlugins `3.3.4.0` |
 | `BOCCHI` | OhKannaDuh `4.2.0.13` | NiGuangOwO / DalamudPlugins `0.69.1.12` |
 | `BOCCHI` | OhKannaDuh `4.2.0.13` | NiGuangOwO / DalamudPlugins `2.1.1.4` |
-| `BossModReborn` | CombatReborn `7.5.6.6` | NiGuangOwO / DalamudPlugins `7.5.6.5` |
+| `BossModReborn` | CombatReborn `7.5.6.6` | NiGuangOwO / DalamudPlugins `7.5.6.6` |
 | `BossModReborn` | CombatReborn `7.5.6.6` | NiGuangOwO / DalamudPlugins `7.3.5.27` |
 | `BossModReborn` | CombatReborn `7.5.6.6` | NiGuangOwO / DalamudPlugins `7.4.5.18` |
 | `FuckAnimationLock` | NiGuangOwO / DalamudPlugins `3.0.17.1` | NiGuangOwO / DalamudPlugins `3.0.12.4` |
@@ -752,7 +752,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `BossModReborn` | CombatReborn `7.5.6.6` | nite-cat / the-giga-repo `7.2.0.261` |
 | `Brio` | Sea of Stars `0.8.0.11` | nite-cat / the-giga-repo `0.4.3.1` |
 | `Cammy` | bees-repo `2.1.1.2` | nite-cat / the-giga-repo `2.1.0.10` |
-| `Automaton` | Croizat's Repo `69.215` | nite-cat / the-giga-repo `69.55` |
+| `Automaton` | Croizat's Repo `69.216` | nite-cat / the-giga-repo `69.55` |
 | `CustomizePlus` | Sea of Stars `2.2.1.3` | nite-cat / the-giga-repo `2.0.7.12` |
 | `DalamudRepoBrowser` | MEGA Repository `2.0.3.3` | nite-cat / the-giga-repo `2.0.3.3` |
 | `ARDiscard` | a1hena/PluginRepository `8.3` | nite-cat / the-giga-repo `7.0` |
