@@ -25,7 +25,7 @@
       ],
       "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.2.1/Oracle.zip",
       "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.2.1/Oracle.zip",
-      "DownloadCount": 777,
+      "DownloadCount": 812,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",
@@ -53,7 +53,7 @@
       ],
       "DownloadLinkInstall": "https://github.com/exatrines/SlideGuide/releases/latest/download/SlideGuide.zip",
       "DownloadLinkUpdate": "https://github.com/exatrines/SlideGuide/releases/latest/download/SlideGuide.zip",
-      "DownloadCount": 35,
+      "DownloadCount": 36,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",
@@ -70,10 +70,10 @@
       "ImageUrls": [
         "https://raw.githubusercontent.com/exatrines/EnhancedQuickPanel/master/docs/screenshots/en/overlay.png"
       ],
-      "AssemblyVersion": "1.0.1.0",
+      "AssemblyVersion": "1.0.4.0",
       "RepoUrl": "https://github.com/exatrines/EnhancedQuickPanel",
-      "DownloadLinkInstall": "https://github.com/exatrines/EnhancedQuickPanel/releases/latest/download/EnhancedQuickPanel.zip",
-      "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedQuickPanel/releases/latest/download/EnhancedQuickPanel.zip",
+      "DownloadLinkInstall": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.4.0/EnhancedQuickPanel.zip",
+      "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.4.0/EnhancedQuickPanel.zip",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "Tags": [
@@ -81,7 +81,7 @@
         "commandpanel",
         "ui"
       ],
-      "DownloadCount": 160,
+      "DownloadCount": 183,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",

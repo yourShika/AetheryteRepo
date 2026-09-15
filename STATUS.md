@@ -1,6 +1,6 @@
 # Status
 
-Zuletzt aktualisiert: **2026-09-15 04:53 UTC**
+Zuletzt aktualisiert: **2026-09-15 11:43 UTC**
 
 - Plugins im Master-Feed: **585**
 - Plugins insgesamt (inkl. 18+): **591**
@@ -333,8 +333,8 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `BossModReborn` | CombatReborn `7.5.6.8` | 44451516-ff14 / BossmodRebornCN `7.5.5.71` |
 | `CustomizePlus` | Sea of Stars `2.2.1.3` | Aether Tools `2.2.1.3` |
 | `Armoire` | Armoire `0.1.1.3` | ElfShelf `0.0.171` |
-| `DailyRoutines` | AtmoOmen / DalamudPlugins `2.1.9.1` | AtmoOmen / DalamudPlugins `2.0.4.4` |
-| `DailyRoutines` | AtmoOmen / DalamudPlugins `2.1.9.1` | AtmoOmen / DalamudPlugins `1.9.3.3` |
+| `DailyRoutines` | AtmoOmen / DalamudPlugins `2.1.9.2` | AtmoOmen / DalamudPlugins `2.0.4.4` |
+| `DailyRoutines` | AtmoOmen / DalamudPlugins `2.1.9.2` | AtmoOmen / DalamudPlugins `1.9.3.3` |
 | `vnavmesh` | Veyn (BossMod) `1.2.3.14` | AtmoOmen / DalamudPlugins `0.8.2.0` |
 | `GatherBuddyReborn` | CombatReborn `7.5.5.3` | AtmoOmen / DalamudPlugins `7.5.0.4` |
 | `BossMod` | Veyn (BossMod) `7.5.6.5` | awgil plugin distribution `0.0.0.122` |
@@ -497,17 +497,17 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.13` | MEGA Repository `2.2.0.13` |
-| `AutoHook` | Puni.sh (Ment) `6.0.0.98` | MEGA Repository `6.0.0.98` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
+| `AutoHook` | Puni.sh (Ment) `6.0.0.98` | MEGA Repository `6.0.0.98` |
 | `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
-| `YesAlready` | Puni.sh (Ment) `1.15.4.3` | MEGA Repository `1.15.4.3` |
-| `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
 | `Questionable` | Puni.sh (Ment) `15.756.2.17` | MEGA Repository `15.756.2.17` |
+| `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
+| `YesAlready` | Puni.sh (Ment) `1.15.4.3` | MEGA Repository `1.15.4.3` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | MEGA Repository `4.6.1.34` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.25` | MEGA Repository `1.0.4.25` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.25` | MEGA Repository `3.9.2.25` |
-| `Saucy` | Puni.sh (Ment) `2.1.2.2` | MEGA Repository `2.1.2.2` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.20` | MEGA Repository `4.0.5.20` |
+| `Saucy` | Puni.sh (Ment) `2.1.2.2` | MEGA Repository `2.1.2.2` |
 | `XIVComboExpanded` | daemitus MyDalamudPlugins `2.0.6.3` | MEGA Repository `2.0.6.3` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | MEGA Repository `1.3.1.4` |
 | `AutoPillion` | Aida-Enna XIVPlugins `1.0.0.5` | MEGA Repository `1.0.0.5` |
