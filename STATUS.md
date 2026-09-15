@@ -1,6 +1,6 @@
 # Status
 
-Zuletzt aktualisiert: **2026-09-15 16:58 UTC**
+Zuletzt aktualisiert: **2026-09-15 21:20 UTC**
 
 - Plugins im Master-Feed: **585**
 - Plugins insgesamt (inkl. 18+): **591**
@@ -273,7 +273,7 @@ Zuletzt aktualisiert: **2026-09-15 16:58 UTC**
 | ✅ | [KirisameVanilla / Radar](https://kirisamevanilla.github.io/ffxiv/dalamudrepo.json) | 7 | ok |
 | ✅ | [Laboon2501 / DalamudPlugins](https://raw.githubusercontent.com/Laboon2501/DalamudPlugins/main/repo.json) | 3 | ok |
 | ✅ | [Lzsony / dalamud-plugins-tw](https://raw.githubusercontent.com/Lzsony/dalamud-plugins-tw/main/repo.json) | 9 | ok |
-| ✅ | [McVaxius / TheDumpsterFire](https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json) | 23 | ok |
+| ✅ | [McVaxius / TheDumpsterFire](https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json) | 18 | ok |
 | ✅ | [monnef / dalamud-plugin-repo](https://gitlab.com/monnef/dalamud-plugin-repo/-/raw/master/master.json) | 3 | ok |
 | ✅ | [NaokiEgusa / NaokiEgusaPlugins](https://raw.githubusercontent.com/NaokiEgusa/NaokiEgusaPlugins/main/pluginmaster.json) | 3 | ok |
 | ✅ | [nihil-string / puppys-plugins](https://raw.githubusercontent.com/nihil-string/puppys-plugins/main/pluginmaster.json) | 7 | ok |
@@ -366,7 +366,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `visland` | Veyn (BossMod) `0.0.0.150` | bees-repo `0.0.0.150` |
 | `vnavmesh` | Veyn (BossMod) `1.2.3.14` | bees-repo `1.2.3.14` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.25` | bees-repo `1.0.4.25` |
-| `YesAlready` | Puni.sh (Ment) `1.15.5.0` | bees-repo `1.15.4.3` |
+| `YesAlready` | Puni.sh (Ment) `1.15.5.0` | bees-repo `1.15.5.0` |
 | `Brio` | Sea of Stars `0.8.0.11` | Brio `0.8.0.11` |
 | `Brio` | Sea of Stars `0.8.0.11` | Brio `0.2.1.9` |
 | `JobBars` | a1hena/PluginRepository `1.3.2.0` | Caraxi / DalamudPlugins `1.2.2.1` |
@@ -495,15 +495,15 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | Marketbuddy `0.2.4.1` |
 | `StartupCommands` | Maxunit / MyDalamudPlugins `1.3.0.1` | DalamudRepoCollection `1.1.0.2` |
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
-| `Avarice` | Puni.sh (Ment) `2.2.0.13` | MEGA Repository `2.2.0.13` |
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
+| `Avarice` | Puni.sh (Ment) `2.2.0.13` | MEGA Repository `2.2.0.13` |
+| `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
 | `AutoHook` | Puni.sh (Ment) `6.0.0.98` | MEGA Repository `6.0.0.98` |
-| `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
-| `Questionable` | Puni.sh (Ment) `15.756.2.17` | MEGA Repository `15.756.2.17` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | MEGA Repository `4.6.1.34` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
-| `YesAlready` | Puni.sh (Ment) `1.15.5.0` | MEGA Repository `1.15.4.3` |
+| `Questionable` | Puni.sh (Ment) `15.756.2.17` | MEGA Repository `15.756.2.17` |
+| `YesAlready` | Puni.sh (Ment) `1.15.5.0` | MEGA Repository `1.15.5.0` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.25` | MEGA Repository `1.0.4.25` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.25` | MEGA Repository `3.9.2.25` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.20` | MEGA Repository `4.0.5.20` |
@@ -549,7 +549,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `vnavmesh` | Veyn (BossMod) `1.2.3.14` | MEGA Repository `1.2.3.14` |
 | `MBT` | Herculezz's Repo `0.0.0.16` | MEGA Repository `0.0.0.16` |
 | `RotationSolver` | CombatReborn `7.5.6.8` | MEGA Repository `7.5.6.8` |
-| `BossModReborn` | CombatReborn `7.5.6.9` | MEGA Repository `7.5.6.8` |
+| `BossModReborn` | CombatReborn `7.5.6.9` | MEGA Repository `7.5.6.9` |
 | `ActionTimelineReborn` | CombatReborn `7.5.5.1` | MEGA Repository `7.5.5.1` |
 | `EasyZoomReborn` | CombatReborn `7.5.0.3` | MEGA Repository `7.5.0.3` |
 | `GatherBuddyReborn` | CombatReborn `7.5.5.3` | MEGA Repository `7.5.5.3` |
@@ -585,7 +585,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Moodles` | Sea of Stars `1.1.3.5` | MEGA Repository `1.1.3.5` |
 | `MakePlacePlugin` | MakePlace Plugin `3.7.3` | MEGA Repository `3.7.3` |
 | `BardToolbox` | BardToolbox / BardToolbox-Release `2.2.7.0` | MEGA Repository `2.2.7.0` |
-| `ProjectGagSpeak` | bees-repo `2.2.1.1` | MEGA Repository `2.2.1.1` |
+| `ProjectGagSpeak` | MEGA Repository `2.2.2.1` | bees-repo `2.2.1.1` |
 | `PuppetMaster` | MEGA Repository `7.5.5.4` | DalamudRepoCollection `0.1.6.7` |
 | `Copycat` | MEGA Repository `7.5.0.0` | DalamudRepoCollection `6.2.51.0` |
 | `XIVComboVX` | MEGA Repository `9.35.3` | DalamudRepoCollection `7.0.8381.8868` |
@@ -827,7 +827,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `BetterFateList` | MEGA Repository `1.2.0` | PrincessRTFM / MyDalamudPlugins `1.2.0` |
 | `TinyCmds` | MEGA Repository `8.10.4` | PrincessRTFM / MyDalamudPlugins `8.10.4` |
 | `WoLua` | MEGA Repository `4.3.4` | PrincessRTFM / MyDalamudPlugins `4.3.4` |
-| `ProjectGagSpeak` | bees-repo `2.2.1.1` | Project GagSpeak `2.2.1.1` |
+| `ProjectGagSpeak` | MEGA Repository `2.2.2.1` | Project GagSpeak `2.2.2.1` |
 | `PuppetMaster` | MEGA Repository `7.5.5.4` | PuppetMaster `7.5.5.4` |
 | `Copycat` | MEGA Repository `7.5.0.0` | PuppetMaster `7.5.0.0` |
 | `StartupCommands` | Maxunit / MyDalamudPlugins `1.3.0.1` | SaltyCog DalamudPlugins `1.2.1.1` |
@@ -974,11 +974,6 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Glamourer` | Glamourer `1.7.1.3` | wasdcxz / DalamudPlugins `1.6.1.7` |
 | `Influx` | MEGA Repository `4.2` | WigglyCorp / DalamudPlugins `7.5.4` |
 | `Questionable` | Puni.sh (Ment) `15.756.2.17` | WigglyCorp / DalamudPlugins `99.0.0.0` |
-| `AethertekPluginManager` | xa-io / MyDalamudPlugins `0.0.0.2` | McVaxius / TheDumpsterFire `0.0.0.1` |
-| `XADatabase` | McVaxius / TheDumpsterFire `0.0.0.41` | xa-io / MyDalamudPlugins `0.0.0.41` |
-| `XASlave` | McVaxius / TheDumpsterFire `0.0.0.45` | xa-io / MyDalamudPlugins `0.0.0.45` |
-| `XAHudNavigator` | McVaxius / TheDumpsterFire `0.0.0.9` | xa-io / MyDalamudPlugins `0.0.0.9` |
-| `XAZod` | xa-io / MyDalamudPlugins `0.0.0.2` | McVaxius / TheDumpsterFire `0.0.0.1` |
 | `ICE` | ICE (Island Sanctuary) `1.0.0.2` | xivhub / pluginmaster `1.0.0.7` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.20` | xivhub / pluginmaster `4.0.5.34` |
 | `MasterOfPuppets` | pffxivtools / ffxiv-bard-plugins-linux `1.15.0.234` | zunetrix / DalamudPlugins `1.15.0.234` |

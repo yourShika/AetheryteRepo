@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-09-13",
+  "fetchedAt": "2026-09-15",
   "count": 51,
   "plugins": [
     {
@@ -1549,10 +1549,10 @@
       "InternalName": "YesAlready",
       "RepoUrl": "https://github.com/PunishXIV/YesAlready",
       "DownloadCount": 69696969,
-      "LastUpdate": 1789167096,
+      "LastUpdate": 1789488007,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/YesAlready.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/YesAlready.zip",
-      "AssemblyVersion": "1.15.4.3",
+      "AssemblyVersion": "1.15.5.0",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "Changelog": "",
