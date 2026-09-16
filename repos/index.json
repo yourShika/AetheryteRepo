@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-16T04:48:21.695Z",
-  "contentHash": "7169fee821fb7d96",
+  "generatedAt": "2026-09-16T11:32:10.821Z",
+  "contentHash": "fc3430fe87797e70",
   "totalPlugins": 590,
   "masterPlugins": 584,
   "currentApiLevel": 15,
@@ -2522,7 +2522,7 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "awgil plugin distribution",
-      "keptVersion": "0.0.0.150",
+      "keptVersion": "0.0.0.151",
       "droppedVersion": "0.0.0.16"
     },
     {
@@ -2550,7 +2550,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "6.0.0.98",
+      "keptVersion": "6.0.0.99",
       "droppedVersion": "6.0.0.98"
     },
     {
@@ -2690,7 +2690,7 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.150",
+      "keptVersion": "0.0.0.151",
       "droppedVersion": "0.0.0.150"
     },
     {
@@ -2816,7 +2816,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "6.0.0.98",
+      "keptVersion": "6.0.0.99",
       "droppedVersion": "2.3.0.3"
     },
     {
@@ -3271,7 +3271,7 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.150",
+      "keptVersion": "0.0.0.151",
       "droppedVersion": "0.0.0.150"
     },
     {
@@ -3563,9 +3563,9 @@
     },
     {
       "internalName": "Loci",
-      "kept": "bees-repo",
-      "dropped": "Loci",
-      "keptVersion": "0.1.3.6",
+      "kept": "Loci",
+      "dropped": "bees-repo",
+      "keptVersion": "0.1.3.8",
       "droppedVersion": "0.1.3.6"
     },
     {
@@ -3625,11 +3625,11 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.98",
-      "droppedVersion": "6.0.0.98"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "PalacePal",
@@ -3639,25 +3639,18 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "6.0.0.99",
+      "droppedVersion": "6.0.0.98"
     },
     {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.34",
-      "droppedVersion": "4.6.1.34"
-    },
-    {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.2",
-      "droppedVersion": "15.756.2.17"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "YesAlready",
@@ -3667,11 +3660,18 @@
       "droppedVersion": "1.15.5.0"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "15.756.3.3",
+      "droppedVersion": "15.756.3.3"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.1.34",
+      "droppedVersion": "4.6.1.34"
     },
     {
       "internalName": "WrathCombo",
@@ -3943,7 +3943,7 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.150",
+      "keptVersion": "0.0.0.151",
       "droppedVersion": "0.0.0.150"
     },
     {
@@ -4468,7 +4468,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "6.0.0.98",
+      "keptVersion": "6.0.0.99",
       "droppedVersion": "6.0.0.98"
     },
     {
@@ -4797,7 +4797,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.756.3.2",
+      "keptVersion": "15.756.3.3",
       "droppedVersion": "15.756.3.2"
     },
     {
@@ -4930,7 +4930,7 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "0.0.0.150",
+      "keptVersion": "0.0.0.151",
       "droppedVersion": "0.0.0.150"
     },
     {
@@ -5127,7 +5127,7 @@
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.6.9",
-      "droppedVersion": "7.5.6.8"
+      "droppedVersion": "7.5.6.9"
     },
     {
       "internalName": "BossModReborn",
@@ -5357,7 +5357,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "6.0.0.98",
+      "keptVersion": "6.0.0.99",
       "droppedVersion": "4.3.1.10"
     },
     {
@@ -5658,7 +5658,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.756.3.2",
+      "keptVersion": "15.756.3.3",
       "droppedVersion": "4.13"
     },
     {
@@ -5763,7 +5763,7 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.150",
+      "keptVersion": "0.0.0.151",
       "droppedVersion": "0.0.0.131"
     },
     {
@@ -6246,7 +6246,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "6.0.0.98",
+      "keptVersion": "6.0.0.99",
       "droppedVersion": "6.0.0.12"
     },
     {
@@ -6505,7 +6505,7 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "Glaives-of-Eorzea / FFXIV.Plugin.Distribution",
-      "keptVersion": "0.0.0.150",
+      "keptVersion": "0.0.0.151",
       "droppedVersion": "0.0.0.143"
     },
     {
@@ -6631,7 +6631,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "6.0.0.98",
+      "keptVersion": "6.0.0.99",
       "droppedVersion": "4.3.4.1"
     },
     {
@@ -6687,7 +6687,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.756.3.2",
+      "keptVersion": "15.756.3.3",
       "droppedVersion": "5.31"
     },
     {
@@ -6715,7 +6715,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "6.0.0.98",
+      "keptVersion": "6.0.0.99",
       "droppedVersion": "6.0.0.68"
     },
     {
@@ -6764,7 +6764,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / OLDBAI",
-      "keptVersion": "6.0.0.98",
+      "keptVersion": "6.0.0.99",
       "droppedVersion": "6.0.0.46"
     },
     {
@@ -6960,7 +6960,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.756.3.2",
+      "keptVersion": "15.756.3.3",
       "droppedVersion": "99.0.0.0"
     },
     {
