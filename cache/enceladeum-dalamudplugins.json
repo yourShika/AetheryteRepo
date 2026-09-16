@@ -1,7 +1,7 @@
 {
   "sourceId": "enceladeum-dalamudplugins",
   "url": "https://raw.githubusercontent.com/Enceladeum/DalamudPlugins/main/repo.json",
-  "fetchedAt": "2026-09-11",
+  "fetchedAt": "2026-09-16",
   "count": 6,
   "plugins": [
     {
@@ -163,7 +163,7 @@
       "InternalName": "HMSync",
       "Punchline": "Explore any zone together.",
       "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
-      "Changelog": "1.0.2.0: fixes for returning to your real location when a session ends. A member who left mid-session is now returned to their true saved spot instead of at the wrong height, and ending a session from an instance, a busy area or a solo event scene now reliably rebuilds your home zone instead of stranding you on the last map. The right-click Teleport-to action now requires a loaded map or cutscene, and Debug mode gains a fuller command reference.",
+      "Changelog": "1.0.3.0: weather without loading a map. With Debug mode on and no session running, the Map Control panel now applies a weather preset, time of day, music and the light and hide-VFX toggles to the zone you are standing in, as a local-only cinematic. An optional server-info-bar readout shows the current weather (off by default; enabled from a new Config section), and the weather-preset grid can pop out into its own floating window.",
       "Tags": [
         "exploration",
         "zone",
@@ -181,7 +181,7 @@
       "IsTestingExclusive": false,
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/Enceladeum/HMapSync",
-      "AssemblyVersion": "1.0.2.0",
+      "AssemblyVersion": "1.0.3.0",
       "DalamudApiLevel": 15,
       "LoadRequiredState": 0,
       "LoadSync": false,
@@ -189,7 +189,7 @@
       "LoadPriority": 0,
       "AcceptsFeedback": true,
       "DownloadCount": 0,
-      "LastUpdate": 1789082367,
+      "LastUpdate": 1789575505,
       "DownloadLinkInstall": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
       "DownloadLinkUpdate": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
       "DownloadLinkTesting": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",

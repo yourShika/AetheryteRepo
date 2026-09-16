@@ -1,7 +1,7 @@
 {
   "sourceId": "murakumo-jp-escape",
   "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
-  "fetchedAt": "2026-09-15",
+  "fetchedAt": "2026-09-16",
   "count": 13,
   "plugins": [
     {
@@ -176,9 +176,9 @@
       ],
       "InternalName": "visland",
       "RepoUrl": "https://github.com/awgil/ffxiv_visland",
-      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.150/install/latest.zip",
-      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.150/update/latest.zip",
-      "AssemblyVersion": "0.0.0.150",
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.151/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/28/visland/versions/0.0.0.151/update/latest.zip",
+      "AssemblyVersion": "0.0.0.151",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "Changelog": "",
