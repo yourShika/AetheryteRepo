@@ -1,16 +1,16 @@
 {
   "sourceId": "shiftykiwi-kiwirichpresence",
   "url": "https://raw.githubusercontent.com/ShiftyKiwi/KiwiRichPresence/main/pluginmaster.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-09-16",
   "count": 1,
   "plugins": [
     {
       "Author": "goat, maintained by Franze, edited by ShiftyKiwi",
       "Name": "KiwiRichPresence",
       "Punchline": "Customizable Discord Rich Presence for FFXIV",
-      "Description": "Forked and expanded Discord Rich Presence for FFXIV with templates, job/context presets, custom images, privacy controls, and live preview tools.",
+      "Description": "Forked and expanded Discord Rich Presence for FFXIV with templates, job/context presets, Beastmaster support, custom images, privacy controls, and live preview tools.",
       "InternalName": "KiwiRichPresence",
-      "AssemblyVersion": "3.1.1.0",
+      "AssemblyVersion": "3.1.2.0",
       "RepoUrl": "https://github.com/ShiftyKiwi/KiwiRichPresence",
       "ApplicableVersion": "any",
       "Tags": [
@@ -22,7 +22,7 @@
       "DownloadLinkInstall": "https://github.com/ShiftyKiwi/KiwiRichPresence/releases/latest/download/KiwiRichPresence-latest.zip",
       "DownloadLinkUpdate": "https://github.com/ShiftyKiwi/KiwiRichPresence/releases/latest/download/KiwiRichPresence-latest.zip",
       "IconUrl": "https://raw.githubusercontent.com/ShiftyKiwi/KiwiRichPresence/main/KiwiRichPresence/icon.png",
-      "Changelog": "Updated for FFXIV Patch 7.5 and Dalamud API15.",
+      "Changelog": "Added Beastmaster (BST) support for FFXIV Patch 7.56.",
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "shiftykiwi-kiwirichpresence",

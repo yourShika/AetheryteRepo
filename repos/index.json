@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-16T16:54:10.899Z",
-  "contentHash": "65d28bd0ed5f03c4",
+  "generatedAt": "2026-09-16T21:17:33.461Z",
+  "contentHash": "c46acc05bc2cebdf",
   "totalPlugins": 590,
   "masterPlugins": 584,
   "currentApiLevel": 15,
@@ -2459,7 +2459,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "44451516-ff14 / BossmodRebornCN",
-      "keptVersion": "7.5.6.9",
+      "keptVersion": "7.5.6.10",
       "droppedVersion": "7.5.6.9"
     },
     {
@@ -3530,8 +3530,8 @@
       "internalName": "Ktisis",
       "kept": "Sea of Stars",
       "dropped": "Ktisis",
-      "keptVersion": "0.4.0.6",
-      "droppedVersion": "0.4.0.6"
+      "keptVersion": "0.4.1.2",
+      "droppedVersion": "0.4.1.2"
     },
     {
       "internalName": "LaciSynchroni",
@@ -3625,13 +3625,6 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3646,11 +3639,18 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "Questionable",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.4",
-      "droppedVersion": "15.756.3.3"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "AutoRetainer",
@@ -3660,11 +3660,11 @@
       "droppedVersion": "4.6.1.34"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "15.756.3.4",
+      "droppedVersion": "15.756.3.4"
     },
     {
       "internalName": "YesAlready",
@@ -3992,8 +3992,8 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.6.9",
-      "droppedVersion": "7.5.6.9"
+      "keptVersion": "7.5.6.10",
+      "droppedVersion": "7.5.6.10"
     },
     {
       "internalName": "ActionTimelineReborn",
@@ -4202,15 +4202,15 @@
       "internalName": "heliosphere-plugin",
       "kept": "Sea of Stars",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.10.3.0",
-      "droppedVersion": "4.10.3.0"
+      "keptVersion": "4.10.5.0",
+      "droppedVersion": "4.10.5.0"
     },
     {
       "internalName": "Ktisis",
       "kept": "Sea of Stars",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.4.0.6",
-      "droppedVersion": "0.4.0.6"
+      "keptVersion": "0.4.1.2",
+      "droppedVersion": "0.4.1.2"
     },
     {
       "internalName": "Brio",
@@ -4321,7 +4321,7 @@
       "internalName": "Ktisis",
       "kept": "Sea of Stars",
       "dropped": "MeowZWR / DalamudPlugin",
-      "keptVersion": "0.4.0.6",
+      "keptVersion": "0.4.1.2",
       "droppedVersion": "0.4.0.6"
     },
     {
@@ -4517,7 +4517,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.6.9",
+      "keptVersion": "7.5.6.10",
       "droppedVersion": "7.5.6.9"
     },
     {
@@ -4615,7 +4615,7 @@
       "internalName": "heliosphere-plugin",
       "kept": "Sea of Stars",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "4.10.3.0",
+      "keptVersion": "4.10.5.0",
       "droppedVersion": "4.10.3.0"
     },
     {
@@ -4643,7 +4643,7 @@
       "internalName": "Ktisis",
       "kept": "Sea of Stars",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "0.4.0.6",
+      "keptVersion": "0.4.1.2",
       "droppedVersion": "0.4.0.6"
     },
     {
@@ -5126,21 +5126,21 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.6.9",
+      "keptVersion": "7.5.6.10",
       "droppedVersion": "7.5.6.9"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.6.9",
+      "keptVersion": "7.5.6.10",
       "droppedVersion": "7.3.5.27"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.6.9",
+      "keptVersion": "7.5.6.10",
       "droppedVersion": "7.4.5.18"
     },
     {
@@ -5392,7 +5392,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.6.9",
+      "keptVersion": "7.5.6.10",
       "droppedVersion": "7.2.0.261"
     },
     {
@@ -6386,7 +6386,7 @@
       "internalName": "Ktisis",
       "kept": "Sea of Stars",
       "dropped": "cycleapple / DalamudPlugins-TW",
-      "keptVersion": "0.4.0.6",
+      "keptVersion": "0.4.1.2",
       "droppedVersion": "0.3.14.5"
     },
     {
@@ -6456,7 +6456,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "dal4kr / Dalamud.Resources",
-      "keptVersion": "7.5.6.9",
+      "keptVersion": "7.5.6.10",
       "droppedVersion": "7.4.5.14"
     },
     {
@@ -6484,7 +6484,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.6.9",
+      "keptVersion": "7.5.6.10",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -6666,7 +6666,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "7.5.6.9",
+      "keptVersion": "7.5.6.10",
       "droppedVersion": "0.0.0.9"
     },
     {
@@ -6722,7 +6722,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "7.5.6.9",
+      "keptVersion": "7.5.6.10",
       "droppedVersion": "7.5.1.23"
     },
     {
