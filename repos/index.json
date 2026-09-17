@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T11:40:34.613Z",
-  "contentHash": "5767a03c70cdb685",
+  "generatedAt": "2026-09-17T16:59:04.433Z",
+  "contentHash": "5dfe283c6b529648",
   "totalPlugins": 594,
   "masterPlugins": 588,
   "currentApiLevel": 15,
@@ -2711,7 +2711,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "1.15.5.0",
+      "keptVersion": "1.15.5.1",
       "droppedVersion": "1.15.5.0"
     },
     {
@@ -3187,7 +3187,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "1.15.5.0",
+      "keptVersion": "1.15.5.1",
       "droppedVersion": "1.2.2.3"
     },
     {
@@ -3360,16 +3360,16 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "bees-repo",
-      "dropped": "Haselnussbomber",
-      "keptVersion": "1.74.0.0",
+      "kept": "Haselnussbomber",
+      "dropped": "bees-repo",
+      "keptVersion": "1.75.0.0",
       "droppedVersion": "1.74.0.0"
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "bees-repo",
-      "dropped": "Haselnussbomber",
-      "keptVersion": "50.0.1.0",
+      "kept": "Haselnussbomber",
+      "dropped": "bees-repo",
+      "keptVersion": "50.0.2.0",
       "droppedVersion": "50.0.1.0"
     },
     {
@@ -3451,9 +3451,9 @@
     },
     {
       "internalName": "IINACT",
-      "kept": "bees-repo",
-      "dropped": "IINACT",
-      "keptVersion": "2.10.3.7",
+      "kept": "IINACT",
+      "dropped": "bees-repo",
+      "keptVersion": "2.10.3.8",
       "droppedVersion": "2.10.3.7"
     },
     {
@@ -3611,6 +3611,13 @@
       "droppedVersion": "1.0.1.10"
     },
     {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
+    },
+    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3618,11 +3625,11 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "PandorasBox",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "AutoHook",
@@ -3639,11 +3646,11 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "AutoRetainer",
@@ -3656,15 +3663,8 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.5.0",
+      "keptVersion": "1.15.5.1",
       "droppedVersion": "1.15.5.0"
-    },
-    {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Questionable",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.2",
-      "droppedVersion": "2.1.2.2"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.20",
       "droppedVersion": "4.0.5.20"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.2",
+      "droppedVersion": "2.1.2.2"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3913,17 +3913,17 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "bees-repo",
+      "kept": "Haselnussbomber",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.74.0.0",
-      "droppedVersion": "1.74.0.0"
+      "keptVersion": "1.75.0.0",
+      "droppedVersion": "1.75.0.0"
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "bees-repo",
+      "kept": "Haselnussbomber",
       "dropped": "MEGA Repository",
-      "keptVersion": "50.0.1.0",
-      "droppedVersion": "50.0.1.0"
+      "keptVersion": "50.0.2.0",
+      "droppedVersion": "50.0.2.0"
     },
     {
       "internalName": "LeveHelper",
@@ -4070,7 +4070,7 @@
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
       "keptVersion": "15.69",
-      "droppedVersion": "15.68"
+      "droppedVersion": "15.69"
     },
     {
       "internalName": "BattleLog",
@@ -4398,7 +4398,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MyDalamudPlugins",
-      "keptVersion": "1.15.5.0",
+      "keptVersion": "1.15.5.1",
       "droppedVersion": "1.2.2.1"
     },
     {
@@ -4431,9 +4431,9 @@
     },
     {
       "internalName": "IINACT",
-      "kept": "bees-repo",
+      "kept": "IINACT",
       "dropped": "MyPlugins",
-      "keptVersion": "2.10.3.7",
+      "keptVersion": "2.10.3.8",
       "droppedVersion": "2.1.4.3"
     },
     {
@@ -4683,9 +4683,9 @@
     },
     {
       "internalName": "IINACT",
-      "kept": "bees-repo",
+      "kept": "IINACT",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.10.3.7",
+      "keptVersion": "2.10.3.8",
       "droppedVersion": "2.10.3.7"
     },
     {
@@ -5049,7 +5049,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.15.5.0",
+      "keptVersion": "1.15.5.1",
       "droppedVersion": "1.15.5.0"
     },
     {
@@ -5600,9 +5600,9 @@
     },
     {
       "internalName": "IINACT",
-      "kept": "bees-repo",
+      "kept": "IINACT",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "2.10.3.7",
+      "keptVersion": "2.10.3.8",
       "droppedVersion": "2.7.3.5"
     },
     {
@@ -5882,7 +5882,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.15.5.0",
+      "keptVersion": "1.15.5.1",
       "droppedVersion": "1.9.0"
     },
     {
@@ -6258,10 +6258,10 @@
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "zhouhuichen741/dalamud-plugins",
-      "dropped": "bees-repo",
-      "keptVersion": "50.0.1.1",
-      "droppedVersion": "50.0.1.0"
+      "kept": "Haselnussbomber",
+      "dropped": "zhouhuichen741/dalamud-plugins",
+      "keptVersion": "50.0.2.0",
+      "droppedVersion": "50.0.1.1"
     },
     {
       "internalName": "PandorasBox",
@@ -6587,17 +6587,17 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "bees-repo",
+      "kept": "Haselnussbomber",
       "dropped": "Haselnussbomber / DalamudPlugins",
-      "keptVersion": "1.74.0.0",
-      "droppedVersion": "1.74.0.0"
+      "keptVersion": "1.75.0.0",
+      "droppedVersion": "1.75.0.0"
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "zhouhuichen741/dalamud-plugins",
+      "kept": "Haselnussbomber",
       "dropped": "Haselnussbomber / DalamudPlugins",
-      "keptVersion": "50.0.1.1",
-      "droppedVersion": "50.0.1.0"
+      "keptVersion": "50.0.2.0",
+      "droppedVersion": "50.0.2.0"
     },
     {
       "internalName": "LeveHelper",
@@ -6890,7 +6890,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "OpaqueReptile / daemitus_MyDalamudPlugins",
-      "keptVersion": "1.15.5.0",
+      "keptVersion": "1.15.5.1",
       "droppedVersion": "1.2.2.1"
     },
     {
