@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-17T04:51:44.174Z",
-  "contentHash": "a9fc6af34f8513a0",
-  "totalPlugins": 592,
-  "masterPlugins": 586,
+  "generatedAt": "2026-09-17T11:40:34.613Z",
+  "contentHash": "5767a03c70cdb685",
+  "totalPlugins": 594,
+  "masterPlugins": 588,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -1172,7 +1172,7 @@
       "name": "NexusFFXIV DalamudRepo",
       "url": "https://raw.githubusercontent.com/NexusFFXIV/DalamudRepo/main/all-repo.json",
       "status": "ok",
-      "count": 81,
+      "count": 94,
       "note": null
     },
     {
@@ -2342,7 +2342,7 @@
       "name": "Glamour & Charakter",
       "emoji": "👗",
       "description": "Mods, Aussehen, Posing, Sync",
-      "count": 97,
+      "count": 98,
       "file": "repos/glamour.json"
     },
     {
@@ -2382,7 +2382,7 @@
       "name": "Social & Roleplay",
       "emoji": "🎭",
       "description": "RP-Profile, Emotes, Free Company, Discord",
-      "count": 52,
+      "count": 53,
       "file": "repos/social.json"
     },
     {
@@ -3563,10 +3563,10 @@
     },
     {
       "internalName": "Loci",
-      "kept": "Loci",
-      "dropped": "bees-repo",
+      "kept": "bees-repo",
+      "dropped": "Loci",
       "keptVersion": "0.1.3.10",
-      "droppedVersion": "0.1.3.8"
+      "droppedVersion": "0.1.3.10"
     },
     {
       "internalName": "LoporritSync",
@@ -3625,13 +3625,6 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3646,11 +3639,18 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.1.34",
+      "droppedVersion": "4.6.1.34"
     },
     {
       "internalName": "YesAlready",
@@ -3660,18 +3660,18 @@
       "droppedVersion": "1.15.5.0"
     },
     {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "15.756.3.5",
-      "droppedVersion": "15.756.3.4"
-    },
-    {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.34",
-      "droppedVersion": "4.6.1.34"
+      "droppedVersion": "15.756.3.5"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.20",
-      "droppedVersion": "4.0.5.20"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.2",
       "droppedVersion": "2.1.2.2"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.20",
+      "droppedVersion": "4.0.5.20"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4069,7 +4069,7 @@
       "internalName": "GlamourLog",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.68",
+      "keptVersion": "15.69",
       "droppedVersion": "15.68"
     },
     {
@@ -4451,6 +4451,13 @@
       "droppedVersion": "0.8.10.0"
     },
     {
+      "internalName": "Aetherphone",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.3.2",
+      "droppedVersion": "1.0.3.2"
+    },
+    {
       "internalName": "AntiAfkKick-Dalamud",
       "kept": "MeowZWR / DalamudPlugin",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -4465,6 +4472,20 @@
       "droppedVersion": "4.0.5.20"
     },
     {
+      "internalName": "AutoDailyTribes",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.3.0.1",
+      "droppedVersion": "2.3.0.1"
+    },
+    {
+      "internalName": "AutoFateGrind",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.9.0.0",
+      "droppedVersion": "2.9.0.0"
+    },
+    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -4472,11 +4493,25 @@
       "droppedVersion": "6.0.0.99"
     },
     {
+      "internalName": "AutoHuntGrinder",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.1.0.0",
+      "droppedVersion": "1.1.0.0"
+    },
+    {
       "internalName": "AutoLogin",
       "kept": "Aida-Enna XIVPlugins",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.3.1.4",
       "droppedVersion": "1.3.1.4"
+    },
+    {
+      "internalName": "AutoPvpSeriesGrind",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.1.0.0",
+      "droppedVersion": "2.1.0.0"
     },
     {
       "internalName": "AutoRetainer",
@@ -4528,6 +4563,13 @@
       "droppedVersion": "0.8.0.11"
     },
     {
+      "internalName": "CactusWatcher",
+      "kept": "bees-repo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.5.0.0",
+      "droppedVersion": "1.0.0.11"
+    },
+    {
       "internalName": "ChatDeathRoll",
       "kept": "anya-hichu/DalamudPluginRepo",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -4568,6 +4610,13 @@
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.1.0",
       "droppedVersion": "7.5.1.0"
+    },
+    {
+      "internalName": "DozeAnywhere",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.2.2.8",
+      "droppedVersion": "0.2.2.8"
     },
     {
       "internalName": "DSREyeLocator",
@@ -4633,6 +4682,13 @@
       "droppedVersion": "1.0.0.2"
     },
     {
+      "internalName": "IINACT",
+      "kept": "bees-repo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.10.3.7",
+      "droppedVersion": "2.10.3.7"
+    },
+    {
       "internalName": "Imagenation",
       "kept": "NightmareXIV",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -4673,6 +4729,13 @@
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.4.4.0",
       "droppedVersion": "0.4.4.0"
+    },
+    {
+      "internalName": "Mahjong.Plugin.Dalamud",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.1.2.3",
+      "droppedVersion": "0.1.2.3"
     },
     {
       "internalName": "Marketbuddy",
@@ -4787,6 +4850,13 @@
       "droppedVersion": "0.5.16.0"
     },
     {
+      "internalName": "PvpAutoLb",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.1.0.0",
+      "droppedVersion": "1.1.0.0"
+    },
+    {
       "internalName": "Quack",
       "kept": "anya-hichu/DalamudPluginRepo",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -4827,6 +4897,13 @@
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.0.3.0",
       "droppedVersion": "0.0.3.0"
+    },
+    {
+      "internalName": "ReMakePlacePlugin",
+      "kept": "ReMakePlace",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "7.5.1.0",
+      "droppedVersion": "7.5.1.0"
     },
     {
       "internalName": "RotationSolver",
@@ -5127,7 +5204,7 @@
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.6.10",
-      "droppedVersion": "7.5.6.9"
+      "droppedVersion": "7.5.6.10"
     },
     {
       "internalName": "BossModReborn",
@@ -6181,9 +6258,9 @@
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "bees-repo",
-      "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "50.0.1.0",
+      "kept": "zhouhuichen741/dalamud-plugins",
+      "dropped": "bees-repo",
+      "keptVersion": "50.0.1.1",
       "droppedVersion": "50.0.1.0"
     },
     {
@@ -6517,9 +6594,9 @@
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "bees-repo",
+      "kept": "zhouhuichen741/dalamud-plugins",
       "dropped": "Haselnussbomber / DalamudPlugins",
-      "keptVersion": "50.0.1.0",
+      "keptVersion": "50.0.1.1",
       "droppedVersion": "50.0.1.0"
     },
     {
