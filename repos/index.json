@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T04:42:21.999Z",
-  "contentHash": "804dd8d25fd38741",
+  "generatedAt": "2026-09-18T11:13:26.084Z",
+  "contentHash": "e32f9b55f79999e6",
   "totalPlugins": 594,
   "masterPlugins": 588,
   "currentApiLevel": 15,
@@ -2480,14 +2480,14 @@
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.1.9.2",
+      "keptVersion": "2.2.0.0",
       "droppedVersion": "2.0.4.4"
     },
     {
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.1.9.2",
+      "keptVersion": "2.2.0.0",
       "droppedVersion": "1.9.3.3"
     },
     {
@@ -2712,7 +2712,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "1.15.5.2",
-      "droppedVersion": "1.15.5.1"
+      "droppedVersion": "1.15.5.2"
     },
     {
       "internalName": "Brio",
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "Avarice",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
-    },
-    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,18 +3618,11 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "PalacePal",
+      "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
-    },
-    {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.99",
-      "droppedVersion": "6.0.0.99"
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
     },
     {
       "internalName": "LazyLoot",
@@ -3646,18 +3632,18 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "Questionable",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.6",
-      "droppedVersion": "15.756.3.5"
+      "keptVersion": "6.0.0.99",
+      "droppedVersion": "6.0.0.99"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.5.2",
-      "droppedVersion": "1.15.5.2"
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "Marketbuddy",
@@ -3667,11 +3653,25 @@
       "droppedVersion": "0.2.4.2"
     },
     {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.3.6",
+      "droppedVersion": "15.756.3.6"
+    },
+    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.6.1.34",
       "droppedVersion": "4.6.1.34"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.5.2",
+      "droppedVersion": "1.15.5.2"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.2",
-      "droppedVersion": "2.1.2.2"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.20",
       "droppedVersion": "4.0.5.20"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.2",
+      "droppedVersion": "2.1.2.2"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4062,8 +4062,8 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "69.216",
-      "droppedVersion": "69.216"
+      "keptVersion": "69.217",
+      "droppedVersion": "69.217"
     },
     {
       "internalName": "GlamourLog",
@@ -4454,7 +4454,7 @@
       "internalName": "Aetherphone",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.3.2",
+      "keptVersion": "1.0.3.3",
       "droppedVersion": "1.0.3.2"
     },
     {
@@ -5490,7 +5490,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "69.216",
+      "keptVersion": "69.217",
       "droppedVersion": "69.55"
     },
     {
