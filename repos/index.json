@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-20T04:53:12.519Z",
-  "contentHash": "0f9efe0f22347951",
+  "generatedAt": "2026-09-20T11:22:18.514Z",
+  "contentHash": "76156681e51445be",
   "totalPlugins": 594,
   "masterPlugins": 588,
   "currentApiLevel": 15,
@@ -2445,8 +2445,8 @@
       "internalName": "DynamicBridge",
       "kept": "Sea of Stars",
       "dropped": "NightmareXIV",
-      "keptVersion": "1.0.8.8",
-      "droppedVersion": "1.0.8.8"
+      "keptVersion": "1.0.8.9",
+      "droppedVersion": "1.0.8.9"
     },
     {
       "internalName": "BossMod",
@@ -2459,7 +2459,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "44451516-ff14 / BossmodRebornCN",
-      "keptVersion": "7.5.6.14",
+      "keptVersion": "7.5.6.15",
       "droppedVersion": "7.5.6.9"
     },
     {
@@ -2501,7 +2501,7 @@
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "7.5.6.0",
+      "keptVersion": "7.5.6.1",
       "droppedVersion": "7.5.0.5"
     },
     {
@@ -2543,8 +2543,8 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.344",
-      "droppedVersion": "0.0.0.343"
+      "keptVersion": "0.0.0.345",
+      "droppedVersion": "0.0.0.344"
     },
     {
       "internalName": "AutoHook",
@@ -2585,7 +2585,7 @@
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "bees-repo",
-      "keptVersion": "7.5.6.0",
+      "keptVersion": "7.5.6.1",
       "droppedVersion": "7.5.6.0"
     },
     {
@@ -3215,7 +3215,7 @@
       "internalName": "DynamicBridge",
       "kept": "Sea of Stars",
       "dropped": "DynamicBridge Standalone",
-      "keptVersion": "1.0.8.8",
+      "keptVersion": "1.0.8.9",
       "droppedVersion": "1.0.8.9"
     },
     {
@@ -3306,21 +3306,21 @@
       "internalName": "DynamicBridge",
       "kept": "Sea of Stars",
       "dropped": "eScape",
-      "keptVersion": "1.0.8.8",
-      "droppedVersion": "1.0.8.8"
+      "keptVersion": "1.0.8.9",
+      "droppedVersion": "1.0.8.9"
     },
     {
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "eScape",
-      "keptVersion": "7.5.6.0",
-      "droppedVersion": "7.5.6.0"
+      "keptVersion": "7.5.6.1",
+      "droppedVersion": "7.5.6.1"
     },
     {
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.344",
+      "keptVersion": "0.0.0.345",
       "droppedVersion": "0.0.0.344"
     },
     {
@@ -3632,6 +3632,13 @@
       "droppedVersion": "5.3.3.3"
     },
     {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.0.99",
+      "droppedVersion": "6.0.0.99"
+    },
+    {
       "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3639,11 +3646,11 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.99",
-      "droppedVersion": "6.0.0.99"
+      "keptVersion": "15.756.3.9",
+      "droppedVersion": "15.756.3.8"
     },
     {
       "internalName": "Marketbuddy",
@@ -3665,13 +3672,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.5.2",
       "droppedVersion": "1.15.5.2"
-    },
-    {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.8",
-      "droppedVersion": "15.756.3.7"
     },
     {
       "internalName": "WrathCombo",
@@ -3740,8 +3740,8 @@
       "internalName": "DynamicBridge",
       "kept": "Sea of Stars",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.0.8.8",
-      "droppedVersion": "1.0.8.8"
+      "keptVersion": "1.0.8.9",
+      "droppedVersion": "1.0.8.9"
     },
     {
       "internalName": "HuntTrainAssistant",
@@ -3992,8 +3992,8 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.6.14",
-      "droppedVersion": "7.5.6.14"
+      "keptVersion": "7.5.6.15",
+      "droppedVersion": "7.5.6.15"
     },
     {
       "internalName": "ActionTimelineReborn",
@@ -4013,8 +4013,8 @@
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.6.0",
-      "droppedVersion": "7.5.6.0"
+      "keptVersion": "7.5.6.1",
+      "droppedVersion": "7.5.6.1"
     },
     {
       "internalName": "RebornToolbox",
@@ -4027,7 +4027,7 @@
       "internalName": "ZodiacBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.6.0",
+      "keptVersion": "7.5.6.1",
       "droppedVersion": "7.5.6.0"
     },
     {
@@ -4335,7 +4335,7 @@
       "internalName": "DynamicBridge",
       "kept": "Sea of Stars",
       "dropped": "MeowZWR / DalamudPlugin",
-      "keptVersion": "1.0.8.8",
+      "keptVersion": "1.0.8.9",
       "droppedVersion": "1.0.8.8"
     },
     {
@@ -4552,7 +4552,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.6.14",
+      "keptVersion": "7.5.6.15",
       "droppedVersion": "7.5.6.14"
     },
     {
@@ -4629,7 +4629,7 @@
       "internalName": "DynamicBridge",
       "kept": "Sea of Stars",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.8.8",
+      "keptVersion": "1.0.8.9",
       "droppedVersion": "1.0.8.8"
     },
     {
@@ -4650,7 +4650,7 @@
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.6.0",
+      "keptVersion": "7.5.6.1",
       "droppedVersion": "7.5.6.0"
     },
     {
@@ -4867,7 +4867,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.756.3.8",
+      "keptVersion": "15.756.3.9",
       "droppedVersion": "15.756.3.8"
     },
     {
@@ -5056,15 +5056,15 @@
       "internalName": "ZodiacBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.6.0",
+      "keptVersion": "7.5.6.1",
       "droppedVersion": "7.5.6.0"
     },
     {
       "internalName": "DynamicBridge",
       "kept": "Sea of Stars",
       "dropped": "NightmareXIV / Eternita-S alt repo",
-      "keptVersion": "1.0.8.8",
-      "droppedVersion": "1.0.8.8"
+      "keptVersion": "1.0.8.9",
+      "droppedVersion": "1.0.8.9"
     },
     {
       "internalName": "HuntTrainAssistant",
@@ -5203,21 +5203,21 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.6.14",
-      "droppedVersion": "7.5.6.13"
+      "keptVersion": "7.5.6.15",
+      "droppedVersion": "7.5.6.15"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.6.14",
+      "keptVersion": "7.5.6.15",
       "droppedVersion": "7.3.5.27"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.6.14",
+      "keptVersion": "7.5.6.15",
       "droppedVersion": "7.4.5.18"
     },
     {
@@ -5427,7 +5427,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.344",
+      "keptVersion": "0.0.0.345",
       "droppedVersion": "0.0.0.182"
     },
     {
@@ -5469,7 +5469,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.6.14",
+      "keptVersion": "7.5.6.15",
       "droppedVersion": "7.2.0.261"
     },
     {
@@ -5532,7 +5532,7 @@
       "internalName": "DynamicBridge",
       "kept": "Sea of Stars",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.0.8.8",
+      "keptVersion": "1.0.8.9",
       "droppedVersion": "1.0.7.1"
     },
     {
@@ -5567,7 +5567,7 @@
       "internalName": "GatherbuddyReborn",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.6.0",
+      "keptVersion": "7.5.6.1",
       "droppedVersion": "7.2.2.16"
     },
     {
@@ -5735,7 +5735,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.756.3.8",
+      "keptVersion": "15.756.3.9",
       "droppedVersion": "4.13"
     },
     {
@@ -6533,7 +6533,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "dal4kr / Dalamud.Resources",
-      "keptVersion": "7.5.6.14",
+      "keptVersion": "7.5.6.15",
       "droppedVersion": "7.4.5.14"
     },
     {
@@ -6561,7 +6561,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.6.14",
+      "keptVersion": "7.5.6.15",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -6743,7 +6743,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "7.5.6.14",
+      "keptVersion": "7.5.6.15",
       "droppedVersion": "0.0.0.9"
     },
     {
@@ -6764,14 +6764,14 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.756.3.8",
+      "keptVersion": "15.756.3.9",
       "droppedVersion": "5.31"
     },
     {
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "0.0.0.344",
+      "keptVersion": "0.0.0.345",
       "droppedVersion": "0.0.0.307"
     },
     {
@@ -6799,14 +6799,14 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "7.5.6.14",
+      "keptVersion": "7.5.6.15",
       "droppedVersion": "7.5.1.23"
     },
     {
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "7.5.6.0",
+      "keptVersion": "7.5.6.1",
       "droppedVersion": "7.5.0.3"
     },
     {
@@ -6848,7 +6848,7 @@
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "OLDBAI213 / OLDBAI",
-      "keptVersion": "7.5.6.0",
+      "keptVersion": "7.5.6.1",
       "droppedVersion": "7.5.0.2"
     },
     {
@@ -7016,7 +7016,7 @@
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "wasdcxz / DalamudPlugins",
-      "keptVersion": "7.5.6.0",
+      "keptVersion": "7.5.6.1",
       "droppedVersion": "7.5.5.0"
     },
     {
@@ -7037,7 +7037,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.756.3.8",
+      "keptVersion": "15.756.3.9",
       "droppedVersion": "99.0.0.0"
     },
     {
