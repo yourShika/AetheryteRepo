@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-20T11:22:18.514Z",
-  "contentHash": "76156681e51445be",
-  "totalPlugins": 594,
-  "masterPlugins": 588,
+  "generatedAt": "2026-09-20T16:05:01.015Z",
+  "contentHash": "cad5c79df18e8cc7",
+  "totalPlugins": 593,
+  "masterPlugins": 587,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -2308,7 +2308,7 @@
       "name": "xivhub / pluginmaster",
       "url": "https://plugins.xivhub.net/pluginmaster.json",
       "status": "ok",
-      "count": 10,
+      "count": 9,
       "note": null
     },
     {
@@ -2382,7 +2382,7 @@
       "name": "Social & Roleplay",
       "emoji": "🎭",
       "description": "RP-Profile, Emotes, Free Company, Discord",
-      "count": 53,
+      "count": 52,
       "file": "repos/social.json"
     },
     {
@@ -2543,8 +2543,8 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.345",
-      "droppedVersion": "0.0.0.344"
+      "keptVersion": "0.0.0.347",
+      "droppedVersion": "0.0.0.345"
     },
     {
       "internalName": "AutoHook",
@@ -2586,7 +2586,7 @@
       "kept": "CombatReborn",
       "dropped": "bees-repo",
       "keptVersion": "7.5.6.1",
-      "droppedVersion": "7.5.6.0"
+      "droppedVersion": "7.5.6.1"
     },
     {
       "internalName": "Glamourer",
@@ -3320,8 +3320,8 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.345",
-      "droppedVersion": "0.0.0.344"
+      "keptVersion": "0.0.0.347",
+      "droppedVersion": "0.0.0.346"
     },
     {
       "internalName": "Brio",
@@ -3625,13 +3625,6 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3646,11 +3639,11 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "Questionable",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.9",
-      "droppedVersion": "15.756.3.8"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "Marketbuddy",
@@ -3674,6 +3667,13 @@
       "droppedVersion": "1.15.5.2"
     },
     {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.3.9",
+      "droppedVersion": "15.756.3.9"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.2",
-      "droppedVersion": "2.1.2.2"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.20",
       "droppedVersion": "4.0.5.20"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.2",
+      "droppedVersion": "2.1.2.2"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4028,7 +4028,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.6.1",
-      "droppedVersion": "7.5.6.0"
+      "droppedVersion": "7.5.6.1"
     },
     {
       "internalName": "PassportCheckerReborn",
@@ -5427,7 +5427,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.345",
+      "keptVersion": "0.0.0.347",
       "droppedVersion": "0.0.0.182"
     },
     {
@@ -6771,7 +6771,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "0.0.0.345",
+      "keptVersion": "0.0.0.347",
       "droppedVersion": "0.0.0.307"
     },
     {
