@@ -1,9 +1,9 @@
 # Status
 
-Zuletzt aktualisiert: **2026-09-20 20:48 UTC**
+Zuletzt aktualisiert: **2026-09-20 23:15 UTC**
 
-- Plugins im Master-Feed: **587**
-- Plugins insgesamt (inkl. 18+): **593**
+- Plugins im Master-Feed: **588**
+- Plugins insgesamt (inkl. 18+): **594**
 - Quellen: **291**
 - Aktuelles Dalamud-API-Level: **15** (aufgenommen ab 13)
 - Als veraltet aussortiert: **351** → `repos/legacy.json`
@@ -207,7 +207,7 @@ Zuletzt aktualisiert: **2026-09-20 20:48 UTC**
 | ✅ | [TomokPlugins](https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/pluginmaster.json) | 6 | ok |
 | ✅ | [Travelcase](https://raw.githubusercontent.com/Blooym/Dalamud.Travelcase/main/repo.json) | 1 | ok |
 | ✅ | [UnknownX7](https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/pluginmaster.json) | 6 | ok |
-| ✅ | [Vali's Repo](https://puni.sh/api/repository/vali) | 4 | ok |
+| ✅ | [Vali's Repo](https://puni.sh/api/repository/vali) | 5 | ok |
 | ✅ | [Valiice DalamudPluginRepo](https://raw.githubusercontent.com/Valiice/DalamudPluginRepo/master/repo.json) | 10 | ok |
 | ✅ | [VariableVixen (PrincessRTFM) / MyDalamudPlugins](https://raw.githubusercontent.com/VariableVixen/MyDalamudPlugins/master/pluginmaster.json) | 5 | ok |
 | ✅ | [Vera's Repo](https://puni.sh/api/repository/vera) | 8 | ok |
@@ -310,7 +310,7 @@ Zuletzt aktualisiert: **2026-09-20 20:48 UTC**
 |---|---:|---|
 | 👗 Glamour & Charakter | 98 | `repos/glamour.json` |
 | ⚔️ Kampf & Rotation | 71 | `repos/combat.json` |
-| 🤖 Automatisierung | 121 | `repos/automation.json` |
+| 🤖 Automatisierung | 122 | `repos/automation.json` |
 | ⚒️ Crafting & Gathering | 26 | `repos/crafting.json` |
 | ✨ Quality of Life & UI | 146 | `repos/qol.json` |
 | 🎭 Social & Roleplay | 52 | `repos/social.json` |
@@ -365,7 +365,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `UnloadErrorFuckOff` | NightmareXIV `1.0.0.10` | bees-repo `1.0.0.10` |
 | `visland` | Veyn (BossMod) `0.0.0.151` | bees-repo `0.0.0.151` |
 | `vnavmesh` | Veyn (BossMod) `1.2.3.14` | bees-repo `1.2.3.14` |
-| `WrathCombo` | Puni.sh (Ment) `1.0.4.26` | bees-repo `1.0.4.25` |
+| `WrathCombo` | Puni.sh (Ment) `1.0.4.26` | bees-repo `1.0.4.26` |
 | `YesAlready` | Puni.sh (Ment) `1.15.5.2` | bees-repo `1.15.5.2` |
 | `Brio` | Sea of Stars `0.8.0.11` | Brio `0.8.0.11` |
 | `Brio` | Sea of Stars `0.8.0.11` | Brio `0.2.1.9` |
@@ -500,14 +500,14 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
 | `AutoHook` | Puni.sh (Ment) `6.0.0.99` | MEGA Repository `6.0.0.99` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
+| `YesAlready` | Puni.sh (Ment) `1.15.5.2` | MEGA Repository `1.15.5.2` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | MEGA Repository `4.6.1.34` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
-| `YesAlready` | Puni.sh (Ment) `1.15.5.2` | MEGA Repository `1.15.5.2` |
 | `Questionable` | Puni.sh (Ment) `15.756.3.9` | MEGA Repository `15.756.3.9` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.26` | MEGA Repository `1.0.4.26` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.25` | MEGA Repository `3.9.2.25` |
-| `Saucy` | Puni.sh (Ment) `2.1.2.2` | MEGA Repository `2.1.2.2` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.20` | MEGA Repository `4.0.5.20` |
+| `Saucy` | Puni.sh (Ment) `2.1.2.2` | MEGA Repository `2.1.2.2` |
 | `XIVComboExpanded` | daemitus MyDalamudPlugins `2.0.6.3` | MEGA Repository `2.0.6.3` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | MEGA Repository `1.3.1.4` |
 | `AutoPillion` | Aida-Enna XIVPlugins `1.0.0.5` | MEGA Repository `1.0.0.5` |

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-20T20:48:26.668Z",
-  "contentHash": "c2712d3d57cc2a77",
-  "totalPlugins": 593,
-  "masterPlugins": 587,
+  "generatedAt": "2026-09-20T23:15:02.904Z",
+  "contentHash": "7c2511e1805cd3c4",
+  "totalPlugins": 594,
+  "masterPlugins": 588,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -1572,7 +1572,7 @@
       "name": "Vali's Repo",
       "url": "https://puni.sh/api/repository/vali",
       "status": "ok",
-      "count": 4,
+      "count": 5,
       "note": null
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 121,
+      "count": 122,
       "file": "repos/automation.json"
     },
     {
@@ -2705,7 +2705,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "1.0.4.26",
-      "droppedVersion": "1.0.4.25"
+      "droppedVersion": "1.0.4.26"
     },
     {
       "internalName": "YesAlready",
@@ -3646,6 +3646,13 @@
       "droppedVersion": "5.3.3.3"
     },
     {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.5.2",
+      "droppedVersion": "1.15.5.2"
+    },
+    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3658,13 +3665,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
-    },
-    {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.5.2",
-      "droppedVersion": "1.15.5.2"
     },
     {
       "internalName": "Questionable",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.2",
-      "droppedVersion": "2.1.2.2"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.20",
       "droppedVersion": "4.0.5.20"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.2",
+      "droppedVersion": "2.1.2.2"
     },
     {
       "internalName": "XIVComboExpanded",
