@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-09-20",
+  "fetchedAt": "2026-09-21",
   "count": 51,
   "plugins": [
     {
@@ -71,13 +71,13 @@
       "InternalName": "AutoDuty",
       "RepoUrl": "https://github.com/erdelf/AutoDuty",
       "DownloadCount": 69696969,
-      "LastUpdate": 1789919765,
+      "LastUpdate": 1789947372,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoDuty.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoDuty.zip",
-      "AssemblyVersion": "0.0.0.347",
+      "AssemblyVersion": "0.0.0.348",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "## What's Changed\r\n* fix Profile Duplication by @erdelf in https://github.com/erdelf/AutoDuty/pull/457\r\n* desynth gearset protection optimization by @erdelf in https://github.com/erdelf/AutoDuty/pull/458\r\n* Fix null dereference while queueing duties by @erdelf in https://github.com/erdelf/AutoDuty/pull/459\r\n* Protect Gearsetter upgrades from desynth by @erdelf in https://github.com/erdelf/AutoDuty/pull/460\r\n* Repair NPC search bar by @erdelf in https://github.com/erdelf/AutoDuty/pull/461\r\n* additional logging in crucible team selection by @erdelf in https://github.com/erdelf/AutoDuty/pull/462\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.346...0.0.0.347",
+      "Changelog": "## What's Changed\r\n* RSR Targeting Freely by @erdelf in https://github.com/erdelf/AutoDuty/pull/463\r\n* Prevent overriding Crucible Pets with lower level by @erdelf in https://github.com/erdelf/AutoDuty/pull/464\r\n* fix duty mode scrollbar by @erdelf in https://github.com/erdelf/AutoDuty/pull/465\r\n* Bestiary sorting fix by @erdelf in https://github.com/erdelf/AutoDuty/pull/466\r\n* Disable Wrath block for BST by @erdelf in https://github.com/erdelf/AutoDuty/pull/467\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.347...0.0.0.348",
       "TestingDalamudApiLevel": "15",
       "IconUrl": "https://puni.sh/api/plugins/icon/54",
       "ImageUrls": [
