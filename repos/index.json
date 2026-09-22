@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-21T19:59:03.770Z",
-  "contentHash": "fce5f7c67c87748a",
-  "totalPlugins": 595,
-  "masterPlugins": 589,
+  "generatedAt": "2026-09-22T00:06:16.085Z",
+  "contentHash": "fcdef1b343090cd2",
+  "totalPlugins": 597,
+  "masterPlugins": 591,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -132,7 +132,7 @@
       "name": "XeldarAlz",
       "url": "https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/main/repo.json",
       "status": "ok",
-      "count": 7,
+      "count": 8,
       "note": null
     },
     {
@@ -1852,7 +1852,7 @@
       "name": "dajoey / lalalazy",
       "url": "https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json",
       "status": "ok",
-      "count": 16,
+      "count": 17,
       "note": null
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 124,
+      "count": 125,
       "file": "repos/automation.json"
     },
     {
@@ -2374,7 +2374,7 @@
       "name": "Quality of Life & UI",
       "emoji": "✨",
       "description": "Tweaks, Interface, Chat, Inventar, Karten",
-      "count": 146,
+      "count": 147,
       "file": "repos/qol.json"
     },
     {
@@ -2452,7 +2452,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "44451516 / ffxiv_bossmod",
-      "keptVersion": "7.5.6.5",
+      "keptVersion": "7.5.6.8",
       "droppedVersion": "7.5.5.8"
     },
     {
@@ -2508,7 +2508,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "awgil plugin distribution",
-      "keptVersion": "7.5.6.5",
+      "keptVersion": "7.5.6.8",
       "droppedVersion": "0.0.0.122"
     },
     {
@@ -2564,8 +2564,8 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
-      "keptVersion": "7.5.6.5",
-      "droppedVersion": "7.5.6.5"
+      "keptVersion": "7.5.6.8",
+      "droppedVersion": "7.5.6.8"
     },
     {
       "internalName": "Brio",
@@ -2851,7 +2851,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "7.5.6.5",
+      "keptVersion": "7.5.6.8",
       "droppedVersion": "0.0.0.77"
     },
     {
@@ -3632,18 +3632,18 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.99",
-      "droppedVersion": "6.0.0.99"
-    },
-    {
       "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.16.0.0",
       "droppedVersion": "4.16.0.0"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.0.99",
+      "droppedVersion": "6.0.0.99"
     },
     {
       "internalName": "Marketbuddy",
@@ -3653,11 +3653,11 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "Questionable",
+      "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.16",
-      "droppedVersion": "15.756.3.15"
+      "keptVersion": "4.6.1.34",
+      "droppedVersion": "4.6.1.34"
     },
     {
       "internalName": "YesAlready",
@@ -3667,11 +3667,11 @@
       "droppedVersion": "1.15.5.2"
     },
     {
-      "internalName": "AutoRetainer",
+      "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.6.1.34",
-      "droppedVersion": "4.6.1.34"
+      "keptVersion": "15.756.3.16",
+      "droppedVersion": "15.756.3.16"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.20",
-      "droppedVersion": "4.0.5.20"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.2",
       "droppedVersion": "2.1.2.2"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.20",
+      "droppedVersion": "4.0.5.20"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3957,8 +3957,8 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.6.5",
-      "droppedVersion": "7.5.6.5"
+      "keptVersion": "7.5.6.8",
+      "droppedVersion": "7.5.6.8"
     },
     {
       "internalName": "vfallguy",
@@ -4475,14 +4475,14 @@
       "internalName": "AutoDailyTribes",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.4.0.0",
+      "keptVersion": "2.5.0.0",
       "droppedVersion": "2.3.0.1"
     },
     {
       "internalName": "AutoFateGrind",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.9.0.0",
+      "keptVersion": "2.10.0.0",
       "droppedVersion": "2.9.0.0"
     },
     {
@@ -4545,7 +4545,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.6.5",
+      "keptVersion": "7.5.6.8",
       "droppedVersion": "7.5.6.5"
     },
     {
@@ -5462,7 +5462,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.6.5",
+      "keptVersion": "7.5.6.8",
       "droppedVersion": "0.0.0.281"
     },
     {

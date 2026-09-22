@@ -1,9 +1,9 @@
 # Status
 
-Zuletzt aktualisiert: **2026-09-21 19:59 UTC**
+Zuletzt aktualisiert: **2026-09-22 00:06 UTC**
 
-- Plugins im Master-Feed: **589**
-- Plugins insgesamt (inkl. 18+): **595**
+- Plugins im Master-Feed: **591**
+- Plugins insgesamt (inkl. 18+): **597**
 - Quellen: **291**
 - Aktuelles Dalamud-API-Level: **15** (aufgenommen ab 13)
 - Als veraltet aussortiert: **351** → `repos/legacy.json`
@@ -27,7 +27,7 @@ Zuletzt aktualisiert: **2026-09-21 19:59 UTC**
 | ✅ | [NightmareXIV](https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json) | 15 | ok |
 | ✅ | [CombatReborn](https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json) | 10 | ok |
 | ✅ | [Knightmore](https://puni.sh/api/repository/knightmore) | 2 | ok |
-| ✅ | [XeldarAlz](https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/main/repo.json) | 7 | ok |
+| ✅ | [XeldarAlz](https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/main/repo.json) | 8 | ok |
 | ✅ | [ReMakePlace](https://raw.githubusercontent.com/RemakePlace/plugin/master/ReMakePlacePlugin.json) | 1 | ok |
 | ⚠️ | [baanderson40](https://raw.githubusercontent.com/baanderson40/dalamud_plugins/master/repo.json) | 2 | stale – `HTTP 404 Not Found` |
 | ✅ | [OhKannaDuh](https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json) | 1 | ok |
@@ -242,7 +242,7 @@ Zuletzt aktualisiert: **2026-09-21 19:59 UTC**
 | ✅ | [Cloa / resonant](https://raw.githubusercontent.com/Cloa/resonant/main/repo/latest.json) | 1 | ok |
 | ✅ | [cycleapple / DalamudPlugins-TW](https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW/main/repo.json) | 11 | ok |
 | ✅ | [Cyenia / DalamudPlugins](https://raw.githubusercontent.com/Cyenia/DalamudPlugins/master/pluginmaster.json) | 5 | ok |
-| ✅ | [dajoey / lalalazy](https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json) | 16 | ok |
+| ✅ | [dajoey / lalalazy](https://raw.githubusercontent.com/dajoey/lalalazy/main/pluginmaster.json) | 17 | ok |
 | ✅ | [dal4kr / Dalamud.Resources](https://raw.githubusercontent.com/dal4kr/Dalamud.Resources/main/Plugins/plugins.json) | 2 | ok |
 | ✅ | [datamachine / ffxiv-plugins](https://raw.githubusercontent.com/datamachine/ffxiv-plugins/main/pluginmaster.json) | 2 | ok |
 | ✅ | [devckuw / DistribPluginFFXIV](https://raw.githubusercontent.com/devckuw/DistribPluginFFXIV/main/repo.json) | 3 | ok |
@@ -310,9 +310,9 @@ Zuletzt aktualisiert: **2026-09-21 19:59 UTC**
 |---|---:|---|
 | 👗 Glamour & Charakter | 99 | `repos/glamour.json` |
 | ⚔️ Kampf & Rotation | 71 | `repos/combat.json` |
-| 🤖 Automatisierung | 124 | `repos/automation.json` |
+| 🤖 Automatisierung | 125 | `repos/automation.json` |
 | ⚒️ Crafting & Gathering | 26 | `repos/crafting.json` |
-| ✨ Quality of Life & UI | 146 | `repos/qol.json` |
+| ✨ Quality of Life & UI | 147 | `repos/qol.json` |
 | 🎭 Social & Roleplay | 52 | `repos/social.json` |
 | 🔞 Adult (18+) | 6 | `repos/nsfw.json` |
 | 🏡 Housing & Deko | 17 | `repos/housing.json` |
@@ -329,7 +329,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Penumbra` | Penumbra `1.7.2.0` | Sea of Stars `1.7.2.0` |
 | `Glamourer` | Glamourer `1.7.1.3` | Sea of Stars `1.7.1.3` |
 | `DynamicBridge` | Sea of Stars `1.0.8.9` | NightmareXIV `1.0.8.9` |
-| `BossMod` | Veyn (BossMod) `7.5.6.5` | 44451516 / ffxiv_bossmod `7.5.5.8` |
+| `BossMod` | Veyn (BossMod) `7.5.6.8` | 44451516 / ffxiv_bossmod `7.5.5.8` |
 | `BossModReborn` | CombatReborn `7.5.6.16` | 44451516-ff14 / BossmodRebornCN `7.5.6.9` |
 | `CustomizePlus` | Sea of Stars `2.2.1.3` | Aether Tools `2.2.1.3` |
 | `Armoire` | Armoire `0.1.1.3` | ElfShelf `0.0.171` |
@@ -337,7 +337,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `DailyRoutines` | AtmoOmen / DalamudPlugins `2.2.0.0` | AtmoOmen / DalamudPlugins `1.9.3.3` |
 | `vnavmesh` | Veyn (BossMod) `1.2.3.14` | AtmoOmen / DalamudPlugins `0.8.2.0` |
 | `GatherBuddyReborn` | CombatReborn `7.5.6.1` | AtmoOmen / DalamudPlugins `7.5.0.5` |
-| `BossMod` | Veyn (BossMod) `7.5.6.5` | awgil plugin distribution `0.0.0.122` |
+| `BossMod` | Veyn (BossMod) `7.5.6.8` | awgil plugin distribution `0.0.0.122` |
 | `vfaux` | Veyn (BossMod) `0.0.0.12` | awgil plugin distribution `0.0.0.4` |
 | `visland` | Veyn (BossMod) `0.0.0.151` | awgil plugin distribution `0.0.0.16` |
 | `AntiAfkKick-Dalamud` | NightmareXIV `2.1.0.11` | bees-repo `2.1.0.11` |
@@ -345,7 +345,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `AutoDuty` | erdelf `0.0.0.348` | bees-repo `0.0.0.348` |
 | `AutoHook` | Puni.sh (Ment) `6.0.0.99` | bees-repo `6.0.0.99` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | bees-repo `4.6.1.34` |
-| `BossMod` | Veyn (BossMod) `7.5.6.5` | bees-repo `7.5.6.5` |
+| `BossMod` | Veyn (BossMod) `7.5.6.8` | bees-repo `7.5.6.8` |
 | `Brio` | Sea of Stars `0.8.0.11` | bees-repo `0.8.0.11` |
 | `CustomizePlus` | Sea of Stars `2.2.1.3` | bees-repo `2.2.1.3` |
 | `GatherBuddyReborn` | CombatReborn `7.5.6.1` | bees-repo `7.5.6.1` |
@@ -386,7 +386,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Avarice` | Puni.sh (Ment) `2.2.0.13` | DalamudRepoCollection `2.0.0.0` |
 | `BDTHPlugin` | bees-repo `1.7.4.1` | DalamudRepoCollection `1.5.7` |
 | `BardToolbox` | BardToolbox / BardToolbox-Release `2.2.7.0` | DalamudRepoCollection `1.2.3.0` |
-| `BossMod` | Veyn (BossMod) `7.5.6.5` | DalamudRepoCollection `0.0.0.77` |
+| `BossMod` | Veyn (BossMod) `7.5.6.8` | DalamudRepoCollection `0.0.0.77` |
 | `Cammy` | bees-repo `2.1.1.2` | DalamudRepoCollection `2.0.3.5` |
 | `CraftingList` | CraftingList `2.5.8` | DalamudRepoCollection `1.7.0` |
 | `CustomizePlus` | Sea of Stars `2.2.1.3` | DalamudRepoCollection `0.0.1.2` |
@@ -498,16 +498,16 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Avarice` | Puni.sh (Ment) `2.2.0.13` | MEGA Repository `2.2.0.13` |
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
-| `AutoHook` | Puni.sh (Ment) `6.0.0.99` | MEGA Repository `6.0.0.99` |
 | `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
+| `AutoHook` | Puni.sh (Ment) `6.0.0.99` | MEGA Repository `6.0.0.99` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
-| `Questionable` | Puni.sh (Ment) `15.756.3.16` | MEGA Repository `15.756.3.15` |
-| `YesAlready` | Puni.sh (Ment) `1.15.5.2` | MEGA Repository `1.15.5.2` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | MEGA Repository `4.6.1.34` |
+| `YesAlready` | Puni.sh (Ment) `1.15.5.2` | MEGA Repository `1.15.5.2` |
+| `Questionable` | Puni.sh (Ment) `15.756.3.16` | MEGA Repository `15.756.3.16` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.26` | MEGA Repository `1.0.4.26` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.25` | MEGA Repository `3.9.2.25` |
-| `Artisan` | Puni.sh (Ment) `4.0.5.20` | MEGA Repository `4.0.5.20` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.2` | MEGA Repository `2.1.2.2` |
+| `Artisan` | Puni.sh (Ment) `4.0.5.20` | MEGA Repository `4.0.5.20` |
 | `XIVComboExpanded` | daemitus MyDalamudPlugins `2.0.6.3` | MEGA Repository `2.0.6.3` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | MEGA Repository `1.3.1.4` |
 | `AutoPillion` | Aida-Enna XIVPlugins `1.0.0.5` | MEGA Repository `1.0.0.5` |
@@ -544,7 +544,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `vsatisfy` | Veyn (BossMod) `0.0.0.37` | MEGA Repository `0.0.0.37` |
 | `visland` | Veyn (BossMod) `0.0.0.151` | MEGA Repository `0.0.0.151` |
 | `vfaux` | Veyn (BossMod) `0.0.0.12` | MEGA Repository `0.0.0.12` |
-| `BossMod` | Veyn (BossMod) `7.5.6.5` | MEGA Repository `7.5.6.5` |
+| `BossMod` | Veyn (BossMod) `7.5.6.8` | MEGA Repository `7.5.6.8` |
 | `vfallguy` | Veyn (BossMod) `0.0.0.12` | MEGA Repository `0.0.0.12` |
 | `vnavmesh` | Veyn (BossMod) `1.2.3.14` | MEGA Repository `1.2.3.14` |
 | `MBT` | Herculezz's Repo `0.0.0.16` | MEGA Repository `0.0.0.16` |
@@ -618,8 +618,8 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Aetherphone` | XeldarAlz `1.0.3.3` | NexusFFXIV DalamudRepo `1.0.3.3` |
 | `AntiAfkKick-Dalamud` | MeowZWR / DalamudPlugin `2.1.0.12` | NexusFFXIV DalamudRepo `2.1.0.11` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.20` | NexusFFXIV DalamudRepo `4.0.5.20` |
-| `AutoDailyTribes` | XeldarAlz `2.4.0.0` | NexusFFXIV DalamudRepo `2.3.0.1` |
-| `AutoFateGrind` | XeldarAlz `2.9.0.0` | NexusFFXIV DalamudRepo `2.9.0.0` |
+| `AutoDailyTribes` | XeldarAlz `2.5.0.0` | NexusFFXIV DalamudRepo `2.3.0.1` |
+| `AutoFateGrind` | XeldarAlz `2.10.0.0` | NexusFFXIV DalamudRepo `2.9.0.0` |
 | `AutoHook` | Puni.sh (Ment) `6.0.0.99` | NexusFFXIV DalamudRepo `6.0.0.99` |
 | `AutoHuntGrinder` | XeldarAlz `1.2.0.0` | NexusFFXIV DalamudRepo `1.1.0.0` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | NexusFFXIV DalamudRepo `1.3.1.4` |
@@ -628,7 +628,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Avarice` | Puni.sh (Ment) `2.2.0.13` | NexusFFXIV DalamudRepo `2.2.0.13` |
 | `Battlevest` | NightmareXIV `1.0.2.3` | NexusFFXIV DalamudRepo `1.0.2.3` |
 | `BDTHPlugin` | bees-repo `1.7.4.1` | NexusFFXIV DalamudRepo `1.7.4.1` |
-| `BossMod` | Veyn (BossMod) `7.5.6.5` | NexusFFXIV DalamudRepo `7.5.6.5` |
+| `BossMod` | Veyn (BossMod) `7.5.6.8` | NexusFFXIV DalamudRepo `7.5.6.5` |
 | `BossModReborn` | CombatReborn `7.5.6.16` | NexusFFXIV DalamudRepo `7.5.6.15` |
 | `Brio` | Sea of Stars `0.8.0.11` | NexusFFXIV DalamudRepo `0.8.0.11` |
 | `CactusWatcher` | bees-repo `1.5.0.0` | NexusFFXIV DalamudRepo `1.0.0.11` |
@@ -759,7 +759,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `AutoRetainer` | Puni.sh (Ment) `4.6.1.34` | nite-cat / the-giga-repo `4.4.3.9` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.13` | nite-cat / the-giga-repo `2.1.0.8` |
 | `Battlevest` | NightmareXIV `1.0.2.3` | nite-cat / the-giga-repo `1.0.1.5` |
-| `BossMod` | Veyn (BossMod) `7.5.6.5` | nite-cat / the-giga-repo `0.0.0.281` |
+| `BossMod` | Veyn (BossMod) `7.5.6.8` | nite-cat / the-giga-repo `0.0.0.281` |
 | `BossModReborn` | CombatReborn `7.5.6.16` | nite-cat / the-giga-repo `7.2.0.261` |
 | `Brio` | Sea of Stars `0.8.0.11` | nite-cat / the-giga-repo `0.4.3.1` |
 | `Cammy` | bees-repo `2.1.1.2` | nite-cat / the-giga-repo `2.1.0.10` |
