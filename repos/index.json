@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-22T04:54:39.132Z",
-  "contentHash": "b7f207db22382d39",
+  "generatedAt": "2026-09-22T11:37:04.095Z",
+  "contentHash": "ba45099dfe542a50",
   "totalPlugins": 597,
   "masterPlugins": 591,
   "currentApiLevel": 15,
@@ -2543,7 +2543,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.348",
+      "keptVersion": "0.0.0.349",
       "droppedVersion": "0.0.0.348"
     },
     {
@@ -3320,7 +3320,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.348",
+      "keptVersion": "0.0.0.349",
       "droppedVersion": "0.0.0.348"
     },
     {
@@ -3611,6 +3611,13 @@
       "droppedVersion": "1.0.1.10"
     },
     {
+      "internalName": "Avarice",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
+    },
+    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3618,11 +3625,11 @@
       "droppedVersion": "1.6.4.4"
     },
     {
-      "internalName": "Avarice",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
+      "keptVersion": "6.0.0.99",
+      "droppedVersion": "6.0.0.99"
     },
     {
       "internalName": "LazyLoot",
@@ -3639,11 +3646,18 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.0.99",
-      "droppedVersion": "6.0.0.99"
+      "keptVersion": "1.15.5.2",
+      "droppedVersion": "1.15.5.2"
     },
     {
       "internalName": "AutoRetainer",
@@ -3657,21 +3671,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "15.756.3.17",
-      "droppedVersion": "15.756.3.16"
-    },
-    {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.5.2",
-      "droppedVersion": "1.15.5.2"
-    },
-    {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "droppedVersion": "15.756.3.17"
     },
     {
       "internalName": "WrathCombo",
@@ -3679,13 +3679,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.26",
       "droppedVersion": "1.0.4.26"
-    },
-    {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.25",
-      "droppedVersion": "3.9.2.25"
     },
     {
       "internalName": "Saucy",
@@ -3700,6 +3693,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.20",
       "droppedVersion": "4.0.5.20"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.25",
+      "droppedVersion": "3.9.2.25"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3986,7 +3986,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.6.11",
-      "droppedVersion": "7.5.6.10"
+      "droppedVersion": "7.5.6.11"
     },
     {
       "internalName": "BossModReborn",
@@ -4510,7 +4510,7 @@
       "internalName": "AutoPvpSeriesGrind",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.3.0.0",
+      "keptVersion": "2.3.1.0",
       "droppedVersion": "2.3.0.0"
     },
     {
@@ -5434,7 +5434,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.348",
+      "keptVersion": "0.0.0.349",
       "droppedVersion": "0.0.0.182"
     },
     {
@@ -6258,9 +6258,9 @@
     },
     {
       "internalName": "XivVoices",
-      "kept": "bees-repo",
-      "dropped": "XivVoices",
-      "keptVersion": "1.6.0.0",
+      "kept": "XivVoices",
+      "dropped": "bees-repo",
+      "keptVersion": "1.6.0.1",
       "droppedVersion": "1.6.0.0"
     },
     {
@@ -6778,7 +6778,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "0.0.0.348",
+      "keptVersion": "0.0.0.349",
       "droppedVersion": "0.0.0.307"
     },
     {
