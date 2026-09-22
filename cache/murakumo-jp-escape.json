@@ -1,7 +1,7 @@
 {
   "sourceId": "murakumo-jp-escape",
   "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
-  "fetchedAt": "2026-09-21",
+  "fetchedAt": "2026-09-22",
   "count": 13,
   "plugins": [
     {
@@ -381,12 +381,12 @@
       ],
       "InternalName": "AutoDuty",
       "RepoUrl": "https://github.com/erdelf/AutoDuty",
-      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.348/install/latest.zip",
-      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.348/update/latest.zip",
-      "AssemblyVersion": "0.0.0.348",
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.349/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.349/update/latest.zip",
+      "AssemblyVersion": "0.0.0.349",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "## What's Changed\r\n* RSR Targeting Freely by @erdelf in https://github.com/erdelf/AutoDuty/pull/463\r\n* Prevent overriding Crucible Pets with lower level by @erdelf in https://github.com/erdelf/AutoDuty/pull/464\r\n* fix duty mode scrollbar by @erdelf in https://github.com/erdelf/AutoDuty/pull/465\r\n* Bestiary sorting fix by @erdelf in https://github.com/erdelf/AutoDuty/pull/466\r\n* Disable Wrath block for BST by @erdelf in https://github.com/erdelf/AutoDuty/pull/467\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.347...0.0.0.348",
+      "Changelog": "## What's Changed\r\n*  Crucibles Board 2 and 3 by @Erisen8974 in https://github.com/erdelf/AutoDuty/pull/468\r\n* Adjust teamsize by duty by @erdelf in https://github.com/erdelf/AutoDuty/pull/476\r\n* (1342) First Master's board by @Erisen8974 in https://github.com/erdelf/AutoDuty/pull/475\r\n* Select highest beasts for fights by @erdelf in https://github.com/erdelf/AutoDuty/pull/480\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.348...0.0.0.349",
       "TestingAssemblyVersion": "0.0.0.339",
       "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.339/install/testing.zip",
       "TestingDalamudApiLevel": "15",
