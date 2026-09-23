@@ -1,7 +1,7 @@
 {
   "sourceId": "zhouhuichen741-dalamud-plugins",
   "url": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
-  "fetchedAt": "2026-09-20",
+  "fetchedAt": "2026-09-23",
   "count": 20,
   "plugins": [
     {
@@ -64,7 +64,7 @@
       ],
       "InternalName": "PandorasBox",
       "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-      "AssemblyVersion": "1.6.4.14",
+      "AssemblyVersion": "1.6.4.15",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PandorasBox/icon.png",
