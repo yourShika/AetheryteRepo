@@ -1,7 +1,7 @@
 {
   "sourceId": "murakumo-jp-escape",
   "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
-  "fetchedAt": "2026-09-22",
+  "fetchedAt": "2026-09-23",
   "count": 13,
   "plugins": [
     {
@@ -381,12 +381,12 @@
       ],
       "InternalName": "AutoDuty",
       "RepoUrl": "https://github.com/erdelf/AutoDuty",
-      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.349/install/latest.zip",
-      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.349/update/latest.zip",
-      "AssemblyVersion": "0.0.0.349",
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.351/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.351/update/latest.zip",
+      "AssemblyVersion": "0.0.0.351",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "## What's Changed\r\n*  Crucibles Board 2 and 3 by @Erisen8974 in https://github.com/erdelf/AutoDuty/pull/468\r\n* Adjust teamsize by duty by @erdelf in https://github.com/erdelf/AutoDuty/pull/476\r\n* (1342) First Master's board by @Erisen8974 in https://github.com/erdelf/AutoDuty/pull/475\r\n* Select highest beasts for fights by @erdelf in https://github.com/erdelf/AutoDuty/pull/480\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.348...0.0.0.349",
+      "Changelog": "## What's Changed\r\n* Paused state properly disabled by @erdelf in https://github.com/erdelf/AutoDuty/pull/484\r\n* Crucible Treasure improved by @erdelf in https://github.com/erdelf/AutoDuty/pull/485\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.350...0.0.0.351",
       "TestingAssemblyVersion": "0.0.0.339",
       "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.339/install/testing.zip",
       "TestingDalamudApiLevel": "15",
