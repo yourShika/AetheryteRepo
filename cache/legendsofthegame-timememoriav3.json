@@ -1,14 +1,14 @@
 {
   "sourceId": "legendsofthegame-timememoriav3",
   "url": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json",
-  "fetchedAt": "2026-09-13",
+  "fetchedAt": "2026-09-23",
   "count": 1,
   "plugins": [
     {
       "Author": "Legends of the Game",
       "Name": "Time Memoria",
       "InternalName": "TimeMemoriaV3",
-      "AssemblyVersion": "3.7.0.15",
+      "AssemblyVersion": "3.7.1.15",
       "Description": "Quest progression and pacing — a reflective notebook for your story journey, not a scoreboard.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/LegendsOfTheGame/TimeMemoriaV3",
@@ -36,7 +36,7 @@
       "DownloadLinkTesting": "https://github.com/LegendsOfTheGame/TimeMemoriaV3/releases/latest/download/latest.zip",
       "IconUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/assets/icon.png",
       "DownloadCount": 0,
-      "Changelog": "The Quests panel now lists every expansion's unfinished quests in one place, alongside the command that opens each.",
+      "Changelog": "Optional Ko-fi support button in Classic Credits and Native Settings; the Native Overview and Settings tabs now scroll instead of cutting off their last rows; Custom Deliveries now reads as Delivery Moogle carrier level.",
       "_SourceId": "legendsofthegame-timememoriav3",
       "_SourceName": "LegendsOfTheGame / TimeMemoriaV3",
       "_SourceUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json"
