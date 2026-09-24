@@ -1,7 +1,7 @@
 {
   "sourceId": "anomek-mydalamudplugins",
   "url": "https://raw.githubusercontent.com/anomek/MyDalamudPlugins/master/pluginmaster.json",
-  "fetchedAt": "2026-09-22",
+  "fetchedAt": "2026-09-24",
   "count": 3,
   "plugins": [
     {
@@ -10,7 +10,7 @@
       "Punchline": "Another FFXIV mechanics simulator. Go to an inn and start practice.",
       "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.",
       "InternalName": "AnoMech",
-      "AssemblyVersion": "0.4.1.0",
+      "AssemblyVersion": "0.4.2.0",
       "RepoUrl": "https://github.com/anomek/AnoMech",
       "ApplicableVersion": "any",
       "Tags": [
@@ -32,7 +32,7 @@
       "DownloadLinkTesting": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
       "DownloadLinkUpdate": "https://github.com/anomek/AnoMech/releases/latest/download/latest.zip",
       "DownloadCount": 5463,
-      "LastUpdate": "1790047593",
+      "LastUpdate": "1790269451",
       "_SourceId": "anomek-mydalamudplugins",
       "_SourceName": "anomek MyDalamudPlugins",
       "_SourceUrl": "https://raw.githubusercontent.com/anomek/MyDalamudPlugins/master/pluginmaster.json"
@@ -64,7 +64,7 @@
       "IsTestingExclusive": false,
       "DownloadLinkTesting": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
       "DownloadLinkUpdate": "https://github.com/Anomek/AutoTravel/releases/latest/download/latest.zip",
-      "DownloadCount": 871,
+      "DownloadCount": 891,
       "LastUpdate": "1782589111",
       "_SourceId": "anomek-mydalamudplugins",
       "_SourceName": "anomek MyDalamudPlugins",
@@ -95,7 +95,7 @@
       "IsTestingExclusive": false,
       "DownloadLinkTesting": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
       "DownloadLinkUpdate": "https://github.com/Anomek/TomestoneViewer/releases/latest/download/latest.zip",
-      "DownloadCount": 2439,
+      "DownloadCount": 2460,
       "LastUpdate": "1782586241",
       "_SourceId": "anomek-mydalamudplugins",
       "_SourceName": "anomek MyDalamudPlugins",
