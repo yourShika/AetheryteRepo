@@ -1,7 +1,7 @@
 {
   "sourceId": "punish-croizat",
   "url": "https://puni.sh/api/repository/croizat",
-  "fetchedAt": "2026-09-18",
+  "fetchedAt": "2026-09-24",
   "count": 3,
   "plugins": [
     {
@@ -12,7 +12,7 @@
       "Tags": [],
       "InternalName": "SomethingNeedDoing",
       "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
-      "DownloadCount": 809762,
+      "DownloadCount": 810552,
       "LastUpdate": 1788728171,
       "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.9/install/latest.zip",
       "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/15.9/update/latest.zip",
@@ -30,8 +30,8 @@
     {
       "Author": "croizat",
       "Name": "CBT 🐎",
-      "Punchline": "Extra illegal",
-      "Description": "Yet another tweaks collection plugin.",
+      "Punchline": "Yet another tweaks collection plugin.",
+      "Description": "Tweaks that are sometimes simple, sometimes not.",
       "Tags": [
         "automation",
         "plugin",
@@ -39,7 +39,7 @@
       ],
       "InternalName": "Automaton",
       "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-      "DownloadCount": 973774,
+      "DownloadCount": 987040,
       "LastUpdate": 1789744781,
       "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.218/install/latest.zip",
       "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/69.218/update/latest.zip",
@@ -64,7 +64,7 @@
       ],
       "InternalName": "GlamourLog",
       "RepoUrl": "https://github.com/Jaksuhn/ffxiv_glamourlog",
-      "DownloadCount": 34470,
+      "DownloadCount": 36042,
       "LastUpdate": 1789643274,
       "DownloadLinkInstall": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.69/install/latest.zip",
       "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/136/GlamourLog/versions/15.69/update/latest.zip",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-24T04:49:19.805Z",
-  "contentHash": "a818cded73bd05b9",
+  "generatedAt": "2026-09-24T11:44:40.207Z",
+  "contentHash": "11fe9a07d9c95e34",
   "totalPlugins": 598,
   "masterPlugins": 592,
   "currentApiLevel": 15,
@@ -2544,7 +2544,7 @@
       "kept": "erdelf",
       "dropped": "bees-repo",
       "keptVersion": "0.0.0.353",
-      "droppedVersion": "0.0.0.352"
+      "droppedVersion": "0.0.0.353"
     },
     {
       "internalName": "AutoHook",
@@ -3611,6 +3611,13 @@
       "droppedVersion": "1.0.1.10"
     },
     {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.2.7",
+      "droppedVersion": "4.6.2.7"
+    },
+    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3646,25 +3653,11 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.2.7",
-      "droppedVersion": "4.6.2.7"
-    },
-    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.5.3",
       "droppedVersion": "1.15.5.3"
-    },
-    {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.19",
-      "droppedVersion": "15.756.3.18"
     },
     {
       "internalName": "Marketbuddy",
@@ -3674,6 +3667,13 @@
       "droppedVersion": "0.2.4.2"
     },
     {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.3.20",
+      "droppedVersion": "15.756.3.19"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3681,11 +3681,11 @@
       "droppedVersion": "1.0.4.26"
     },
     {
-      "internalName": "Artisan",
+      "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.20",
-      "droppedVersion": "4.0.5.20"
+      "keptVersion": "2.1.2.2",
+      "droppedVersion": "2.1.2.2"
     },
     {
       "internalName": "Splatoon",
@@ -3695,11 +3695,11 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Saucy",
+      "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.2",
-      "droppedVersion": "2.1.2.2"
+      "keptVersion": "4.0.5.20",
+      "droppedVersion": "4.0.5.20"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3993,7 +3993,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.6.19",
-      "droppedVersion": "7.5.6.18"
+      "droppedVersion": "7.5.6.19"
     },
     {
       "internalName": "ActionTimelineReborn",
@@ -4874,7 +4874,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.756.3.19",
+      "keptVersion": "15.756.3.20",
       "droppedVersion": "15.756.3.19"
     },
     {
@@ -5211,7 +5211,7 @@
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.6.19",
-      "droppedVersion": "7.5.6.17"
+      "droppedVersion": "7.5.6.19"
     },
     {
       "internalName": "BossModReborn",
@@ -5742,7 +5742,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.756.3.19",
+      "keptVersion": "15.756.3.20",
       "droppedVersion": "4.13"
     },
     {
@@ -6771,7 +6771,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.756.3.19",
+      "keptVersion": "15.756.3.20",
       "droppedVersion": "5.31"
     },
     {
@@ -7044,7 +7044,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.756.3.19",
+      "keptVersion": "15.756.3.20",
       "droppedVersion": "99.0.0.0"
     },
     {
@@ -7098,10 +7098,10 @@
     },
     {
       "internalName": "MasterOfPuppets",
-      "kept": "zunetrix / DalamudPlugins",
-      "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
+      "kept": "pffxivtools / ffxiv-bard-plugins-linux",
+      "dropped": "zunetrix / DalamudPlugins",
       "keptVersion": "1.15.0.238",
-      "droppedVersion": "1.15.0.237"
+      "droppedVersion": "1.15.0.238"
     }
   ]
 }
