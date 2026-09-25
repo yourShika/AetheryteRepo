@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-25T04:56:43.327Z",
-  "contentHash": "6e6584b2d049ed07",
+  "generatedAt": "2026-09-25T11:49:46.972Z",
+  "contentHash": "228d4ec86a6c8f64",
   "totalPlugins": 600,
   "masterPlugins": 594,
   "currentApiLevel": 15,
@@ -2284,7 +2284,7 @@
       "name": "wasdcxz / DalamudPlugins",
       "url": "https://raw.githubusercontent.com/wasdcxz/DalamudPlugins/main/pluginmaster.json",
       "status": "ok",
-      "count": 3,
+      "count": 2,
       "note": null
     },
     {
@@ -2543,8 +2543,8 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.357",
-      "droppedVersion": "0.0.0.354"
+      "keptVersion": "0.0.0.358",
+      "droppedVersion": "0.0.0.357"
     },
     {
       "internalName": "AutoHook",
@@ -3320,7 +3320,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.357",
+      "keptVersion": "0.0.0.358",
       "droppedVersion": "0.0.0.357"
     },
     {
@@ -3632,13 +3632,6 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.2.0",
-      "droppedVersion": "6.0.2.0"
-    },
-    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3653,11 +3646,11 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.5.3",
-      "droppedVersion": "1.15.5.3"
+      "keptVersion": "6.0.2.0",
+      "droppedVersion": "6.0.2.0"
     },
     {
       "internalName": "Marketbuddy",
@@ -3667,11 +3660,18 @@
       "droppedVersion": "0.2.4.2"
     },
     {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.5.3",
+      "droppedVersion": "1.15.5.3"
+    },
+    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.20",
-      "droppedVersion": "15.756.3.20"
+      "keptVersion": "15.756.3.22",
+      "droppedVersion": "15.756.3.22"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "4.0.5.20"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.2",
-      "droppedVersion": "2.1.2.2"
-    },
-    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.25",
       "droppedVersion": "3.9.2.25"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.2",
+      "droppedVersion": "2.1.2.2"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4069,7 +4069,7 @@
       "internalName": "GlamourLog",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.69",
+      "keptVersion": "15.73",
       "droppedVersion": "15.69"
     },
     {
@@ -4881,7 +4881,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.756.3.20",
+      "keptVersion": "15.756.3.22",
       "droppedVersion": "15.756.3.20"
     },
     {
@@ -5441,7 +5441,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.357",
+      "keptVersion": "0.0.0.358",
       "droppedVersion": "0.0.0.182"
     },
     {
@@ -5749,7 +5749,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.756.3.20",
+      "keptVersion": "15.756.3.22",
       "droppedVersion": "4.13"
     },
     {
@@ -6778,14 +6778,14 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.756.3.20",
+      "keptVersion": "15.756.3.22",
       "droppedVersion": "5.31"
     },
     {
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "0.0.0.357",
+      "keptVersion": "0.0.0.358",
       "droppedVersion": "0.0.0.307"
     },
     {
@@ -7020,25 +7020,18 @@
       "droppedVersion": "0.8.0.11"
     },
     {
-      "internalName": "CharacterSelectPlugin",
-      "kept": "Character Select+",
-      "dropped": "wasdcxz / DalamudPlugins",
-      "keptVersion": "2.1.2.2",
-      "droppedVersion": "2.1.1.2"
-    },
-    {
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "wasdcxz / DalamudPlugins",
       "keptVersion": "7.5.6.1",
-      "droppedVersion": "7.5.5.0"
+      "droppedVersion": "7.5.6.1"
     },
     {
       "internalName": "Glamourer",
       "kept": "Glamourer",
       "dropped": "wasdcxz / DalamudPlugins",
       "keptVersion": "1.7.1.3",
-      "droppedVersion": "1.6.1.7"
+      "droppedVersion": "1.7.1.3"
     },
     {
       "internalName": "Influx",
@@ -7051,7 +7044,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.756.3.20",
+      "keptVersion": "15.756.3.22",
       "droppedVersion": "99.0.0.0"
     },
     {
