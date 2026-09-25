@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-25T11:49:46.972Z",
-  "contentHash": "228d4ec86a6c8f64",
+  "generatedAt": "2026-09-25T17:10:13.973Z",
+  "contentHash": "ecc3345bda2e3921",
   "totalPlugins": 600,
   "masterPlugins": 594,
   "currentApiLevel": 15,
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 126,
+      "count": 125,
       "file": "repos/automation.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 18,
+      "count": 19,
       "file": "repos/misc.json"
     }
   ],
@@ -2480,14 +2480,14 @@
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.2.0.0",
+      "keptVersion": "2.2.1.0",
       "droppedVersion": "2.0.4.4"
     },
     {
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.2.0.0",
+      "keptVersion": "2.2.1.0",
       "droppedVersion": "1.9.3.3"
     },
     {
@@ -2544,7 +2544,7 @@
       "kept": "erdelf",
       "dropped": "bees-repo",
       "keptVersion": "0.0.0.358",
-      "droppedVersion": "0.0.0.357"
+      "droppedVersion": "0.0.0.358"
     },
     {
       "internalName": "AutoHook",
@@ -3321,7 +3321,7 @@
       "kept": "erdelf",
       "dropped": "eScape",
       "keptVersion": "0.0.0.358",
-      "droppedVersion": "0.0.0.357"
+      "droppedVersion": "0.0.0.358"
     },
     {
       "internalName": "Brio",
@@ -3632,6 +3632,13 @@
       "droppedVersion": "2.2.0.13"
     },
     {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.2.0",
+      "droppedVersion": "6.0.2.0"
+    },
+    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3646,11 +3653,11 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.2.0",
-      "droppedVersion": "6.0.2.0"
+      "keptVersion": "1.15.5.3",
+      "droppedVersion": "1.15.5.3"
     },
     {
       "internalName": "Marketbuddy",
@@ -3658,13 +3665,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
-    },
-    {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.5.3",
-      "droppedVersion": "1.15.5.3"
     },
     {
       "internalName": "Questionable",
@@ -3681,18 +3681,18 @@
       "droppedVersion": "1.0.4.26"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.20",
-      "droppedVersion": "4.0.5.20"
-    },
-    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.25",
       "droppedVersion": "3.9.2.25"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.20",
+      "droppedVersion": "4.0.5.20"
     },
     {
       "internalName": "Saucy",
@@ -4070,7 +4070,7 @@
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
       "keptVersion": "15.73",
-      "droppedVersion": "15.69"
+      "droppedVersion": "15.73"
     },
     {
       "internalName": "BattleLog",
@@ -5336,21 +5336,21 @@
       "internalName": "NyaDraw",
       "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "1.15.1.6",
+      "keptVersion": "1.15.1.7",
       "droppedVersion": "1.0.12.9992"
     },
     {
       "internalName": "NyaDraw",
       "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "1.15.1.6",
+      "keptVersion": "1.15.1.7",
       "droppedVersion": "1.13.1.8"
     },
     {
       "internalName": "NyaDraw",
       "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "1.15.1.6",
+      "keptVersion": "1.15.1.7",
       "droppedVersion": "1.14.0.35"
     },
     {
@@ -6890,7 +6890,7 @@
       "internalName": "MiniGamesEmporium",
       "kept": "OOF Games",
       "dropped": "OOFGamesss / OOFGamesPlugins",
-      "keptVersion": "0.0.16.3",
+      "keptVersion": "0.0.16.4",
       "droppedVersion": "0.0.10.1"
     },
     {
@@ -7049,10 +7049,10 @@
     },
     {
       "internalName": "AethertekPluginManager",
-      "kept": "xa-io / MyDalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
       "keptVersion": "0.0.0.5",
-      "droppedVersion": "0.0.0.4"
+      "droppedVersion": "0.0.0.5"
     },
     {
       "internalName": "XADatabase",
@@ -7094,7 +7094,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "xivhub / pluginmaster",
       "keptVersion": "4.0.5.20",
-      "droppedVersion": "4.0.5.38"
+      "droppedVersion": "4.0.5.39"
     },
     {
       "internalName": "MasterOfPuppets",
