@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-09-24",
+  "fetchedAt": "2026-09-25",
   "count": 51,
   "plugins": [
     {
@@ -71,13 +71,13 @@
       "InternalName": "AutoDuty",
       "RepoUrl": "https://github.com/erdelf/AutoDuty",
       "DownloadCount": 69696969,
-      "LastUpdate": 1790210900,
+      "LastUpdate": 1790271291,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoDuty.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoDuty.zip",
-      "AssemblyVersion": "0.0.0.353",
+      "AssemblyVersion": "0.0.0.354",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "## What's Changed\r\n* i18n: Update zh-TW translations by @baihu7851 in https://github.com/erdelf/AutoDuty/pull/490\r\n* (1341) Third Board of the Unbroken: Changed Fight from Zu to right path by @Erisen8974 in https://github.com/erdelf/AutoDuty/pull/489\r\n* Crucible Feed Fix by @erdelf in https://github.com/erdelf/AutoDuty/pull/496\r\n* Close Shop and Treasure if disabled by @erdelf in https://github.com/erdelf/AutoDuty/pull/497\r\n\r\n## New Contributors\r\n* @baihu7851 made their first contribution in https://github.com/erdelf/AutoDuty/pull/490\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.352...0.0.0.353",
+      "Changelog": "## What's Changed\r\n* treasure skip fixed by @erdelf in https://github.com/erdelf/AutoDuty/pull/499\r\n* Crucible: Open Board Debug logging by @erdelf in https://github.com/erdelf/AutoDuty/pull/500\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.353...0.0.0.354",
       "TestingDalamudApiLevel": "15",
       "IconUrl": "https://puni.sh/api/plugins/icon/54",
       "ImageUrls": [

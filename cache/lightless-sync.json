@@ -1,7 +1,7 @@
 {
   "sourceId": "lightless-sync",
   "url": "https://repo.lightless-sync.org/",
-  "fetchedAt": "2026-09-24",
+  "fetchedAt": "2026-09-25",
   "count": 1,
   "plugins": [
     {
@@ -9,7 +9,7 @@
       "Name": "Lightless Sync",
       "InternalName": "LightlessSync",
       "AssemblyVersion": "3.3.0.0",
-      "TestingAssemblyVersion": "3.3.0.68",
+      "TestingAssemblyVersion": "3.3.0.69",
       "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",

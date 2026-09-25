@@ -1,7 +1,7 @@
 {
   "sourceId": "murakumo-jp-escape",
   "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
-  "fetchedAt": "2026-09-24",
+  "fetchedAt": "2026-09-25",
   "count": 13,
   "plugins": [
     {
@@ -381,12 +381,12 @@
       ],
       "InternalName": "AutoDuty",
       "RepoUrl": "https://github.com/erdelf/AutoDuty",
-      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.354/install/latest.zip",
-      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.354/update/latest.zip",
-      "AssemblyVersion": "0.0.0.354",
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.357/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.357/update/latest.zip",
+      "AssemblyVersion": "0.0.0.357",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "## What's Changed\r\n* treasure skip fixed by @erdelf in https://github.com/erdelf/AutoDuty/pull/499\r\n* Crucible: Open Board Debug logging by @erdelf in https://github.com/erdelf/AutoDuty/pull/500\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.353...0.0.0.354",
+      "Changelog": "## What's Changed\r\n* Feeding fix.. ? by @erdelf in https://github.com/erdelf/AutoDuty/pull/509\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.356...0.0.0.357",
       "TestingAssemblyVersion": "0.0.0.339",
       "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.339/install/testing.zip",
       "TestingDalamudApiLevel": "15",
