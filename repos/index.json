@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-26T21:09:31.390Z",
-  "contentHash": "330c88c1673b8444",
-  "totalPlugins": 601,
-  "masterPlugins": 595,
+  "generatedAt": "2026-09-26T23:38:07.022Z",
+  "contentHash": "db9d02ceb4930b90",
+  "totalPlugins": 602,
+  "masterPlugins": 596,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -1548,7 +1548,7 @@
       "name": "TomokPlugins",
       "url": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/pluginmaster.json",
       "status": "ok",
-      "count": 6,
+      "count": 7,
       "note": null
     },
     {
@@ -2382,7 +2382,7 @@
       "name": "Social & Roleplay",
       "emoji": "🎭",
       "description": "RP-Profile, Emotes, Free Company, Discord",
-      "count": 52,
+      "count": 53,
       "file": "repos/social.json"
     },
     {
@@ -2432,7 +2432,7 @@
       "kept": "Penumbra",
       "dropped": "Sea of Stars",
       "keptVersion": "1.7.2.1",
-      "droppedVersion": "1.7.2.0"
+      "droppedVersion": "1.7.2.1"
     },
     {
       "internalName": "Glamourer",
@@ -2543,8 +2543,8 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.362",
-      "droppedVersion": "0.0.0.361"
+      "keptVersion": "0.0.0.363",
+      "droppedVersion": "0.0.0.362"
     },
     {
       "internalName": "AutoHook",
@@ -2599,7 +2599,7 @@
       "internalName": "HaselDebug",
       "kept": "bees-repo",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "1.75.0.0",
+      "keptVersion": "1.75.1.0",
       "droppedVersion": "1.73.0.0"
     },
     {
@@ -2656,7 +2656,7 @@
       "kept": "Penumbra",
       "dropped": "bees-repo",
       "keptVersion": "1.7.2.1",
-      "droppedVersion": "1.7.2.0"
+      "droppedVersion": "1.7.2.1"
     },
     {
       "internalName": "Saucy",
@@ -2711,8 +2711,8 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "1.15.6.0",
-      "droppedVersion": "1.15.5.3"
+      "keptVersion": "1.15.7.0",
+      "droppedVersion": "1.15.6.0"
     },
     {
       "internalName": "Brio",
@@ -3187,7 +3187,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "1.15.6.0",
+      "keptVersion": "1.15.7.0",
       "droppedVersion": "1.2.2.3"
     },
     {
@@ -3237,7 +3237,7 @@
       "kept": "Penumbra",
       "dropped": "eScape",
       "keptVersion": "1.7.2.1",
-      "droppedVersion": "1.7.2.0"
+      "droppedVersion": "1.7.2.1"
     },
     {
       "internalName": "Glamourer",
@@ -3320,7 +3320,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.362",
+      "keptVersion": "0.0.0.363",
       "droppedVersion": "0.0.0.362"
     },
     {
@@ -3360,10 +3360,10 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "Haselnussbomber",
-      "dropped": "bees-repo",
+      "kept": "bees-repo",
+      "dropped": "Haselnussbomber",
       "keptVersion": "1.75.1.0",
-      "droppedVersion": "1.75.0.0"
+      "droppedVersion": "1.75.1.0"
     },
     {
       "internalName": "HaselTweaks",
@@ -3604,18 +3604,18 @@
       "droppedVersion": "1.1.0.2"
     },
     {
-      "internalName": "Orbwalker",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.0.1.10",
-      "droppedVersion": "1.0.1.10"
-    },
-    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.6.2.7",
       "droppedVersion": "4.6.2.7"
+    },
+    {
+      "internalName": "Orbwalker",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.1.10",
+      "droppedVersion": "1.0.1.10"
     },
     {
       "internalName": "PandorasBox",
@@ -3632,18 +3632,18 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.2.0",
-      "droppedVersion": "6.0.2.0"
-    },
-    {
       "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.16.0.0",
       "droppedVersion": "4.16.0.0"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.2.0",
+      "droppedVersion": "6.0.2.0"
     },
     {
       "internalName": "LazyLoot",
@@ -3653,11 +3653,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.6.0",
-      "droppedVersion": "1.15.6.0"
+      "keptVersion": "15.756.3.22",
+      "droppedVersion": "15.756.3.22"
     },
     {
       "internalName": "Marketbuddy",
@@ -3667,11 +3667,11 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "Questionable",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.22",
-      "droppedVersion": "15.756.3.22"
+      "keptVersion": "1.15.7.0",
+      "droppedVersion": "1.15.6.0"
     },
     {
       "internalName": "WrathCombo",
@@ -3913,7 +3913,7 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "Haselnussbomber",
+      "kept": "bees-repo",
       "dropped": "MEGA Repository",
       "keptVersion": "1.75.1.0",
       "droppedVersion": "1.75.1.0"
@@ -3993,7 +3993,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.6.22",
-      "droppedVersion": "7.5.6.21"
+      "droppedVersion": "7.5.6.22"
     },
     {
       "internalName": "ActionTimelineReborn",
@@ -4182,7 +4182,7 @@
       "kept": "Penumbra",
       "dropped": "MEGA Repository",
       "keptVersion": "1.7.2.1",
-      "droppedVersion": "1.7.2.0"
+      "droppedVersion": "1.7.2.1"
     },
     {
       "internalName": "CustomizePlus",
@@ -4398,7 +4398,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MyDalamudPlugins",
-      "keptVersion": "1.15.6.0",
+      "keptVersion": "1.15.7.0",
       "droppedVersion": "1.2.2.1"
     },
     {
@@ -5063,7 +5063,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.15.6.0",
+      "keptVersion": "1.15.7.0",
       "droppedVersion": "1.15.5.3"
     },
     {
@@ -5441,7 +5441,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.362",
+      "keptVersion": "0.0.0.363",
       "droppedVersion": "0.0.0.182"
     },
     {
@@ -5896,7 +5896,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.15.6.0",
+      "keptVersion": "1.15.7.0",
       "droppedVersion": "1.9.0"
     },
     {
@@ -6601,7 +6601,7 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "Haselnussbomber",
+      "kept": "bees-repo",
       "dropped": "Haselnussbomber / DalamudPlugins",
       "keptVersion": "1.75.1.0",
       "droppedVersion": "1.75.1.0"
@@ -6792,7 +6792,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "0.0.0.362",
+      "keptVersion": "0.0.0.363",
       "droppedVersion": "0.0.0.307"
     },
     {
@@ -6911,7 +6911,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "OpaqueReptile / daemitus_MyDalamudPlugins",
-      "keptVersion": "1.15.6.0",
+      "keptVersion": "1.15.7.0",
       "droppedVersion": "1.2.2.1"
     },
     {

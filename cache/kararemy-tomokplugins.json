@@ -1,8 +1,8 @@
 {
   "sourceId": "kararemy-tomokplugins",
   "url": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-09-16",
-  "count": 6,
+  "fetchedAt": "2026-09-26",
+  "count": 7,
   "plugins": [
     {
       "Author": "Tomok",
@@ -166,6 +166,34 @@
       "TestingDalamudApiLevel": 15,
       "IsTestingExclusive": true,
       "IsHide": false,
+      "_SourceId": "kararemy-tomokplugins",
+      "_SourceName": "TomokPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/pluginmaster.json"
+    },
+    {
+      "Author": "Tomok",
+      "Name": "BartenderHelper",
+      "InternalName": "BartenderHelper",
+      "AssemblyVersion": "0.0.1.0",
+      "Description": "Manage bar drink menus, execute timed RP macros with drag-and-drop step ordering, track drink sales counters, broadcast venue announcements, and share portable drink packages.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/KaraRemy/TomokPlugins",
+      "DalamudApiLevel": 15,
+      "DownloadCount": 0,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/BartenderHelper/latest.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/BartenderHelper/latest.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/BartenderHelper/latest.zip",
+      "Punchline": "FFXIV Bartending, drink recipes, macros, and venue advertisement manager.",
+      "Tags": [
+        "rp",
+        "bar",
+        "venue",
+        "recipes",
+        "macro"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/BartenderHelper/icon.png",
+      "IsHide": false,
+      "IsTestingExclusive": false,
       "_SourceId": "kararemy-tomokplugins",
       "_SourceName": "TomokPlugins",
       "_SourceUrl": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/pluginmaster.json"
