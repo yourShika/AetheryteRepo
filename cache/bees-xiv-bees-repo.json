@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-09-25",
+  "fetchedAt": "2026-09-26",
   "count": 51,
   "plugins": [
     {
@@ -38,13 +38,13 @@
       "InternalName": "Artisan",
       "RepoUrl": "https://github.com/PunishXIV/Artisan",
       "DownloadCount": 69696969,
-      "LastUpdate": 1789308686,
+      "LastUpdate": 1790362692,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Artisan.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Artisan.zip",
-      "AssemblyVersion": "4.0.5.20",
+      "AssemblyVersion": "4.0.5.21",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "- Update premade lists.",
+      "Changelog": "- Allow copy of premade lists into user lists.\n- Fix export of premade lists.",
       "TestingDalamudApiLevel": "15",
       "IconUrl": "https://puni.sh/api/plugins/icon/6",
       "IsHide": false,
