@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T04:57:09.376Z",
-  "contentHash": "9ea55371708b9bcb",
+  "generatedAt": "2026-09-26T11:23:51.981Z",
+  "contentHash": "de66c1d5eed00b2f",
   "totalPlugins": 601,
   "masterPlugins": 595,
   "currentApiLevel": 15,
@@ -2543,8 +2543,8 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.360",
-      "droppedVersion": "0.0.0.358"
+      "keptVersion": "0.0.0.361",
+      "droppedVersion": "0.0.0.360"
     },
     {
       "internalName": "AutoHook",
@@ -3320,7 +3320,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.360",
+      "keptVersion": "0.0.0.361",
       "droppedVersion": "0.0.0.360"
     },
     {
@@ -3632,6 +3632,13 @@
       "droppedVersion": "1.6.4.4"
     },
     {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.2.0",
+      "droppedVersion": "6.0.2.0"
+    },
+    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3644,13 +3651,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.16.0.0",
       "droppedVersion": "4.16.0.0"
-    },
-    {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.2.0",
-      "droppedVersion": "6.0.2.0"
     },
     {
       "internalName": "Questionable",
@@ -3681,18 +3681,18 @@
       "droppedVersion": "1.0.4.26"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.2",
-      "droppedVersion": "2.1.2.2"
-    },
-    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.25",
       "droppedVersion": "3.9.2.25"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.2",
+      "droppedVersion": "2.1.2.2"
     },
     {
       "internalName": "Artisan",
@@ -3993,7 +3993,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.6.20",
-      "droppedVersion": "7.5.6.19"
+      "droppedVersion": "7.5.6.20"
     },
     {
       "internalName": "ActionTimelineReborn",
@@ -5218,7 +5218,7 @@
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.6.20",
-      "droppedVersion": "7.5.6.19"
+      "droppedVersion": "7.5.6.20"
     },
     {
       "internalName": "BossModReborn",
@@ -5441,7 +5441,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.360",
+      "keptVersion": "0.0.0.361",
       "droppedVersion": "0.0.0.182"
     },
     {
@@ -6785,7 +6785,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "0.0.0.360",
+      "keptVersion": "0.0.0.361",
       "droppedVersion": "0.0.0.307"
     },
     {
@@ -7094,7 +7094,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "xivhub / pluginmaster",
       "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.40"
+      "droppedVersion": "4.0.5.42"
     },
     {
       "internalName": "MasterOfPuppets",

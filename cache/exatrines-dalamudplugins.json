@@ -1,7 +1,7 @@
 {
   "sourceId": "exatrines-dalamudplugins",
   "url": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-09-25",
+  "fetchedAt": "2026-09-26",
   "count": 7,
   "plugins": [
     {
@@ -25,7 +25,7 @@
       ],
       "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
       "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
-      "DownloadCount": 1114,
+      "DownloadCount": 1209,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",
@@ -53,7 +53,7 @@
       ],
       "DownloadLinkInstall": "https://github.com/exatrines/SlideGuide/releases/latest/download/SlideGuide.zip",
       "DownloadLinkUpdate": "https://github.com/exatrines/SlideGuide/releases/latest/download/SlideGuide.zip",
-      "DownloadCount": 48,
+      "DownloadCount": 51,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",
@@ -70,10 +70,10 @@
       "ImageUrls": [
         "https://raw.githubusercontent.com/exatrines/EnhancedQuickPanel/master/docs/screenshots/en/overlay.png"
       ],
-      "AssemblyVersion": "1.0.10.0",
+      "AssemblyVersion": "1.0.11.0",
       "RepoUrl": "https://github.com/exatrines/EnhancedQuickPanel",
-      "DownloadLinkInstall": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.10.0/EnhancedQuickPanel.zip",
-      "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.10.0/EnhancedQuickPanel.zip",
+      "DownloadLinkInstall": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.11.0/EnhancedQuickPanel.zip",
+      "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.0.11.0/EnhancedQuickPanel.zip",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "Tags": [
@@ -81,7 +81,7 @@
         "commandpanel",
         "ui"
       ],
-      "DownloadCount": 366,
+      "DownloadCount": 410,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",
@@ -111,7 +111,7 @@
       ],
       "DownloadLinkInstall": "https://github.com/exatrines/Veilay/releases/latest/download/Veilay.zip",
       "DownloadLinkUpdate": "https://github.com/exatrines/Veilay/releases/latest/download/Veilay.zip",
-      "DownloadCount": 28,
+      "DownloadCount": 30,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",
@@ -124,7 +124,7 @@
       "Punchline": "Manual mark assist via party-aligned hotbar highlights.",
       "Description": "Highlights mark-macro hotbar slots by party order for manual marking.",
       "InternalName": "Goetia",
-      "AssemblyVersion": "1.0.2.0",
+      "AssemblyVersion": "1.1.0.0",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "RepoUrl": "https://github.com/exatrines/Goetia",
@@ -138,9 +138,9 @@
       "ImageUrls": [
         "https://raw.githubusercontent.com/exatrines/Goetia/main/docs/screenshots/party-highlight-1280x720.png"
       ],
-      "DownloadLinkInstall": "https://github.com/exatrines/Goetia/releases/latest/download/Goetia.zip",
-      "DownloadLinkUpdate": "https://github.com/exatrines/Goetia/releases/latest/download/Goetia.zip",
-      "DownloadCount": 27,
+      "DownloadLinkInstall": "https://github.com/exatrines/Goetia/releases/download/v1.1.0/Goetia.zip",
+      "DownloadLinkUpdate": "https://github.com/exatrines/Goetia/releases/download/v1.1.0/Goetia.zip",
+      "DownloadCount": 28,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",
@@ -166,7 +166,7 @@
       ],
       "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/AutoFrontlineIcon.png",
       "ImageUrl": "",
-      "DownloadCount": 1108,
+      "DownloadCount": 1113,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",
@@ -192,7 +192,7 @@
       ],
       "IconUrl": "https://raw.githubusercontent.com/exatrines/DTROverlay/main/DTROverlay/Data/plugin-icon.png",
       "ImageUrl": "",
-      "DownloadCount": 220,
+      "DownloadCount": 288,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",
