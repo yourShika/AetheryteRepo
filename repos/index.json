@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T23:38:07.022Z",
-  "contentHash": "db9d02ceb4930b90",
+  "generatedAt": "2026-09-27T05:17:35.642Z",
+  "contentHash": "52eb9e0472980956",
   "totalPlugins": 602,
   "masterPlugins": 596,
   "currentApiLevel": 15,
@@ -3321,7 +3321,7 @@
       "kept": "erdelf",
       "dropped": "eScape",
       "keptVersion": "0.0.0.363",
-      "droppedVersion": "0.0.0.362"
+      "droppedVersion": "0.0.0.363"
     },
     {
       "internalName": "Brio",
@@ -3604,18 +3604,18 @@
       "droppedVersion": "1.1.0.2"
     },
     {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.2.7",
-      "droppedVersion": "4.6.2.7"
-    },
-    {
       "internalName": "Orbwalker",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.1.10",
       "droppedVersion": "1.0.1.10"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.2.7",
+      "droppedVersion": "4.6.2.7"
     },
     {
       "internalName": "PandorasBox",
@@ -3632,13 +3632,6 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3651,6 +3644,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "5.3.3.3",
       "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "Questionable",
@@ -3671,7 +3671,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.7.0",
-      "droppedVersion": "1.15.6.0"
+      "droppedVersion": "1.15.7.0"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "2.1.2.2"
     },
     {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.25",
-      "droppedVersion": "3.9.2.25"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.25",
+      "droppedVersion": "3.9.2.25"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4287,7 +4287,7 @@
       "kept": "Penumbra",
       "dropped": "MeowZWR / DalamudPlugin",
       "keptVersion": "1.7.2.1",
-      "droppedVersion": "1.7.2.2"
+      "droppedVersion": "1.7.2.3"
     },
     {
       "internalName": "Glamourer",
@@ -4567,7 +4567,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.6.22",
-      "droppedVersion": "7.5.6.20"
+      "droppedVersion": "7.5.6.22"
     },
     {
       "internalName": "Brio",
@@ -4847,7 +4847,7 @@
       "kept": "Penumbra",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.7.2.1",
-      "droppedVersion": "1.7.2.0"
+      "droppedVersion": "1.7.2.1"
     },
     {
       "internalName": "Prioritizer",
@@ -5064,7 +5064,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.15.7.0",
-      "droppedVersion": "1.15.5.3"
+      "droppedVersion": "1.15.7.0"
     },
     {
       "internalName": "ZodiacBuddyReborn",

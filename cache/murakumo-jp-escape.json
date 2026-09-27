@@ -1,7 +1,7 @@
 {
   "sourceId": "murakumo-jp-escape",
   "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
-  "fetchedAt": "2026-09-26",
+  "fetchedAt": "2026-09-27",
   "count": 13,
   "plugins": [
     {
@@ -381,12 +381,12 @@
       ],
       "InternalName": "AutoDuty",
       "RepoUrl": "https://github.com/erdelf/AutoDuty",
-      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.362/install/latest.zip",
-      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.362/update/latest.zip",
-      "AssemblyVersion": "0.0.0.362",
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.363/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.363/update/latest.zip",
+      "AssemblyVersion": "0.0.0.363",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "## What's Changed\r\n* Crucible Loot has up to 4 choices by @erdelf in https://github.com/erdelf/AutoDuty/pull/520\r\n* [Crucible] Add support for user-configurable shop priority by @learn2draw in https://github.com/erdelf/AutoDuty/pull/518\r\n* Crucible Update Ranks & XP on Result screen by @erdelf in https://github.com/erdelf/AutoDuty/pull/522\r\n* Crucible Shop Prio minor changes by @erdelf in https://github.com/erdelf/AutoDuty/pull/523\r\n\r\n## New Contributors\r\n* @learn2draw made their first contribution in https://github.com/erdelf/AutoDuty/pull/518\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.361...0.0.0.362",
+      "Changelog": "## What's Changed\r\n* Crucible items can appear twice and still take up two slots by @erdelf in https://github.com/erdelf/AutoDuty/pull/525\r\n* Execute locked loop actions regardless of enabled (aka playlist fix) by @erdelf in https://github.com/erdelf/AutoDuty/pull/526\r\n* Old config issues removed by @erdelf in https://github.com/erdelf/AutoDuty/pull/527\r\n* Fix Chat command config selection by @erdelf in https://github.com/erdelf/AutoDuty/pull/528\r\n* Adjusting chat command detection  by @erdelf in https://github.com/erdelf/AutoDuty/pull/529\r\n* Wait Before Leaving Option by @erdelf in https://github.com/erdelf/AutoDuty/pull/530\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.362...0.0.0.363",
       "TestingAssemblyVersion": "0.0.0.339",
       "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.339/install/testing.zip",
       "TestingDalamudApiLevel": "15",
