@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-09-26",
+  "fetchedAt": "2026-09-27",
   "count": 51,
   "plugins": [
     {
@@ -71,13 +71,13 @@
       "InternalName": "AutoDuty",
       "RepoUrl": "https://github.com/erdelf/AutoDuty",
       "DownloadCount": 69696969,
-      "LastUpdate": 1790444237,
+      "LastUpdate": 1790464634,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoDuty.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoDuty.zip",
-      "AssemblyVersion": "0.0.0.362",
+      "AssemblyVersion": "0.0.0.363",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "## What's Changed\r\n* Crucible Loot has up to 4 choices by @erdelf in https://github.com/erdelf/AutoDuty/pull/520\r\n* [Crucible] Add support for user-configurable shop priority by @learn2draw in https://github.com/erdelf/AutoDuty/pull/518\r\n* Crucible Update Ranks & XP on Result screen by @erdelf in https://github.com/erdelf/AutoDuty/pull/522\r\n* Crucible Shop Prio minor changes by @erdelf in https://github.com/erdelf/AutoDuty/pull/523\r\n\r\n## New Contributors\r\n* @learn2draw made their first contribution in https://github.com/erdelf/AutoDuty/pull/518\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.361...0.0.0.362",
+      "Changelog": "## What's Changed\r\n* Crucible items can appear twice and still take up two slots by @erdelf in https://github.com/erdelf/AutoDuty/pull/525\r\n* Execute locked loop actions regardless of enabled (aka playlist fix) by @erdelf in https://github.com/erdelf/AutoDuty/pull/526\r\n* Old config issues removed by @erdelf in https://github.com/erdelf/AutoDuty/pull/527\r\n* Fix Chat command config selection by @erdelf in https://github.com/erdelf/AutoDuty/pull/528\r\n* Adjusting chat command detection  by @erdelf in https://github.com/erdelf/AutoDuty/pull/529\r\n* Wait Before Leaving Option by @erdelf in https://github.com/erdelf/AutoDuty/pull/530\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.362...0.0.0.363",
       "TestingDalamudApiLevel": "15",
       "IconUrl": "https://puni.sh/api/plugins/icon/54",
       "ImageUrls": [
@@ -1549,10 +1549,10 @@
       "InternalName": "YesAlready",
       "RepoUrl": "https://github.com/PunishXIV/YesAlready",
       "DownloadCount": 69696969,
-      "LastUpdate": 1790444066,
+      "LastUpdate": 1790459575,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/YesAlready.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/YesAlready.zip",
-      "AssemblyVersion": "1.15.6.0",
+      "AssemblyVersion": "1.15.7.0",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "Changelog": "",
