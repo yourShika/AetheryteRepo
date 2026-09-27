@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T12:00:58.991Z",
-  "contentHash": "95f8c8710de226fd",
+  "generatedAt": "2026-09-27T16:57:59.262Z",
+  "contentHash": "e71dab97e517845a",
   "totalPlugins": 602,
   "masterPlugins": 596,
   "currentApiLevel": 15,
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 126,
+      "count": 125,
       "file": "repos/automation.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 18,
+      "count": 19,
       "file": "repos/misc.json"
     }
   ],
@@ -2543,7 +2543,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.363",
+      "keptVersion": "0.0.0.365",
       "droppedVersion": "0.0.0.363"
     },
     {
@@ -2670,7 +2670,7 @@
       "kept": "Sea of Stars",
       "dropped": "bees-repo",
       "keptVersion": "0.11.1.12",
-      "droppedVersion": "0.11.1.11"
+      "droppedVersion": "0.11.1.12"
     },
     {
       "internalName": "Splatoon",
@@ -2711,7 +2711,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "1.15.7.0",
+      "keptVersion": "1.15.7.1",
       "droppedVersion": "1.15.7.0"
     },
     {
@@ -3187,7 +3187,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "1.15.7.0",
+      "keptVersion": "1.15.7.1",
       "droppedVersion": "1.2.2.3"
     },
     {
@@ -3320,7 +3320,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.363",
+      "keptVersion": "0.0.0.365",
       "droppedVersion": "0.0.0.363"
     },
     {
@@ -3632,11 +3632,11 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "PalacePal",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "AutoHook",
@@ -3646,17 +3646,17 @@
       "droppedVersion": "6.0.2.0"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "PalacePal",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.0",
+      "keptVersion": "1.15.7.1",
       "droppedVersion": "1.15.7.0"
     },
     {
@@ -3681,11 +3681,11 @@
       "droppedVersion": "1.0.4.26"
     },
     {
-      "internalName": "Saucy",
+      "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.2",
-      "droppedVersion": "2.1.2.2"
+      "keptVersion": "4.0.5.21",
+      "droppedVersion": "4.0.5.21"
     },
     {
       "internalName": "Splatoon",
@@ -3695,11 +3695,11 @@
       "droppedVersion": "3.9.2.25"
     },
     {
-      "internalName": "Artisan",
+      "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.21"
+      "keptVersion": "2.1.2.2",
+      "droppedVersion": "2.1.2.2"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4398,7 +4398,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MyDalamudPlugins",
-      "keptVersion": "1.15.7.0",
+      "keptVersion": "1.15.7.1",
       "droppedVersion": "1.2.2.1"
     },
     {
@@ -4454,7 +4454,7 @@
       "internalName": "Aetherphone",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.3.4",
+      "keptVersion": "1.0.3.6",
       "droppedVersion": "1.0.3.4"
     },
     {
@@ -4482,7 +4482,7 @@
       "internalName": "AutoFateGrind",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.13.0.0",
+      "keptVersion": "2.14.0.0",
       "droppedVersion": "2.13.0.0"
     },
     {
@@ -5063,7 +5063,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.15.7.0",
+      "keptVersion": "1.15.7.1",
       "droppedVersion": "1.15.7.0"
     },
     {
@@ -5441,7 +5441,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.363",
+      "keptVersion": "0.0.0.365",
       "droppedVersion": "0.0.0.182"
     },
     {
@@ -5896,7 +5896,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.15.7.0",
+      "keptVersion": "1.15.7.1",
       "droppedVersion": "1.9.0"
     },
     {
@@ -6265,10 +6265,10 @@
     },
     {
       "internalName": "XivVoices",
-      "kept": "XivVoices",
-      "dropped": "bees-repo",
+      "kept": "bees-repo",
+      "dropped": "XivVoices",
       "keptVersion": "1.6.0.2",
-      "droppedVersion": "1.6.0.1"
+      "droppedVersion": "1.6.0.2"
     },
     {
       "internalName": "HaselTweaks",
@@ -6792,7 +6792,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "0.0.0.363",
+      "keptVersion": "0.0.0.365",
       "droppedVersion": "0.0.0.307"
     },
     {
@@ -6911,7 +6911,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "OpaqueReptile / daemitus_MyDalamudPlugins",
-      "keptVersion": "1.15.7.0",
+      "keptVersion": "1.15.7.1",
       "droppedVersion": "1.2.2.1"
     },
     {
@@ -7042,10 +7042,10 @@
     },
     {
       "internalName": "WigglyQuest",
-      "kept": "WigglyCorp / DalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "WigglyCorp / DalamudPlugins",
       "keptVersion": "7.5.27",
-      "droppedVersion": "7.5.26"
+      "droppedVersion": "7.5.27"
     },
     {
       "internalName": "Influx",
@@ -7098,10 +7098,10 @@
     },
     {
       "internalName": "XAZod",
-      "kept": "xa-io / MyDalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
       "keptVersion": "0.0.0.5",
-      "droppedVersion": "0.0.0.3"
+      "droppedVersion": "0.0.0.5"
     },
     {
       "internalName": "ICE",
