@@ -1,7 +1,7 @@
 {
   "sourceId": "murakumo-jp-escape",
   "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
-  "fetchedAt": "2026-09-27",
+  "fetchedAt": "2026-09-28",
   "count": 13,
   "plugins": [
     {
@@ -381,14 +381,14 @@
       ],
       "InternalName": "AutoDuty",
       "RepoUrl": "https://github.com/erdelf/AutoDuty",
-      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.365/install/latest.zip",
-      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.365/update/latest.zip",
-      "AssemblyVersion": "0.0.0.365",
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.366/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.366/update/latest.zip",
+      "AssemblyVersion": "0.0.0.366",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "## What's Changed\r\n* Crucible fix less than 3 available beasts by @erdelf in https://github.com/erdelf/AutoDuty/pull/536\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.364...0.0.0.365",
-      "TestingAssemblyVersion": "0.0.0.339",
-      "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.339/install/testing.zip",
+      "Changelog": "## What's Changed\r\n* Multibox adapting to connected client count by @erdelf in https://github.com/erdelf/AutoDuty/pull/537\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.365...0.0.0.366",
+      "TestingAssemblyVersion": "0.0.0.367",
+      "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.367/install/testing.zip",
       "TestingDalamudApiLevel": "15",
       "IconUrl": "https://puni.sh/api/plugins/icon/54",
       "ImageUrls": [

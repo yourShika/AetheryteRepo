@@ -1,9 +1,9 @@
 # Status
 
-Zuletzt aktualisiert: **2026-09-27 21:20 UTC**
+Zuletzt aktualisiert: **2026-09-28 05:22 UTC**
 
-- Plugins im Master-Feed: **596**
-- Plugins insgesamt (inkl. 18+): **602**
+- Plugins im Master-Feed: **597**
+- Plugins insgesamt (inkl. 18+): **603**
 - Quellen: **291**
 - Aktuelles Dalamud-API-Level: **15** (aufgenommen ab 13)
 - Als veraltet aussortiert: **351** → `repos/legacy.json`
@@ -27,7 +27,7 @@ Zuletzt aktualisiert: **2026-09-27 21:20 UTC**
 | ✅ | [NightmareXIV](https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json) | 15 | ok |
 | ✅ | [CombatReborn](https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json) | 10 | ok |
 | ✅ | [Knightmore](https://puni.sh/api/repository/knightmore) | 2 | ok |
-| ✅ | [XeldarAlz](https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/main/repo.json) | 9 | ok |
+| ✅ | [XeldarAlz](https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/main/repo.json) | 10 | ok |
 | ✅ | [ReMakePlace](https://raw.githubusercontent.com/RemakePlace/plugin/master/ReMakePlacePlugin.json) | 1 | ok |
 | ⚠️ | [baanderson40](https://raw.githubusercontent.com/baanderson40/dalamud_plugins/master/repo.json) | 2 | stale – `HTTP 404 Not Found` |
 | ✅ | [OhKannaDuh](https://raw.githubusercontent.com/OhKannaDuh/plugins/refs/heads/master/manifest.json) | 1 | ok |
@@ -157,7 +157,7 @@ Zuletzt aktualisiert: **2026-09-27 21:20 UTC**
 | ✅ | [Nala's Repo](https://puni.sh/api/repository/nala) | 2 | ok |
 | ✅ | [Namazu Sync](https://raw.githubusercontent.com/Friendly-Namazu/dalamud-repo/main/repo.json) | 1 | ok |
 | ✅ | [Nexai's Repo](https://puni.sh/api/repository/nexai) | 2 | ok |
-| ✅ | [NexusFFXIV DalamudRepo](https://raw.githubusercontent.com/NexusFFXIV/DalamudRepo/main/all-repo.json) | 96 | ok |
+| ✅ | [NexusFFXIV DalamudRepo](https://raw.githubusercontent.com/NexusFFXIV/DalamudRepo/main/all-repo.json) | 97 | ok |
 | ✅ | [NeXzRo/Repo](https://nexzro.github.io/Repo/repo.json) | 2 | ok |
 | ✅ | [NightmareXIV / Eternita-S alt repo](https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json) | 15 | ok |
 | ✅ | [NiGuangOwO / DalamudPlugins](https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json) | 41 | ok |
@@ -310,7 +310,7 @@ Zuletzt aktualisiert: **2026-09-27 21:20 UTC**
 |---|---:|---|
 | 👗 Glamour & Charakter | 99 | `repos/glamour.json` |
 | ⚔️ Kampf & Rotation | 71 | `repos/combat.json` |
-| 🤖 Automatisierung | 125 | `repos/automation.json` |
+| 🤖 Automatisierung | 126 | `repos/automation.json` |
 | ⚒️ Crafting & Gathering | 26 | `repos/crafting.json` |
 | ✨ Quality of Life & UI | 147 | `repos/qol.json` |
 | 🎭 Social & Roleplay | 53 | `repos/social.json` |
@@ -342,8 +342,8 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `visland` | Veyn (BossMod) `0.0.0.151` | awgil plugin distribution `0.0.0.16` |
 | `AntiAfkKick-Dalamud` | NightmareXIV `2.1.0.11` | bees-repo `2.1.0.11` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.21` | bees-repo `4.0.5.21` |
-| `AutoDuty` | erdelf `0.0.0.366` | bees-repo `0.0.0.365` |
-| `AutoHook` | Puni.sh (Ment) `6.0.2.1` | bees-repo `6.0.2.0` |
+| `AutoDuty` | erdelf `0.0.0.366` | bees-repo `0.0.0.366` |
+| `AutoHook` | Puni.sh (Ment) `6.0.2.1` | bees-repo `6.0.2.1` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.2.7` | bees-repo `4.6.2.7` |
 | `BossMod` | Veyn (BossMod) `7.5.6.9` | bees-repo `7.5.6.9` |
 | `Brio` | Sea of Stars `0.8.0.11` | bees-repo `0.8.0.11` |
@@ -361,7 +361,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Penumbra` | Penumbra `1.7.2.1` | bees-repo `1.7.2.1` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.2` | bees-repo `2.1.2.2` |
 | `SimpleHeels` | Sea of Stars `0.11.1.12` | bees-repo `0.11.1.12` |
-| `Splatoon` | Puni.sh (Ment) `3.9.2.25` | bees-repo `3.9.2.25` |
+| `Splatoon` | Puni.sh (Ment) `3.9.2.28` | bees-repo `3.9.2.25` |
 | `UnloadErrorFuckOff` | NightmareXIV `1.0.0.10` | bees-repo `1.0.0.10` |
 | `visland` | Veyn (BossMod) `0.0.0.151` | bees-repo `0.0.0.151` |
 | `vnavmesh` | Veyn (BossMod) `1.2.3.14` | bees-repo `1.2.3.14` |
@@ -422,7 +422,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `SelectString` | NightmareXIV `1.0.1.12` | DalamudRepoCollection `1.0.0.4` |
 | `SliceIsRight` | DalamudRepoCollection `4.1.0.1` | DalamudRepoCollection `4.0` |
 | `SomethingNeedDoing` | Croizat's Repo `15.9` | DalamudRepoCollection `1.3.0.8` |
-| `Splatoon` | Puni.sh (Ment) `3.9.2.25` | DalamudRepoCollection `3.1.0.0` |
+| `Splatoon` | Puni.sh (Ment) `3.9.2.28` | DalamudRepoCollection `3.1.0.0` |
 | `Telesto` | DalamudRepoCollection `0.9.6.0` | DalamudRepoCollection `0.9.5.0` |
 | `TextAdvance` | NightmareXIV `3.3.0.1` | DalamudRepoCollection `3.0.0.4` |
 | `TitleRenamed` | DalamudRepoCollection `1.0.4.2` | DalamudRepoCollection `1.0.4.1` |
@@ -453,7 +453,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `TextAdvance` | NightmareXIV `3.3.0.1` | eScape `3.3.0.1` |
 | `DynamicBridge` | Sea of Stars `1.0.8.9` | eScape `1.0.8.9` |
 | `GatherBuddyReborn` | CombatReborn `7.5.6.1` | eScape `7.5.6.1` |
-| `AutoDuty` | erdelf `0.0.0.366` | eScape `0.0.0.365` |
+| `AutoDuty` | erdelf `0.0.0.366` | eScape `0.0.0.366` |
 | `Brio` | Sea of Stars `0.8.0.11` | Etheirys/WorldOfEtheirys `0.8.0.11` |
 | `HidePadlock` | Fr4nsson / MyDalamudPlugins `1.4.0.0` | Caraxi / DalamudPlugins `1.3.0.0` |
 | `EasySort` | Frogworks-Interactive / PluginRepository `0.0.0.5` | DalamudRepoCollection `0.0.0.4` |
@@ -498,16 +498,16 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `AutoRetainer` | Puni.sh (Ment) `4.6.2.7` | MEGA Repository `4.6.2.7` |
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.4` | MEGA Repository `1.6.4.4` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.13` | MEGA Repository `2.2.0.13` |
-| `AutoHook` | Puni.sh (Ment) `6.0.2.1` | MEGA Repository `6.0.2.0` |
-| `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
+| `AutoHook` | Puni.sh (Ment) `6.0.2.1` | MEGA Repository `6.0.2.1` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
+| `PalacePal` | Puni.sh (Ment) `4.16.0.0` | MEGA Repository `4.16.0.0` |
+| `YesAlready` | Puni.sh (Ment) `1.15.7.1` | MEGA Repository `1.15.7.1` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
 | `Questionable` | Puni.sh (Ment) `15.756.3.22` | MEGA Repository `15.756.3.22` |
-| `YesAlready` | Puni.sh (Ment) `1.15.7.1` | MEGA Repository `1.15.7.1` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.26` | MEGA Repository `1.0.4.26` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.2` | MEGA Repository `2.1.2.2` |
-| `Splatoon` | Puni.sh (Ment) `3.9.2.25` | MEGA Repository `3.9.2.25` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.21` | MEGA Repository `4.0.5.21` |
+| `Splatoon` | Puni.sh (Ment) `3.9.2.28` | MEGA Repository `3.9.2.28` |
 | `XIVComboExpanded` | daemitus MyDalamudPlugins `2.0.6.3` | MEGA Repository `2.0.6.3` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | MEGA Repository `1.3.1.4` |
 | `AutoPillion` | Aida-Enna XIVPlugins `1.0.0.5` | MEGA Repository `1.0.0.5` |
@@ -549,7 +549,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `vnavmesh` | Veyn (BossMod) `1.2.3.14` | MEGA Repository `1.2.3.14` |
 | `MBT` | Herculezz's Repo `0.0.0.16` | MEGA Repository `0.0.0.16` |
 | `RotationSolver` | CombatReborn `7.5.6.11` | MEGA Repository `7.5.6.11` |
-| `BossModReborn` | CombatReborn `7.5.6.23` | MEGA Repository `7.5.6.22` |
+| `BossModReborn` | CombatReborn `7.5.6.23` | MEGA Repository `7.5.6.23` |
 | `ActionTimelineReborn` | CombatReborn `7.5.5.1` | MEGA Repository `7.5.5.1` |
 | `EasyZoomReborn` | CombatReborn `7.5.0.3` | MEGA Repository `7.5.0.3` |
 | `GatherBuddyReborn` | CombatReborn `7.5.6.1` | MEGA Repository `7.5.6.1` |
@@ -615,15 +615,16 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `IINACT` | bees-repo `2.10.3.8` | MyPlugins `2.1.4.3` |
 | `ActionTimelineReborn` | CombatReborn `7.5.5.1` | NexusFFXIV DalamudRepo `7.5.5.1` |
 | `Aetherment` | Aetherment `0.8.10.0` | NexusFFXIV DalamudRepo `0.8.10.0` |
-| `Aetherphone` | XeldarAlz `1.0.3.7` | NexusFFXIV DalamudRepo `1.0.3.4` |
+| `Aetherphone` | XeldarAlz `1.0.3.7` | NexusFFXIV DalamudRepo `1.0.3.7` |
 | `AntiAfkKick-Dalamud` | MeowZWR / DalamudPlugin `2.1.0.12` | NexusFFXIV DalamudRepo `2.1.0.11` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.21` | NexusFFXIV DalamudRepo `4.0.5.21` |
 | `AutoDailyTribes` | XeldarAlz `2.9.0.0` | NexusFFXIV DalamudRepo `2.9.0.0` |
-| `AutoFateGrind` | XeldarAlz `2.15.0.0` | NexusFFXIV DalamudRepo `2.13.0.0` |
-| `AutoHook` | Puni.sh (Ment) `6.0.2.1` | NexusFFXIV DalamudRepo `6.0.2.0` |
+| `AutoFateGrind` | XeldarAlz `2.15.0.0` | NexusFFXIV DalamudRepo `2.15.0.0` |
+| `AutoHook` | Puni.sh (Ment) `6.0.2.1` | NexusFFXIV DalamudRepo `6.0.2.1` |
 | `AutoHuntGrinder` | XeldarAlz `1.7.0.0` | NexusFFXIV DalamudRepo `1.7.0.0` |
+| `AutoHuntTrain` | XeldarAlz `1.0.0.0` | NexusFFXIV DalamudRepo `1.0.0.0` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | NexusFFXIV DalamudRepo `1.3.1.4` |
-| `AutoPvpSeriesGrind` | XeldarAlz `2.7.1.0` | NexusFFXIV DalamudRepo `2.7.0.0` |
+| `AutoPvpSeriesGrind` | XeldarAlz `2.7.1.0` | NexusFFXIV DalamudRepo `2.7.1.0` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.2.7` | NexusFFXIV DalamudRepo `4.6.2.7` |
 | `AutoSightseeingLog` | XeldarAlz `1.8.0.0` | NexusFFXIV DalamudRepo `1.8.0.0` |
 | `AutoTripleTriadGrind` | XeldarAlz `1.1.0.0` | NexusFFXIV DalamudRepo `1.1.0.0` |
@@ -631,7 +632,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Battlevest` | NightmareXIV `1.0.2.3` | NexusFFXIV DalamudRepo `1.0.2.3` |
 | `BDTHPlugin` | bees-repo `1.7.4.1` | NexusFFXIV DalamudRepo `1.7.4.1` |
 | `BossMod` | Veyn (BossMod) `7.5.6.9` | NexusFFXIV DalamudRepo `7.5.6.9` |
-| `BossModReborn` | CombatReborn `7.5.6.23` | NexusFFXIV DalamudRepo `7.5.6.22` |
+| `BossModReborn` | CombatReborn `7.5.6.23` | NexusFFXIV DalamudRepo `7.5.6.23` |
 | `Brio` | Sea of Stars `0.8.0.11` | NexusFFXIV DalamudRepo `0.8.0.11` |
 | `CactusWatcher` | bees-repo `1.5.0.0` | NexusFFXIV DalamudRepo `1.0.0.11` |
 | `ChatDeathRoll` | anya-hichu/DalamudPluginRepo `0.0.6.0` | NexusFFXIV DalamudRepo `0.0.6.0` |
@@ -685,10 +686,10 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `RotationSolver` | CombatReborn `7.5.6.11` | NexusFFXIV DalamudRepo `7.5.6.11` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.2` | NexusFFXIV DalamudRepo `2.1.2.2` |
 | `SelectString` | NightmareXIV `1.0.1.12` | NexusFFXIV DalamudRepo `1.0.1.12` |
-| `SimpleHeels` | Sea of Stars `0.11.1.12` | NexusFFXIV DalamudRepo `0.11.1.11` |
+| `SimpleHeels` | Sea of Stars `0.11.1.12` | NexusFFXIV DalamudRepo `0.11.1.12` |
 | `SkipCutscene` | KangasZ / DalamudPluginRepository `3.0.1.5` | NexusFFXIV DalamudRepo `1.2.3.2` |
 | `SmartPings` | Proximity Voice Chat `0.3.13.0` | NexusFFXIV DalamudRepo `0.3.13.0` |
-| `Splatoon` | Puni.sh (Ment) `3.9.2.25` | NexusFFXIV DalamudRepo `3.9.2.25` |
+| `Splatoon` | Puni.sh (Ment) `3.9.2.28` | NexusFFXIV DalamudRepo `3.9.2.28` |
 | `StandalonePluginManager` | NightmareXIV `1.0.0.4` | NexusFFXIV DalamudRepo `1.0.0.4` |
 | `Stylist` | NightmareXIV `1.0.0.15` | NexusFFXIV DalamudRepo `1.0.0.15` |
 | `TextAdvance` | NightmareXIV `3.3.0.1` | NexusFFXIV DalamudRepo `3.3.0.1` |
@@ -702,7 +703,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `WExtras` | NightmareXIV `1.0.0.10` | NexusFFXIV DalamudRepo `1.0.0.10` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.26` | NexusFFXIV DalamudRepo `1.0.4.26` |
 | `XIVComboExpanded` | daemitus MyDalamudPlugins `2.0.6.3` | NexusFFXIV DalamudRepo `2.0.6.3` |
-| `YesAlready` | Puni.sh (Ment) `1.15.7.1` | NexusFFXIV DalamudRepo `1.15.7.0` |
+| `YesAlready` | Puni.sh (Ment) `1.15.7.1` | NexusFFXIV DalamudRepo `1.15.7.1` |
 | `ZodiacBuddyReborn` | CombatReborn `7.5.6.1` | NexusFFXIV DalamudRepo `7.5.6.1` |
 | `DynamicBridge` | Sea of Stars `1.0.8.9` | NightmareXIV / Eternita-S alt repo `1.0.8.9` |
 | `HuntTrainAssistant` | NightmareXIV `1.0.2.15` | NightmareXIV / Eternita-S alt repo `1.0.2.15` |
@@ -810,7 +811,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `SimpleHeels` | Sea of Stars `0.11.1.12` | nite-cat / the-giga-repo `0.10.3.0` |
 | `SliceIsRight` | nite-cat / the-giga-repo `9.0` | DalamudRepoCollection `4.1.0.1` |
 | `SomethingNeedDoing` | Croizat's Repo `15.9` | nite-cat / the-giga-repo `1.62` |
-| `Splatoon` | Puni.sh (Ment) `3.9.2.25` | nite-cat / the-giga-repo `3.7.4.6` |
+| `Splatoon` | Puni.sh (Ment) `3.9.2.28` | nite-cat / the-giga-repo `3.7.4.6` |
 | `Squadronista` | MEGA Repository `6.1` | nite-cat / the-giga-repo `5.0` |
 | `Telesto` | nite-cat / the-giga-repo `1.0.0.6` | DalamudRepoCollection `0.9.6.0` |
 | `TextAdvance` | NightmareXIV `3.3.0.1` | nite-cat / the-giga-repo `3.2.4.0` |
@@ -950,7 +951,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Lifestream` | NightmareXIV `2.5.4.23` | nihil-string / puppys-plugins `2.5.3.26` |
 | `Questionable` | Puni.sh (Ment) `15.756.3.22` | nihil-string / puppys-plugins `5.31` |
 | `AutoDuty` | erdelf `0.0.0.366` | nihil-string / puppys-plugins `0.0.0.307` |
-| `Splatoon` | Puni.sh (Ment) `3.9.2.25` | nihil-string / puppys-plugins `3.7.0.12` |
+| `Splatoon` | Puni.sh (Ment) `3.9.2.28` | nihil-string / puppys-plugins `3.7.0.12` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.21` | OLDBAI213 / ff14-dalamud-plugin-zh `4.0.5.16` |
 | `AutoHook` | Puni.sh (Ment) `6.0.2.1` | OLDBAI213 / ff14-dalamud-plugin-zh `6.0.0.68` |
 | `BossModReborn` | CombatReborn `7.5.6.23` | OLDBAI213 / ff14-dalamud-plugin-zh `7.5.1.23` |
@@ -990,8 +991,8 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `QSTCompanion` | McVaxius / TheDumpsterFire `1.1.23.0` | WigglyCorp / DalamudPlugins `1.1.23.0` |
 | `Questionable` | Puni.sh (Ment) `15.756.3.22` | WigglyCorp / DalamudPlugins `99.0.0.0` |
 | `AethertekPluginManager` | McVaxius / TheDumpsterFire `0.0.0.5` | xa-io / MyDalamudPlugins `0.0.0.5` |
-| `XADatabase` | McVaxius / TheDumpsterFire `0.0.0.42` | xa-io / MyDalamudPlugins `0.0.0.42` |
-| `XASlave` | McVaxius / TheDumpsterFire `0.0.0.47` | xa-io / MyDalamudPlugins `0.0.0.47` |
+| `XADatabase` | xa-io / MyDalamudPlugins `0.0.0.43` | McVaxius / TheDumpsterFire `0.0.0.42` |
+| `XASlave` | xa-io / MyDalamudPlugins `0.0.0.48` | McVaxius / TheDumpsterFire `0.0.0.47` |
 | `XAHudNavigator` | McVaxius / TheDumpsterFire `0.0.0.9` | xa-io / MyDalamudPlugins `0.0.0.9` |
 | `XAZod` | McVaxius / TheDumpsterFire `0.0.0.5` | xa-io / MyDalamudPlugins `0.0.0.5` |
 | `ICE` | ICE (Island Sanctuary) `1.0.0.2` | xivhub / pluginmaster `1.0.0.7` |

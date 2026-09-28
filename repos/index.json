@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-27T21:20:30.634Z",
-  "contentHash": "60e7f36165a3afc6",
-  "totalPlugins": 602,
-  "masterPlugins": 596,
+  "generatedAt": "2026-09-28T05:22:34.918Z",
+  "contentHash": "a46d0c3789aa88e7",
+  "totalPlugins": 603,
+  "masterPlugins": 597,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 351,
@@ -132,7 +132,7 @@
       "name": "XeldarAlz",
       "url": "https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/main/repo.json",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "note": null
     },
     {
@@ -1172,7 +1172,7 @@
       "name": "NexusFFXIV DalamudRepo",
       "url": "https://raw.githubusercontent.com/NexusFFXIV/DalamudRepo/main/all-repo.json",
       "status": "ok",
-      "count": 96,
+      "count": 97,
       "note": null
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 125,
+      "count": 126,
       "file": "repos/automation.json"
     },
     {
@@ -2544,14 +2544,14 @@
       "kept": "erdelf",
       "dropped": "bees-repo",
       "keptVersion": "0.0.0.366",
-      "droppedVersion": "0.0.0.365"
+      "droppedVersion": "0.0.0.366"
     },
     {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "6.0.2.1",
-      "droppedVersion": "6.0.2.0"
+      "droppedVersion": "6.0.2.1"
     },
     {
       "internalName": "AutoRetainer",
@@ -2676,7 +2676,7 @@
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "3.9.2.25",
+      "keptVersion": "3.9.2.28",
       "droppedVersion": "3.9.2.25"
     },
     {
@@ -3103,7 +3103,7 @@
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "3.9.2.25",
+      "keptVersion": "3.9.2.28",
       "droppedVersion": "3.1.0.0"
     },
     {
@@ -3321,7 +3321,7 @@
       "kept": "erdelf",
       "dropped": "eScape",
       "keptVersion": "0.0.0.366",
-      "droppedVersion": "0.0.0.365"
+      "droppedVersion": "0.0.0.366"
     },
     {
       "internalName": "Brio",
@@ -3636,7 +3636,14 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "6.0.2.1",
-      "droppedVersion": "6.0.2.0"
+      "droppedVersion": "6.0.2.1"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "PalacePal",
@@ -3646,11 +3653,11 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "1.15.7.1",
+      "droppedVersion": "1.15.7.1"
     },
     {
       "internalName": "Marketbuddy",
@@ -3667,13 +3674,6 @@
       "droppedVersion": "15.756.3.22"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.1",
-      "droppedVersion": "1.15.7.1"
-    },
-    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "2.1.2.2"
     },
     {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.25",
-      "droppedVersion": "3.9.2.25"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.28",
+      "droppedVersion": "3.9.2.28"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3993,7 +3993,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.6.23",
-      "droppedVersion": "7.5.6.22"
+      "droppedVersion": "7.5.6.23"
     },
     {
       "internalName": "ActionTimelineReborn",
@@ -4455,7 +4455,7 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.0.3.7",
-      "droppedVersion": "1.0.3.4"
+      "droppedVersion": "1.0.3.7"
     },
     {
       "internalName": "AntiAfkKick-Dalamud",
@@ -4483,14 +4483,14 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "2.15.0.0",
-      "droppedVersion": "2.13.0.0"
+      "droppedVersion": "2.15.0.0"
     },
     {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "6.0.2.1",
-      "droppedVersion": "6.0.2.0"
+      "droppedVersion": "6.0.2.1"
     },
     {
       "internalName": "AutoHuntGrinder",
@@ -4498,6 +4498,13 @@
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.7.0.0",
       "droppedVersion": "1.7.0.0"
+    },
+    {
+      "internalName": "AutoHuntTrain",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.0",
+      "droppedVersion": "1.0.0.0"
     },
     {
       "internalName": "AutoLogin",
@@ -4511,7 +4518,7 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "2.7.1.0",
-      "droppedVersion": "2.7.0.0"
+      "droppedVersion": "2.7.1.0"
     },
     {
       "internalName": "AutoRetainer",
@@ -4567,7 +4574,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.6.23",
-      "droppedVersion": "7.5.6.22"
+      "droppedVersion": "7.5.6.23"
     },
     {
       "internalName": "Brio",
@@ -4945,7 +4952,7 @@
       "kept": "Sea of Stars",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.11.1.12",
-      "droppedVersion": "0.11.1.11"
+      "droppedVersion": "0.11.1.12"
     },
     {
       "internalName": "SkipCutscene",
@@ -4965,8 +4972,8 @@
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "3.9.2.25",
-      "droppedVersion": "3.9.2.25"
+      "keptVersion": "3.9.2.28",
+      "droppedVersion": "3.9.2.28"
     },
     {
       "internalName": "StandalonePluginManager",
@@ -5064,7 +5071,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.15.7.1",
-      "droppedVersion": "1.15.7.0"
+      "droppedVersion": "1.15.7.1"
     },
     {
       "internalName": "ZodiacBuddyReborn",
@@ -5819,7 +5826,7 @@
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "3.9.2.25",
+      "keptVersion": "3.9.2.28",
       "droppedVersion": "3.7.4.6"
     },
     {
@@ -6799,7 +6806,7 @@
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "3.9.2.25",
+      "keptVersion": "3.9.2.28",
       "droppedVersion": "3.7.0.12"
     },
     {
@@ -7077,16 +7084,16 @@
     },
     {
       "internalName": "XADatabase",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.42",
+      "kept": "xa-io / MyDalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "0.0.0.43",
       "droppedVersion": "0.0.0.42"
     },
     {
       "internalName": "XASlave",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.47",
+      "kept": "xa-io / MyDalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "0.0.0.48",
       "droppedVersion": "0.0.0.47"
     },
     {
