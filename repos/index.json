@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T13:53:01.916Z",
-  "contentHash": "319cd8caad852aca",
+  "generatedAt": "2026-09-28T21:13:54.778Z",
+  "contentHash": "fc85ee98182c47cd",
   "totalPlugins": 603,
   "masterPlugins": 597,
   "currentApiLevel": 15,
@@ -2543,8 +2543,8 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.368",
-      "droppedVersion": "0.0.0.366"
+      "keptVersion": "0.0.0.369",
+      "droppedVersion": "0.0.0.368"
     },
     {
       "internalName": "AutoHook",
@@ -3320,8 +3320,8 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.368",
-      "droppedVersion": "0.0.0.366"
+      "keptVersion": "0.0.0.369",
+      "droppedVersion": "0.0.0.368"
     },
     {
       "internalName": "Brio",
@@ -3618,6 +3618,13 @@
       "droppedVersion": "1.0.1.10"
     },
     {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.28",
+      "droppedVersion": "3.9.2.28"
+    },
+    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3639,13 +3646,6 @@
       "droppedVersion": "6.0.2.1"
     },
     {
-      "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
-    },
-    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3653,18 +3653,18 @@
       "droppedVersion": "5.3.3.3"
     },
     {
+      "internalName": "PalacePal",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.16.0.0",
+      "droppedVersion": "4.16.0.0"
+    },
+    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.23",
-      "droppedVersion": "15.756.3.23"
-    },
-    {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "15.756.3.24",
+      "droppedVersion": "15.756.3.24"
     },
     {
       "internalName": "YesAlready",
@@ -3674,18 +3674,18 @@
       "droppedVersion": "1.15.7.1"
     },
     {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.26",
       "droppedVersion": "1.0.4.26"
-    },
-    {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.28",
-      "droppedVersion": "3.9.2.28"
     },
     {
       "internalName": "Artisan",
@@ -3985,8 +3985,8 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.6.11",
-      "droppedVersion": "7.5.6.11"
+      "keptVersion": "7.5.6.12",
+      "droppedVersion": "7.5.6.12"
     },
     {
       "internalName": "BossModReborn",
@@ -4034,7 +4034,7 @@
       "internalName": "PassportCheckerReborn",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.6.0",
+      "keptVersion": "7.5.6.1",
       "droppedVersion": "7.5.6.0"
     },
     {
@@ -4056,7 +4056,7 @@
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
       "keptVersion": "15.11",
-      "droppedVersion": "15.10"
+      "droppedVersion": "15.11"
     },
     {
       "internalName": "Automaton",
@@ -4454,7 +4454,7 @@
       "internalName": "Aetherphone",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.3.7",
+      "keptVersion": "1.0.3.8",
       "droppedVersion": "1.0.3.7"
     },
     {
@@ -4496,7 +4496,7 @@
       "internalName": "AutoHuntGrinder",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.7.0.0",
+      "keptVersion": "1.8.0.0",
       "droppedVersion": "1.7.0.0"
     },
     {
@@ -4517,7 +4517,7 @@
       "internalName": "AutoPvpSeriesGrind",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.7.1.0",
+      "keptVersion": "2.8.0.0",
       "droppedVersion": "2.7.1.0"
     },
     {
@@ -4839,7 +4839,7 @@
       "internalName": "PassportCheckerReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.6.0",
+      "keptVersion": "7.5.6.1",
       "droppedVersion": "7.5.6.0"
     },
     {
@@ -4874,7 +4874,7 @@
       "internalName": "PvpAutoLb",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.2.0.0",
+      "keptVersion": "1.3.0.0",
       "droppedVersion": "1.2.0.0"
     },
     {
@@ -4888,7 +4888,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.756.3.23",
+      "keptVersion": "15.756.3.24",
       "droppedVersion": "15.756.3.22"
     },
     {
@@ -4930,7 +4930,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.6.11",
+      "keptVersion": "7.5.6.12",
       "droppedVersion": "7.5.6.11"
     },
     {
@@ -5448,7 +5448,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.368",
+      "keptVersion": "0.0.0.369",
       "droppedVersion": "0.0.0.182"
     },
     {
@@ -5756,7 +5756,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.756.3.23",
+      "keptVersion": "15.756.3.24",
       "droppedVersion": "4.13"
     },
     {
@@ -5777,7 +5777,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.6.11",
+      "keptVersion": "7.5.6.12",
       "droppedVersion": "7.1.5.38"
     },
     {
@@ -6575,7 +6575,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.6.11",
+      "keptVersion": "7.5.6.12",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -6701,7 +6701,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "7.5.6.11",
+      "keptVersion": "7.5.6.12",
       "droppedVersion": "7.2.5.122"
     },
     {
@@ -6792,14 +6792,14 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.756.3.23",
+      "keptVersion": "15.756.3.24",
       "droppedVersion": "5.31"
     },
     {
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "0.0.0.368",
+      "keptVersion": "0.0.0.369",
       "droppedVersion": "0.0.0.307"
     },
     {
@@ -7063,16 +7063,16 @@
     },
     {
       "internalName": "QSTCompanion",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "1.1.23.0",
+      "kept": "WigglyCorp / DalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "1.1.24.0",
       "droppedVersion": "1.1.23.0"
     },
     {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.756.3.23",
+      "keptVersion": "15.756.3.24",
       "droppedVersion": "99.0.0.0"
     },
     {
@@ -7084,17 +7084,17 @@
     },
     {
       "internalName": "XADatabase",
-      "kept": "xa-io / MyDalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
       "keptVersion": "0.0.0.43",
-      "droppedVersion": "0.0.0.42"
+      "droppedVersion": "0.0.0.43"
     },
     {
       "internalName": "XASlave",
-      "kept": "xa-io / MyDalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
       "keptVersion": "0.0.0.48",
-      "droppedVersion": "0.0.0.47"
+      "droppedVersion": "0.0.0.48"
     },
     {
       "internalName": "XAHudNavigator",
