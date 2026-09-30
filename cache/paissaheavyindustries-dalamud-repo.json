@@ -1,7 +1,7 @@
 {
   "sourceId": "paissaheavyindustries-dalamud-repo",
   "url": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/repo.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-09-30",
   "count": 5,
   "plugins": [
     {
@@ -9,7 +9,7 @@
       "Name": "Lemegeton",
       "Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
       "InternalName": "Lemegeton",
-      "AssemblyVersion": "1.0.8.6",
+      "AssemblyVersion": "1.0.8.7",
       "RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
       "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
       "ApplicableVersion": "any",
@@ -21,9 +21,9 @@
       "IsTestingExclusive": false,
       "LastUpdated": 0,
       "DownloadCount": 0,
-      "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.8.6/Lemegeton_1_0_8_6.zip",
-      "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.8.6/Lemegeton_1_0_8_6.zip",
-      "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.8.6/Lemegeton_1_0_8_6.zip",
+      "DownloadLinkInstall": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.8.7/Lemegeton_1_0_8_7.zip",
+      "DownloadLinkTesting": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.8.7/Lemegeton_1_0_8_7.zip",
+      "DownloadLinkUpdate": "https://github.com/paissaheavyindustries/Lemegeton/releases/download/v1.0.8.7/Lemegeton_1_0_8_7.zip",
       "_SourceId": "paissaheavyindustries-dalamud-repo",
       "_SourceName": "Paissa Heavy Industries",
       "_SourceUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/repo.json"
