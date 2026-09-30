@@ -1,7 +1,7 @@
 {
   "sourceId": "enceladeum-dalamudplugins",
   "url": "https://raw.githubusercontent.com/Enceladeum/DalamudPlugins/main/repo.json",
-  "fetchedAt": "2026-09-23",
+  "fetchedAt": "2026-09-30",
   "count": 6,
   "plugins": [
     {
@@ -163,7 +163,7 @@
       "InternalName": "HMSync",
       "Punchline": "Explore any zone together.",
       "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
-      "Changelog": "1.0.4.0: browse and set any zone's background music from a new pop-out picker, organised by category (World, City, Dungeon, Trial, Raid, Orchestrion and more) and indexed in the background so it never affects framerate; alliance-raid music is grouped by series. The picker also plays orchestrion rolls on your current zone. An optional server-info-bar readout shows the name of the current track, alongside the existing weather one. And the local time, weather and music controls (with the ambient-light and hide-VFX toggles) now work for everyone without Debug mode, on the zone you are standing in.",
+      "Changelog": "1.0.4.1: a couple of session and dungeon fixes. A member who drops and rejoins no longer shows up twice in the roster, and a member who drops without rejoining is removed once their connection goes quiet. And the purple glow that lingered after a dungeon entry/exit curtain is auto-hidden is now removed too, in every dungeon.",
       "Tags": [
         "exploration",
         "zone",
@@ -181,7 +181,7 @@
       "IsTestingExclusive": false,
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/Enceladeum/HMapSync",
-      "AssemblyVersion": "1.0.4.0",
+      "AssemblyVersion": "1.0.4.1",
       "DalamudApiLevel": 15,
       "LoadRequiredState": 0,
       "LoadSync": false,
@@ -189,7 +189,7 @@
       "LoadPriority": 0,
       "AcceptsFeedback": true,
       "DownloadCount": 0,
-      "LastUpdate": 1790138015,
+      "LastUpdate": 1790726032,
       "DownloadLinkInstall": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
       "DownloadLinkUpdate": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
       "DownloadLinkTesting": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
