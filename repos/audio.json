@@ -313,9 +313,10 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
-    "_SourceId": "reckhou-dalamudplugins-ori",
-    "_SourceName": "MidiBard 2",
-    "_SourceUrl": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json",
+    "SourceRepo": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json",
+    "_SourceId": "williamw1979-ffxiv",
+    "_SourceName": "MEGA Repository",
+    "_SourceUrl": "https://raw.githubusercontent.com/WilliamW1979/FFXIV/main/repository.json",
     "_Category": "audio"
   },
   {
@@ -508,7 +509,7 @@
     "DalamudApiLevel": 15,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadCount": 1141,
+    "DownloadCount": 1144,
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.7.0-cn/XivMediaPlayer.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/XivMediaPlayer/releases/download/0.1.7.0-cn/XivMediaPlayer.zip",

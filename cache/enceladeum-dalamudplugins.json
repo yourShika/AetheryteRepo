@@ -1,16 +1,16 @@
 {
   "sourceId": "enceladeum-dalamudplugins",
   "url": "https://raw.githubusercontent.com/Enceladeum/DalamudPlugins/main/repo.json",
-  "fetchedAt": "2026-09-30",
+  "fetchedAt": "2026-10-01",
   "count": 6,
   "plugins": [
     {
       "Author": "The Enceladeum",
       "Name": "HOutfits",
       "InternalName": "HOutfits",
-      "Punchline": "Apply full sets to your character in Glamourer with a single click.",
-      "Description": "Lists the game's complete named sets and applies a whole set or any single piece to your character through Glamourer, instead of picking each item from a dropdown.",
-      "Changelog": "0.3.0: adds optional NPC weapon copying. Turn on \"Include weapons\" and applying a whole NPC also copies its main-hand and off-hand (experimental: Glamourer may skip a weapon that isn't valid for your current class, and clicking a single weapon icon always applies it). The \"Include accessories\" toggle now sits on each tab beside that tab's own options; on the NPC tab, \"Apply name\", \"Include weapons\" and \"Include accessories\" now share one row.",
+      "Punchline": "Apply full sets, loose pieces and facewear to your character in Glamourer with a single click.",
+      "Description": "Browse the game's named sets, sets recovered by item name, every other wearable piece and facewear, with large icon previews on hover, and apply a whole set or any single piece to your character through Glamourer, instead of picking each item from a dropdown.",
+      "Changelog": "0.4.2: name-grouped sets now work on German, French and Japanese game clients too. The grouping reads the English item names behind the scenes, so it finds the same sets everywhere; piece names still show in your game's language and are searchable in either language. The labels of the recovered sets stay in English, and on those clients they are listed after the game's own sets.",
       "Tags": [
         "glamour",
         "glamourer",
@@ -27,7 +27,7 @@
       "IsTestingExclusive": false,
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/Enceladeum/HOutfits",
-      "AssemblyVersion": "0.3.0.0",
+      "AssemblyVersion": "0.4.2.0",
       "DalamudApiLevel": 15,
       "LoadRequiredState": 0,
       "LoadSync": false,
@@ -35,7 +35,7 @@
       "LoadPriority": 0,
       "AcceptsFeedback": true,
       "DownloadCount": 0,
-      "LastUpdate": 1785031283,
+      "LastUpdate": 1790814335,
       "DownloadLinkInstall": "https://github.com/Enceladeum/HOutfits/releases/latest/download/latest.zip",
       "DownloadLinkUpdate": "https://github.com/Enceladeum/HOutfits/releases/latest/download/latest.zip",
       "DownloadLinkTesting": "https://github.com/Enceladeum/HOutfits/releases/latest/download/latest.zip",
