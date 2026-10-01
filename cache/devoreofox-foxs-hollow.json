@@ -1,7 +1,7 @@
 {
   "sourceId": "devoreofox-foxs-hollow",
   "url": "https://raw.githubusercontent.com/devoreofox/foxs-hollow/main/repo.json",
-  "fetchedAt": "2026-09-26",
+  "fetchedAt": "2026-10-01",
   "count": 3,
   "plugins": [
     {
@@ -42,8 +42,8 @@
         "utility"
       ],
       "DalamudApiLevel": 15,
-      "AssemblyVersion": "1.1.0.0",
-      "Version": "1.1.0.0",
+      "AssemblyVersion": "1.2.0.0",
+      "Version": "1.2.0.0",
       "ApplicableVersion": "any",
       "DownloadLinkInstall": "https://github.com/devoreofox/LittleLuxuries/releases/latest/download/LittleLuxuries.zip",
       "DownloadLinkUpdate": "https://github.com/devoreofox/LittleLuxuries/releases/latest/download/LittleLuxuries.zip",
