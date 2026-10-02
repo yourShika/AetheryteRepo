@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T17:52:05.874Z",
-  "contentHash": "d0e661ea67efe031",
+  "generatedAt": "2026-10-02T22:13:21.516Z",
+  "contentHash": "2ca15666c4b665d1",
   "totalPlugins": 604,
   "masterPlugins": 598,
   "currentApiLevel": 15,
@@ -3604,13 +3604,6 @@
       "droppedVersion": "1.1.0.2"
     },
     {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.2.11",
-      "droppedVersion": "4.6.2.11"
-    },
-    {
       "internalName": "Orbwalker",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3618,11 +3611,18 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "Splatoon",
+      "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.28",
-      "droppedVersion": "3.9.2.28"
+      "keptVersion": "4.6.2.11",
+      "droppedVersion": "4.6.2.11"
+    },
+    {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
     },
     {
       "internalName": "Avarice",
@@ -3632,11 +3632,11 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "PandorasBox",
+      "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
+      "keptVersion": "3.9.2.28",
+      "droppedVersion": "3.9.2.28"
     },
     {
       "internalName": "LazyLoot",
@@ -3660,13 +3660,6 @@
       "droppedVersion": "6.0.2.4"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.1",
-      "droppedVersion": "1.15.7.1"
-    },
-    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
@@ -3678,7 +3671,14 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "15.756.3.27",
-      "droppedVersion": "15.756.3.26"
+      "droppedVersion": "15.756.3.27"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.1",
+      "droppedVersion": "1.15.7.1"
     },
     {
       "internalName": "WrathCombo",
@@ -4454,7 +4454,7 @@
       "internalName": "Aetherphone",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.4.0",
+      "keptVersion": "1.0.4.1",
       "droppedVersion": "1.0.3.9"
     },
     {
