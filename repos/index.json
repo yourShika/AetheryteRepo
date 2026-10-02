@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T18:25:15.950Z",
-  "contentHash": "127650054711ad1d",
+  "generatedAt": "2026-10-02T00:47:01.434Z",
+  "contentHash": "26a6e1dbb68d6a60",
   "totalPlugins": 604,
   "masterPlugins": 598,
   "currentApiLevel": 15,
@@ -2495,7 +2495,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "AtmoOmen / DalamudPlugins",
       "keptVersion": "1.2.3.14",
-      "droppedVersion": "0.8.3.0"
+      "droppedVersion": "0.8.4.0"
     },
     {
       "internalName": "GatherBuddyReborn",
@@ -2543,15 +2543,15 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.374",
-      "droppedVersion": "0.0.0.373"
+      "keptVersion": "0.0.0.375",
+      "droppedVersion": "0.0.0.375"
     },
     {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "6.0.2.4",
-      "droppedVersion": "6.0.2.3"
+      "droppedVersion": "6.0.2.4"
     },
     {
       "internalName": "AutoRetainer",
@@ -3320,8 +3320,8 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.374",
-      "droppedVersion": "0.0.0.373"
+      "keptVersion": "0.0.0.375",
+      "droppedVersion": "0.0.0.375"
     },
     {
       "internalName": "Brio",
@@ -3625,6 +3625,13 @@
       "droppedVersion": "3.9.2.28"
     },
     {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.4",
+      "droppedVersion": "1.6.4.4"
+    },
+    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3632,11 +3639,11 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "PandorasBox",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.4",
-      "droppedVersion": "1.6.4.4"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "AutoHook",
@@ -3653,13 +3660,6 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
@@ -3667,18 +3667,18 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.1",
-      "droppedVersion": "1.15.7.1"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "15.756.3.25",
       "droppedVersion": "15.756.3.25"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.1",
+      "droppedVersion": "1.15.7.1"
     },
     {
       "internalName": "WrathCombo",
@@ -4301,7 +4301,7 @@
       "kept": "Sea of Stars",
       "dropped": "MeowZWR / DalamudPlugin",
       "keptVersion": "0.11.1.12",
-      "droppedVersion": "0.11.1.5"
+      "droppedVersion": "0.11.1.12"
     },
     {
       "internalName": "CustomizePlus",
@@ -5203,21 +5203,21 @@
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.16",
+      "keptVersion": "4.2.0.17",
       "droppedVersion": "3.3.4.0"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.16",
+      "keptVersion": "4.2.0.17",
       "droppedVersion": "0.69.1.12"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.16",
+      "keptVersion": "4.2.0.17",
       "droppedVersion": "2.1.1.4"
     },
     {
@@ -5448,7 +5448,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.374",
+      "keptVersion": "0.0.0.375",
       "droppedVersion": "0.0.0.182"
     },
     {
@@ -6799,7 +6799,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "0.0.0.374",
+      "keptVersion": "0.0.0.375",
       "droppedVersion": "0.0.0.307"
     },
     {
