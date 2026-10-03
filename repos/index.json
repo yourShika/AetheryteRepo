@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-03T21:13:30.635Z",
-  "contentHash": "a1c501c7ca40e47c",
+  "generatedAt": "2026-10-03T23:46:55.181Z",
+  "contentHash": "ee6e9408a03383fe",
   "totalPlugins": 605,
   "masterPlugins": 599,
   "currentApiLevel": 15,
@@ -2649,7 +2649,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "1.6.4.5",
-      "droppedVersion": "1.6.4.4"
+      "droppedVersion": "1.6.4.5"
     },
     {
       "internalName": "Penumbra",
@@ -3625,18 +3625,18 @@
       "droppedVersion": "3.9.2.28"
     },
     {
-      "internalName": "Avarice",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
-    },
-    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.6.4.5",
       "droppedVersion": "1.6.4.5"
+    },
+    {
+      "internalName": "Avarice",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
     },
     {
       "internalName": "LazyLoot",
@@ -3667,18 +3667,18 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.1",
-      "droppedVersion": "1.15.7.1"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "15.756.3.28",
       "droppedVersion": "15.756.3.28"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.1",
+      "droppedVersion": "1.15.7.1"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "1.0.4.26"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.4",
-      "droppedVersion": "2.1.2.4"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.4",
+      "droppedVersion": "2.1.2.4"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3986,7 +3986,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.6.16",
-      "droppedVersion": "7.5.6.15"
+      "droppedVersion": "7.5.6.16"
     },
     {
       "internalName": "BossModReborn",
