@@ -1,7 +1,7 @@
 {
   "sourceId": "murakumo-jp-escape",
   "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
-  "fetchedAt": "2026-10-02",
+  "fetchedAt": "2026-10-04",
   "count": 13,
   "plugins": [
     {
@@ -381,12 +381,12 @@
       ],
       "InternalName": "AutoDuty",
       "RepoUrl": "https://github.com/erdelf/AutoDuty",
-      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.375/install/latest.zip",
-      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.375/update/latest.zip",
-      "AssemblyVersion": "0.0.0.375",
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.377/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.377/update/latest.zip",
+      "AssemblyVersion": "0.0.0.377",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "## What's Changed\r\n* [Crucible] Don't use healing items in arena outside of combat by @erdelf in https://github.com/erdelf/AutoDuty/pull/574\r\n* Added path for Syrcus Tower by @ShermTank7272 in https://github.com/erdelf/AutoDuty/pull/419\r\n* {Crucible] Added Score Logging by @erdelf in https://github.com/erdelf/AutoDuty/pull/576\r\n* [Crucible] Custom Levelling Team Cap by @erdelf in https://github.com/erdelf/AutoDuty/pull/577\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.374...0.0.0.375",
+      "Changelog": "## What's Changed\r\n* [Crucible] Fallback Sheet Entry (how the f..) by @erdelf in https://github.com/erdelf/AutoDuty/pull/581\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.376...0.0.0.377",
       "TestingAssemblyVersion": "0.0.0.367",
       "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.367/install/testing.zip",
       "TestingDalamudApiLevel": "15",
