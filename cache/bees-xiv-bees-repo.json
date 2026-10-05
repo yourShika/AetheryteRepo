@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-10-04",
+  "fetchedAt": "2026-10-05",
   "count": 51,
   "plugins": [
     {
@@ -1387,21 +1387,21 @@
       "Name": "VanillaPlus [Bees]",
       "Punchline": "A collection of various game modifications",
       "Description": "This plugin is primarily focused on various UI adjustments, behavior adjustments, and adding new native elements to the game",
-      "Changelog": "Better Emote Window - (More likely) fixes crash when using newly acquired emotes (thanks Hasel for digging deeper)",
+      "Changelog": "fix inverted logic\r\n\r\nfix obsoletes\r\n\r\nsorry for the multiple updates to fix one issue >_<",
       "TestingChangelog": "KTK system changes to be more async friendly and to combine addon config entries into a single file.",
       "Tags": [
         "ui"
       ],
       "CategoryTags": null,
       "InternalName": "VanillaPlusBees",
-      "AssemblyVersion": "1.4.5.3",
+      "AssemblyVersion": "1.4.5.6",
       "IsTestingExclusive": false,
       "RepoUrl": "https://github.com/MidoriKami/VanillaPlus",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "TestingDalamudApiLevel": 15,
       "DownloadCount": 69696969,
-      "LastUpdate": 1791146518,
+      "LastUpdate": 1791167327,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/VanillaPlus.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/VanillaPlus.zip",
       "LoadPriority": 0,

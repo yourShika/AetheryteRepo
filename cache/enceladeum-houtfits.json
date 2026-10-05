@@ -1,16 +1,16 @@
 {
   "sourceId": "enceladeum-houtfits",
   "url": "https://raw.githubusercontent.com/Enceladeum/HOutfits/main/repo.json",
-  "fetchedAt": "2026-10-01",
+  "fetchedAt": "2026-10-05",
   "count": 1,
   "plugins": [
     {
       "Author": "The Enceladeum",
       "Name": "HOutfits",
       "InternalName": "HOutfits",
-      "Punchline": "Apply full sets, loose pieces and facewear to your character in Glamourer with a single click.",
-      "Description": "Browse the game's named sets, sets recovered by item name, every other wearable piece and facewear, with large icon previews on hover, and apply a whole set or any single piece to your character through Glamourer, instead of picking each item from a dropdown.",
-      "Changelog": "0.4.2: name-grouped sets now work on German, French and Japanese game clients too. The grouping reads the English item names behind the scenes, so it finds the same sets everywhere; piece names still show in your game's language and are searchable in either language. The labels of the recovered sets stay in English, and on those clients they are listed after the game's own sets.",
+      "Punchline": "Apply full sets, loose pieces, facewear and weapons to your character in Glamourer with a single click.",
+      "Description": "Browse the game's named sets, sets recovered by item name, every other wearable piece, facewear and weapons, with large icon previews on hover, and apply a whole set or any single piece to your character through Glamourer, instead of picking each item from a dropdown.",
+      "Changelog": "0.5.0: new Weapons tab. Browse every weapon by class or job in the same icon grid as Loose gear, with a large preview on hover, and Main hand / Off hand for shields and a crafter's second tool. Your current class is always the first chip. The other classes are greyed out and preview only, because Glamourer applies just the weapons of the class you are on, except in GPose, where every class is available.",
       "Tags": [
         "glamour",
         "glamourer",
@@ -27,7 +27,7 @@
       "IsTestingExclusive": false,
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/Enceladeum/HOutfits",
-      "AssemblyVersion": "0.4.2.0",
+      "AssemblyVersion": "0.5.0.0",
       "DalamudApiLevel": 15,
       "LoadRequiredState": 0,
       "LoadSync": false,
@@ -35,7 +35,7 @@
       "LoadPriority": 0,
       "AcceptsFeedback": true,
       "DownloadCount": 0,
-      "LastUpdate": 1790814335,
+      "LastUpdate": 1791205875,
       "DownloadLinkInstall": "https://github.com/Enceladeum/HOutfits/releases/latest/download/latest.zip",
       "DownloadLinkUpdate": "https://github.com/Enceladeum/HOutfits/releases/latest/download/latest.zip",
       "DownloadLinkTesting": "https://github.com/Enceladeum/HOutfits/releases/latest/download/latest.zip",
