@@ -1,8 +1,8 @@
 {
   "sourceId": "exatrines-dalamudplugins",
   "url": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-10-04",
-  "count": 7,
+  "fetchedAt": "2026-10-05",
+  "count": 8,
   "plugins": [
     {
       "Author": "mirage",
@@ -25,7 +25,88 @@
       ],
       "DownloadLinkInstall": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
       "DownloadLinkUpdate": "https://github.com/exatrines/Oracle/releases/download/v1.2.3/Oracle.zip",
-      "DownloadCount": 1298,
+      "DownloadCount": 1299,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "exatrines-dalamudplugins",
+      "_SourceName": "exatrines / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json"
+    },
+    {
+      "Author": "mirage",
+      "Name": "Enhanced Quick Panel",
+      "Punchline": "A customizable quick panel overlay.",
+      "Description": "A customizable quick panel overlay for actions, items, macros, and text commands, with multiple pages and style presets.",
+      "InternalName": "EnhancedQuickPanel",
+      "IconUrl": "https://raw.githubusercontent.com/exatrines/EnhancedQuickPanel/master/EnhancedQuickPanel/Data/plugin-icon.png",
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/exatrines/EnhancedQuickPanel/master/docs/screenshots/en/overlay.png"
+      ],
+      "AssemblyVersion": "1.1.1.0",
+      "RepoUrl": "https://github.com/exatrines/EnhancedQuickPanel",
+      "DownloadLinkInstall": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.1.1.0/EnhancedQuickPanel.zip",
+      "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.1.1.0/EnhancedQuickPanel.zip",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Tags": [
+        "quickpanel",
+        "commandpanel",
+        "ui"
+      ],
+      "DownloadCount": 614,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "exatrines-dalamudplugins",
+      "_SourceName": "exatrines / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json"
+    },
+    {
+      "Author": "mirage, min",
+      "Name": "Enhanced Context Menu",
+      "Punchline": "Plugin context menu entries, off the game menu.",
+      "Description": "Moves context menu entries added through Dalamud into a panel beside the game menu.",
+      "InternalName": "EnhancedContextMenu",
+      "AssemblyVersion": "0.1.0.0",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "RepoUrl": "https://github.com/exatrines/EnhancedContextMenu",
+      "IconUrl": "https://raw.githubusercontent.com/exatrines/EnhancedContextMenu/main/EnhancedContextMenu/Data/plugin-icon.png",
+      "DownloadLinkInstall": "https://github.com/exatrines/EnhancedContextMenu/releases/download/v0.1.0/EnhancedContextMenu.zip",
+      "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedContextMenu/releases/download/v0.1.0/EnhancedContextMenu.zip",
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/exatrines/EnhancedContextMenu/main/docs/screenshots/hero-1280x720.png"
+      ],
+      "Tags": [
+        "context menu",
+        "ui"
+      ],
+      "DownloadCount": 0,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "exatrines-dalamudplugins",
+      "_SourceName": "exatrines / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json"
+    },
+    {
+      "Author": "mirage",
+      "Name": "DTR Overlay",
+      "Punchline": "Customizable DTR overlay.",
+      "Description": "Create customizable DTR overlay.",
+      "InternalName": "DTROverlay",
+      "AssemblyVersion": "2.0.0.0",
+      "RepoUrl": "https://github.com/exatrines/DTROverlay",
+      "DownloadLinkInstall": "https://github.com/exatrines/DTROverlay/releases/download/v2.0.0.0/DTROverlay.zip",
+      "DownloadLinkUpdate": "https://github.com/exatrines/DTROverlay/releases/download/v2.0.0.0/DTROverlay.zip",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Tags": [
+        "ui",
+        "dtr",
+        "overlay"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/exatrines/DTROverlay/main/DTROverlay/Data/plugin-icon.png",
+      "ImageUrl": "",
+      "DownloadCount": 367,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",
@@ -62,26 +143,27 @@
     },
     {
       "Author": "mirage",
-      "Name": "Enhanced Quick Panel",
-      "Punchline": "A customizable quick panel overlay.",
-      "Description": "A customizable quick panel overlay for actions, items, macros, and text commands, with multiple pages and style presets.",
-      "InternalName": "EnhancedQuickPanel",
-      "IconUrl": "https://raw.githubusercontent.com/exatrines/EnhancedQuickPanel/master/EnhancedQuickPanel/Data/plugin-icon.png",
-      "ImageUrls": [
-        "https://raw.githubusercontent.com/exatrines/EnhancedQuickPanel/master/docs/screenshots/en/overlay.png"
-      ],
+      "Name": "Goetia",
+      "Punchline": "Manual mark assist via party-aligned hotbar highlights.",
+      "Description": "Highlights mark-macro hotbar slots by party order for manual marking.",
+      "InternalName": "Goetia",
       "AssemblyVersion": "1.1.0.0",
-      "RepoUrl": "https://github.com/exatrines/EnhancedQuickPanel",
-      "DownloadLinkInstall": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.1.0.0/EnhancedQuickPanel.zip",
-      "DownloadLinkUpdate": "https://github.com/exatrines/EnhancedQuickPanel/releases/download/v1.1.0.0/EnhancedQuickPanel.zip",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
+      "RepoUrl": "https://github.com/exatrines/Goetia",
+      "IconUrl": "https://raw.githubusercontent.com/exatrines/Goetia/main/Goetia/Data/plugin-icon.png",
       "Tags": [
-        "quickpanel",
-        "commandpanel",
-        "ui"
+        "marking",
+        "hotbar",
+        "raid",
+        "ultimate"
       ],
-      "DownloadCount": 609,
+      "ImageUrls": [
+        "https://raw.githubusercontent.com/exatrines/Goetia/main/docs/screenshots/party-highlight-1280x720.png"
+      ],
+      "DownloadLinkInstall": "https://github.com/exatrines/Goetia/releases/download/v1.1.0/Goetia.zip",
+      "DownloadLinkUpdate": "https://github.com/exatrines/Goetia/releases/download/v1.1.0/Goetia.zip",
+      "DownloadCount": 52,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",
@@ -120,35 +202,6 @@
     },
     {
       "Author": "mirage",
-      "Name": "Goetia",
-      "Punchline": "Manual mark assist via party-aligned hotbar highlights.",
-      "Description": "Highlights mark-macro hotbar slots by party order for manual marking.",
-      "InternalName": "Goetia",
-      "AssemblyVersion": "1.1.0.0",
-      "ApplicableVersion": "any",
-      "DalamudApiLevel": 15,
-      "RepoUrl": "https://github.com/exatrines/Goetia",
-      "IconUrl": "https://raw.githubusercontent.com/exatrines/Goetia/main/Goetia/Data/plugin-icon.png",
-      "Tags": [
-        "marking",
-        "hotbar",
-        "raid",
-        "ultimate"
-      ],
-      "ImageUrls": [
-        "https://raw.githubusercontent.com/exatrines/Goetia/main/docs/screenshots/party-highlight-1280x720.png"
-      ],
-      "DownloadLinkInstall": "https://github.com/exatrines/Goetia/releases/download/v1.1.0/Goetia.zip",
-      "DownloadLinkUpdate": "https://github.com/exatrines/Goetia/releases/download/v1.1.0/Goetia.zip",
-      "DownloadCount": 51,
-      "IsHide": false,
-      "IsTestingExclusive": false,
-      "_SourceId": "exatrines-dalamudplugins",
-      "_SourceName": "exatrines / DalamudPlugins",
-      "_SourceUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json"
-    },
-    {
-      "Author": "mirage",
       "Name": "Auto Frontline",
       "Punchline": "Frontline automation plugin.",
       "Description": "Required plugins: vnavmesh, Rotation Solver Reborn.",
@@ -167,32 +220,6 @@
       "IconUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/refs/heads/main/assets/images/AutoFrontlineIcon.png",
       "ImageUrl": "",
       "DownloadCount": 1132,
-      "IsHide": false,
-      "IsTestingExclusive": false,
-      "_SourceId": "exatrines-dalamudplugins",
-      "_SourceName": "exatrines / DalamudPlugins",
-      "_SourceUrl": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json"
-    },
-    {
-      "Author": "mirage",
-      "Name": "DTR Overlay",
-      "Punchline": "Customizable DTR overlay.",
-      "Description": "Create customizable DTR overlay.",
-      "InternalName": "DTROverlay",
-      "AssemblyVersion": "2.0.0.0",
-      "RepoUrl": "https://github.com/exatrines/DTROverlay",
-      "DownloadLinkInstall": "https://github.com/exatrines/DTROverlay/releases/download/v2.0.0.0/DTROverlay.zip",
-      "DownloadLinkUpdate": "https://github.com/exatrines/DTROverlay/releases/download/v2.0.0.0/DTROverlay.zip",
-      "ApplicableVersion": "any",
-      "DalamudApiLevel": 15,
-      "Tags": [
-        "ui",
-        "dtr",
-        "overlay"
-      ],
-      "IconUrl": "https://raw.githubusercontent.com/exatrines/DTROverlay/main/DTROverlay/Data/plugin-icon.png",
-      "ImageUrl": "",
-      "DownloadCount": 366,
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "exatrines-dalamudplugins",
