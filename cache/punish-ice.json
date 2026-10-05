@@ -1,7 +1,7 @@
 {
   "sourceId": "punish-ice",
   "url": "https://puni.sh/api/repository/ice",
-  "fetchedAt": "2026-09-29",
+  "fetchedAt": "2026-10-05",
   "count": 3,
   "plugins": [
     {
@@ -16,7 +16,7 @@
       ],
       "InternalName": "ExplorersIcebox",
       "RepoUrl": "https://github.com/LeontopodiumNivale14/Explorers-Icebox/tree/master",
-      "DownloadCount": 53418,
+      "DownloadCount": 53661,
       "LastUpdate": 1779884677,
       "DownloadLinkInstall": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/install/latest.zip",
       "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/64/ExplorersIcebox/versions/1.1.0.3/update/latest.zip",
@@ -35,7 +35,7 @@
       "Author": "Ice",
       "Name": "Chilled Leves",
       "Punchline": "I heard you like your leves on the rocks.",
-      "Description": "A leve helper that lets you select which ones you want to do, and help turn them in for you. YOU NEED NAVMESH INSTALLED AS AN FYI.",
+      "Description": "The leve plugin that nobody wanted to make. Will display what leves you need to complete, as well as help automate them for your heart desires (not required though)",
       "Tags": [
         "Leves",
         "Crafters",
@@ -43,7 +43,7 @@
       ],
       "InternalName": "ChilledLeves",
       "RepoUrl": "https://github.com/LeontopodiumNivale14/LeveItAlone",
-      "DownloadCount": 107303,
+      "DownloadCount": 107520,
       "LastUpdate": 1777774705,
       "DownloadLinkInstall": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/install/latest.zip",
       "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/68/ChilledLeves/versions/1.0.1.24/update/latest.zip",
@@ -68,7 +68,7 @@
       ],
       "InternalName": "ICE",
       "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-      "DownloadCount": 1242698,
+      "DownloadCount": 1261539,
       "LastUpdate": 1790691083,
       "DownloadLinkInstall": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.3/install/latest.zip",
       "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/70/ICE/versions/1.0.0.3/update/latest.zip",
