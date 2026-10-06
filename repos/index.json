@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-05T22:00:48.556Z",
-  "contentHash": "d58b23d69a79a164",
+  "generatedAt": "2026-10-06T06:19:25.944Z",
+  "contentHash": "19675861a0f14c5d",
   "totalPlugins": 605,
   "masterPlugins": 599,
   "currentApiLevel": 15,
@@ -1172,7 +1172,7 @@
       "name": "NexusFFXIV DalamudRepo",
       "url": "https://raw.githubusercontent.com/NexusFFXIV/DalamudRepo/main/all-repo.json",
       "status": "ok",
-      "count": 97,
+      "count": 98,
       "note": null
     },
     {
@@ -2382,7 +2382,7 @@
       "name": "Social & Roleplay",
       "emoji": "🎭",
       "description": "RP-Profile, Emotes, Free Company, Discord",
-      "count": 53,
+      "count": 52,
       "file": "repos/social.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 19,
+      "count": 20,
       "file": "repos/misc.json"
     }
   ],
@@ -2543,7 +2543,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.379",
+      "keptVersion": "0.0.0.380",
       "droppedVersion": "0.0.0.375"
     },
     {
@@ -3320,8 +3320,8 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.379",
-      "droppedVersion": "0.0.0.379"
+      "keptVersion": "0.0.0.380",
+      "droppedVersion": "0.0.0.380"
     },
     {
       "internalName": "Brio",
@@ -3646,18 +3646,18 @@
       "droppedVersion": "4.16.0.0"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "6.0.2.4",
       "droppedVersion": "6.0.2.4"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "Marketbuddy",
@@ -3667,18 +3667,18 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.1",
-      "droppedVersion": "1.15.7.1"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "15.756.3.34",
       "droppedVersion": "15.756.3.34"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.1",
+      "droppedVersion": "1.15.7.1"
     },
     {
       "internalName": "WrathCombo",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "1.0.4.26"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.21"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.4",
       "droppedVersion": "2.1.2.4"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.21",
+      "droppedVersion": "4.0.5.21"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3986,7 +3986,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.6.18",
-      "droppedVersion": "7.5.6.17"
+      "droppedVersion": "7.5.6.18"
     },
     {
       "internalName": "BossModReborn",
@@ -4931,7 +4931,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.6.18",
-      "droppedVersion": "7.5.6.17"
+      "droppedVersion": "7.5.6.18"
     },
     {
       "internalName": "Saucy",
@@ -5399,7 +5399,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.379",
+      "keptVersion": "0.0.0.380",
       "droppedVersion": "0.0.0.182"
     },
     {
@@ -6614,6 +6614,13 @@
       "droppedVersion": "1.0.0.2"
     },
     {
+      "internalName": "LocationInfo",
+      "kept": "NexusFFXIV DalamudRepo",
+      "dropped": "Jrogo7 / VenueManager",
+      "keptVersion": "3.3.0",
+      "droppedVersion": "3.3.0"
+    },
+    {
       "internalName": "PvPSelector",
       "kept": "DalamudRepoCollection",
       "dropped": "Karlin-Z / DalamudPlugins",
@@ -6757,7 +6764,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "0.0.0.379",
+      "keptVersion": "0.0.0.380",
       "droppedVersion": "0.0.0.307"
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "murakumo-jp-escape",
   "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
-  "fetchedAt": "2026-10-04",
+  "fetchedAt": "2026-10-06",
   "count": 13,
   "plugins": [
     {
@@ -381,12 +381,12 @@
       ],
       "InternalName": "AutoDuty",
       "RepoUrl": "https://github.com/erdelf/AutoDuty",
-      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.379/install/latest.zip",
-      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.379/update/latest.zip",
-      "AssemblyVersion": "0.0.0.379",
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.380/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.380/update/latest.zip",
+      "AssemblyVersion": "0.0.0.380",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "## What's Changed\r\n* (1200) Everkeep: Fix by @erdelf in https://github.com/erdelf/AutoDuty/pull/584\r\n* Avarice config re-added by @erdelf in https://github.com/erdelf/AutoDuty/pull/586\r\n* [Crucible] Fix Shop Reference ids by @erdelf in https://github.com/erdelf/AutoDuty/pull/587\r\n* Retire Action: Adjust to Duty Mode by @erdelf in https://github.com/erdelf/AutoDuty/pull/588\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.378...0.0.0.379",
+      "Changelog": "## What's Changed\r\n* [Crucible] Fix skipping camps when option off by @erdelf in https://github.com/erdelf/AutoDuty/pull/590\r\n* RSR IPC changed to use overrides by @erdelf in https://github.com/erdelf/AutoDuty/pull/591\r\n* (1292) Meso Terminal: b3 smoothened by @erdelf in https://github.com/erdelf/AutoDuty/pull/592\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.379...0.0.0.380",
       "TestingAssemblyVersion": "0.0.0.367",
       "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.367/install/testing.zip",
       "TestingDalamudApiLevel": "15",
