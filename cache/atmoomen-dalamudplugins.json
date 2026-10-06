@@ -1,7 +1,7 @@
 {
   "sourceId": "atmoomen-dalamudplugins",
   "url": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-10-03",
+  "fetchedAt": "2026-10-06",
   "count": 14,
   "plugins": [
     {
@@ -308,7 +308,7 @@
     {
       "Name": "EdgeTTS.Dalamud",
       "InternalName": "EdgeTTS.Dalamud",
-      "AssemblyVersion": "1.0.1.0",
+      "AssemblyVersion": "1.0.2.0",
       "Author": "AtmoOmen",
       "Punchline": "提供自然语言合成文本转语音服务 / Provide Neural TTS Service",
       "Description": "依托微软 Azure 自然语音合成提供更加强大、流畅的文本转语音服务\nLeverage Microsoft Azure Neural Text-to-Speech to provide a more powerful and fluid text-to-speech service within Dalamud.",
@@ -317,8 +317,8 @@
       "DalamudApiLevel": 15,
       "RepoUrl": "https://github.com/AtmoOmen/EdgeTTS.Dalamud",
       "IconUrl": "https://gh.atmoomen.top/raw.githubusercontent.com/AtmoOmen/EdgeTTS.Dalamud/main/EdgeTTS.Dalamud/Assets/icon.png",
-      "DownloadLinkInstall": "https://github.com/AtmoOmen/EdgeTTS.Dalamud/releases/download/1.0.1.0/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/AtmoOmen/EdgeTTS.Dalamud/releases/download/1.0.1.0/latest.zip",
+      "DownloadLinkInstall": "https://github.com/AtmoOmen/EdgeTTS.Dalamud/releases/download/1.0.2.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/AtmoOmen/EdgeTTS.Dalamud/releases/download/1.0.2.0/latest.zip",
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "atmoomen-dalamudplugins",
