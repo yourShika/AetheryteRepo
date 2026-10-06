@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-06T15:57:30.385Z",
-  "contentHash": "5aaa9085ac08d5a9",
-  "totalPlugins": 605,
-  "masterPlugins": 599,
+  "generatedAt": "2026-10-06T22:39:46.523Z",
+  "contentHash": "6383d1063b5f8ea7",
+  "totalPlugins": 606,
+  "masterPlugins": 600,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -1123,9 +1123,9 @@
       "id": "plogon-camora-dev-unofficial",
       "name": "MyDalamudPlugins (WorkingRobot) / plogon.camora.dev",
       "url": "https://plogon.camora.dev/unofficial",
-      "status": "stale",
+      "status": "ok",
       "count": 3,
-      "note": "HTTP 522 <none>"
+      "note": null
     },
     {
       "id": "tssailzz8-myplugins",
@@ -2374,7 +2374,7 @@
       "name": "Quality of Life & UI",
       "emoji": "✨",
       "description": "Tweaks, Interface, Chat, Inventar, Karten",
-      "count": 150,
+      "count": 151,
       "file": "repos/qol.json"
     },
     {
@@ -2543,7 +2543,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.380",
+      "keptVersion": "0.0.0.381",
       "droppedVersion": "0.0.0.375"
     },
     {
@@ -2551,7 +2551,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "6.0.2.5",
-      "droppedVersion": "6.0.2.4"
+      "droppedVersion": "6.0.2.5"
     },
     {
       "internalName": "AutoRetainer",
@@ -2636,13 +2636,6 @@
       "dropped": "bees-repo",
       "keptVersion": "1.0.1.10",
       "droppedVersion": "1.0.1.10"
-    },
-    {
-      "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "bees-repo",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
     },
     {
       "internalName": "PandorasBox",
@@ -3320,8 +3313,8 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.380",
-      "droppedVersion": "0.0.0.380"
+      "keptVersion": "0.0.0.381",
+      "droppedVersion": "0.0.0.381"
     },
     {
       "internalName": "Brio",
@@ -3618,11 +3611,11 @@
       "droppedVersion": "4.6.2.11"
     },
     {
-      "internalName": "Avarice",
+      "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
+      "keptVersion": "1.6.4.5",
+      "droppedVersion": "1.6.4.5"
     },
     {
       "internalName": "Splatoon",
@@ -3632,25 +3625,11 @@
       "droppedVersion": "3.9.2.28"
     },
     {
-      "internalName": "PandorasBox",
+      "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.5",
-      "droppedVersion": "1.6.4.5"
-    },
-    {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.2.5",
-      "droppedVersion": "6.0.2.4"
-    },
-    {
-      "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.16.0.0"
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
     },
     {
       "internalName": "LazyLoot",
@@ -3660,11 +3639,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.1",
-      "droppedVersion": "1.15.7.1"
+      "keptVersion": "6.0.2.5",
+      "droppedVersion": "6.0.2.5"
     },
     {
       "internalName": "Marketbuddy",
@@ -3672,6 +3651,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.1",
+      "droppedVersion": "1.15.7.1"
     },
     {
       "internalName": "Questionable",
@@ -3693,6 +3679,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.5",
+      "droppedVersion": "0.0.0.5"
     },
     {
       "internalName": "Saucy",
@@ -3985,8 +3978,8 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.6.18",
-      "droppedVersion": "7.5.6.18"
+      "keptVersion": "7.5.6.19",
+      "droppedVersion": "7.5.6.19"
     },
     {
       "internalName": "BossModReborn",
@@ -4823,7 +4816,7 @@
     },
     {
       "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
+      "kept": "bees-repo",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "4.16.0.0",
       "droppedVersion": "4.16.0.0"
@@ -4930,7 +4923,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.6.18",
+      "keptVersion": "7.5.6.19",
       "droppedVersion": "7.5.6.18"
     },
     {
@@ -5327,14 +5320,14 @@
     },
     {
       "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
+      "kept": "bees-repo",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "4.16.0.0",
       "droppedVersion": "4.15.0.0"
     },
     {
       "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
+      "kept": "bees-repo",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "4.16.0.0",
       "droppedVersion": "4.14.0.1"
@@ -5399,7 +5392,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.380",
+      "keptVersion": "0.0.0.381",
       "droppedVersion": "0.0.0.182"
     },
     {
@@ -5677,7 +5670,7 @@
     },
     {
       "internalName": "PalacePal",
-      "kept": "Puni.sh (Ment)",
+      "kept": "bees-repo",
       "dropped": "nite-cat / the-giga-repo",
       "keptVersion": "4.16.0.0",
       "droppedVersion": "4.11.0.0"
@@ -5728,7 +5721,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.6.18",
+      "keptVersion": "7.5.6.19",
       "droppedVersion": "7.1.5.38"
     },
     {
@@ -6352,7 +6345,7 @@
       "kept": "Sea of Stars",
       "dropped": "aniachan / anisplugins",
       "keptVersion": "2.2.1.3",
-      "droppedVersion": "2.2.1.100"
+      "droppedVersion": "2.2.1.101"
     },
     {
       "internalName": "Snappy",
@@ -6533,7 +6526,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.6.18",
+      "keptVersion": "7.5.6.19",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -6666,7 +6659,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "7.5.6.18",
+      "keptVersion": "7.5.6.19",
       "droppedVersion": "7.2.5.122"
     },
     {
@@ -6764,7 +6757,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "0.0.0.380",
+      "keptVersion": "0.0.0.381",
       "droppedVersion": "0.0.0.307"
     },
     {

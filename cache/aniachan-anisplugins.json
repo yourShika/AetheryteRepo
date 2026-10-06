@@ -1,7 +1,7 @@
 {
   "sourceId": "aniachan-anisplugins",
   "url": "https://raw.githubusercontent.com/aniachan/anisplugins/main/repo.json",
-  "fetchedAt": "2026-10-05",
+  "fetchedAt": "2026-10-06",
   "count": 4,
   "plugins": [
     {
@@ -67,8 +67,8 @@
       "Name": "xivclone",
       "Description": "You know :p",
       "InternalName": "xivclone",
-      "AssemblyVersion": "0.0.0.14",
-      "TestingAssemblyVersion": "0.0.0.14",
+      "AssemblyVersion": "0.0.0.18",
+      "TestingAssemblyVersion": "0.0.0.18",
       "RepoUrl": "https://github.com/aniachan/xivclone",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
@@ -79,9 +79,9 @@
       "LoadPriority": 69420,
       "LoadRequiredState": 2,
       "LoadSync": true,
-      "DownloadLinkInstall": "https://github.com/aniachan/xivclone/releases/download/0.0.0.14/xivclone.zip",
-      "DownloadLinkTesting": "https://github.com/aniachan/xivclone/releases/download/0.0.0.14/xivclone.zip",
-      "DownloadLinkUpdate": "https://github.com/aniachan/xivclone/releases/download/0.0.0.14/xivclone.zip",
+      "DownloadLinkInstall": "https://github.com/aniachan/xivclone/releases/download/0.0.0.18/xivclone.zip",
+      "DownloadLinkTesting": "https://github.com/aniachan/xivclone/releases/download/0.0.0.18/xivclone.zip",
+      "DownloadLinkUpdate": "https://github.com/aniachan/xivclone/releases/download/0.0.0.18/xivclone.zip",
       "IconUrl": "https://raw.githubusercontent.com/aniachan/xivclone/master/images/icon.png",
       "Tags": [
         "Ani's Plugins"
@@ -96,8 +96,8 @@
       "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
       "Punchline": "Customize your character beyond FFXIV's limitations.",
       "InternalName": "CustomizePlus",
-      "AssemblyVersion": "2.2.1.100",
-      "TestingAssemblyVersion": "2.2.1.100",
+      "AssemblyVersion": "2.2.1.101",
+      "TestingAssemblyVersion": "2.2.1.101",
       "RepoUrl": "https://github.com/aniachan/CustomizePlus",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
@@ -107,9 +107,9 @@
       "DownloadCount": 0,
       "LastUpdate": 0,
       "LoadPriority": 0,
-      "DownloadLinkInstall": "https://github.com/aniachan/CustomizePlus/releases/download/2.2.1.100/CustomizePlus.zip",
-      "DownloadLinkUpdate": "https://github.com/aniachan/CustomizePlus/releases/download/2.2.1.100/CustomizePlus.zip",
-      "DownloadLinkTesting": "https://github.com/aniachan/CustomizePlus/releases/download/2.2.1.100/CustomizePlus.zip",
+      "DownloadLinkInstall": "https://github.com/aniachan/CustomizePlus/releases/download/2.2.1.101/CustomizePlus.zip",
+      "DownloadLinkUpdate": "https://github.com/aniachan/CustomizePlus/releases/download/2.2.1.101/CustomizePlus.zip",
+      "DownloadLinkTesting": "https://github.com/aniachan/CustomizePlus/releases/download/2.2.1.101/CustomizePlus.zip",
       "IconUrl": "https://raw.githubusercontent.com/aniachan/CustomizePlus/main/Data/icon.png",
       "Tags": [
         "Anamnesis",
