@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T05:57:56.518Z",
-  "contentHash": "ce328ee34fb591fe",
+  "generatedAt": "2026-10-07T13:21:58.366Z",
+  "contentHash": "7d5a145115d7243f",
   "totalPlugins": 606,
   "masterPlugins": 600,
   "currentApiLevel": 15,
@@ -2350,7 +2350,7 @@
       "name": "Kampf & Rotation",
       "emoji": "⚔️",
       "description": "Rotationen, Boss-Timeline, Combos, PvP",
-      "count": 70,
+      "count": 71,
       "file": "repos/combat.json"
     },
     {
@@ -2374,7 +2374,7 @@
       "name": "Quality of Life & UI",
       "emoji": "✨",
       "description": "Tweaks, Interface, Chat, Inventar, Karten",
-      "count": 151,
+      "count": 150,
       "file": "repos/qol.json"
     },
     {
@@ -2544,7 +2544,7 @@
       "kept": "erdelf",
       "dropped": "bees-repo",
       "keptVersion": "0.0.0.381",
-      "droppedVersion": "0.0.0.375"
+      "droppedVersion": "0.0.0.381"
     },
     {
       "internalName": "AutoHook",
@@ -2607,7 +2607,7 @@
       "kept": "ICE (Island Sanctuary)",
       "dropped": "bees-repo",
       "keptVersion": "1.0.0.4",
-      "droppedVersion": "1.0.0.3"
+      "droppedVersion": "1.0.0.4"
     },
     {
       "internalName": "LazyLoot",
@@ -2636,6 +2636,13 @@
       "dropped": "bees-repo",
       "keptVersion": "1.0.1.10",
       "droppedVersion": "1.0.1.10"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "bees-repo",
+      "keptVersion": "0.0.0.5",
+      "droppedVersion": "0.0.0.5"
     },
     {
       "internalName": "PandorasBox",
@@ -2704,8 +2711,8 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "1.15.7.1",
-      "droppedVersion": "1.15.7.1"
+      "keptVersion": "1.15.7.2",
+      "droppedVersion": "1.15.7.2"
     },
     {
       "internalName": "Brio",
@@ -3180,7 +3187,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "1.15.7.1",
+      "keptVersion": "1.15.7.2",
       "droppedVersion": "1.2.2.3"
     },
     {
@@ -3597,13 +3604,6 @@
       "droppedVersion": "1.1.0.2"
     },
     {
-      "internalName": "Orbwalker",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.0.1.10",
-      "droppedVersion": "1.0.1.10"
-    },
-    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3611,11 +3611,11 @@
       "droppedVersion": "4.6.2.11"
     },
     {
-      "internalName": "Avarice",
+      "internalName": "Orbwalker",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
+      "keptVersion": "1.0.1.10",
+      "droppedVersion": "1.0.1.10"
     },
     {
       "internalName": "PandorasBox",
@@ -3625,18 +3625,18 @@
       "droppedVersion": "1.6.4.5"
     },
     {
+      "internalName": "Avarice",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
+    },
+    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.28",
       "droppedVersion": "3.9.2.28"
-    },
-    {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.2.5",
-      "droppedVersion": "6.0.2.5"
     },
     {
       "internalName": "LazyLoot",
@@ -3646,18 +3646,18 @@
       "droppedVersion": "5.3.3.3"
     },
     {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.2.5",
+      "droppedVersion": "6.0.2.5"
+    },
+    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.1",
+      "keptVersion": "1.15.7.2",
       "droppedVersion": "1.15.7.1"
-    },
-    {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.36",
-      "droppedVersion": "15.756.3.36"
     },
     {
       "internalName": "Marketbuddy",
@@ -3667,18 +3667,18 @@
       "droppedVersion": "0.2.4.2"
     },
     {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.3.36",
+      "droppedVersion": "15.756.3.36"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.26",
       "droppedVersion": "1.0.4.26"
-    },
-    {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.4",
-      "droppedVersion": "2.1.2.4"
     },
     {
       "internalName": "Palantir",
@@ -3693,6 +3693,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.4",
+      "droppedVersion": "2.1.2.4"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3986,7 +3993,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.6.32",
-      "droppedVersion": "7.5.6.31"
+      "droppedVersion": "7.5.6.32"
     },
     {
       "internalName": "ActionTimelineReborn",
@@ -4391,7 +4398,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MyDalamudPlugins",
-      "keptVersion": "1.15.7.1",
+      "keptVersion": "1.15.7.2",
       "droppedVersion": "1.2.2.1"
     },
     {
@@ -5063,7 +5070,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.15.7.1",
+      "keptVersion": "1.15.7.2",
       "droppedVersion": "1.15.7.1"
     },
     {
@@ -5218,7 +5225,7 @@
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.6.32",
-      "droppedVersion": "7.5.6.31"
+      "droppedVersion": "7.5.6.32"
     },
     {
       "internalName": "BossModReborn",
@@ -5320,16 +5327,9 @@
     },
     {
       "internalName": "PalacePal",
-      "kept": "bees-repo",
+      "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.16.0.0",
-      "droppedVersion": "4.15.0.0"
-    },
-    {
-      "internalName": "PalacePal",
-      "kept": "bees-repo",
-      "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.16.0.0",
+      "keptVersion": "4.15.0.0",
       "droppedVersion": "4.14.0.1"
     },
     {
@@ -5670,9 +5670,9 @@
     },
     {
       "internalName": "PalacePal",
-      "kept": "bees-repo",
+      "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "4.16.0.0",
+      "keptVersion": "4.15.0.0",
       "droppedVersion": "4.11.0.0"
     },
     {
@@ -5847,7 +5847,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.15.7.1",
+      "keptVersion": "1.15.7.2",
       "droppedVersion": "1.9.0"
     },
     {
@@ -6876,7 +6876,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "OpaqueReptile / daemitus_MyDalamudPlugins",
-      "keptVersion": "1.15.7.1",
+      "keptVersion": "1.15.7.2",
       "droppedVersion": "1.2.2.1"
     },
     {
