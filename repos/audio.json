@@ -65,7 +65,7 @@
     "Punchline": "Local TTS commentary and classic transition alerts.",
     "Description": "Preset-driven commentary for login, travel, combat, idle, BGM, and other events; cached Piper or Windows speech; configurable triggers and cooldowns; and optional Krangler integration.",
     "InternalName": "dheacon",
-    "AssemblyVersion": "2.1.0.3",
+    "AssemblyVersion": "3.0.0.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Tags": [
@@ -77,9 +77,9 @@
     "CategoryTags": [
       "utility"
     ],
-    "DownloadLinkInstall": "https://github.com/McVaxius/dheacon/releases/download/v2.1.0.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/dheacon/releases/download/v2.1.0.3/latest.zip",
-    "LastUpdate": 1789682484,
+    "DownloadLinkInstall": "https://github.com/McVaxius/dheacon/releases/download/v3.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/dheacon/releases/download/v3.0.0.1/latest.zip",
+    "LastUpdate": 1791366535,
     "Changelog": null,
     "IsTestingExclusive": false,
     "DownloadCount": 827,
