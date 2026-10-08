@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-08T00:59:48.947Z",
-  "contentHash": "6027f50d7ce670d7",
+  "generatedAt": "2026-10-08T10:33:46.371Z",
+  "contentHash": "5b93450edbb14289",
   "totalPlugins": 607,
   "masterPlugins": 601,
   "currentApiLevel": 15,
@@ -2642,7 +2642,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "0.0.0.6",
-      "droppedVersion": "0.0.0.5"
+      "droppedVersion": "0.0.0.6"
     },
     {
       "internalName": "PandorasBox",
@@ -3625,6 +3625,13 @@
       "droppedVersion": "2.2.0.13"
     },
     {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3632,11 +3639,18 @@
       "droppedVersion": "6.0.2.5"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "1.6.4.5",
+      "droppedVersion": "1.6.4.5"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Questionable",
@@ -3653,20 +3667,6 @@
       "droppedVersion": "1.15.7.2"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.5",
-      "droppedVersion": "1.6.4.5"
-    },
-    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3681,13 +3681,6 @@
       "droppedVersion": "1.0.4.26"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.4",
-      "droppedVersion": "2.1.2.4"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3699,7 +3692,14 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "0.0.0.6",
-      "droppedVersion": "0.0.0.5"
+      "droppedVersion": "0.0.0.6"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.4",
+      "droppedVersion": "2.1.2.4"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4034,8 +4034,8 @@
       "internalName": "PassportCheckerReborn",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.6.4",
-      "droppedVersion": "7.5.6.4"
+      "keptVersion": "7.5.6.5",
+      "droppedVersion": "7.5.6.5"
     },
     {
       "internalName": "NoSillyReborn",
@@ -4441,7 +4441,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.6.0",
-      "droppedVersion": "7.5.5.1"
+      "droppedVersion": "7.5.6.0"
     },
     {
       "internalName": "Aetherment",
@@ -4454,7 +4454,7 @@
       "internalName": "Aetherphone",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.1.0.4",
+      "keptVersion": "1.2.0.0",
       "droppedVersion": "1.1.0.4"
     },
     {
@@ -4574,7 +4574,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.6.33",
-      "droppedVersion": "7.5.6.31"
+      "droppedVersion": "7.5.6.33"
     },
     {
       "internalName": "Brio",
@@ -4826,7 +4826,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.0.0.6",
-      "droppedVersion": "0.0.0.5"
+      "droppedVersion": "0.0.0.6"
     },
     {
       "internalName": "PandorasBox",
@@ -4839,8 +4839,8 @@
       "internalName": "PassportCheckerReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.6.4",
-      "droppedVersion": "7.5.6.4"
+      "keptVersion": "7.5.6.5",
+      "droppedVersion": "7.5.6.5"
     },
     {
       "internalName": "PatMeHonorific",
@@ -4889,7 +4889,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "15.756.3.38",
-      "droppedVersion": "15.756.3.36"
+      "droppedVersion": "15.756.3.38"
     },
     {
       "internalName": "RaidsRewritten",
@@ -5071,7 +5071,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.15.7.2",
-      "droppedVersion": "1.15.7.1"
+      "droppedVersion": "1.15.7.2"
     },
     {
       "internalName": "ZodiacBuddyReborn",
@@ -6015,8 +6015,8 @@
       "internalName": "Snowcloak",
       "kept": "ElfShelf",
       "dropped": "Snowcloak",
-      "keptVersion": "4.3.1.0",
-      "droppedVersion": "4.3.1.0"
+      "keptVersion": "4.3.2.0",
+      "droppedVersion": "4.3.2.0"
     },
     {
       "internalName": "BigMac",
