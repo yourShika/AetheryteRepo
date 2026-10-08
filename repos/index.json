@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T20:37:05.443Z",
-  "contentHash": "85e9b239cd02cd4c",
+  "generatedAt": "2026-10-08T00:59:48.947Z",
+  "contentHash": "6027f50d7ce670d7",
   "totalPlugins": 607,
   "masterPlugins": 601,
   "currentApiLevel": 15,
@@ -2641,7 +2641,7 @@
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.5",
+      "keptVersion": "0.0.0.6",
       "droppedVersion": "0.0.0.5"
     },
     {
@@ -3625,6 +3625,13 @@
       "droppedVersion": "2.2.0.13"
     },
     {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.2.5",
+      "droppedVersion": "6.0.2.5"
+    },
+    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3632,11 +3639,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.2.5",
-      "droppedVersion": "6.0.2.5"
+      "keptVersion": "15.756.3.38",
+      "droppedVersion": "15.756.3.38"
     },
     {
       "internalName": "YesAlready",
@@ -3660,13 +3667,6 @@
       "droppedVersion": "1.6.4.5"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.38",
-      "droppedVersion": "15.756.3.38"
-    },
-    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3688,18 +3688,18 @@
       "droppedVersion": "2.1.2.4"
     },
     {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.5",
-      "droppedVersion": "0.0.0.5"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.6",
+      "droppedVersion": "0.0.0.5"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4000,7 +4000,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.6.0",
-      "droppedVersion": "7.5.5.1"
+      "droppedVersion": "7.5.6.0"
     },
     {
       "internalName": "EasyZoomReborn",
@@ -4825,7 +4825,7 @@
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "0.0.0.5",
+      "keptVersion": "0.0.0.6",
       "droppedVersion": "0.0.0.5"
     },
     {
@@ -6015,8 +6015,8 @@
       "internalName": "Snowcloak",
       "kept": "ElfShelf",
       "dropped": "Snowcloak",
-      "keptVersion": "4.3.0.4",
-      "droppedVersion": "4.3.0.4"
+      "keptVersion": "4.3.1.0",
+      "droppedVersion": "4.3.1.0"
     },
     {
       "internalName": "BigMac",
