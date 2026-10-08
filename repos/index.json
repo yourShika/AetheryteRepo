@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-08T10:33:46.371Z",
-  "contentHash": "5b93450edbb14289",
-  "totalPlugins": 607,
-  "masterPlugins": 601,
+  "generatedAt": "2026-10-08T18:50:41.230Z",
+  "contentHash": "31dbd9cff841a0c7",
+  "totalPlugins": 604,
+  "masterPlugins": 598,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -2100,7 +2100,7 @@
       "name": "McVaxius / TheDumpsterFire",
       "url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
       "status": "ok",
-      "count": 29,
+      "count": 18,
       "note": null
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 126,
+      "count": 127,
       "file": "repos/automation.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 20,
+      "count": 16,
       "file": "repos/misc.json"
     }
   ],
@@ -2844,7 +2844,7 @@
       "internalName": "BardToolbox",
       "kept": "BardToolbox / BardToolbox-Release",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "3.0.1.0",
+      "keptVersion": "3.0.2.0",
       "droppedVersion": "1.2.3.0"
     },
     {
@@ -3604,18 +3604,18 @@
       "droppedVersion": "1.1.0.2"
     },
     {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.2.11",
-      "droppedVersion": "4.6.2.11"
-    },
-    {
       "internalName": "Orbwalker",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.1.10",
       "droppedVersion": "1.0.1.10"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.2.11",
+      "droppedVersion": "4.6.2.11"
     },
     {
       "internalName": "Avarice",
@@ -3639,6 +3639,13 @@
       "droppedVersion": "6.0.2.5"
     },
     {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.3.40",
+      "droppedVersion": "15.756.3.40"
+    },
+    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3651,13 +3658,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
-    },
-    {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.38",
-      "droppedVersion": "15.756.3.38"
     },
     {
       "internalName": "YesAlready",
@@ -3681,6 +3681,13 @@
       "droppedVersion": "1.0.4.26"
     },
     {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.4",
+      "droppedVersion": "2.1.2.4"
+    },
+    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3693,13 +3700,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.0.0.6",
       "droppedVersion": "0.0.0.6"
-    },
-    {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.4",
-      "droppedVersion": "2.1.2.4"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3985,7 +3985,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.6.19",
+      "keptVersion": "7.5.6.20",
       "droppedVersion": "7.5.6.19"
     },
     {
@@ -4237,8 +4237,8 @@
       "internalName": "BardToolbox",
       "kept": "BardToolbox / BardToolbox-Release",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.0.1.0",
-      "droppedVersion": "3.0.1.0"
+      "keptVersion": "3.0.2.0",
+      "droppedVersion": "3.0.2.0"
     },
     {
       "internalName": "ProjectGagSpeak",
@@ -4888,7 +4888,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.756.3.38",
+      "keptVersion": "15.756.3.40",
       "droppedVersion": "15.756.3.38"
     },
     {
@@ -4930,7 +4930,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.6.19",
+      "keptVersion": "7.5.6.20",
       "droppedVersion": "7.5.6.19"
     },
     {
@@ -5225,7 +5225,7 @@
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.6.33",
-      "droppedVersion": "7.5.6.32"
+      "droppedVersion": "7.5.6.33"
     },
     {
       "internalName": "BossModReborn",
@@ -5700,7 +5700,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.756.3.38",
+      "keptVersion": "15.756.3.40",
       "droppedVersion": "4.13"
     },
     {
@@ -5721,7 +5721,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.6.19",
+      "keptVersion": "7.5.6.20",
       "droppedVersion": "7.1.5.38"
     },
     {
@@ -6526,7 +6526,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.6.19",
+      "keptVersion": "7.5.6.20",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -6659,7 +6659,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "7.5.6.19",
+      "keptVersion": "7.5.6.20",
       "droppedVersion": "7.2.5.122"
     },
     {
@@ -6712,13 +6712,6 @@
       "droppedVersion": "2.10.3.0"
     },
     {
-      "internalName": "Influx",
-      "kept": "MEGA Repository",
-      "dropped": "McVaxius / TheDumpsterFire",
-      "keptVersion": "4.2",
-      "droppedVersion": "7.5.4"
-    },
-    {
       "internalName": "vnavmesh",
       "kept": "Veyn (BossMod)",
       "dropped": "nihil-string / puppys-plugins",
@@ -6750,7 +6743,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.756.3.38",
+      "keptVersion": "15.756.3.40",
       "droppedVersion": "5.31"
     },
     {
@@ -6897,7 +6890,7 @@
       "internalName": "BardToolbox",
       "kept": "BardToolbox / BardToolbox-Release",
       "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
-      "keptVersion": "3.0.1.0",
+      "keptVersion": "3.0.2.0",
       "droppedVersion": "2.2.5.4"
     },
     {
@@ -7006,13 +6999,6 @@
       "droppedVersion": "1.7.1.3"
     },
     {
-      "internalName": "WigglyQuest",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "7.5.27",
-      "droppedVersion": "7.5.27"
-    },
-    {
       "internalName": "Influx",
       "kept": "MEGA Repository",
       "dropped": "WigglyCorp / DalamudPlugins",
@@ -7020,53 +7006,11 @@
       "droppedVersion": "7.5.4"
     },
     {
-      "internalName": "QSTCompanion",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "1.1.27.0",
-      "droppedVersion": "1.1.27.0"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.756.3.38",
+      "keptVersion": "15.756.3.40",
       "droppedVersion": "99.0.0.0"
-    },
-    {
-      "internalName": "AethertekPluginManager",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.5",
-      "droppedVersion": "0.0.0.5"
-    },
-    {
-      "internalName": "XADatabase",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.45",
-      "droppedVersion": "0.0.0.45"
-    },
-    {
-      "internalName": "XASlave",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.50",
-      "droppedVersion": "0.0.0.50"
-    },
-    {
-      "internalName": "XAHudNavigator",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.10",
-      "droppedVersion": "0.0.0.10"
-    },
-    {
-      "internalName": "XAZod",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.6",
-      "droppedVersion": "0.0.0.6"
     },
     {
       "internalName": "ICE",
