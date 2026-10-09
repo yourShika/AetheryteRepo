@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-08T18:50:41.230Z",
-  "contentHash": "31dbd9cff841a0c7",
-  "totalPlugins": 604,
-  "masterPlugins": 598,
+  "generatedAt": "2026-10-09T01:13:12.205Z",
+  "contentHash": "68ba7c1c98314c11",
+  "totalPlugins": 603,
+  "masterPlugins": 597,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -412,7 +412,7 @@
       "name": "bees-repo",
       "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
       "status": "ok",
-      "count": 51,
+      "count": 45,
       "note": null
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 16,
+      "count": 15,
       "file": "repos/misc.json"
     }
   ],
@@ -2662,8 +2662,8 @@
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "2.1.2.4",
-      "droppedVersion": "2.1.2.4"
+      "keptVersion": "2.1.2.5",
+      "droppedVersion": "2.1.2.5"
     },
     {
       "internalName": "SimpleHeels",
@@ -2671,13 +2671,6 @@
       "dropped": "bees-repo",
       "keptVersion": "0.11.1.12",
       "droppedVersion": "0.11.1.12"
-    },
-    {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "bees-repo",
-      "keptVersion": "3.9.2.28",
-      "droppedVersion": "3.9.2.28"
     },
     {
       "internalName": "UnloadErrorFuckOff",
@@ -2699,13 +2692,6 @@
       "dropped": "bees-repo",
       "keptVersion": "1.2.3.14",
       "droppedVersion": "1.2.3.14"
-    },
-    {
-      "internalName": "WrathCombo",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "bees-repo",
-      "keptVersion": "1.0.4.26",
-      "droppedVersion": "1.0.4.26"
     },
     {
       "internalName": "YesAlready",
@@ -2844,7 +2830,7 @@
       "internalName": "BardToolbox",
       "kept": "BardToolbox / BardToolbox-Release",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "3.0.2.0",
+      "keptVersion": "3.0.2.1",
       "droppedVersion": "1.2.3.0"
     },
     {
@@ -3103,7 +3089,7 @@
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "3.9.2.28",
+      "keptVersion": "3.9.2.29",
       "droppedVersion": "3.1.0.0"
     },
     {
@@ -3562,13 +3548,6 @@
       "droppedVersion": "0.2.4.0"
     },
     {
-      "internalName": "Loci",
-      "kept": "bees-repo",
-      "dropped": "Loci",
-      "keptVersion": "0.1.3.12",
-      "droppedVersion": "0.1.3.12"
-    },
-    {
       "internalName": "LoporritSync",
       "kept": "Loporrit Sync",
       "dropped": "Loporrit Sync",
@@ -3604,18 +3583,18 @@
       "droppedVersion": "1.1.0.2"
     },
     {
-      "internalName": "Orbwalker",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.0.1.10",
-      "droppedVersion": "1.0.1.10"
-    },
-    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.6.2.11",
       "droppedVersion": "4.6.2.11"
+    },
+    {
+      "internalName": "Orbwalker",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.1.10",
+      "droppedVersion": "1.0.1.10"
     },
     {
       "internalName": "Avarice",
@@ -3646,13 +3625,6 @@
       "droppedVersion": "15.756.3.40"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.5",
-      "droppedVersion": "1.6.4.5"
-    },
-    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
@@ -3667,11 +3639,18 @@
       "droppedVersion": "1.15.7.2"
     },
     {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.5",
+      "droppedVersion": "1.6.4.5"
+    },
+    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.28",
-      "droppedVersion": "3.9.2.28"
+      "keptVersion": "3.9.2.29",
+      "droppedVersion": "3.9.2.29"
     },
     {
       "internalName": "WrathCombo",
@@ -3681,11 +3660,11 @@
       "droppedVersion": "1.0.4.26"
     },
     {
-      "internalName": "Saucy",
+      "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.4",
-      "droppedVersion": "2.1.2.4"
+      "keptVersion": "0.0.0.6",
+      "droppedVersion": "0.0.0.6"
     },
     {
       "internalName": "Artisan",
@@ -3695,11 +3674,11 @@
       "droppedVersion": "4.0.5.21"
     },
     {
-      "internalName": "Palantir",
+      "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.6",
-      "droppedVersion": "0.0.0.6"
+      "keptVersion": "2.1.2.5",
+      "droppedVersion": "2.1.2.5"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3986,7 +3965,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.6.20",
-      "droppedVersion": "7.5.6.19"
+      "droppedVersion": "7.5.6.20"
     },
     {
       "internalName": "BossModReborn",
@@ -4237,15 +4216,8 @@
       "internalName": "BardToolbox",
       "kept": "BardToolbox / BardToolbox-Release",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.0.2.0",
-      "droppedVersion": "3.0.2.0"
-    },
-    {
-      "internalName": "ProjectGagSpeak",
-      "kept": "bees-repo",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.2.2.1",
-      "droppedVersion": "2.2.2.1"
+      "keptVersion": "3.0.2.1",
+      "droppedVersion": "3.0.2.1"
     },
     {
       "internalName": "PuppetMaster",
@@ -4582,13 +4554,6 @@
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.8.0.12",
       "droppedVersion": "0.8.0.12"
-    },
-    {
-      "internalName": "CactusWatcher",
-      "kept": "bees-repo",
-      "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.5.0.0",
-      "droppedVersion": "1.0.0.11"
     },
     {
       "internalName": "ChatDeathRoll",
@@ -4937,7 +4902,7 @@
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.1.2.4",
+      "keptVersion": "2.1.2.5",
       "droppedVersion": "2.1.2.4"
     },
     {
@@ -4972,7 +4937,7 @@
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "3.9.2.28",
+      "keptVersion": "3.9.2.29",
       "droppedVersion": "3.9.2.28"
     },
     {
@@ -5735,7 +5700,7 @@
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "2.1.2.4",
+      "keptVersion": "2.1.2.5",
       "droppedVersion": "1.4.1.1"
     },
     {
@@ -5770,7 +5735,7 @@
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "3.9.2.28",
+      "keptVersion": "3.9.2.29",
       "droppedVersion": "3.7.4.6"
     },
     {
@@ -5978,7 +5943,7 @@
     },
     {
       "internalName": "ProjectGagSpeak",
-      "kept": "bees-repo",
+      "kept": "MEGA Repository",
       "dropped": "Project GagSpeak",
       "keptVersion": "2.2.2.1",
       "droppedVersion": "2.2.2.1"
@@ -6260,7 +6225,7 @@
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "2.1.2.4",
+      "keptVersion": "2.1.2.5",
       "droppedVersion": "1.6.0.0"
     },
     {
@@ -6680,7 +6645,7 @@
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "2.1.2.4",
+      "keptVersion": "2.1.2.5",
       "droppedVersion": "1.4.2.0"
     },
     {
@@ -6757,7 +6722,7 @@
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "3.9.2.28",
+      "keptVersion": "3.9.2.29",
       "droppedVersion": "3.7.0.12"
     },
     {
@@ -6890,7 +6855,7 @@
       "internalName": "BardToolbox",
       "kept": "BardToolbox / BardToolbox-Release",
       "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
-      "keptVersion": "3.0.2.0",
+      "keptVersion": "3.0.2.1",
       "droppedVersion": "2.2.5.4"
     },
     {

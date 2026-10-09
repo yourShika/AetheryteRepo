@@ -1,14 +1,14 @@
 {
   "sourceId": "bardtoolbox-bardtoolbox-release",
   "url": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/pluginmaster.json",
-  "fetchedAt": "2026-10-08",
+  "fetchedAt": "2026-10-09",
   "count": 1,
   "plugins": [
     {
       "Author": "BardToolbox",
       "Name": "BardToolbox",
       "InternalName": "BardToolbox",
-      "AssemblyVersion": "3.0.2.0",
+      "AssemblyVersion": "3.0.2.1",
       "Description": "",
       "ApplicableVersion": "any",
       "RepoUrl": "https://discord.gg/h9Nt5NXZWz",
@@ -77,7 +77,7 @@
       "IsHide": false,
       "IsTestingExclusive": false,
       "DownloadCount": 62310,
-      "LastUpdate": "1791207475",
+      "LastUpdate": "1791460205",
       "DownloadLinkInstall": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
       "DownloadLinkTesting": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/testing.zip",
       "DownloadLinkUpdate": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
