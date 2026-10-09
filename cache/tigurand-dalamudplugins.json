@@ -82,7 +82,7 @@
       "Author": "Lucille",
       "Name": "XIV AI Companion",
       "InternalName": "XIVAICompanion",
-      "AssemblyVersion": "2.2.0.1",
+      "AssemblyVersion": "2.2.0.2",
       "Description": "An AI companion for FFXIV, accessible through the in-game chat. Configuration requires an API key.\nWarning: Avoid sharing sensitive, confidential, or personal info with this AI.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/tigurand/XIVAICompanion",
