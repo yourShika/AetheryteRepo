@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-10-09",
+  "fetchedAt": "2026-10-10",
   "count": 45,
   "plugins": [
     {
@@ -71,13 +71,13 @@
       "InternalName": "AutoDuty",
       "RepoUrl": "https://github.com/erdelf/AutoDuty",
       "DownloadCount": 69696969,
-      "LastUpdate": 1791313072,
+      "LastUpdate": 1791556717,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoDuty.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoDuty.zip",
-      "AssemblyVersion": "0.0.0.381",
+      "AssemblyVersion": "0.0.0.382",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "## What's Changed\r\n* set Bossmod Settings via IPC by @erdelf in https://github.com/erdelf/AutoDuty/pull/594\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.380...0.0.0.381",
+      "Changelog": "## What's Changed\r\n* Restricting Maintab role block to Looping by @erdelf in https://github.com/erdelf/AutoDuty/pull/595\r\n* Termination Options per Playlist Entry by @erdelf in https://github.com/erdelf/AutoDuty/pull/596\r\n  - very much a testing thing. Details might change in the future. Only the actual stop conditions are applied.\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.381...0.0.0.382",
       "TestingDalamudApiLevel": "15",
       "IconUrl": "https://puni.sh/api/plugins/icon/54",
       "ImageUrls": [
