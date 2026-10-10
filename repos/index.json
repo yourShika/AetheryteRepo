@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-10T09:49:19.126Z",
-  "contentHash": "2c93d3f78fea13fa",
-  "totalPlugins": 607,
-  "masterPlugins": 601,
+  "generatedAt": "2026-10-10T17:20:30.066Z",
+  "contentHash": "0943342ea45acc40",
+  "totalPlugins": 604,
+  "masterPlugins": 598,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -2100,7 +2100,7 @@
       "name": "McVaxius / TheDumpsterFire",
       "url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
       "status": "ok",
-      "count": 29,
+      "count": 18,
       "note": null
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 126,
+      "count": 127,
       "file": "repos/automation.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 19,
+      "count": 15,
       "file": "repos/misc.json"
     }
   ],
@@ -2480,14 +2480,14 @@
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.2.3.0",
+      "keptVersion": "2.2.3.1",
       "droppedVersion": "2.0.4.4"
     },
     {
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.2.3.0",
+      "keptVersion": "2.2.3.1",
       "droppedVersion": "1.9.3.3"
     },
     {
@@ -2550,8 +2550,8 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "6.0.2.5",
-      "droppedVersion": "6.0.2.5"
+      "keptVersion": "6.0.2.6",
+      "droppedVersion": "6.0.2.6"
     },
     {
       "internalName": "AutoRetainer",
@@ -2802,7 +2802,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "6.0.2.5",
+      "keptVersion": "6.0.2.6",
       "droppedVersion": "2.3.0.3"
     },
     {
@@ -3614,15 +3614,15 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.2.5",
-      "droppedVersion": "6.0.2.5"
+      "keptVersion": "6.0.2.6",
+      "droppedVersion": "6.0.2.6"
     },
     {
-      "internalName": "Questionable",
+      "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.43",
-      "droppedVersion": "15.756.3.43"
+      "keptVersion": "1.6.4.5",
+      "droppedVersion": "1.6.4.5"
     },
     {
       "internalName": "YesAlready",
@@ -3639,11 +3639,11 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "PandorasBox",
+      "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.5",
-      "droppedVersion": "1.6.4.5"
+      "keptVersion": "15.756.3.44",
+      "droppedVersion": "15.756.3.43"
     },
     {
       "internalName": "Splatoon",
@@ -3660,13 +3660,6 @@
       "droppedVersion": "1.0.4.26"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.21"
-    },
-    {
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3679,6 +3672,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.5",
       "droppedVersion": "2.1.2.5"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.21",
+      "droppedVersion": "4.0.5.21"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4447,22 +4447,22 @@
       "internalName": "AutoDailyTribes",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.9.1.0",
-      "droppedVersion": "2.9.1.0"
+      "keptVersion": "2.10.0.0",
+      "droppedVersion": "2.10.0.0"
     },
     {
       "internalName": "AutoFateGrind",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "2.18.0.0",
-      "droppedVersion": "2.17.0.0"
+      "droppedVersion": "2.18.0.0"
     },
     {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "6.0.2.5",
-      "droppedVersion": "6.0.2.5"
+      "keptVersion": "6.0.2.6",
+      "droppedVersion": "6.0.2.6"
     },
     {
       "internalName": "AutoHuntGrinder",
@@ -4853,7 +4853,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.756.3.43",
+      "keptVersion": "15.756.3.44",
       "droppedVersion": "15.756.3.43"
     },
     {
@@ -5190,7 +5190,7 @@
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.6.34",
-      "droppedVersion": "7.5.6.33"
+      "droppedVersion": "7.5.6.34"
     },
     {
       "internalName": "BossModReborn",
@@ -5364,7 +5364,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "6.0.2.5",
+      "keptVersion": "6.0.2.6",
       "droppedVersion": "4.3.1.10"
     },
     {
@@ -5665,7 +5665,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.756.3.43",
+      "keptVersion": "15.756.3.44",
       "droppedVersion": "4.13"
     },
     {
@@ -6253,7 +6253,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "6.0.2.5",
+      "keptVersion": "6.0.2.6",
       "droppedVersion": "6.0.0.12"
     },
     {
@@ -6652,7 +6652,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "6.0.2.5",
+      "keptVersion": "6.0.2.6",
       "droppedVersion": "4.3.4.1"
     },
     {
@@ -6675,13 +6675,6 @@
       "dropped": "Lzsony / dalamud-plugins-tw",
       "keptVersion": "2.4.1.0",
       "droppedVersion": "2.10.3.0"
-    },
-    {
-      "internalName": "Influx",
-      "kept": "MEGA Repository",
-      "dropped": "McVaxius / TheDumpsterFire",
-      "keptVersion": "4.2",
-      "droppedVersion": "7.5.4"
     },
     {
       "internalName": "vnavmesh",
@@ -6715,7 +6708,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.756.3.43",
+      "keptVersion": "15.756.3.44",
       "droppedVersion": "5.31"
     },
     {
@@ -6743,7 +6736,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "6.0.2.5",
+      "keptVersion": "6.0.2.6",
       "droppedVersion": "6.0.0.68"
     },
     {
@@ -6792,7 +6785,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / OLDBAI",
-      "keptVersion": "6.0.2.5",
+      "keptVersion": "6.0.2.6",
       "droppedVersion": "6.0.0.46"
     },
     {
@@ -6971,13 +6964,6 @@
       "droppedVersion": "1.7.1.3"
     },
     {
-      "internalName": "WigglyQuest",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "7.5.27",
-      "droppedVersion": "7.5.27"
-    },
-    {
       "internalName": "Influx",
       "kept": "MEGA Repository",
       "dropped": "WigglyCorp / DalamudPlugins",
@@ -6985,53 +6971,11 @@
       "droppedVersion": "7.5.4"
     },
     {
-      "internalName": "QSTCompanion",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "1.1.28.0",
-      "droppedVersion": "1.1.28.0"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.756.3.43",
+      "keptVersion": "15.756.3.44",
       "droppedVersion": "99.0.0.0"
-    },
-    {
-      "internalName": "AethertekPluginManager",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.5",
-      "droppedVersion": "0.0.0.5"
-    },
-    {
-      "internalName": "XADatabase",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.45",
-      "droppedVersion": "0.0.0.45"
-    },
-    {
-      "internalName": "XASlave",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.50",
-      "droppedVersion": "0.0.0.50"
-    },
-    {
-      "internalName": "XAHudNavigator",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.10",
-      "droppedVersion": "0.0.0.10"
-    },
-    {
-      "internalName": "XAZod",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.6",
-      "droppedVersion": "0.0.0.6"
     },
     {
       "internalName": "ICE",
