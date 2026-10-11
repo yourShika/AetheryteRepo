@@ -1,14 +1,14 @@
 {
   "sourceId": "kararemy-tomokplugins",
   "url": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-10-03",
+  "fetchedAt": "2026-10-11",
   "count": 7,
   "plugins": [
     {
       "Author": "Tomok",
       "Name": "ToDHelper",
       "InternalName": "ToDHelperPlugin",
-      "AssemblyVersion": "0.0.1.1",
+      "AssemblyVersion": "0.0.1.2",
       "Description": "Helps you manage and host Truth or Dare games.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/KaraRemy/TomokPlugins",
