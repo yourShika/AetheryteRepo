@@ -1,14 +1,14 @@
 {
   "sourceId": "legendsofthegame-timememoriav3",
   "url": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json",
-  "fetchedAt": "2026-10-04",
+  "fetchedAt": "2026-10-12",
   "count": 1,
   "plugins": [
     {
       "Author": "Legends of the Game",
       "Name": "Time Memoria",
       "InternalName": "TimeMemoriaV3",
-      "AssemblyVersion": "3.7.3.15",
+      "AssemblyVersion": "3.7.4.15",
       "Description": "Quest progression and pacing — a reflective notebook for your story journey, not a scoreboard.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/LegendsOfTheGame/TimeMemoriaV3",
@@ -36,7 +36,7 @@
       "DownloadLinkTesting": "https://github.com/LegendsOfTheGame/TimeMemoriaV3/releases/latest/download/latest.zip",
       "IconUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/assets/icon.png",
       "DownloadCount": 0,
-      "Changelog": "Plugin installer:\n- The Settings button now opens the window you chose in Settings (Native or Classic), on its Settings tab. Before, it toggled the Classic window on whichever tab was last open.\n- The Open button now opens the window you chose, and never closes it if it is already open.\n\nHousekeeping:\n- Category metadata is now part of the build itself.\n- Unused notification code removed. The plugin never showed toasts or notifications, and still does not.\n- README and NOTICE updated. The README now describes the one network request (the News feed). Ocean Fishing: Soon™.",
+      "Changelog": "New window:\n- /tmwiki opens a small window that lists every quest in your journal. Click a quest to open its page on the FFXIV wiki.\n- The quests are grouped by expansion, then by the place headings that the journal uses.\n- Click an expansion heading to open the Main Scenario Quests page for that expansion. If you have an MSQ accepted in that expansion, the heading opens the page for the story arc of that quest (for example, Post-Shadowbringers).\n- /tmwiki always uses the classic window, also when you chose the Native window in Settings.\n\nWiki search:\n- Some quest names in the game data start with an icon character. The wiki search now removes that character, so the search goes directly to the quest page.",
       "_SourceId": "legendsofthegame-timememoriav3",
       "_SourceName": "LegendsOfTheGame / TimeMemoriaV3",
       "_SourceUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/repo.json"
