@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-13T02:36:04.726Z",
-  "contentHash": "04152590d3ce1034",
-  "totalPlugins": 608,
-  "masterPlugins": 602,
+  "generatedAt": "2026-10-13T10:34:06.961Z",
+  "contentHash": "547a8527889130dc",
+  "totalPlugins": 610,
+  "masterPlugins": 604,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -132,7 +132,7 @@
       "name": "XeldarAlz",
       "url": "https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/main/repo.json",
       "status": "ok",
-      "count": 10,
+      "count": 12,
       "note": null
     },
     {
@@ -1172,7 +1172,7 @@
       "name": "NexusFFXIV DalamudRepo",
       "url": "https://raw.githubusercontent.com/NexusFFXIV/DalamudRepo/main/all-repo.json",
       "status": "ok",
-      "count": 98,
+      "count": 100,
       "note": null
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 126,
+      "count": 127,
       "file": "repos/automation.json"
     },
     {
@@ -2374,7 +2374,7 @@
       "name": "Quality of Life & UI",
       "emoji": "✨",
       "description": "Tweaks, Interface, Chat, Inventar, Karten",
-      "count": 151,
+      "count": 152,
       "file": "repos/qol.json"
     },
     {
@@ -3437,9 +3437,9 @@
     },
     {
       "internalName": "IINACT",
-      "kept": "bees-repo",
-      "dropped": "IINACT",
-      "keptVersion": "2.10.3.8",
+      "kept": "IINACT",
+      "dropped": "bees-repo",
+      "keptVersion": "2.10.3.9",
       "droppedVersion": "2.10.3.8"
     },
     {
@@ -3604,6 +3604,13 @@
       "droppedVersion": "2.2.0.13"
     },
     {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.2.7",
+      "droppedVersion": "6.0.2.7"
+    },
+    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3611,11 +3618,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.2.7",
-      "droppedVersion": "6.0.2.7"
+      "keptVersion": "1.15.7.3",
+      "droppedVersion": "1.15.7.3"
     },
     {
       "internalName": "Questionable",
@@ -3639,13 +3646,6 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.3",
-      "droppedVersion": "1.15.7.3"
-    },
-    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3660,13 +3660,6 @@
       "droppedVersion": "1.0.4.26"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.21"
-    },
-    {
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3679,6 +3672,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.5",
       "droppedVersion": "2.1.2.5"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.21",
+      "droppedVersion": "4.0.5.21"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4403,9 +4403,9 @@
     },
     {
       "internalName": "IINACT",
-      "kept": "bees-repo",
+      "kept": "IINACT",
       "dropped": "MyPlugins",
-      "keptVersion": "2.10.3.8",
+      "keptVersion": "2.10.3.9",
       "droppedVersion": "2.1.4.3"
     },
     {
@@ -4448,14 +4448,14 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "2.11.0.0",
-      "droppedVersion": "2.10.0.0"
+      "droppedVersion": "2.11.0.0"
     },
     {
       "internalName": "AutoFateGrind",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.18.0.0",
-      "droppedVersion": "2.18.0.0"
+      "keptVersion": "2.19.0.0",
+      "droppedVersion": "2.19.0.0"
     },
     {
       "internalName": "AutoHook",
@@ -4469,14 +4469,14 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.9.0.0",
-      "droppedVersion": "1.8.1.0"
+      "droppedVersion": "1.9.0.0"
     },
     {
       "internalName": "AutoHuntTrain",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.1.0",
-      "droppedVersion": "1.0.1.0"
+      "keptVersion": "1.1.0.0",
+      "droppedVersion": "1.1.0.0"
     },
     {
       "internalName": "AutoLogin",
@@ -4500,6 +4500,13 @@
       "droppedVersion": "4.6.2.11"
     },
     {
+      "internalName": "AutoShopper",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.0",
+      "droppedVersion": "1.0.0.0"
+    },
+    {
       "internalName": "AutoSightseeingLog",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -4507,11 +4514,18 @@
       "droppedVersion": "1.9.0.0"
     },
     {
+      "internalName": "AutoTreasureMaps",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.0",
+      "droppedVersion": "1.0.0.0"
+    },
+    {
       "internalName": "AutoTripleTriadGrind",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.1.1.0",
-      "droppedVersion": "1.1.1.0"
+      "keptVersion": "1.2.0.0",
+      "droppedVersion": "1.2.0.0"
     },
     {
       "internalName": "Avarice",
@@ -4546,7 +4560,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.6.35",
-      "droppedVersion": "7.5.6.34"
+      "droppedVersion": "7.5.6.35"
     },
     {
       "internalName": "Brio",
@@ -4669,9 +4683,9 @@
     },
     {
       "internalName": "IINACT",
-      "kept": "bees-repo",
+      "kept": "IINACT",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.10.3.8",
+      "keptVersion": "2.10.3.9",
       "droppedVersion": "2.10.3.8"
     },
     {
@@ -4720,8 +4734,8 @@
       "internalName": "Mahjong.Plugin.Dalamud",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "0.1.2.3",
-      "droppedVersion": "0.1.2.3"
+      "keptVersion": "0.2.0.0",
+      "droppedVersion": "0.2.0.0"
     },
     {
       "internalName": "Marketbuddy",
@@ -5530,9 +5544,9 @@
     },
     {
       "internalName": "IINACT",
-      "kept": "bees-repo",
+      "kept": "IINACT",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "2.10.3.8",
+      "keptVersion": "2.10.3.9",
       "droppedVersion": "2.7.3.5"
     },
     {
@@ -5980,8 +5994,8 @@
       "internalName": "Snowcloak",
       "kept": "ElfShelf",
       "dropped": "Snowcloak",
-      "keptVersion": "4.3.2.0",
-      "droppedVersion": "4.3.2.0"
+      "keptVersion": "5.0.0.1",
+      "droppedVersion": "5.0.0.1"
     },
     {
       "internalName": "BigMac",
@@ -6188,9 +6202,9 @@
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "bees-repo",
-      "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "50.0.2.0",
+      "kept": "zhouhuichen741/dalamud-plugins",
+      "dropped": "bees-repo",
+      "keptVersion": "50.0.2.1",
       "droppedVersion": "50.0.2.0"
     },
     {
@@ -6316,7 +6330,7 @@
       "internalName": "Snappy",
       "kept": "Snappy",
       "dropped": "astrodoobs / plugins",
-      "keptVersion": "0.5.2.10",
+      "keptVersion": "0.5.2.11",
       "droppedVersion": "0.1.0"
     },
     {
@@ -6531,9 +6545,9 @@
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "bees-repo",
+      "kept": "zhouhuichen741/dalamud-plugins",
       "dropped": "Haselnussbomber / DalamudPlugins",
-      "keptVersion": "50.0.2.0",
+      "keptVersion": "50.0.2.1",
       "droppedVersion": "50.0.2.0"
     },
     {
