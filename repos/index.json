@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-12T21:16:02.354Z",
-  "contentHash": "b7f66b66f72a6f13",
+  "generatedAt": "2026-10-13T02:36:04.726Z",
+  "contentHash": "04152590d3ce1034",
   "totalPlugins": 608,
   "masterPlugins": 602,
   "currentApiLevel": 15,
@@ -3618,20 +3618,6 @@
       "droppedVersion": "6.0.2.7"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.3",
-      "droppedVersion": "1.15.7.3"
-    },
-    {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3644,6 +3630,20 @@
       "dropped": "MEGA Repository",
       "keptVersion": "1.6.4.5",
       "droppedVersion": "1.6.4.5"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.3",
+      "droppedVersion": "1.15.7.3"
     },
     {
       "internalName": "Splatoon",
@@ -3660,18 +3660,18 @@
       "droppedVersion": "1.0.4.26"
     },
     {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.6",
-      "droppedVersion": "0.0.0.6"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.6",
+      "droppedVersion": "0.0.0.6"
     },
     {
       "internalName": "Saucy",
@@ -4468,7 +4468,7 @@
       "internalName": "AutoHuntGrinder",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.8.1.0",
+      "keptVersion": "1.9.0.0",
       "droppedVersion": "1.8.1.0"
     },
     {

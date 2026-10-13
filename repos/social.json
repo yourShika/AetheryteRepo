@@ -1041,7 +1041,7 @@
     "AssemblyVersion": "7.5.6.5",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/releases/download/7.5.6.5/latest.zip",
     "Changelog": "## What's Changed\r\n* Fully moved PCR to RebornMaterial, fixed a few minor issues with name resolution, fixed bugs and sped up the Tomestone and FFLogs lookups by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/pull/33\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/PassportCheckerReborn/compare/7.5.6.4...7.5.6.5",
-    "DownloadCount": 58628,
+    "DownloadCount": 58630,
     "IsHide": false,
     "_SourceId": "combatreborn",
     "_SourceName": "CombatReborn",
