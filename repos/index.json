@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-13T10:34:06.961Z",
-  "contentHash": "547a8527889130dc",
-  "totalPlugins": 610,
-  "masterPlugins": 604,
+  "generatedAt": "2026-10-13T19:16:21.473Z",
+  "contentHash": "580a33c3ec1a8fc9",
+  "totalPlugins": 611,
+  "masterPlugins": 605,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -132,7 +132,7 @@
       "name": "XeldarAlz",
       "url": "https://raw.githubusercontent.com/XeldarAlz/DalamudPlugins/main/repo.json",
       "status": "ok",
-      "count": 12,
+      "count": 13,
       "note": null
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 127,
+      "count": 128,
       "file": "repos/automation.json"
     },
     {
@@ -2480,14 +2480,14 @@
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.2.3.3",
+      "keptVersion": "2.2.3.4",
       "droppedVersion": "2.0.4.4"
     },
     {
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.2.3.3",
+      "keptVersion": "2.2.3.4",
       "droppedVersion": "1.9.3.3"
     },
     {
@@ -2620,8 +2620,8 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "bees-repo",
-      "keptVersion": "2.5.4.23",
-      "droppedVersion": "2.5.4.23"
+      "keptVersion": "2.6.0.1",
+      "droppedVersion": "2.6.0.0"
     },
     {
       "internalName": "Marketbuddy",
@@ -3089,7 +3089,7 @@
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "3.9.2.29",
+      "keptVersion": "3.9.2.30",
       "droppedVersion": "3.1.0.0"
     },
     {
@@ -3278,8 +3278,8 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "eScape",
-      "keptVersion": "2.5.4.23",
-      "droppedVersion": "2.5.4.23"
+      "keptVersion": "2.6.0.1",
+      "droppedVersion": "2.6.0.0"
     },
     {
       "internalName": "TextAdvance",
@@ -3437,10 +3437,10 @@
     },
     {
       "internalName": "IINACT",
-      "kept": "IINACT",
-      "dropped": "bees-repo",
-      "keptVersion": "2.10.3.9",
-      "droppedVersion": "2.10.3.8"
+      "kept": "bees-repo",
+      "dropped": "IINACT",
+      "keptVersion": "2.10.3.10",
+      "droppedVersion": "2.10.3.10"
     },
     {
       "internalName": "MinionRoulette",
@@ -3604,13 +3604,6 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.2.7",
-      "droppedVersion": "6.0.2.7"
-    },
-    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3618,18 +3611,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.3",
-      "droppedVersion": "1.15.7.3"
-    },
-    {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.49",
-      "droppedVersion": "15.756.3.49"
+      "keptVersion": "6.0.2.7",
+      "droppedVersion": "6.0.2.7"
     },
     {
       "internalName": "PandorasBox",
@@ -3639,6 +3625,13 @@
       "droppedVersion": "1.6.4.5"
     },
     {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.3",
+      "droppedVersion": "1.15.7.3"
+    },
+    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
@@ -3646,11 +3639,18 @@
       "droppedVersion": "0.2.4.2"
     },
     {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.3.49",
+      "droppedVersion": "15.756.3.49"
+    },
+    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.29",
-      "droppedVersion": "3.9.2.29"
+      "keptVersion": "3.9.2.30",
+      "droppedVersion": "3.9.2.30"
     },
     {
       "internalName": "WrathCombo",
@@ -3660,18 +3660,18 @@
       "droppedVersion": "1.0.4.26"
     },
     {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.6",
-      "droppedVersion": "0.0.0.6"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.5",
       "droppedVersion": "2.1.2.5"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.6",
+      "droppedVersion": "0.0.0.6"
     },
     {
       "internalName": "Artisan",
@@ -3733,8 +3733,8 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.5.4.23",
-      "droppedVersion": "2.5.4.23"
+      "keptVersion": "2.6.0.1",
+      "droppedVersion": "2.6.0.0"
     },
     {
       "internalName": "DSREyeLocator",
@@ -4403,9 +4403,9 @@
     },
     {
       "internalName": "IINACT",
-      "kept": "IINACT",
+      "kept": "bees-repo",
       "dropped": "MyPlugins",
-      "keptVersion": "2.10.3.9",
+      "keptVersion": "2.10.3.10",
       "droppedVersion": "2.1.4.3"
     },
     {
@@ -4503,7 +4503,7 @@
       "internalName": "AutoShopper",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.0.0",
+      "keptVersion": "1.1.0.1",
       "droppedVersion": "1.0.0.0"
     },
     {
@@ -4683,9 +4683,9 @@
     },
     {
       "internalName": "IINACT",
-      "kept": "IINACT",
+      "kept": "bees-repo",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.10.3.9",
+      "keptVersion": "2.10.3.10",
       "droppedVersion": "2.10.3.8"
     },
     {
@@ -4713,7 +4713,7 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.5.4.23",
+      "keptVersion": "2.6.0.1",
       "droppedVersion": "2.5.4.23"
     },
     {
@@ -4951,7 +4951,7 @@
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "3.9.2.29",
+      "keptVersion": "3.9.2.30",
       "droppedVersion": "3.9.2.29"
     },
     {
@@ -5077,8 +5077,8 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "NightmareXIV / Eternita-S alt repo",
-      "keptVersion": "2.5.4.23",
-      "droppedVersion": "2.5.4.23"
+      "keptVersion": "2.6.0.1",
+      "droppedVersion": "2.6.0.1"
     },
     {
       "internalName": "DSREyeLocator",
@@ -5182,21 +5182,21 @@
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.17",
+      "keptVersion": "4.2.0.18",
       "droppedVersion": "3.3.4.0"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.17",
+      "keptVersion": "4.2.0.18",
       "droppedVersion": "0.69.1.12"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.17",
+      "keptVersion": "4.2.0.18",
       "droppedVersion": "2.1.1.4"
     },
     {
@@ -5259,21 +5259,21 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "2.5.4.23",
+      "keptVersion": "2.6.0.1",
       "droppedVersion": "2.5.4.17"
     },
     {
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "2.5.4.23",
+      "keptVersion": "2.6.0.1",
       "droppedVersion": "2.5.3.3"
     },
     {
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "2.5.4.23",
+      "keptVersion": "2.6.0.1",
       "droppedVersion": "2.5.4.8"
     },
     {
@@ -5544,9 +5544,9 @@
     },
     {
       "internalName": "IINACT",
-      "kept": "IINACT",
+      "kept": "bees-repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "2.10.3.9",
+      "keptVersion": "2.10.3.10",
       "droppedVersion": "2.7.3.5"
     },
     {
@@ -5581,7 +5581,7 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "2.5.4.23",
+      "keptVersion": "2.6.0.1",
       "droppedVersion": "2.3.2.8"
     },
     {
@@ -5749,7 +5749,7 @@
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "3.9.2.29",
+      "keptVersion": "3.9.2.30",
       "droppedVersion": "3.7.4.6"
     },
     {
@@ -5957,9 +5957,9 @@
     },
     {
       "internalName": "ProjectGagSpeak",
-      "kept": "MEGA Repository",
-      "dropped": "Project GagSpeak",
-      "keptVersion": "2.2.2.1",
+      "kept": "Project GagSpeak",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.3.0",
       "droppedVersion": "2.2.2.1"
     },
     {
@@ -6197,8 +6197,8 @@
       "internalName": "XivVoices",
       "kept": "bees-repo",
       "dropped": "XivVoices",
-      "keptVersion": "1.6.0.2",
-      "droppedVersion": "1.6.0.2"
+      "keptVersion": "1.6.0.3",
+      "droppedVersion": "1.6.0.3"
     },
     {
       "internalName": "HaselTweaks",
@@ -6645,7 +6645,7 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "2.5.4.23",
+      "keptVersion": "2.6.0.1",
       "droppedVersion": "2.5.1.13"
     },
     {
@@ -6722,7 +6722,7 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "2.5.4.23",
+      "keptVersion": "2.6.0.1",
       "droppedVersion": "2.5.3.26"
     },
     {
@@ -6743,7 +6743,7 @@
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "3.9.2.29",
+      "keptVersion": "3.9.2.30",
       "droppedVersion": "3.7.0.12"
     },
     {
@@ -7023,15 +7023,15 @@
       "internalName": "XADatabase",
       "kept": "McVaxius / TheDumpsterFire",
       "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.46",
-      "droppedVersion": "0.0.0.46"
+      "keptVersion": "0.0.0.47",
+      "droppedVersion": "0.0.0.47"
     },
     {
       "internalName": "XASlave",
       "kept": "McVaxius / TheDumpsterFire",
       "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.51",
-      "droppedVersion": "0.0.0.51"
+      "keptVersion": "0.0.0.52",
+      "droppedVersion": "0.0.0.52"
     },
     {
       "internalName": "XAHudNavigator",
