@@ -1,7 +1,7 @@
 {
   "sourceId": "aemiliusxiv-dalamudplugins",
   "url": "https://raw.githubusercontent.com/AemiliusXIV/DalamudPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-10-14",
   "count": 5,
   "plugins": [
     {
@@ -129,7 +129,7 @@
       "Name": "Clarion",
       "Punchline": "Save and apply Party Finder recruitment presets instantly.",
       "Description": "Store a full Party Finder recruitment setup (duty, job slots, description, objective, loot rule, one player per job, language, and more) as a named preset and apply it in one go, instead of filling the form out by hand every time.\n\nFill a preset and review it, or fill and post the party in a single click. Optional auto-refresh keeps an active listing alive near the end of its hour, with the windows closed, and leaves your away status alone.\n\nOpen the Recruitment Criteria form (Recruit Members) to save or apply. Use /clarion.",
-      "Changelog": "Presets for hunt trains and other listings that have no specific duty now save under their category name, like The Hunt, instead of showing as unknown, and they apply cleanly.",
+      "Changelog": "Maintenance update for patch 7.57.",
       "Tags": [
         "party",
         "party finder",
@@ -141,7 +141,7 @@
         "Utility"
       ],
       "InternalName": "Clarion",
-      "AssemblyVersion": "0.1.0.3",
+      "AssemblyVersion": "0.1.0.4",
       "RepoUrl": "https://github.com/AemiliusXIV/Clarion",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
