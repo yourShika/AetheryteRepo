@@ -1,7 +1,7 @@
 {
   "sourceId": "atmoomen-dalamudplugins",
   "url": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-10-13",
+  "fetchedAt": "2026-10-14",
   "count": 14,
   "plugins": [
     {
@@ -10,7 +10,7 @@
       "AssemblyVersion": "2.2.3.4",
       "Author": "AtmoOmen",
       "Punchline": "帮忙解决一些日常重复性劳动 / Help with some of the daily repetitive tasks",
-      "Description": "海量自动化/易用性游戏系统优化模块合集, 帮你从一些无意义的重复性工作中解放出来\nA massive collection of automation / QoL optimization modules to free you from meaningless repetitive tasks.",
+      "Description": "海量自动化/易用性游戏系统优化模块合集, 帮你从一些无意义的重复性工作中解放出来。",
       "ApplicableVersion": "any",
       "LoadPriority": 10000,
       "Tags": [
@@ -88,7 +88,7 @@
     {
       "Name": "Untarnished Heart",
       "InternalName": "UntarnishedHeart",
-      "AssemblyVersion": "1.1.1.0",
+      "AssemblyVersion": "1.1.2.0",
       "Author": "AtmoOmen",
       "Punchline": "自动化副本完成、奖励循环刷取插件",
       "Description": "原本是自动化防护职业副本场次成就刷取工具\n注: 副本战斗需要自行使用其他插件解决, 硬要用本插件写也不是不行",
@@ -105,8 +105,8 @@
       "AcceptsFeedback": true,
       "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/UntarnishedHeart/main/Resources/icon.png",
       "RepoUrl": "https://github.com/AtmoOmen/UntarnishedHeart",
-      "DownloadLinkInstall": "https://github.com/AtmoOmen/UntarnishedHeart/releases/download/1.1.1.0/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/AtmoOmen/UntarnishedHeart/releases/download/1.1.1.0/latest.zip",
+      "DownloadLinkInstall": "https://github.com/AtmoOmen/UntarnishedHeart/releases/download/1.1.2.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/AtmoOmen/UntarnishedHeart/releases/download/1.1.2.0/latest.zip",
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "atmoomen-dalamudplugins",
@@ -205,7 +205,7 @@
     {
       "Name": "HaselDebug",
       "InternalName": "HaselDebug",
-      "AssemblyVersion": "1.73.0.0",
+      "AssemblyVersion": "1.75.3.0",
       "Author": "Haselnussbomber",
       "Punchline": "多功能开发用工具箱",
       "Description": "开发者专用",
@@ -213,8 +213,8 @@
       "AcceptsFeedback": true,
       "DalamudApiLevel": 15,
       "RepoUrl": "https://github.com/AtmoOmen/HaselDebug",
-      "DownloadLinkInstall": "https://github.com/AtmoOmen/HaselDebug/releases/download/1.73.0/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/AtmoOmen/HaselDebug/releases/download/1.73.0/latest.zip",
+      "DownloadLinkInstall": "https://github.com/AtmoOmen/HaselDebug/releases/download/1.75.3/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/AtmoOmen/HaselDebug/releases/download/1.75.3/latest.zip",
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "atmoomen-dalamudplugins",

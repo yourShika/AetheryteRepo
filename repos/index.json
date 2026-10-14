@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-14T08:41:59.913Z",
-  "contentHash": "ea964bc96b498e8c",
+  "generatedAt": "2026-10-14T14:30:12.573Z",
+  "contentHash": "81487464173b0b8a",
   "totalPlugins": 611,
   "masterPlugins": 605,
   "currentApiLevel": 15,
@@ -2597,10 +2597,10 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "bees-repo",
-      "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "1.75.2.0",
-      "droppedVersion": "1.73.0.0"
+      "kept": "AtmoOmen / DalamudPlugins",
+      "dropped": "bees-repo",
+      "keptVersion": "1.75.3.0",
+      "droppedVersion": "1.75.2.0"
     },
     {
       "internalName": "ICE",
@@ -2697,7 +2697,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "1.15.7.3",
+      "keptVersion": "1.15.7.4",
       "droppedVersion": "1.15.7.3"
     },
     {
@@ -3173,7 +3173,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "1.15.7.3",
+      "keptVersion": "1.15.7.4",
       "droppedVersion": "1.2.2.3"
     },
     {
@@ -3346,10 +3346,10 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "Haselnussbomber",
-      "dropped": "bees-repo",
+      "kept": "AtmoOmen / DalamudPlugins",
+      "dropped": "Haselnussbomber",
       "keptVersion": "1.75.3.0",
-      "droppedVersion": "1.75.2.0"
+      "droppedVersion": "1.75.3.0"
     },
     {
       "internalName": "HaselTweaks",
@@ -3604,13 +3604,6 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3618,11 +3611,11 @@
       "droppedVersion": "6.0.2.7"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.3",
-      "droppedVersion": "1.15.7.3"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "Marketbuddy",
@@ -3632,18 +3625,25 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.5",
-      "droppedVersion": "1.6.4.5"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "15.756.3.50",
       "droppedVersion": "15.756.3.50"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.4",
+      "droppedVersion": "1.15.7.3"
+    },
+    {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.5",
+      "droppedVersion": "1.6.4.5"
     },
     {
       "internalName": "Splatoon",
@@ -3660,18 +3660,18 @@
       "droppedVersion": "1.0.4.26"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.5",
-      "droppedVersion": "2.1.2.5"
-    },
-    {
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "0.0.0.6",
       "droppedVersion": "0.0.0.6"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.5",
+      "droppedVersion": "2.1.2.5"
     },
     {
       "internalName": "Artisan",
@@ -3892,7 +3892,7 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "Haselnussbomber",
+      "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "MEGA Repository",
       "keptVersion": "1.75.3.0",
       "droppedVersion": "1.75.3.0"
@@ -3964,8 +3964,8 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.7.1",
-      "droppedVersion": "7.5.7.0"
+      "keptVersion": "7.5.7.2",
+      "droppedVersion": "7.5.7.1"
     },
     {
       "internalName": "BossModReborn",
@@ -4370,7 +4370,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MyDalamudPlugins",
-      "keptVersion": "1.15.7.3",
+      "keptVersion": "1.15.7.4",
       "droppedVersion": "1.2.2.1"
     },
     {
@@ -4916,7 +4916,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.7.1",
+      "keptVersion": "7.5.7.2",
       "droppedVersion": "7.5.7.0"
     },
     {
@@ -5056,7 +5056,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.15.7.3",
+      "keptVersion": "1.15.7.4",
       "droppedVersion": "1.15.7.3"
     },
     {
@@ -5707,7 +5707,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.7.1",
+      "keptVersion": "7.5.7.2",
       "droppedVersion": "7.1.5.38"
     },
     {
@@ -5833,7 +5833,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.15.7.3",
+      "keptVersion": "1.15.7.4",
       "droppedVersion": "1.9.0"
     },
     {
@@ -6512,7 +6512,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.7.1",
+      "keptVersion": "7.5.7.2",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -6545,7 +6545,7 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "Haselnussbomber",
+      "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "Haselnussbomber / DalamudPlugins",
       "keptVersion": "1.75.3.0",
       "droppedVersion": "1.75.3.0"
@@ -6645,7 +6645,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "7.5.7.1",
+      "keptVersion": "7.5.7.2",
       "droppedVersion": "7.2.5.122"
     },
     {
@@ -6862,7 +6862,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "OpaqueReptile / daemitus_MyDalamudPlugins",
-      "keptVersion": "1.15.7.3",
+      "keptVersion": "1.15.7.4",
       "droppedVersion": "1.2.2.1"
     },
     {
@@ -7007,9 +7007,9 @@
     },
     {
       "internalName": "QSTCompanion",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "1.1.28.0",
+      "kept": "WigglyCorp / DalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "1.1.29.0",
       "droppedVersion": "1.1.28.0"
     },
     {
