@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-14T23:54:48.923Z",
-  "contentHash": "5ea9643c4977e8a6",
+  "generatedAt": "2026-10-15T04:37:16.958Z",
+  "contentHash": "9f56b020bf897219",
   "totalPlugins": 609,
   "masterPlugins": 603,
   "currentApiLevel": 15,
@@ -1172,7 +1172,7 @@
       "name": "NexusFFXIV DalamudRepo",
       "url": "https://raw.githubusercontent.com/NexusFFXIV/DalamudRepo/main/all-repo.json",
       "status": "ok",
-      "count": 101,
+      "count": 102,
       "note": null
     },
     {
@@ -3604,13 +3604,6 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.2.7",
-      "droppedVersion": "6.0.2.7"
-    },
-    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3618,11 +3611,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "Questionable",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.50",
-      "droppedVersion": "15.756.3.50"
+      "keptVersion": "6.0.2.7",
+      "droppedVersion": "6.0.2.7"
     },
     {
       "internalName": "YesAlready",
@@ -3646,11 +3639,18 @@
       "droppedVersion": "1.6.4.6"
     },
     {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.3.51",
+      "droppedVersion": "15.756.3.50"
+    },
+    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.32",
-      "droppedVersion": "3.9.2.30"
+      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "WrathCombo",
@@ -3660,11 +3660,11 @@
       "droppedVersion": "1.0.4.26"
     },
     {
-      "internalName": "Saucy",
+      "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.5",
-      "droppedVersion": "2.1.2.5"
+      "keptVersion": "0.0.0.8",
+      "droppedVersion": "0.0.0.8"
     },
     {
       "internalName": "Artisan",
@@ -3674,11 +3674,11 @@
       "droppedVersion": "4.0.5.21"
     },
     {
-      "internalName": "Palantir",
+      "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.8",
-      "droppedVersion": "0.0.0.8"
+      "keptVersion": "2.1.2.5",
+      "droppedVersion": "2.1.2.5"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3978,7 +3978,7 @@
       "internalName": "ActionTimelineReborn",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.6.1",
+      "keptVersion": "7.5.7.1",
       "droppedVersion": "7.5.6.1"
     },
     {
@@ -4412,8 +4412,8 @@
       "internalName": "ActionTimelineReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.6.1",
-      "droppedVersion": "7.5.6.1"
+      "keptVersion": "7.5.7.1",
+      "droppedVersion": "7.5.7.1"
     },
     {
       "internalName": "Aetherment",
@@ -4472,6 +4472,13 @@
       "droppedVersion": "6.0.2.7"
     },
     {
+      "internalName": "AutoHouseLottery",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.1.0.0",
+      "droppedVersion": "1.1.0.0"
+    },
+    {
       "internalName": "AutoHuntGrinder",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -4511,7 +4518,7 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.2.0.0",
-      "droppedVersion": "1.1.0.2"
+      "droppedVersion": "1.2.0.0"
     },
     {
       "internalName": "AutoSightseeingLog",
@@ -4812,14 +4819,14 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.0.0.8",
-      "droppedVersion": "0.0.0.6"
+      "droppedVersion": "0.0.0.8"
     },
     {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.6.4.6",
-      "droppedVersion": "1.6.4.5"
+      "droppedVersion": "1.6.4.6"
     },
     {
       "internalName": "PassportCheckerReborn",
@@ -4874,8 +4881,8 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.756.3.50",
-      "droppedVersion": "15.756.3.50"
+      "keptVersion": "15.756.3.51",
+      "droppedVersion": "15.756.3.51"
     },
     {
       "internalName": "RaidsRewritten",
@@ -4917,7 +4924,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.7.2",
-      "droppedVersion": "7.5.7.0"
+      "droppedVersion": "7.5.7.2"
     },
     {
       "internalName": "Saucy",
@@ -4959,7 +4966,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "3.9.2.32",
-      "droppedVersion": "3.9.2.30"
+      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "StandalonePluginManager",
@@ -5057,7 +5064,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.15.7.4",
-      "droppedVersion": "1.15.7.3"
+      "droppedVersion": "1.15.7.4"
     },
     {
       "internalName": "ZodiacBuddyReborn",
@@ -5686,7 +5693,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.756.3.50",
+      "keptVersion": "15.756.3.51",
       "droppedVersion": "4.13"
     },
     {
@@ -6729,7 +6736,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.756.3.50",
+      "keptVersion": "15.756.3.51",
       "droppedVersion": "5.31"
     },
     {
@@ -6995,7 +7002,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.756.3.50",
+      "keptVersion": "15.756.3.51",
       "droppedVersion": "99.0.0.0"
     },
     {
