@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-15T11:27:16.691Z",
-  "contentHash": "e6363a98b393fdd8",
-  "totalPlugins": 608,
-  "masterPlugins": 602,
+  "generatedAt": "2026-10-15T16:59:43.420Z",
+  "contentHash": "eef26e1ffc9d5c50",
+  "totalPlugins": 611,
+  "masterPlugins": 605,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -2100,7 +2100,7 @@
       "name": "McVaxius / TheDumpsterFire",
       "url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
       "status": "ok",
-      "count": 18,
+      "count": 29,
       "note": null
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 128,
+      "count": 127,
       "file": "repos/automation.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 15,
+      "count": 19,
       "file": "repos/misc.json"
     }
   ],
@@ -2460,7 +2460,7 @@
       "kept": "CombatReborn",
       "dropped": "44451516-ff14 / BossmodRebornCN",
       "keptVersion": "7.5.6.35",
-      "droppedVersion": "7.5.6.10"
+      "droppedVersion": "7.5.6.35"
     },
     {
       "internalName": "CustomizePlus",
@@ -2620,7 +2620,7 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "bees-repo",
-      "keptVersion": "2.6.0.5",
+      "keptVersion": "2.6.0.6",
       "droppedVersion": "2.6.0.5"
     },
     {
@@ -3278,7 +3278,7 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "eScape",
-      "keptVersion": "2.6.0.5",
+      "keptVersion": "2.6.0.6",
       "droppedVersion": "2.6.0.5"
     },
     {
@@ -3590,18 +3590,18 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.2.13",
-      "droppedVersion": "4.6.2.13"
-    },
-    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.6.4.6",
       "droppedVersion": "1.6.4.6"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.2.13",
+      "droppedVersion": "4.6.2.13"
     },
     {
       "internalName": "Avarice",
@@ -3611,13 +3611,6 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,11 +3618,18 @@
       "droppedVersion": "6.0.2.7"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.4",
+      "droppedVersion": "1.15.7.4"
     },
     {
       "internalName": "Questionable",
@@ -3639,11 +3639,11 @@
       "droppedVersion": "15.756.3.52"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.4",
-      "droppedVersion": "1.15.7.4"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Splatoon",
@@ -3733,7 +3733,7 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.6.0.5",
+      "keptVersion": "2.6.0.6",
       "droppedVersion": "2.6.0.5"
     },
     {
@@ -4426,7 +4426,7 @@
       "internalName": "Aetherphone",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.2.0.0",
+      "keptVersion": "1.3.0.0",
       "droppedVersion": "1.2.0.0"
     },
     {
@@ -4517,7 +4517,7 @@
       "internalName": "AutoShopper",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.2.0.0",
+      "keptVersion": "1.3.0.0",
       "droppedVersion": "1.2.0.0"
     },
     {
@@ -4727,7 +4727,7 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.6.0.5",
+      "keptVersion": "2.6.0.6",
       "droppedVersion": "2.6.0.5"
     },
     {
@@ -5091,8 +5091,8 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "NightmareXIV / Eternita-S alt repo",
-      "keptVersion": "2.6.0.5",
-      "droppedVersion": "2.6.0.5"
+      "keptVersion": "2.6.0.6",
+      "droppedVersion": "2.6.0.6"
     },
     {
       "internalName": "DSREyeLocator",
@@ -5273,21 +5273,21 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "2.6.0.5",
+      "keptVersion": "2.6.0.6",
       "droppedVersion": "2.6.0.5"
     },
     {
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "2.6.0.5",
+      "keptVersion": "2.6.0.6",
       "droppedVersion": "2.5.3.3"
     },
     {
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "2.6.0.5",
+      "keptVersion": "2.6.0.6",
       "droppedVersion": "2.5.4.8"
     },
     {
@@ -5595,7 +5595,7 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "2.6.0.5",
+      "keptVersion": "2.6.0.6",
       "droppedVersion": "2.3.2.8"
     },
     {
@@ -6659,7 +6659,7 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "2.6.0.5",
+      "keptVersion": "2.6.0.6",
       "droppedVersion": "2.5.1.13"
     },
     {
@@ -6705,6 +6705,13 @@
       "droppedVersion": "2.10.3.0"
     },
     {
+      "internalName": "Influx",
+      "kept": "MEGA Repository",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "4.2",
+      "droppedVersion": "7.5.4"
+    },
+    {
       "internalName": "vnavmesh",
       "kept": "Veyn (BossMod)",
       "dropped": "nihil-string / puppys-plugins",
@@ -6729,7 +6736,7 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "2.6.0.5",
+      "keptVersion": "2.6.0.6",
       "droppedVersion": "2.5.3.26"
     },
     {
@@ -6992,6 +6999,13 @@
       "droppedVersion": "1.7.1.3"
     },
     {
+      "internalName": "WigglyQuest",
+      "kept": "WigglyCorp / DalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "7.5.30",
+      "droppedVersion": "7.5.28"
+    },
+    {
       "internalName": "Influx",
       "kept": "MEGA Repository",
       "dropped": "WigglyCorp / DalamudPlugins",
@@ -6999,11 +7013,53 @@
       "droppedVersion": "7.5.4"
     },
     {
+      "internalName": "QSTCompanion",
+      "kept": "WigglyCorp / DalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "1.1.30.0",
+      "droppedVersion": "1.1.29.0"
+    },
+    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
       "keptVersion": "15.756.3.52",
       "droppedVersion": "99.0.0.0"
+    },
+    {
+      "internalName": "AethertekPluginManager",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.5",
+      "droppedVersion": "0.0.0.5"
+    },
+    {
+      "internalName": "XADatabase",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.47",
+      "droppedVersion": "0.0.0.47"
+    },
+    {
+      "internalName": "XASlave",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.52",
+      "droppedVersion": "0.0.0.52"
+    },
+    {
+      "internalName": "XAHudNavigator",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.10",
+      "droppedVersion": "0.0.0.10"
+    },
+    {
+      "internalName": "XAZod",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.6",
+      "droppedVersion": "0.0.0.6"
     },
     {
       "internalName": "ICE",
