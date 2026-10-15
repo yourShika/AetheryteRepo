@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-15T04:37:16.958Z",
-  "contentHash": "9f56b020bf897219",
-  "totalPlugins": 609,
-  "masterPlugins": 603,
+  "generatedAt": "2026-10-15T11:27:16.691Z",
+  "contentHash": "e6363a98b393fdd8",
+  "totalPlugins": 608,
+  "masterPlugins": 602,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -372,7 +372,7 @@
       "name": "AtmoOmen / DalamudPlugins",
       "url": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
       "status": "ok",
-      "count": 14,
+      "count": 13,
       "note": null
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 129,
+      "count": 128,
       "file": "repos/automation.json"
     },
     {
@@ -2544,7 +2544,7 @@
       "kept": "erdelf",
       "dropped": "bees-repo",
       "keptVersion": "0.0.0.384",
-      "droppedVersion": "0.0.0.383"
+      "droppedVersion": "0.0.0.384"
     },
     {
       "internalName": "AutoHook",
@@ -2642,7 +2642,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "0.0.0.8",
-      "droppedVersion": "0.0.0.6"
+      "droppedVersion": "0.0.0.8"
     },
     {
       "internalName": "PandorasBox",
@@ -3597,6 +3597,13 @@
       "droppedVersion": "4.6.2.13"
     },
     {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.6",
+      "droppedVersion": "1.6.4.6"
+    },
+    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3618,13 +3625,6 @@
       "droppedVersion": "6.0.2.7"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.4",
-      "droppedVersion": "1.15.7.4"
-    },
-    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
@@ -3632,18 +3632,18 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.6",
-      "droppedVersion": "1.6.4.6"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.51",
-      "droppedVersion": "15.756.3.50"
+      "keptVersion": "15.756.3.52",
+      "droppedVersion": "15.756.3.52"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.4",
+      "droppedVersion": "1.15.7.4"
     },
     {
       "internalName": "Splatoon",
@@ -3667,18 +3667,18 @@
       "droppedVersion": "0.0.0.8"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.21"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.5",
       "droppedVersion": "2.1.2.5"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.21",
+      "droppedVersion": "4.0.5.21"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3979,7 +3979,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.7.1",
-      "droppedVersion": "7.5.6.1"
+      "droppedVersion": "7.5.7.1"
     },
     {
       "internalName": "EasyZoomReborn",
@@ -4881,7 +4881,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.756.3.51",
+      "keptVersion": "15.756.3.52",
       "droppedVersion": "15.756.3.51"
     },
     {
@@ -5693,7 +5693,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.756.3.51",
+      "keptVersion": "15.756.3.52",
       "droppedVersion": "4.13"
     },
     {
@@ -6736,7 +6736,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.756.3.51",
+      "keptVersion": "15.756.3.52",
       "droppedVersion": "5.31"
     },
     {
@@ -7002,7 +7002,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.756.3.51",
+      "keptVersion": "15.756.3.52",
       "droppedVersion": "99.0.0.0"
     },
     {
