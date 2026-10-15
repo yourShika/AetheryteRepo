@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-15T16:59:43.420Z",
-  "contentHash": "eef26e1ffc9d5c50",
+  "generatedAt": "2026-10-15T21:21:49.235Z",
+  "contentHash": "87b7b0066cc662fb",
   "totalPlugins": 611,
   "masterPlugins": 605,
   "currentApiLevel": 15,
@@ -2621,7 +2621,7 @@
       "kept": "NightmareXIV",
       "dropped": "bees-repo",
       "keptVersion": "2.6.0.6",
-      "droppedVersion": "2.6.0.5"
+      "droppedVersion": "2.6.0.6"
     },
     {
       "internalName": "Marketbuddy",
@@ -2830,7 +2830,7 @@
       "internalName": "BardToolbox",
       "kept": "BardToolbox / BardToolbox-Release",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "3.0.2.2",
+      "keptVersion": "3.0.2.3",
       "droppedVersion": "1.2.3.0"
     },
     {
@@ -3279,7 +3279,7 @@
       "kept": "NightmareXIV",
       "dropped": "eScape",
       "keptVersion": "2.6.0.6",
-      "droppedVersion": "2.6.0.5"
+      "droppedVersion": "2.6.0.6"
     },
     {
       "internalName": "TextAdvance",
@@ -3583,13 +3583,6 @@
       "droppedVersion": "1.1.0.2"
     },
     {
-      "internalName": "Orbwalker",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.0.1.10",
-      "droppedVersion": "1.0.1.10"
-    },
-    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3604,18 +3597,18 @@
       "droppedVersion": "4.6.2.13"
     },
     {
+      "internalName": "Orbwalker",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.1.10",
+      "droppedVersion": "1.0.1.10"
+    },
+    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.2.0.13",
       "droppedVersion": "2.2.0.13"
-    },
-    {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.2.7",
-      "droppedVersion": "6.0.2.7"
     },
     {
       "internalName": "LazyLoot",
@@ -3625,6 +3618,13 @@
       "droppedVersion": "5.3.3.3"
     },
     {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.2.7",
+      "droppedVersion": "6.0.2.7"
+    },
+    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3632,18 +3632,18 @@
       "droppedVersion": "1.15.7.4"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.52",
-      "droppedVersion": "15.756.3.52"
-    },
-    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.3.52",
+      "droppedVersion": "15.756.3.52"
     },
     {
       "internalName": "Splatoon",
@@ -3660,13 +3660,6 @@
       "droppedVersion": "1.0.4.26"
     },
     {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.8",
-      "droppedVersion": "0.0.0.8"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3679,6 +3672,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.8",
+      "droppedVersion": "0.0.0.8"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3734,7 +3734,7 @@
       "kept": "NightmareXIV",
       "dropped": "MEGA Repository",
       "keptVersion": "2.6.0.6",
-      "droppedVersion": "2.6.0.5"
+      "droppedVersion": "2.6.0.6"
     },
     {
       "internalName": "DSREyeLocator",
@@ -4216,7 +4216,7 @@
       "internalName": "BardToolbox",
       "kept": "BardToolbox / BardToolbox-Release",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.0.2.2",
+      "keptVersion": "3.0.2.3",
       "droppedVersion": "3.0.2.2"
     },
     {
@@ -6890,7 +6890,7 @@
       "internalName": "BardToolbox",
       "kept": "BardToolbox / BardToolbox-Release",
       "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
-      "keptVersion": "3.0.2.2",
+      "keptVersion": "3.0.2.3",
       "droppedVersion": "2.2.5.4"
     },
     {
