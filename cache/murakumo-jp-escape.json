@@ -1,7 +1,7 @@
 {
   "sourceId": "murakumo-jp-escape",
   "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
-  "fetchedAt": "2026-10-15",
+  "fetchedAt": "2026-10-16",
   "count": 13,
   "plugins": [
     {
@@ -380,12 +380,12 @@
       ],
       "InternalName": "AutoDuty",
       "RepoUrl": "https://github.com/erdelf/AutoDuty",
-      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.384/install/latest.zip",
-      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.384/update/latest.zip",
-      "AssemblyVersion": "0.0.0.384",
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.387/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.387/update/latest.zip",
+      "AssemblyVersion": "0.0.0.387",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "## What's Changed\r\n* Termination ilvl cap raised by @erdelf in https://github.com/erdelf/AutoDuty/pull/602\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.383...0.0.0.384",
+      "Changelog": "## What's Changed\r\n* [Crucible] Don't use Battle blocked Beasts unless needed by @erdelf in https://github.com/erdelf/AutoDuty/pull/605\r\n* [Crucible] Don't use Battle blocked Beasts unless needed by @erdelf in https://github.com/erdelf/AutoDuty/pull/606\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.386...0.0.0.387",
       "TestingAssemblyVersion": "0.0.0.367",
       "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.367/install/testing.zip",
       "TestingDalamudApiLevel": "15",
