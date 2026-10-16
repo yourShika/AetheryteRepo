@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T04:30:36.432Z",
-  "contentHash": "971a36ac6e08a96e",
+  "generatedAt": "2026-10-16T11:23:00.016Z",
+  "contentHash": "902746ddf3c5f142",
   "totalPlugins": 608,
   "masterPlugins": 602,
   "currentApiLevel": 15,
@@ -1995,9 +1995,9 @@
       "id": "karou-ca-xiv-repo-json",
       "name": "Glorou / Texture Overlayer",
       "url": "https://karou.ca/xiv/repo.json",
-      "status": "ok",
+      "status": "stale",
       "count": 1,
-      "note": null
+      "note": "fetch failed"
     },
     {
       "id": "haselnussbomber-dalamudplugins",
@@ -3583,13 +3583,6 @@
       "droppedVersion": "1.1.0.2"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.6",
-      "droppedVersion": "1.6.4.6"
-    },
-    {
       "internalName": "Orbwalker",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3602,6 +3595,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.6.2.13",
       "droppedVersion": "4.6.2.13"
+    },
+    {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.6",
+      "droppedVersion": "1.6.4.6"
     },
     {
       "internalName": "Avarice",
@@ -3625,11 +3625,11 @@
       "droppedVersion": "6.0.2.7"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.4",
-      "droppedVersion": "1.15.7.4"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Questionable",
@@ -3639,11 +3639,11 @@
       "droppedVersion": "15.756.3.52"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "1.15.7.4",
+      "droppedVersion": "1.15.7.4"
     },
     {
       "internalName": "Splatoon",
@@ -3660,18 +3660,18 @@
       "droppedVersion": "1.0.4.26"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.5",
-      "droppedVersion": "2.1.2.5"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.5",
+      "droppedVersion": "2.1.2.5"
     },
     {
       "internalName": "Palantir",
