@@ -1,8 +1,8 @@
 {
   "sourceId": "dexcss-dalamudplugins",
   "url": "https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json",
-  "fetchedAt": "2026-10-16",
-  "count": 5,
+  "fetchedAt": "2026-10-17",
+  "count": 6,
   "plugins": [
     {
       "Author": "Akari",
@@ -162,6 +162,43 @@
         "autoretainer",
         "lifestream"
       ],
+      "_SourceId": "dexcss-dalamudplugins",
+      "_SourceName": "dexcss / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json"
+    },
+    {
+      "Author": "dexcss",
+      "Name": "Mahjong Advisor",
+      "InternalName": "Mahjong.Advisor.Plugin",
+      "AssemblyVersion": "0.2.0.2",
+      "TestingAssemblyVersion": "0.2.0.2",
+      "IsTestingExclusive": false,
+      "RepoUrl": "https://github.com/dexcss/MahjongAdvisor",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "TestingDalamudApiLevel": 15,
+      "MinimumDalamudVersion": null,
+      "Tags": [
+        "mahjong",
+        "doman",
+        "gold-saucer",
+        "advisor"
+      ],
+      "CategoryTags": [
+        "Utility"
+      ],
+      "Punchline": "Discard advice for Doman Mahjong.",
+      "Description": "Reads your Doman Mahjong hand, discards, dora, scores and called melds, then ranks each discard by hand speed against deal-in risk. Suggestion only - it never plays for you. Discard piles and meld strips are found automatically; the node tools are only a fallback.",
+      "Changelog": "v0.2.0.2: Keep the previous wall count, so the wall-jump half of new-hand detection actually fires. v0.2.0.1: Reset the pond baselines at the start of a new hand, so the first discard of the hand is tracked and the first call prompt gets the right claimed tile. v0.2.0.0: Meld containers now read by default (112-115 families), with a fail-closed check against our own called-meld count. Own meld tiles are recovered from hand deltas when nodes are unavailable, so ukeire no longer counts tiles already in a call. Riichi detection is marker-node only; the dead rotation and score-drop paths are gone. One node-tree walk per read instead of up to seven. Fixed dead hands getting a nonzero win rate and Pass inventing a yaku path. Red-five decoding accepts both absolute and alias ids. Removed the obsolete fold-threshold setting. Setup window no longer reopens every launch. Added /mjadv melds diagnostics and richer log records.",
+      "DownloadLinkInstall": "https://github.com/dexcss/MahjongAdvisor/releases/latest/download/MahjongAdvisor.zip",
+      "DownloadLinkTesting": "https://github.com/dexcss/MahjongAdvisor/releases/latest/download/MahjongAdvisor.zip",
+      "DownloadLinkUpdate": "https://github.com/dexcss/MahjongAdvisor/releases/latest/download/MahjongAdvisor.zip",
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "AcceptsFeedback": true,
+      "IsHide": false,
       "_SourceId": "dexcss-dalamudplugins",
       "_SourceName": "dexcss / DalamudPlugins",
       "_SourceUrl": "https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json"

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-17T04:24:15.133Z",
-  "contentHash": "db70dc5f0b8cf61a",
-  "totalPlugins": 612,
-  "masterPlugins": 606,
+  "generatedAt": "2026-10-17T10:42:35.880Z",
+  "contentHash": "eb5e49051f8a91db",
+  "totalPlugins": 614,
+  "masterPlugins": 608,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -1196,7 +1196,7 @@
       "name": "NiGuangOwO / DalamudPlugins",
       "url": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
       "status": "ok",
-      "count": 34,
+      "count": 35,
       "note": null
     },
     {
@@ -1892,7 +1892,7 @@
       "name": "dexcss / DalamudPlugins",
       "url": "https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json",
       "status": "ok",
-      "count": 5,
+      "count": 6,
       "note": null
     },
     {
@@ -2414,7 +2414,7 @@
       "name": "Developer & Data",
       "emoji": "🛠️",
       "description": "Debugging, Datenexplorer, Editoren",
-      "count": 20,
+      "count": 21,
       "file": "repos/dev.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 19,
+      "count": 20,
       "file": "repos/misc.json"
     }
   ],
@@ -2480,14 +2480,14 @@
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.2.4.0",
+      "keptVersion": "2.2.4.1",
       "droppedVersion": "2.0.4.4"
     },
     {
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.2.4.0",
+      "keptVersion": "2.2.4.1",
       "droppedVersion": "1.9.3.3"
     },
     {
@@ -2543,8 +2543,8 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.387",
-      "droppedVersion": "0.0.0.384"
+      "keptVersion": "0.0.0.388",
+      "droppedVersion": "0.0.0.387"
     },
     {
       "internalName": "AutoHook",
@@ -2565,7 +2565,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
       "keptVersion": "7.5.7.2",
-      "droppedVersion": "7.5.7.0"
+      "droppedVersion": "7.5.7.2"
     },
     {
       "internalName": "Brio",
@@ -2620,7 +2620,7 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "bees-repo",
-      "keptVersion": "2.6.0.6",
+      "keptVersion": "2.6.0.7",
       "droppedVersion": "2.6.0.6"
     },
     {
@@ -3278,8 +3278,8 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "eScape",
-      "keptVersion": "2.6.0.6",
-      "droppedVersion": "2.6.0.6"
+      "keptVersion": "2.6.0.7",
+      "droppedVersion": "2.6.0.7"
     },
     {
       "internalName": "TextAdvance",
@@ -3306,8 +3306,8 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.387",
-      "droppedVersion": "0.0.0.387"
+      "keptVersion": "0.0.0.388",
+      "droppedVersion": "0.0.0.388"
     },
     {
       "internalName": "Brio",
@@ -3583,18 +3583,18 @@
       "droppedVersion": "1.1.0.2"
     },
     {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.2.13",
-      "droppedVersion": "4.6.2.13"
-    },
-    {
       "internalName": "Orbwalker",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.1.10",
       "droppedVersion": "1.0.1.10"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.2.13",
+      "droppedVersion": "4.6.2.13"
     },
     {
       "internalName": "PandorasBox",
@@ -3625,13 +3625,6 @@
       "droppedVersion": "6.0.2.7"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3644,6 +3637,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "15.756.3.52",
       "droppedVersion": "15.756.3.52"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Splatoon",
@@ -3660,13 +3660,6 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.8",
-      "droppedVersion": "0.0.0.8"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3679,6 +3672,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.5",
       "droppedVersion": "2.1.2.5"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.8",
+      "droppedVersion": "0.0.0.8"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3733,8 +3733,8 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.6.0.6",
-      "droppedVersion": "2.6.0.6"
+      "keptVersion": "2.6.0.7",
+      "droppedVersion": "2.6.0.7"
     },
     {
       "internalName": "DSREyeLocator",
@@ -4041,8 +4041,8 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "69.219",
-      "droppedVersion": "69.219"
+      "keptVersion": "69.220",
+      "droppedVersion": "69.220"
     },
     {
       "internalName": "GlamourLog",
@@ -4734,7 +4734,7 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.6.0.6",
+      "keptVersion": "2.6.0.7",
       "droppedVersion": "2.6.0.6"
     },
     {
@@ -5098,8 +5098,8 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "NightmareXIV / Eternita-S alt repo",
-      "keptVersion": "2.6.0.6",
-      "droppedVersion": "2.6.0.6"
+      "keptVersion": "2.6.0.7",
+      "droppedVersion": "2.6.0.7"
     },
     {
       "internalName": "DSREyeLocator",
@@ -5280,21 +5280,21 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "2.6.0.6",
+      "keptVersion": "2.6.0.7",
       "droppedVersion": "2.6.0.5"
     },
     {
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "2.6.0.6",
+      "keptVersion": "2.6.0.7",
       "droppedVersion": "2.5.3.3"
     },
     {
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "2.6.0.6",
+      "keptVersion": "2.6.0.7",
       "droppedVersion": "2.5.4.8"
     },
     {
@@ -5392,7 +5392,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.387",
+      "keptVersion": "0.0.0.388",
       "droppedVersion": "0.0.0.182"
     },
     {
@@ -5455,7 +5455,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "69.219",
+      "keptVersion": "69.220",
       "droppedVersion": "69.55"
     },
     {
@@ -5602,7 +5602,7 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "2.6.0.6",
+      "keptVersion": "2.6.0.7",
       "droppedVersion": "2.3.2.8"
     },
     {
@@ -6512,7 +6512,7 @@
       "internalName": "FCTracker",
       "kept": "erdelf",
       "dropped": "dexcss / DalamudPlugins",
-      "keptVersion": "0.0.0.39",
+      "keptVersion": "0.0.0.40",
       "droppedVersion": "1.9.0.0"
     },
     {
@@ -6666,7 +6666,7 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "2.6.0.6",
+      "keptVersion": "2.6.0.7",
       "droppedVersion": "2.5.1.13"
     },
     {
@@ -6743,7 +6743,7 @@
       "internalName": "Lifestream",
       "kept": "NightmareXIV",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "2.6.0.6",
+      "keptVersion": "2.6.0.7",
       "droppedVersion": "2.5.3.26"
     },
     {
@@ -6757,7 +6757,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "0.0.0.387",
+      "keptVersion": "0.0.0.388",
       "droppedVersion": "0.0.0.307"
     },
     {
