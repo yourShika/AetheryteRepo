@@ -1,6 +1,6 @@
 # Status
 
-Zuletzt aktualisiert: **2026-10-17 10:42 UTC**
+Zuletzt aktualisiert: **2026-10-17 15:33 UTC**
 
 - Plugins im Master-Feed: **608**
 - Plugins insgesamt (inkl. 18+): **614**
@@ -310,7 +310,7 @@ Zuletzt aktualisiert: **2026-10-17 10:42 UTC**
 |---|---:|---|
 | 👗 Glamour & Charakter | 99 | `repos/glamour.json` |
 | ⚔️ Kampf & Rotation | 72 | `repos/combat.json` |
-| 🤖 Automatisierung | 128 | `repos/automation.json` |
+| 🤖 Automatisierung | 129 | `repos/automation.json` |
 | ⚒️ Crafting & Gathering | 27 | `repos/crafting.json` |
 | ✨ Quality of Life & UI | 152 | `repos/qol.json` |
 | 🎭 Social & Roleplay | 52 | `repos/social.json` |
@@ -318,7 +318,7 @@ Zuletzt aktualisiert: **2026-10-17 10:42 UTC**
 | 🏡 Housing & Deko | 18 | `repos/housing.json` |
 | 🔊 Audio & Voice | 19 | `repos/audio.json` |
 | 🛠️ Developer & Data | 21 | `repos/dev.json` |
-| 📦 Sonstiges | 20 | `repos/misc.json` |
+| 📦 Sonstiges | 19 | `repos/misc.json` |
 
 ## Aufgeloeste Duplikate
 
@@ -342,7 +342,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `visland` | Veyn (BossMod) `0.0.0.151` | awgil plugin distribution `0.0.0.16` |
 | `AntiAfkKick-Dalamud` | NightmareXIV `2.1.0.11` | bees-repo `2.1.0.11` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.21` | bees-repo `4.0.5.21` |
-| `AutoDuty` | erdelf `0.0.0.388` | bees-repo `0.0.0.387` |
+| `AutoDuty` | erdelf `0.0.0.389` | bees-repo `0.0.0.388` |
 | `AutoHook` | Puni.sh (Ment) `6.0.2.7` | bees-repo `6.0.2.7` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.2.13` | bees-repo `4.6.2.13` |
 | `BossMod` | Veyn (BossMod) `7.5.7.2` | bees-repo `7.5.7.2` |
@@ -353,7 +353,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `HaselDebug` | AtmoOmen / DalamudPlugins `1.75.4.0` | bees-repo `1.75.3.0` |
 | `ICE` | ICE (Island Sanctuary) `1.0.0.4` | bees-repo `1.0.0.4` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | bees-repo `5.3.3.3` |
-| `Lifestream` | NightmareXIV `2.6.0.7` | bees-repo `2.6.0.6` |
+| `Lifestream` | NightmareXIV `2.6.0.7` | bees-repo `2.6.0.7` |
 | `Marketbuddy` | Puni.sh (Ment) `0.2.4.2` | bees-repo `0.2.4.2` |
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | bees-repo `1.0.1.10` |
 | `Palantir` | Puni.sh (Ment) `0.0.0.8` | bees-repo `0.0.0.8` |
@@ -451,7 +451,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `TextAdvance` | NightmareXIV `3.3.0.1` | eScape `3.3.0.1` |
 | `DynamicBridge` | Sea of Stars `1.0.8.9` | eScape `1.0.8.9` |
 | `GatherBuddyReborn` | CombatReborn `7.5.6.1` | eScape `7.5.6.1` |
-| `AutoDuty` | erdelf `0.0.0.388` | eScape `0.0.0.388` |
+| `AutoDuty` | erdelf `0.0.0.389` | eScape `0.0.0.389` |
 | `Brio` | Sea of Stars `0.8.0.12` | Etheirys/WorldOfEtheirys `0.8.0.12` |
 | `HidePadlock` | Fr4nsson / MyDalamudPlugins `1.4.0.0` | Caraxi / DalamudPlugins `1.3.0.0` |
 | `EasySort` | Frogworks-Interactive / PluginRepository `0.0.0.5` | DalamudRepoCollection `0.0.0.4` |
@@ -491,15 +491,15 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `MareSynchronos` | Mare Synchronos `1.11.0` | Mare Synchronos `1.11.0.0` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | Marketbuddy `0.2.4.1` |
 | `StartupCommands` | Maxunit / MyDalamudPlugins `1.3.0.1` | DalamudRepoCollection `1.1.0.2` |
-| `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.2.13` | MEGA Repository `4.6.2.13` |
+| `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.6` | MEGA Repository `1.6.4.6` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.13` | MEGA Repository `2.2.0.13` |
-| `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
 | `AutoHook` | Puni.sh (Ment) `6.0.2.7` | MEGA Repository `6.0.2.7` |
+| `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
+| `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
 | `YesAlready` | Puni.sh (Ment) `1.15.7.4` | MEGA Repository `1.15.7.4` |
 | `Questionable` | Puni.sh (Ment) `15.756.3.52` | MEGA Repository `15.756.3.52` |
-| `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.32` | MEGA Repository `3.9.2.32` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.27` | MEGA Repository `1.0.4.27` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.21` | MEGA Repository `4.0.5.21` |
@@ -749,7 +749,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `AntiAfkKick-Dalamud` | MeowZWR / DalamudPlugin `2.1.0.12` | nite-cat / the-giga-repo `2.1.0.7` |
 | `ARControl` | a1hena/PluginRepository `14.2` | nite-cat / the-giga-repo `6.0` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.21` | nite-cat / the-giga-repo `4.0.2.10` |
-| `AutoDuty` | erdelf `0.0.0.388` | nite-cat / the-giga-repo `0.0.0.182` |
+| `AutoDuty` | erdelf `0.0.0.389` | nite-cat / the-giga-repo `0.0.0.182` |
 | `AutoHook` | Puni.sh (Ment) `6.0.2.7` | nite-cat / the-giga-repo `4.3.1.10` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.2.13` | nite-cat / the-giga-repo `4.4.3.9` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.13` | nite-cat / the-giga-repo `2.1.0.8` |
@@ -944,7 +944,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `TextAdvance` | NightmareXIV `3.3.0.1` | nihil-string / puppys-plugins `3.2.4.12` |
 | `Lifestream` | NightmareXIV `2.6.0.7` | nihil-string / puppys-plugins `2.5.3.26` |
 | `Questionable` | Puni.sh (Ment) `15.756.3.52` | nihil-string / puppys-plugins `5.31` |
-| `AutoDuty` | erdelf `0.0.0.388` | nihil-string / puppys-plugins `0.0.0.307` |
+| `AutoDuty` | erdelf `0.0.0.389` | nihil-string / puppys-plugins `0.0.0.307` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.32` | nihil-string / puppys-plugins `3.7.0.12` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.21` | OLDBAI213 / ff14-dalamud-plugin-zh `4.0.5.16` |
 | `AutoHook` | Puni.sh (Ment) `6.0.2.7` | OLDBAI213 / ff14-dalamud-plugin-zh `6.0.0.68` |
@@ -982,11 +982,11 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Glamourer` | Glamourer `1.7.1.3` | wasdcxz / DalamudPlugins `1.7.1.3` |
 | `WigglyQuest` | McVaxius / TheDumpsterFire `7.5.30` | WigglyCorp / DalamudPlugins `7.5.30` |
 | `Influx` | MEGA Repository `4.2` | WigglyCorp / DalamudPlugins `7.5.4` |
-| `QSTCompanion` | McVaxius / TheDumpsterFire `1.1.30.0` | WigglyCorp / DalamudPlugins `1.1.30.0` |
+| `QSTCompanion` | WigglyCorp / DalamudPlugins `1.1.31.0` | McVaxius / TheDumpsterFire `1.1.30.0` |
 | `Questionable` | Puni.sh (Ment) `15.756.3.52` | WigglyCorp / DalamudPlugins `99.0.0.0` |
 | `AethertekPluginManager` | McVaxius / TheDumpsterFire `0.0.0.5` | xa-io / MyDalamudPlugins `0.0.0.5` |
 | `XADatabase` | McVaxius / TheDumpsterFire `0.0.0.47` | xa-io / MyDalamudPlugins `0.0.0.47` |
-| `XASlave` | xa-io / MyDalamudPlugins `0.0.0.53` | McVaxius / TheDumpsterFire `0.0.0.52` |
+| `XASlave` | McVaxius / TheDumpsterFire `0.0.0.53` | xa-io / MyDalamudPlugins `0.0.0.53` |
 | `XAHudNavigator` | McVaxius / TheDumpsterFire `0.0.0.10` | xa-io / MyDalamudPlugins `0.0.0.10` |
 | `XAZod` | McVaxius / TheDumpsterFire `0.0.0.6` | xa-io / MyDalamudPlugins `0.0.0.6` |
 | `ICE` | ICE (Island Sanctuary) `1.0.0.4` | xivhub / pluginmaster `1.0.0.7` |

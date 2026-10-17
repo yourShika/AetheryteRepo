@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T10:42:35.880Z",
-  "contentHash": "eb5e49051f8a91db",
+  "generatedAt": "2026-10-17T15:33:23.009Z",
+  "contentHash": "f6a74b29010187ce",
   "totalPlugins": 614,
   "masterPlugins": 608,
   "currentApiLevel": 15,
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 128,
+      "count": 129,
       "file": "repos/automation.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 20,
+      "count": 19,
       "file": "repos/misc.json"
     }
   ],
@@ -2543,8 +2543,8 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.388",
-      "droppedVersion": "0.0.0.387"
+      "keptVersion": "0.0.0.389",
+      "droppedVersion": "0.0.0.388"
     },
     {
       "internalName": "AutoHook",
@@ -2621,7 +2621,7 @@
       "kept": "NightmareXIV",
       "dropped": "bees-repo",
       "keptVersion": "2.6.0.7",
-      "droppedVersion": "2.6.0.6"
+      "droppedVersion": "2.6.0.7"
     },
     {
       "internalName": "Marketbuddy",
@@ -3306,8 +3306,8 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.388",
-      "droppedVersion": "0.0.0.388"
+      "keptVersion": "0.0.0.389",
+      "droppedVersion": "0.0.0.389"
     },
     {
       "internalName": "Brio",
@@ -3583,18 +3583,18 @@
       "droppedVersion": "1.1.0.2"
     },
     {
-      "internalName": "Orbwalker",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.0.1.10",
-      "droppedVersion": "1.0.1.10"
-    },
-    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.6.2.13",
       "droppedVersion": "4.6.2.13"
+    },
+    {
+      "internalName": "Orbwalker",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.1.10",
+      "droppedVersion": "1.0.1.10"
     },
     {
       "internalName": "PandorasBox",
@@ -3611,6 +3611,13 @@
       "droppedVersion": "2.2.0.13"
     },
     {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.2.7",
+      "droppedVersion": "6.0.2.7"
+    },
+    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3618,11 +3625,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.2.7",
-      "droppedVersion": "6.0.2.7"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "YesAlready",
@@ -3637,13 +3644,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "15.756.3.52",
       "droppedVersion": "15.756.3.52"
-    },
-    {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Splatoon",
@@ -5392,7 +5392,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.388",
+      "keptVersion": "0.0.0.389",
       "droppedVersion": "0.0.0.182"
     },
     {
@@ -6757,7 +6757,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "0.0.0.388",
+      "keptVersion": "0.0.0.389",
       "droppedVersion": "0.0.0.307"
     },
     {
@@ -7021,9 +7021,9 @@
     },
     {
       "internalName": "QSTCompanion",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "1.1.30.0",
+      "kept": "WigglyCorp / DalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "1.1.31.0",
       "droppedVersion": "1.1.30.0"
     },
     {
@@ -7049,10 +7049,10 @@
     },
     {
       "internalName": "XASlave",
-      "kept": "xa-io / MyDalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
       "keptVersion": "0.0.0.53",
-      "droppedVersion": "0.0.0.52"
+      "droppedVersion": "0.0.0.53"
     },
     {
       "internalName": "XAHudNavigator",
