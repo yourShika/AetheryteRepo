@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T23:07:13.097Z",
-  "contentHash": "0e06af50576a4d56",
+  "generatedAt": "2026-10-18T04:31:26.167Z",
+  "contentHash": "48617fb3a3fd20ab",
   "totalPlugins": 611,
   "masterPlugins": 605,
   "currentApiLevel": 15,
@@ -3635,7 +3635,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.52",
+      "keptVersion": "15.756.3.53",
       "droppedVersion": "15.756.3.52"
     },
     {
@@ -3660,13 +3660,6 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.5",
-      "droppedVersion": "2.1.2.5"
-    },
-    {
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3679,6 +3672,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.5",
+      "droppedVersion": "2.1.2.5"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3964,7 +3964,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.7.2",
+      "keptVersion": "7.5.7.3",
       "droppedVersion": "7.5.7.2"
     },
     {
@@ -4455,7 +4455,7 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "2.20.0.0",
-      "droppedVersion": "2.19.0.0"
+      "droppedVersion": "2.20.0.0"
     },
     {
       "internalName": "AutoGcSupply",
@@ -4483,14 +4483,14 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.10.0.0",
-      "droppedVersion": "1.9.0.0"
+      "droppedVersion": "1.10.0.0"
     },
     {
       "internalName": "AutoHuntTrain",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.2.0.0",
-      "droppedVersion": "1.1.0.0"
+      "droppedVersion": "1.2.0.0"
     },
     {
       "internalName": "AutoLogin",
@@ -4504,7 +4504,7 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "2.11.0.0",
-      "droppedVersion": "2.9.0.0"
+      "droppedVersion": "2.11.0.0"
     },
     {
       "internalName": "AutoRetainer",
@@ -4532,7 +4532,7 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.10.0.0",
-      "droppedVersion": "1.9.0.0"
+      "droppedVersion": "1.10.0.0"
     },
     {
       "internalName": "AutoTreasureMaps",
@@ -4735,7 +4735,7 @@
       "kept": "NightmareXIV",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "2.6.0.7",
-      "droppedVersion": "2.6.0.6"
+      "droppedVersion": "2.6.0.7"
     },
     {
       "internalName": "LightlessSync",
@@ -4875,7 +4875,7 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.4.0.0",
-      "droppedVersion": "1.3.1.0"
+      "droppedVersion": "1.4.0.0"
     },
     {
       "internalName": "Quack",
@@ -4888,8 +4888,8 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.756.3.52",
-      "droppedVersion": "15.756.3.52"
+      "keptVersion": "15.756.3.53",
+      "droppedVersion": "15.756.3.53"
     },
     {
       "internalName": "RaidsRewritten",
@@ -4930,8 +4930,8 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.7.2",
-      "droppedVersion": "7.5.7.2"
+      "keptVersion": "7.5.7.3",
+      "droppedVersion": "7.5.7.3"
     },
     {
       "internalName": "Saucy",
@@ -5700,7 +5700,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.756.3.52",
+      "keptVersion": "15.756.3.53",
       "droppedVersion": "4.13"
     },
     {
@@ -5721,7 +5721,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.7.2",
+      "keptVersion": "7.5.7.3",
       "droppedVersion": "7.1.5.38"
     },
     {
@@ -6526,7 +6526,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.7.2",
+      "keptVersion": "7.5.7.3",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -6659,7 +6659,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "7.5.7.2",
+      "keptVersion": "7.5.7.3",
       "droppedVersion": "7.2.5.122"
     },
     {
@@ -6743,7 +6743,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.756.3.52",
+      "keptVersion": "15.756.3.53",
       "droppedVersion": "5.31"
     },
     {
@@ -7009,7 +7009,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.756.3.52",
+      "keptVersion": "15.756.3.53",
       "droppedVersion": "99.0.0.0"
     },
     {
