@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-18T20:41:28.279Z",
-  "contentHash": "51a0d228adb7db70",
+  "generatedAt": "2026-10-18T23:11:10.723Z",
+  "contentHash": "06d0e5a3a6ac7749",
   "totalPlugins": 614,
   "masterPlugins": 608,
   "currentApiLevel": 15,
@@ -1347,9 +1347,9 @@
       "id": "raimere-com-plugin-repo-json",
       "name": "Raimere",
       "url": "https://raimere.com/plugin/repo.json",
-      "status": "ok",
+      "status": "stale",
       "count": 1,
-      "note": null
+      "note": "HTTP 404 Not Found"
     },
     {
       "id": "punish-raya",
@@ -1995,9 +1995,9 @@
       "id": "karou-ca-xiv-repo-json",
       "name": "Glorou / Texture Overlayer",
       "url": "https://karou.ca/xiv/repo.json",
-      "status": "stale",
+      "status": "ok",
       "count": 1,
-      "note": "fetch failed"
+      "note": null
     },
     {
       "id": "haselnussbomber-dalamudplugins",
@@ -2100,7 +2100,7 @@
       "name": "McVaxius / TheDumpsterFire",
       "url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
       "status": "ok",
-      "count": 29,
+      "count": 21,
       "note": null
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 129,
+      "count": 131,
       "file": "repos/automation.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 19,
+      "count": 17,
       "file": "repos/misc.json"
     }
   ],
@@ -3611,18 +3611,18 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "6.0.2.7",
       "droppedVersion": "6.0.2.7"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "Marketbuddy",
@@ -3653,11 +3653,11 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Saucy",
+      "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.5",
-      "droppedVersion": "2.1.2.5"
+      "keptVersion": "3.9.2.32",
+      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "Palantir",
@@ -3667,18 +3667,18 @@
       "droppedVersion": "0.0.0.8"
     },
     {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.5",
+      "droppedVersion": "2.1.2.5"
+    },
+    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
-    },
-    {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.32",
-      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3965,7 +3965,7 @@
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.7.4",
-      "droppedVersion": "7.5.7.3"
+      "droppedVersion": "7.5.7.4"
     },
     {
       "internalName": "BossModReborn",
@@ -6705,13 +6705,6 @@
       "droppedVersion": "2.10.3.0"
     },
     {
-      "internalName": "Influx",
-      "kept": "MEGA Repository",
-      "dropped": "McVaxius / TheDumpsterFire",
-      "keptVersion": "4.2",
-      "droppedVersion": "7.5.4"
-    },
-    {
       "internalName": "vnavmesh",
       "kept": "Veyn (BossMod)",
       "dropped": "nihil-string / puppys-plugins",
@@ -6999,13 +6992,6 @@
       "droppedVersion": "1.7.1.3"
     },
     {
-      "internalName": "WigglyQuest",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "7.5.30",
-      "droppedVersion": "7.5.30"
-    },
-    {
       "internalName": "Influx",
       "kept": "MEGA Repository",
       "dropped": "WigglyCorp / DalamudPlugins",
@@ -7013,53 +6999,11 @@
       "droppedVersion": "7.5.4"
     },
     {
-      "internalName": "QSTCompanion",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "1.1.31.0",
-      "droppedVersion": "1.1.31.0"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
       "keptVersion": "15.756.3.53",
       "droppedVersion": "99.0.0.0"
-    },
-    {
-      "internalName": "AethertekPluginManager",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.5",
-      "droppedVersion": "0.0.0.5"
-    },
-    {
-      "internalName": "XADatabase",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.47",
-      "droppedVersion": "0.0.0.47"
-    },
-    {
-      "internalName": "XASlave",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.53",
-      "droppedVersion": "0.0.0.53"
-    },
-    {
-      "internalName": "XAHudNavigator",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.10",
-      "droppedVersion": "0.0.0.10"
-    },
-    {
-      "internalName": "XAZod",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.6",
-      "droppedVersion": "0.0.0.6"
     },
     {
       "internalName": "ICE",
