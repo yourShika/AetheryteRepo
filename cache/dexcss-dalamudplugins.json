@@ -2,7 +2,7 @@
   "sourceId": "dexcss-dalamudplugins",
   "url": "https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json",
   "fetchedAt": "2026-10-19",
-  "count": 7,
+  "count": 8,
   "plugins": [
     {
       "Author": "Akari",
@@ -200,6 +200,33 @@
       "LoadPriority": 0,
       "AcceptsFeedback": true,
       "IsHide": false,
+      "_SourceId": "dexcss-dalamudplugins",
+      "_SourceName": "dexcss / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json"
+    },
+    {
+      "Author": "Akari",
+      "Name": "Private Roulette",
+      "InternalName": "PrivateRoulette",
+      "AssemblyVersion": "0.2.2.0",
+      "TestingAssemblyVersion": "0.2.2.0",
+      "Description": "Personal dealer-hosted gil roulette: provably-fair control spins, live web players, chat announcements and a dealer console worth watching. Whitelisted to authorized dealers only.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/dexcss/PrivateRoulette",
+      "Tags": [
+        "roulette",
+        "gamba",
+        "dealer",
+        "private"
+      ],
+      "DalamudApiLevel": 15,
+      "TestingDalamudApiLevel": 15,
+      "DownloadLinkInstall": "https://github.com/dexcss/PrivateRoulette/releases/latest/download/PrivateRoulette.zip",
+      "DownloadLinkTesting": "https://github.com/dexcss/PrivateRoulette/releases/latest/download/PrivateRoulette.zip",
+      "DownloadLinkUpdate": "https://github.com/dexcss/PrivateRoulette/releases/latest/download/PrivateRoulette.zip",
+      "AcceptsFeedback": false,
+      "IsHide": false,
+      "IsTestingExclusive": false,
       "_SourceId": "dexcss-dalamudplugins",
       "_SourceName": "dexcss / DalamudPlugins",
       "_SourceUrl": "https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json"
