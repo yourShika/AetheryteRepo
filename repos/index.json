@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-18T23:11:10.723Z",
-  "contentHash": "06d0e5a3a6ac7749",
+  "generatedAt": "2026-10-19T04:39:09.854Z",
+  "contentHash": "d181b7edad1f6733",
   "totalPlugins": 614,
   "masterPlugins": 608,
   "currentApiLevel": 15,
@@ -2543,7 +2543,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.389",
+      "keptVersion": "0.0.0.390",
       "droppedVersion": "0.0.0.389"
     },
     {
@@ -2557,7 +2557,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "4.6.2.13",
+      "keptVersion": "4.6.2.14",
       "droppedVersion": "4.6.2.13"
     },
     {
@@ -2606,7 +2606,7 @@
       "internalName": "ICE",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "bees-repo",
-      "keptVersion": "1.0.0.4",
+      "keptVersion": "1.0.0.5",
       "droppedVersion": "1.0.0.4"
     },
     {
@@ -2809,7 +2809,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "4.6.2.13",
+      "keptVersion": "4.6.2.14",
       "droppedVersion": "2.2.0.0"
     },
     {
@@ -3306,8 +3306,8 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.389",
-      "droppedVersion": "0.0.0.389"
+      "keptVersion": "0.0.0.390",
+      "droppedVersion": "0.0.0.390"
     },
     {
       "internalName": "Brio",
@@ -3586,8 +3586,8 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.6.2.13",
-      "droppedVersion": "4.6.2.13"
+      "keptVersion": "4.6.2.14",
+      "droppedVersion": "4.6.2.14"
     },
     {
       "internalName": "Orbwalker",
@@ -3625,11 +3625,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "15.756.3.53",
+      "droppedVersion": "15.756.3.53"
     },
     {
       "internalName": "YesAlready",
@@ -3639,11 +3639,11 @@
       "droppedVersion": "1.15.7.4"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.53",
-      "droppedVersion": "15.756.3.53"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "WrathCombo",
@@ -3653,13 +3653,6 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.32",
-      "droppedVersion": "3.9.2.32"
-    },
-    {
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3667,18 +3660,25 @@
       "droppedVersion": "0.0.0.8"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.5",
-      "droppedVersion": "2.1.2.5"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.32",
+      "droppedVersion": "3.9.2.32"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.5",
+      "droppedVersion": "2.1.2.5"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4420,7 +4420,7 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.3.2.0",
-      "droppedVersion": "1.3.1.0"
+      "droppedVersion": "1.3.2.0"
     },
     {
       "internalName": "AntiAfkKick-Dalamud",
@@ -4448,7 +4448,7 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "2.21.1.0",
-      "droppedVersion": "2.20.0.0"
+      "droppedVersion": "2.21.1.0"
     },
     {
       "internalName": "AutoGcSupply",
@@ -4483,7 +4483,7 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.3.0.0",
-      "droppedVersion": "1.2.0.0"
+      "droppedVersion": "1.3.0.0"
     },
     {
       "internalName": "AutoLogin",
@@ -4497,14 +4497,14 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "2.11.1.0",
-      "droppedVersion": "2.11.0.0"
+      "droppedVersion": "2.11.1.0"
     },
     {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "4.6.2.13",
-      "droppedVersion": "4.6.2.13"
+      "keptVersion": "4.6.2.14",
+      "droppedVersion": "4.6.2.14"
     },
     {
       "internalName": "AutoSeller",
@@ -4525,7 +4525,7 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.11.0.0",
-      "droppedVersion": "1.10.0.0"
+      "droppedVersion": "1.11.0.0"
     },
     {
       "internalName": "AutoTreasureMaps",
@@ -4539,7 +4539,7 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.2.1.0",
-      "droppedVersion": "1.2.0.0"
+      "droppedVersion": "1.2.1.0"
     },
     {
       "internalName": "Avarice",
@@ -4574,7 +4574,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.7.1",
-      "droppedVersion": "7.5.6.35"
+      "droppedVersion": "7.5.7.1"
     },
     {
       "internalName": "Brio",
@@ -4692,8 +4692,8 @@
       "internalName": "ICE",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.0.4",
-      "droppedVersion": "1.0.0.4"
+      "keptVersion": "1.0.0.5",
+      "droppedVersion": "1.0.0.5"
     },
     {
       "internalName": "IINACT",
@@ -4924,7 +4924,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.7.4",
-      "droppedVersion": "7.5.7.3"
+      "droppedVersion": "7.5.7.4"
     },
     {
       "internalName": "Saucy",
@@ -5385,7 +5385,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.389",
+      "keptVersion": "0.0.0.390",
       "droppedVersion": "0.0.0.182"
     },
     {
@@ -5399,7 +5399,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "4.6.2.13",
+      "keptVersion": "4.6.2.14",
       "droppedVersion": "4.4.3.9"
     },
     {
@@ -6246,7 +6246,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "4.6.2.13",
+      "keptVersion": "4.6.2.14",
       "droppedVersion": "4.6.0.8"
     },
     {
@@ -6596,7 +6596,7 @@
       "internalName": "ICE",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "jkleinne / ascended-plugins",
-      "keptVersion": "1.0.0.4",
+      "keptVersion": "1.0.0.5",
       "droppedVersion": "1.0.0.2"
     },
     {
@@ -6666,7 +6666,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "4.6.2.13",
+      "keptVersion": "4.6.2.14",
       "droppedVersion": "4.5.1.13"
     },
     {
@@ -6743,7 +6743,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "0.0.0.389",
+      "keptVersion": "0.0.0.390",
       "droppedVersion": "0.0.0.307"
     },
     {
@@ -6785,7 +6785,7 @@
       "internalName": "ICE",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "1.0.0.4",
+      "keptVersion": "1.0.0.5",
       "droppedVersion": "1.0.0.0"
     },
     {
@@ -6799,7 +6799,7 @@
       "internalName": "ICE",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "OLDBAI213 / OLDBAI",
-      "keptVersion": "1.0.0.4",
+      "keptVersion": "1.0.0.5",
       "droppedVersion": "0.0.78.7000"
     },
     {
@@ -7009,7 +7009,7 @@
       "internalName": "ICE",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "xivhub / pluginmaster",
-      "keptVersion": "1.0.0.4",
+      "keptVersion": "1.0.0.5",
       "droppedVersion": "1.0.0.7"
     },
     {
