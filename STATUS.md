@@ -1,9 +1,9 @@
 # Status
 
-Zuletzt aktualisiert: **2026-10-19 04:39 UTC**
+Zuletzt aktualisiert: **2026-10-19 13:12 UTC**
 
-- Plugins im Master-Feed: **608**
-- Plugins insgesamt (inkl. 18+): **614**
+- Plugins im Master-Feed: **609**
+- Plugins insgesamt (inkl. 18+): **615**
 - Quellen: **291**
 - Aktuelles Dalamud-API-Level: **15** (aufgenommen ab 13)
 - Als veraltet aussortiert: **352** → `repos/legacy.json`
@@ -247,7 +247,7 @@ Zuletzt aktualisiert: **2026-10-19 04:39 UTC**
 | ✅ | [datamachine / ffxiv-plugins](https://raw.githubusercontent.com/datamachine/ffxiv-plugins/main/pluginmaster.json) | 2 | ok |
 | ✅ | [devckuw / DistribPluginFFXIV](https://raw.githubusercontent.com/devckuw/DistribPluginFFXIV/main/repo.json) | 3 | ok |
 | ✅ | [devoreofox / foxs-hollow](https://raw.githubusercontent.com/devoreofox/foxs-hollow/main/repo.json) | 3 | ok |
-| ✅ | [dexcss / DalamudPlugins](https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json) | 6 | ok |
+| ✅ | [dexcss / DalamudPlugins](https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json) | 7 | ok |
 | ✅ | [doomzao / plugins](https://raw.githubusercontent.com/doomzao/plugins/main/repo.json) | 2 | ok |
 | ✅ | [Enceladeum / DalamudPlugins](https://raw.githubusercontent.com/Enceladeum/DalamudPlugins/main/repo.json) | 6 | ok |
 | ✅ | [exatrines / DalamudPlugins](https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json) | 8 | ok |
@@ -312,7 +312,7 @@ Zuletzt aktualisiert: **2026-10-19 04:39 UTC**
 | ⚔️ Kampf & Rotation | 72 | `repos/combat.json` |
 | 🤖 Automatisierung | 131 | `repos/automation.json` |
 | ⚒️ Crafting & Gathering | 27 | `repos/crafting.json` |
-| ✨ Quality of Life & UI | 152 | `repos/qol.json` |
+| ✨ Quality of Life & UI | 153 | `repos/qol.json` |
 | 🎭 Social & Roleplay | 52 | `repos/social.json` |
 | 🔞 Adult (18+) | 6 | `repos/nsfw.json` |
 | 🏡 Housing & Deko | 18 | `repos/housing.json` |
@@ -342,16 +342,16 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `visland` | Veyn (BossMod) `0.0.0.151` | awgil plugin distribution `0.0.0.16` |
 | `AntiAfkKick-Dalamud` | NightmareXIV `2.1.0.11` | bees-repo `2.1.0.11` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.21` | bees-repo `4.0.5.21` |
-| `AutoDuty` | erdelf `0.0.0.390` | bees-repo `0.0.0.389` |
+| `AutoDuty` | erdelf `0.0.0.390` | bees-repo `0.0.0.390` |
 | `AutoHook` | Puni.sh (Ment) `6.0.2.7` | bees-repo `6.0.2.7` |
-| `AutoRetainer` | Puni.sh (Ment) `4.6.2.14` | bees-repo `4.6.2.13` |
+| `AutoRetainer` | Puni.sh (Ment) `4.6.2.14` | bees-repo `4.6.2.14` |
 | `BossMod` | Veyn (BossMod) `7.5.7.2` | bees-repo `7.5.7.2` |
 | `Brio` | Sea of Stars `0.8.0.12` | bees-repo `0.8.0.12` |
 | `CustomizePlus` | Sea of Stars `2.2.1.3` | bees-repo `2.2.1.3` |
 | `GatherBuddyReborn` | CombatReborn `7.5.6.1` | bees-repo `7.5.6.1` |
 | `Glamourer` | Glamourer `1.7.1.3` | bees-repo `1.7.1.3` |
 | `HaselDebug` | AtmoOmen / DalamudPlugins `1.75.4.0` | bees-repo `1.75.3.0` |
-| `ICE` | ICE (Island Sanctuary) `1.0.0.5` | bees-repo `1.0.0.4` |
+| `ICE` | ICE (Island Sanctuary) `1.0.0.5` | bees-repo `1.0.0.5` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | bees-repo `5.3.3.3` |
 | `Lifestream` | NightmareXIV `2.6.0.7` | bees-repo `2.6.0.7` |
 | `Marketbuddy` | Puni.sh (Ment) `0.2.4.2` | bees-repo `0.2.4.2` |
@@ -501,10 +501,10 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `YesAlready` | Puni.sh (Ment) `1.15.7.4` | MEGA Repository `1.15.7.4` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.27` | MEGA Repository `1.0.4.27` |
-| `Palantir` | Puni.sh (Ment) `0.0.0.8` | MEGA Repository `0.0.0.8` |
-| `Artisan` | Puni.sh (Ment) `4.0.5.21` | MEGA Repository `4.0.5.21` |
-| `Splatoon` | Puni.sh (Ment) `3.9.2.32` | MEGA Repository `3.9.2.32` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.5` | MEGA Repository `2.1.2.5` |
+| `Splatoon` | Puni.sh (Ment) `3.9.2.32` | MEGA Repository `3.9.2.32` |
+| `Artisan` | Puni.sh (Ment) `4.0.5.21` | MEGA Repository `4.0.5.21` |
+| `Palantir` | Puni.sh (Ment) `0.0.0.8` | MEGA Repository `0.0.0.8` |
 | `XIVComboExpanded` | daemitus MyDalamudPlugins `2.0.6.3` | MEGA Repository `2.0.6.3` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | MEGA Repository `1.3.1.4` |
 | `AutoPillion` | Aida-Enna XIVPlugins `1.0.0.5` | MEGA Repository `1.0.0.5` |
@@ -556,7 +556,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `NoSillyReborn` | CombatReborn `7.5.5.0` | MEGA Repository `7.5.5.0` |
 | `Understudy` | CombatReborn `1.0.0.8` | MEGA Repository `1.0.0.8` |
 | `SomethingNeedDoing` | Croizat's Repo `15.12` | MEGA Repository `15.12` |
-| `Automaton` | Croizat's Repo `69.220` | MEGA Repository `69.220` |
+| `Automaton` | Croizat's Repo `69.221` | MEGA Repository `69.220` |
 | `GlamourLog` | Croizat's Repo `15.74` | MEGA Repository `15.74` |
 | `BattleLog` | KangasZ / DalamudPluginRepository `0.0.0.7` | MEGA Repository `0.0.0.7` |
 | `SkipCutscene` | KangasZ / DalamudPluginRepository `3.0.1.5` | MEGA Repository `3.0.1.5` |
@@ -586,7 +586,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `XIVComboVX` | MEGA Repository `9.35.3` | DalamudRepoCollection `7.0.8381.8868` |
 | `TinyCmds` | MEGA Repository `8.10.4` | DalamudRepoCollection `6.0.8356.19977` |
 | `NekoLewd` | Meisterlala / NekoFans `1.0.11` | DalamudRepoCollection `1.0.1` |
-| `Penumbra` | Penumbra `1.7.2.1` | MeowZWR / DalamudPlugin `1.7.2.3` |
+| `Penumbra` | Penumbra `1.7.2.1` | MeowZWR / DalamudPlugin `1.7.2.4` |
 | `Glamourer` | Glamourer `1.7.1.3` | MeowZWR / DalamudPlugin `1.7.1.4` |
 | `SimpleHeels` | Sea of Stars `0.11.1.12` | MeowZWR / DalamudPlugin `0.11.1.12` |
 | `CustomizePlus` | Sea of Stars `2.2.1.3` | MeowZWR / DalamudPlugin `2.2.1.3` |
@@ -757,7 +757,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `BossModReborn` | CombatReborn `7.5.7.1` | nite-cat / the-giga-repo `7.2.0.261` |
 | `Brio` | Sea of Stars `0.8.0.12` | nite-cat / the-giga-repo `0.4.3.1` |
 | `Cammy` | bees-repo `2.1.1.2` | nite-cat / the-giga-repo `2.1.0.10` |
-| `Automaton` | Croizat's Repo `69.220` | nite-cat / the-giga-repo `69.55` |
+| `Automaton` | Croizat's Repo `69.221` | nite-cat / the-giga-repo `69.55` |
 | `CustomizePlus` | Sea of Stars `2.2.1.3` | nite-cat / the-giga-repo `2.0.7.12` |
 | `DalamudRepoBrowser` | MEGA Repository `2.0.3.3` | nite-cat / the-giga-repo `2.0.3.3` |
 | `ARDiscard` | a1hena/PluginRepository `8.3` | nite-cat / the-giga-repo `7.0` |
@@ -837,7 +837,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Copycat` | MEGA Repository `7.5.0.0` | PuppetMaster `7.5.0.0` |
 | `StartupCommands` | Maxunit / MyDalamudPlugins `1.3.0.1` | SaltyCog DalamudPlugins `1.2.1.1` |
 | `MaterialUI` | Sevii77/ffxiv_materialui_accent `1.4.13` | DalamudRepoCollection `1.4.8` |
-| `Snowcloak` | ElfShelf `5.0.0.1` | Snowcloak `5.0.0.1` |
+| `Snowcloak` | ElfShelf `5.0.1.0` | Snowcloak `5.0.1.0` |
 | `BigMac` | ElfShelf `1.1.1.0` | Snowcloak `1.1.1.0` |
 | `Ledger` | ElfShelf `1.1.0` | Snowcloak `1.1.0.0` |
 | `DozeAnywhere` | MEGA Repository `0.2.2.8` | SoyaX / SoyaPlugins `0.2.2.8` |
@@ -908,7 +908,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `JobIcons2` | DalamudRepoCollection `6.2.0.2` | Cyenia / DalamudPlugins `6.5.8.0` |
 | `InventoryTools` | Caraxi / DalamudPlugins `1.1.0.6` | dal4kr / Dalamud.Resources `4242.14.1.2` |
 | `BossModReborn` | CombatReborn `7.5.7.1` | dal4kr / Dalamud.Resources `7.4.5.14` |
-| `FCTracker` | erdelf `0.0.0.42` | dexcss / DalamudPlugins `1.9.0.0` |
+| `FCTracker` | erdelf `0.0.0.42` | dexcss / DalamudPlugins `1.10.0.0` |
 | `HOutfits` | HOutfits `0.5.0.0` | Enceladeum / DalamudPlugins `0.5.0.0` |
 | `RotationSolver` | CombatReborn `7.5.7.4` | fenk19 / DalamudPluginRepo `99.0.1.0` |
 | `BossModReborn` | CombatReborn `7.5.7.1` | fenk19 / DalamudPluginRepo `99.0.1.0` |

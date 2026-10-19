@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-19T04:39:09.854Z",
-  "contentHash": "d181b7edad1f6733",
-  "totalPlugins": 614,
-  "masterPlugins": 608,
+  "generatedAt": "2026-10-19T13:12:39.974Z",
+  "contentHash": "7894d00164ea38f3",
+  "totalPlugins": 615,
+  "masterPlugins": 609,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -1892,7 +1892,7 @@
       "name": "dexcss / DalamudPlugins",
       "url": "https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json",
       "status": "ok",
-      "count": 6,
+      "count": 7,
       "note": null
     },
     {
@@ -2374,7 +2374,7 @@
       "name": "Quality of Life & UI",
       "emoji": "✨",
       "description": "Tweaks, Interface, Chat, Inventar, Karten",
-      "count": 152,
+      "count": 153,
       "file": "repos/qol.json"
     },
     {
@@ -2544,7 +2544,7 @@
       "kept": "erdelf",
       "dropped": "bees-repo",
       "keptVersion": "0.0.0.390",
-      "droppedVersion": "0.0.0.389"
+      "droppedVersion": "0.0.0.390"
     },
     {
       "internalName": "AutoHook",
@@ -2558,7 +2558,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "4.6.2.14",
-      "droppedVersion": "4.6.2.13"
+      "droppedVersion": "4.6.2.14"
     },
     {
       "internalName": "BossMod",
@@ -2607,7 +2607,7 @@
       "kept": "ICE (Island Sanctuary)",
       "dropped": "bees-repo",
       "keptVersion": "1.0.0.5",
-      "droppedVersion": "1.0.0.4"
+      "droppedVersion": "1.0.0.5"
     },
     {
       "internalName": "LazyLoot",
@@ -3653,18 +3653,11 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Palantir",
+      "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.8",
-      "droppedVersion": "0.0.0.8"
-    },
-    {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.21"
+      "keptVersion": "2.1.2.5",
+      "droppedVersion": "2.1.2.5"
     },
     {
       "internalName": "Splatoon",
@@ -3674,11 +3667,18 @@
       "droppedVersion": "3.9.2.32"
     },
     {
-      "internalName": "Saucy",
+      "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.5",
-      "droppedVersion": "2.1.2.5"
+      "keptVersion": "4.0.5.21",
+      "droppedVersion": "4.0.5.21"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.8",
+      "droppedVersion": "0.0.0.8"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4041,7 +4041,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "69.220",
+      "keptVersion": "69.221",
       "droppedVersion": "69.220"
     },
     {
@@ -4252,7 +4252,7 @@
       "kept": "Penumbra",
       "dropped": "MeowZWR / DalamudPlugin",
       "keptVersion": "1.7.2.1",
-      "droppedVersion": "1.7.2.3"
+      "droppedVersion": "1.7.2.4"
     },
     {
       "internalName": "Glamourer",
@@ -5448,7 +5448,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "69.220",
+      "keptVersion": "69.221",
       "droppedVersion": "69.55"
     },
     {
@@ -6008,8 +6008,8 @@
       "internalName": "Snowcloak",
       "kept": "ElfShelf",
       "dropped": "Snowcloak",
-      "keptVersion": "5.0.0.1",
-      "droppedVersion": "5.0.0.1"
+      "keptVersion": "5.0.1.0",
+      "droppedVersion": "5.0.1.0"
     },
     {
       "internalName": "BigMac",
@@ -6506,7 +6506,7 @@
       "kept": "erdelf",
       "dropped": "dexcss / DalamudPlugins",
       "keptVersion": "0.0.0.42",
-      "droppedVersion": "1.9.0.0"
+      "droppedVersion": "1.10.0.0"
     },
     {
       "internalName": "HOutfits",
