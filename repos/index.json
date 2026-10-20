@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-19T20:34:54.800Z",
-  "contentHash": "90ee99a9b943f817",
+  "generatedAt": "2026-10-20T00:19:17.645Z",
+  "contentHash": "78019cc928dabbc5",
   "totalPlugins": 617,
   "masterPlugins": 611,
   "currentApiLevel": 15,
@@ -2452,7 +2452,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "44451516 / ffxiv_bossmod",
-      "keptVersion": "7.5.7.2",
+      "keptVersion": "7.5.7.3",
       "droppedVersion": "7.5.5.8"
     },
     {
@@ -2508,7 +2508,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "awgil plugin distribution",
-      "keptVersion": "7.5.7.2",
+      "keptVersion": "7.5.7.3",
       "droppedVersion": "0.0.0.122"
     },
     {
@@ -2564,8 +2564,8 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
-      "keptVersion": "7.5.7.2",
-      "droppedVersion": "7.5.7.2"
+      "keptVersion": "7.5.7.3",
+      "droppedVersion": "7.5.7.3"
     },
     {
       "internalName": "Brio",
@@ -2621,7 +2621,7 @@
       "kept": "NightmareXIV",
       "dropped": "bees-repo",
       "keptVersion": "2.6.0.8",
-      "droppedVersion": "2.6.0.7"
+      "droppedVersion": "2.6.0.8"
     },
     {
       "internalName": "Marketbuddy",
@@ -2837,7 +2837,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "7.5.7.2",
+      "keptVersion": "7.5.7.3",
       "droppedVersion": "0.0.0.77"
     },
     {
@@ -3611,18 +3611,18 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "6.0.2.7",
       "droppedVersion": "6.0.2.7"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "Questionable",
@@ -3653,20 +3653,6 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.21"
-    },
-    {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.5",
-      "droppedVersion": "2.1.2.5"
-    },
-    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3679,6 +3665,20 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.0.0.8",
       "droppedVersion": "0.0.0.8"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.21",
+      "droppedVersion": "4.0.5.21"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.5",
+      "droppedVersion": "2.1.2.5"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3936,8 +3936,8 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.7.2",
-      "droppedVersion": "7.5.7.2"
+      "keptVersion": "7.5.7.3",
+      "droppedVersion": "7.5.7.3"
     },
     {
       "internalName": "vfallguy",
@@ -4566,7 +4566,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.7.2",
+      "keptVersion": "7.5.7.3",
       "droppedVersion": "7.5.7.2"
     },
     {
@@ -5420,7 +5420,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.7.2",
+      "keptVersion": "7.5.7.3",
       "droppedVersion": "0.0.0.281"
     },
     {
