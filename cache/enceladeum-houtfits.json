@@ -1,7 +1,7 @@
 {
   "sourceId": "enceladeum-houtfits",
   "url": "https://raw.githubusercontent.com/Enceladeum/HOutfits/main/repo.json",
-  "fetchedAt": "2026-10-05",
+  "fetchedAt": "2026-10-20",
   "count": 1,
   "plugins": [
     {
@@ -10,7 +10,7 @@
       "InternalName": "HOutfits",
       "Punchline": "Apply full sets, loose pieces, facewear and weapons to your character in Glamourer with a single click.",
       "Description": "Browse the game's named sets, sets recovered by item name, every other wearable piece, facewear and weapons, with large icon previews on hover, and apply a whole set or any single piece to your character through Glamourer, instead of picking each item from a dropdown.",
-      "Changelog": "0.5.0: new Weapons tab. Browse every weapon by class or job in the same icon grid as Loose gear, with a large preview on hover, and Main hand / Off hand for shields and a crafter's second tool. Your current class is always the first chip. The other classes are greyed out and preview only, because Glamourer applies just the weapons of the class you are on, except in GPose, where every class is available.",
+      "Changelog": "1.0.0: HOutfits is out of beta. The Loose gear tab can now include set pieces (new Include set items option), so one list and one search per slot cover set and loose gear together, and a new Large icons tickbox in the header doubles the grid icons and the hover preview on the Loose gear and Weapons tabs.",
       "Tags": [
         "glamour",
         "glamourer",
@@ -27,7 +27,7 @@
       "IsTestingExclusive": false,
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/Enceladeum/HOutfits",
-      "AssemblyVersion": "0.5.0.0",
+      "AssemblyVersion": "1.0.0.0",
       "DalamudApiLevel": 15,
       "LoadRequiredState": 0,
       "LoadSync": false,
@@ -35,7 +35,7 @@
       "LoadPriority": 0,
       "AcceptsFeedback": true,
       "DownloadCount": 0,
-      "LastUpdate": 1791205875,
+      "LastUpdate": 1792538962,
       "DownloadLinkInstall": "https://github.com/Enceladeum/HOutfits/releases/latest/download/latest.zip",
       "DownloadLinkUpdate": "https://github.com/Enceladeum/HOutfits/releases/latest/download/latest.zip",
       "DownloadLinkTesting": "https://github.com/Enceladeum/HOutfits/releases/latest/download/latest.zip",
