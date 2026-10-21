@@ -1,7 +1,7 @@
 {
   "sourceId": "dexcss-dalamudplugins",
   "url": "https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json",
-  "fetchedAt": "2026-10-20",
+  "fetchedAt": "2026-10-21",
   "count": 8,
   "plugins": [
     {
@@ -208,8 +208,8 @@
       "Author": "Akari",
       "Name": "Private Roulette",
       "InternalName": "PrivateRoulette",
-      "AssemblyVersion": "0.8.0.0",
-      "TestingAssemblyVersion": "0.8.0.0",
+      "AssemblyVersion": "0.8.1.0",
+      "TestingAssemblyVersion": "0.8.1.0",
       "Description": "Personal dealer-hosted gil roulette: provably-fair control spins, live web players, chat announcements and a dealer console worth watching. Whitelisted to authorized dealers only.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/dexcss/PrivateRoulette",
