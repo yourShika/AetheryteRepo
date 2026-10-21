@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-21T17:11:04.787Z",
-  "contentHash": "055b2dd40d2b5002",
+  "generatedAt": "2026-10-21T21:41:53.014Z",
+  "contentHash": "ab81a4ff03fe89ca",
   "totalPlugins": 618,
   "masterPlugins": 612,
   "currentApiLevel": 15,
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 130,
+      "count": 131,
       "file": "repos/automation.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 19,
+      "count": 18,
       "file": "repos/misc.json"
     }
   ],
@@ -2452,7 +2452,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "44451516 / ffxiv_bossmod",
-      "keptVersion": "7.5.7.3",
+      "keptVersion": "7.5.7.4",
       "droppedVersion": "7.5.5.8"
     },
     {
@@ -2508,7 +2508,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "awgil plugin distribution",
-      "keptVersion": "7.5.7.3",
+      "keptVersion": "7.5.7.4",
       "droppedVersion": "0.0.0.122"
     },
     {
@@ -2564,7 +2564,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
-      "keptVersion": "7.5.7.3",
+      "keptVersion": "7.5.7.4",
       "droppedVersion": "7.5.7.3"
     },
     {
@@ -2837,7 +2837,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "7.5.7.3",
+      "keptVersion": "7.5.7.4",
       "droppedVersion": "0.0.0.77"
     },
     {
@@ -3653,6 +3653,13 @@
       "droppedVersion": "1.0.4.27"
     },
     {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.21",
+      "droppedVersion": "4.0.5.21"
+    },
+    {
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3672,13 +3679,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.32",
       "droppedVersion": "3.9.2.32"
-    },
-    {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.21"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3936,8 +3936,8 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.7.3",
-      "droppedVersion": "7.5.7.3"
+      "keptVersion": "7.5.7.4",
+      "droppedVersion": "7.5.7.4"
     },
     {
       "internalName": "vfallguy",
@@ -3964,8 +3964,8 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.7.5",
-      "droppedVersion": "7.5.7.5"
+      "keptVersion": "7.5.7.6",
+      "droppedVersion": "7.5.7.6"
     },
     {
       "internalName": "BossModReborn",
@@ -4566,7 +4566,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.7.3",
+      "keptVersion": "7.5.7.4",
       "droppedVersion": "7.5.7.3"
     },
     {
@@ -4923,7 +4923,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.7.5",
+      "keptVersion": "7.5.7.6",
       "droppedVersion": "7.5.7.4"
     },
     {
@@ -5420,7 +5420,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.7.3",
+      "keptVersion": "7.5.7.4",
       "droppedVersion": "0.0.0.281"
     },
     {
@@ -5714,7 +5714,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.7.5",
+      "keptVersion": "7.5.7.6",
       "droppedVersion": "7.1.5.38"
     },
     {
@@ -6008,8 +6008,8 @@
       "internalName": "Snowcloak",
       "kept": "ElfShelf",
       "dropped": "Snowcloak",
-      "keptVersion": "5.0.1.0",
-      "droppedVersion": "5.0.1.0"
+      "keptVersion": "5.0.2.0",
+      "droppedVersion": "5.0.2.0"
     },
     {
       "internalName": "BigMac",
@@ -6519,7 +6519,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.7.5",
+      "keptVersion": "7.5.7.6",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -6652,7 +6652,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "7.5.7.5",
+      "keptVersion": "7.5.7.6",
       "droppedVersion": "7.2.5.122"
     },
     {
@@ -7028,9 +7028,9 @@
     },
     {
       "internalName": "AethertekPluginManager",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.5",
+      "kept": "xa-io / MyDalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "0.0.0.6",
       "droppedVersion": "0.0.0.5"
     },
     {
