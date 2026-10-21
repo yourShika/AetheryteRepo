@@ -2,7 +2,7 @@
   "sourceId": "dexcss-dalamudplugins",
   "url": "https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json",
   "fetchedAt": "2026-10-21",
-  "count": 8,
+  "count": 9,
   "plugins": [
     {
       "Author": "Akari",
@@ -259,6 +259,39 @@
       ],
       "AcceptsFeedback": true,
       "Changelog": "v1.2.0.0: Full audit. Gear-set protection — pieces registered to a saved gear set are now left in your bags (the same check the game uses for its gear-set icon mark), instead of being pulled out of your gear sets. Smarter duplicates — stored outfit glamours are expanded into their pieces, so a second copy of an already-stored piece is flagged as sellable instead of being re-stored. The dresser's expanded item list is scanned, and a never-fill guard skips window slots the game already marks as part of the stored outfit. New model-duplicate hints show when a planned piece shares its appearance with something already stored. Deposit verification now retries briefly instead of failing on a single read. UI: version in the title, live progress tally while storing, MANUAL tag priority, gear-set and model-duplicate sections. Removed diagnostic logging. v1.1.1.0: The Store as Outfit Glamour checkbox dialog is now automated (synthetic checkbox click + default-confirm callback); all sets route to the dresser. v1.1.0.0: Armoire routing added.",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "dexcss-dalamudplugins",
+      "_SourceName": "dexcss / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json"
+    },
+    {
+      "Author": "Akari",
+      "Name": "Housing Unlocked",
+      "Punchline": "See every snap before it happens.",
+      "Description": "Housing placement toolkit for FFXIV. Know before you place: floor-snap warnings from the engine's own collision data, item-to-item snap warnings from each item's SphereCastRange block, wall-snap warnings against false-wall furniture, and table-snap warnings from TableTop collision surfaces. Full position/rotation control on top, inherited from BDTH by LeonBlade. Open with /hu. ⚠ Under active testing — not a fully working product yet; features may be incomplete or behave unexpectedly.",
+      "InternalName": "HousingUnlocked",
+      "AssemblyVersion": "1.3.0.0",
+      "TestingAssemblyVersion": "1.3.0.0",
+      "RepoUrl": "https://github.com/dexcss/HousingUnlocked",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "Tags": [
+        "housing",
+        "furnishing",
+        "snap",
+        "place",
+        "float",
+        "table",
+        "wall"
+      ],
+      "CategoryTags": [
+        "Utility"
+      ],
+      "IconUrl": "https://raw.githubusercontent.com/dexcss/HousingUnlocked/main/images/icon.png",
+      "DownloadLinkInstall": "https://github.com/dexcss/HousingUnlocked/releases/latest/download/HousingUnlocked.zip",
+      "DownloadLinkTesting": "https://github.com/dexcss/HousingUnlocked/releases/latest/download/HousingUnlocked.zip",
+      "DownloadLinkUpdate": "https://github.com/dexcss/HousingUnlocked/releases/latest/download/HousingUnlocked.zip",
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "dexcss-dalamudplugins",

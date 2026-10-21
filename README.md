@@ -43,8 +43,8 @@ beliebig mit anderen kombinieren — die Tabelle wird bei jedem Lauf automatisch
 
 | Feed | Inhalt | Plugins | URL |
 |---|---|---:|---|
-| ⭐ **Master** | Alles außer 18+ | 611 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master.json` |
-| 🌐 **Master inkl. 18+** | Wirklich alles | 617 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master-full.json` |
+| ⭐ **Master** | Alles außer 18+ | 612 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master.json` |
+| 🌐 **Master inkl. 18+** | Wirklich alles | 618 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master-full.json` |
 | 👗 Glamour & Charakter | Mods, Aussehen, Posing, Sync | 99 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/glamour.json` |
 | ⚔️ Kampf & Rotation | Rotationen, Boss-Timeline, Combos, PvP | 73 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/combat.json` |
 | 🤖 Automatisierung | AutoDuty, Navmesh, Retainer, Questing, Farming | 132 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/automation.json` |
@@ -52,7 +52,7 @@ beliebig mit anderen kombinieren — die Tabelle wird bei jedem Lauf automatisch
 | ✨ Quality of Life & UI | Tweaks, Interface, Chat, Inventar, Karten | 153 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/qol.json` |
 | 🎭 Social & Roleplay | RP-Profile, Emotes, Free Company, Discord | 52 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/social.json` |
 | 🔞 Adult (18+) | Nur fuer Erwachsene – standardmaessig NICHT im Master | 6 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/nsfw.json` |
-| 🏡 Housing & Deko | Moebel, Layouts, Grundstuecke | 18 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/housing.json` |
+| 🏡 Housing & Deko | Moebel, Layouts, Grundstuecke | 19 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/housing.json` |
 | 🔊 Audio & Voice | Voicechat, TTS, Musik, Sound | 19 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/audio.json` |
 | 🛠️ Developer & Data | Debugging, Datenexplorer, Editoren | 21 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/dev.json` |
 | 📦 Sonstiges | Alles ohne klare Zuordnung | 17 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/misc.json` |
