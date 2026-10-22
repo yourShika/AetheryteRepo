@@ -1,7 +1,7 @@
 {
   "sourceId": "atmoomen-dalamudplugins",
   "url": "https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json",
-  "fetchedAt": "2026-10-19",
+  "fetchedAt": "2026-10-22",
   "count": 13,
   "plugins": [
     {
@@ -205,15 +205,15 @@
     {
       "Name": "HaselDebug",
       "InternalName": "HaselDebug",
-      "AssemblyVersion": "1.75.4.0",
+      "AssemblyVersion": "1.75.5.0",
       "Author": "Haselnussbomber",
       "Punchline": "多功能开发用工具箱",
       "ApplicableVersion": "any",
       "AcceptsFeedback": true,
       "DalamudApiLevel": 15,
       "RepoUrl": "https://github.com/AtmoOmen/HaselDebug",
-      "DownloadLinkInstall": "https://github.com/AtmoOmen/HaselDebug/releases/download/1.75.4/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/AtmoOmen/HaselDebug/releases/download/1.75.4/latest.zip",
+      "DownloadLinkInstall": "https://github.com/AtmoOmen/HaselDebug/releases/download/1.75.5/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/AtmoOmen/HaselDebug/releases/download/1.75.5/latest.zip",
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "atmoomen-dalamudplugins",
@@ -287,7 +287,7 @@
     {
       "Name": "EdgeTTS.Dalamud",
       "InternalName": "EdgeTTS.Dalamud",
-      "AssemblyVersion": "1.0.5.0",
+      "AssemblyVersion": "1.0.6.0",
       "Author": "AtmoOmen",
       "Punchline": "提供自然语言合成文本转语音服务。",
       "Description": "依托微软 Azure 自然语音合成提供更加强大、流畅的文本转语音服务。",
@@ -296,8 +296,8 @@
       "DalamudApiLevel": 15,
       "RepoUrl": "https://github.com/AtmoOmen/EdgeTTS.Dalamud",
       "IconUrl": "https://gh.atmoomen.top/raw.githubusercontent.com/AtmoOmen/EdgeTTS.Dalamud/main/EdgeTTS.Dalamud/Assets/icon.png",
-      "DownloadLinkInstall": "https://github.com/AtmoOmen/EdgeTTS.Dalamud/releases/download/1.0.5.0/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/AtmoOmen/EdgeTTS.Dalamud/releases/download/1.0.5.0/latest.zip",
+      "DownloadLinkInstall": "https://github.com/AtmoOmen/EdgeTTS.Dalamud/releases/download/1.0.6.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/AtmoOmen/EdgeTTS.Dalamud/releases/download/1.0.6.0/latest.zip",
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "atmoomen-dalamudplugins",
