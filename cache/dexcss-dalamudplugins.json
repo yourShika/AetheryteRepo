@@ -1,7 +1,7 @@
 {
   "sourceId": "dexcss-dalamudplugins",
   "url": "https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json",
-  "fetchedAt": "2026-10-21",
+  "fetchedAt": "2026-10-22",
   "count": 9,
   "plugins": [
     {
@@ -271,8 +271,8 @@
       "Punchline": "See every snap before it happens.",
       "Description": "Housing placement toolkit for FFXIV. Know before you place: floor-snap warnings from the engine's own collision data, item-to-item snap warnings from each item's SphereCastRange block, wall-snap warnings against false-wall furniture, and table-snap warnings from TableTop collision surfaces. Full position/rotation control on top, inherited from BDTH by LeonBlade. Open with /hu. ⚠ Under active testing — not a fully working product yet; features may be incomplete or behave unexpectedly.",
       "InternalName": "HousingUnlocked",
-      "AssemblyVersion": "1.5.0.0",
-      "TestingAssemblyVersion": "1.5.0.0",
+      "AssemblyVersion": "1.6.0.0",
+      "TestingAssemblyVersion": "1.6.0.0",
       "RepoUrl": "https://github.com/dexcss/HousingUnlocked",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
