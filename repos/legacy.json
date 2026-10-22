@@ -1088,6 +1088,42 @@
     "_Category": "nsfw"
   },
   {
+    "Author": "NostraThomas",
+    "Name": "BuyHard",
+    "InternalName": "BuyHelper",
+    "Description": "Helps you buy items in bulk",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "TestingDalamudApiLevel": 12,
+    "Tags": [
+      "market",
+      "purchase",
+      "vendor",
+      "item"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/NostraThomas99/BuyHelper/master/logo.png",
+    "Punchline": "It ain't no lie, baby: buy, buy, buy...",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Recursive-Entity-Matrix/BuyHelper/releases/download/1.0.0.0/BuyHelper.zip",
+    "AssemblyVersion": "1.0.0.0",
+    "DownloadLinkUpdate": "https://github.com/Recursive-Entity-Matrix/BuyHelper/releases/download/1.0.0.0/BuyHelper.zip",
+    "Changelog": "Initial Release",
+    "DownloadCount": 65,
+    "IsHide": false,
+    "_SourceId": "recursive-entity-matrix-nostraplugins",
+    "_SourceName": "Recursive-Entity-Matrix / NostraPlugins",
+    "_SourceUrl": "https://raw.githubusercontent.com/Recursive-Entity-Matrix/NostraPlugins/main/pluginmaster.json",
+    "_Category": "crafting"
+  },
+  {
     "Author": "CatboyEngineering",
     "Name": "Bzzt",
     "Punchline": "Create reactions and make your toys go Bzzt!",

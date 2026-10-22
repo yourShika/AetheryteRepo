@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-22T17:09:23.493Z",
-  "contentHash": "4290216362adf9d1",
-  "totalPlugins": 617,
-  "masterPlugins": 611,
+  "generatedAt": "2026-10-22T21:34:37.624Z",
+  "contentHash": "3c51d7384fb78f9a",
+  "totalPlugins": 618,
+  "masterPlugins": 612,
   "currentApiLevel": 15,
   "minApiLevel": 13,
-  "legacyPlugins": 351,
+  "legacyPlugins": 352,
   "sources": [
     {
       "id": "penumbra",
@@ -2204,7 +2204,7 @@
       "name": "Recursive-Entity-Matrix / NostraPlugins",
       "url": "https://raw.githubusercontent.com/Recursive-Entity-Matrix/NostraPlugins/main/pluginmaster.json",
       "status": "ok",
-      "count": 1,
+      "count": 3,
       "note": null
     },
     {
@@ -2300,7 +2300,7 @@
       "name": "xa-io / MyDalamudPlugins",
       "url": "https://raw.githubusercontent.com/xa-io/MyDalamudPlugins/master/pluginmaster.json",
       "status": "ok",
-      "count": 5,
+      "count": 4,
       "note": null
     },
     {
@@ -2366,7 +2366,7 @@
       "name": "Crafting & Gathering",
       "emoji": "⚒️",
       "description": "Handwerk, Sammeln, Marktbrett",
-      "count": 26,
+      "count": 27,
       "file": "repos/crafting.json"
     },
     {
@@ -2550,7 +2550,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "6.0.2.8",
+      "keptVersion": "6.0.2.9",
       "droppedVersion": "6.0.2.8"
     },
     {
@@ -2802,7 +2802,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "6.0.2.8",
+      "keptVersion": "6.0.2.9",
       "droppedVersion": "2.3.0.3"
     },
     {
@@ -3583,18 +3583,18 @@
       "droppedVersion": "1.1.0.2"
     },
     {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.2.14",
-      "droppedVersion": "4.6.2.14"
-    },
-    {
       "internalName": "Orbwalker",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.1.10",
       "droppedVersion": "1.0.1.10"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.2.14",
+      "droppedVersion": "4.6.2.14"
     },
     {
       "internalName": "PandorasBox",
@@ -3611,32 +3611,18 @@
       "droppedVersion": "2.2.0.13"
     },
     {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.2.9",
+      "droppedVersion": "6.0.2.9"
+    },
+    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "5.3.3.3",
       "droppedVersion": "5.3.3.3"
-    },
-    {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.2.8",
-      "droppedVersion": "6.0.2.8"
-    },
-    {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.53",
-      "droppedVersion": "15.756.3.53"
     },
     {
       "internalName": "YesAlready",
@@ -3646,11 +3632,32 @@
       "droppedVersion": "1.15.7.4"
     },
     {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.3.53",
+      "droppedVersion": "15.756.3.53"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.21",
+      "droppedVersion": "4.0.5.21"
     },
     {
       "internalName": "Palantir",
@@ -3665,13 +3672,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.5",
       "droppedVersion": "2.1.2.5"
-    },
-    {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.21"
     },
     {
       "internalName": "Splatoon",
@@ -4041,8 +4041,8 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "69.221",
-      "droppedVersion": "69.221"
+      "keptVersion": "69.222",
+      "droppedVersion": "69.222"
     },
     {
       "internalName": "GlamourLog",
@@ -4461,7 +4461,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "6.0.2.8",
+      "keptVersion": "6.0.2.9",
       "droppedVersion": "6.0.2.8"
     },
     {
@@ -5392,7 +5392,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "6.0.2.8",
+      "keptVersion": "6.0.2.9",
       "droppedVersion": "4.3.1.10"
     },
     {
@@ -5448,7 +5448,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "69.221",
+      "keptVersion": "69.222",
       "droppedVersion": "69.55"
     },
     {
@@ -6281,7 +6281,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "6.0.2.8",
+      "keptVersion": "6.0.2.9",
       "droppedVersion": "6.0.0.12"
     },
     {
@@ -6680,7 +6680,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "6.0.2.8",
+      "keptVersion": "6.0.2.9",
       "droppedVersion": "4.3.4.1"
     },
     {
@@ -6771,7 +6771,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "6.0.2.8",
+      "keptVersion": "6.0.2.9",
       "droppedVersion": "6.0.0.68"
     },
     {
@@ -6820,7 +6820,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / OLDBAI",
-      "keptVersion": "6.0.2.8",
+      "keptVersion": "6.0.2.9",
       "droppedVersion": "6.0.0.46"
     },
     {
@@ -7039,13 +7039,6 @@
       "dropped": "xa-io / MyDalamudPlugins",
       "keptVersion": "0.0.0.47",
       "droppedVersion": "0.0.0.47"
-    },
-    {
-      "internalName": "XASlave",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.54",
-      "droppedVersion": "0.0.0.54"
     },
     {
       "internalName": "XAHudNavigator",
