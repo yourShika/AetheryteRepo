@@ -1,7 +1,7 @@
 {
   "sourceId": "ffxiv-sonar-sonarrepo",
   "url": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/pluginmaster.json",
-  "fetchedAt": "2026-10-14",
+  "fetchedAt": "2026-10-23",
   "count": 3,
   "plugins": [
     {
@@ -10,7 +10,7 @@
       "Punchline": "",
       "Description": "",
       "InternalName": "SonarDiagnostics",
-      "AssemblyVersion": "15.757.0.0",
+      "AssemblyVersion": "15.757.0.1",
       "ApplicableVersion": "any",
       "Tags": [],
       "DalamudApiLevel": 15,
@@ -21,7 +21,7 @@
       "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
       "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarDiagnostics/latest.zip",
       "DownloadCount": 0,
-      "LastUpdate": "1791950846",
+      "LastUpdate": "1792759581",
       "_SourceId": "ffxiv-sonar-sonarrepo",
       "_SourceName": "FFXIV-Sonar / SonarRepo",
       "_SourceUrl": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/pluginmaster.json"
@@ -33,7 +33,7 @@
       "Description": "Automatically send and receive hunt and fate relays. /sonar to open, /sonarconfig to configure. Support is only provided in the Sonar Support discord.",
       "Changelog": "See https://news.ffxivsonar.com for more information",
       "InternalName": "SonarPlugin-preview",
-      "AssemblyVersion": "15.757.0.0",
+      "AssemblyVersion": "15.757.0.1",
       "RepoUrl": "https://discord.gg/K7y24Rr",
       "ApplicableVersion": "any",
       "Tags": [
@@ -63,7 +63,7 @@
       "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
       "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview/latest.zip",
       "DownloadCount": 0,
-      "LastUpdate": "1791950846",
+      "LastUpdate": "1792759581",
       "_SourceId": "ffxiv-sonar-sonarrepo",
       "_SourceName": "FFXIV-Sonar / SonarRepo",
       "_SourceUrl": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/pluginmaster.json"
@@ -105,7 +105,7 @@
       "DownloadLinkTesting": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview-kr/latest.zip",
       "DownloadLinkUpdate": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/plugins/SonarPlugin-preview-kr/latest.zip",
       "DownloadCount": 0,
-      "LastUpdate": "1791950846",
+      "LastUpdate": "1792759581",
       "_SourceId": "ffxiv-sonar-sonarrepo",
       "_SourceName": "FFXIV-Sonar / SonarRepo",
       "_SourceUrl": "https://raw.githubusercontent.com/FFXIV-Sonar/SonarRepo/main/pluginmaster.json"
