@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-23T17:05:42.941Z",
-  "contentHash": "99d0800262c1b46d",
+  "generatedAt": "2026-10-23T21:23:22.767Z",
+  "contentHash": "4c6c77605283115d",
   "totalPlugins": 618,
   "masterPlugins": 612,
   "currentApiLevel": 15,
@@ -3625,11 +3625,11 @@
       "droppedVersion": "6.0.2.10"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "15.756.3.55",
+      "droppedVersion": "15.756.3.55"
     },
     {
       "internalName": "YesAlready",
@@ -3639,11 +3639,11 @@
       "droppedVersion": "1.15.7.4"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.55",
-      "droppedVersion": "15.756.3.55"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "WrathCombo",
@@ -3653,18 +3653,18 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.21"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.5",
       "droppedVersion": "2.1.2.5"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.32",
+      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "Palantir",
@@ -3674,11 +3674,11 @@
       "droppedVersion": "0.0.0.8"
     },
     {
-      "internalName": "Splatoon",
+      "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.32",
-      "droppedVersion": "3.9.2.32"
+      "keptVersion": "4.0.5.21",
+      "droppedVersion": "4.0.5.21"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -5971,9 +5971,9 @@
     },
     {
       "internalName": "ProjectGagSpeak",
-      "kept": "MEGA Repository",
-      "dropped": "Project GagSpeak",
-      "keptVersion": "2.2.3.0",
+      "kept": "Project GagSpeak",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.4.0",
       "droppedVersion": "2.2.3.0"
     },
     {
@@ -7044,7 +7044,7 @@
       "internalName": "XASlave",
       "kept": "xa-io / MyDalamudPlugins",
       "dropped": "McVaxius / TheDumpsterFire",
-      "keptVersion": "0.0.0.56",
+      "keptVersion": "0.0.0.57",
       "droppedVersion": "0.0.0.55"
     },
     {
