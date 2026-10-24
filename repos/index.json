@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-24T10:58:01.893Z",
-  "contentHash": "f456ccd7d27fe6e9",
-  "totalPlugins": 619,
-  "masterPlugins": 613,
+  "generatedAt": "2026-10-24T15:56:17.625Z",
+  "contentHash": "c59cb28ee18aa9d2",
+  "totalPlugins": 618,
+  "masterPlugins": 612,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -2100,7 +2100,7 @@
       "name": "McVaxius / TheDumpsterFire",
       "url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
       "status": "ok",
-      "count": 29,
+      "count": 20,
       "note": null
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 129,
+      "count": 131,
       "file": "repos/automation.json"
     },
     {
@@ -2382,7 +2382,7 @@
       "name": "Social & Roleplay",
       "emoji": "🎭",
       "description": "RP-Profile, Emotes, Free Company, Discord",
-      "count": 52,
+      "count": 51,
       "file": "repos/social.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 19,
+      "count": 17,
       "file": "repos/misc.json"
     }
   ],
@@ -3611,18 +3611,18 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "6.0.2.10",
       "droppedVersion": "6.0.2.10"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "Questionable",
@@ -3632,13 +3632,6 @@
       "droppedVersion": "15.756.3.55"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.4",
-      "droppedVersion": "1.15.7.4"
-    },
-    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
@@ -3646,11 +3639,25 @@
       "droppedVersion": "0.2.4.2"
     },
     {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.4",
+      "droppedVersion": "1.15.7.4"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.21",
+      "droppedVersion": "4.0.5.21"
     },
     {
       "internalName": "Palantir",
@@ -3665,13 +3672,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.32",
       "droppedVersion": "3.9.2.32"
-    },
-    {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.21"
     },
     {
       "internalName": "Saucy",
@@ -4244,8 +4244,8 @@
       "internalName": "TimeMemoriaV3",
       "kept": "LegendsOfTheGame / TimeMemoriaV3",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.8.0.15",
-      "droppedVersion": "3.8.0.15"
+      "keptVersion": "3.9.0.15",
+      "droppedVersion": "3.9.0.15"
     },
     {
       "internalName": "PvpAutoLb",
@@ -4279,8 +4279,8 @@
       "internalName": "AutoPvpSeriesGrind",
       "kept": "XeldarAlz",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.12.0.0",
-      "droppedVersion": "2.12.0.0"
+      "keptVersion": "2.13.1.0",
+      "droppedVersion": "2.13.1.0"
     },
     {
       "internalName": "Aetherphone",
@@ -4804,7 +4804,7 @@
       "internalName": "AutoPvpSeriesGrind",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.12.0.0",
+      "keptVersion": "2.13.1.0",
       "droppedVersion": "2.12.0.0"
     },
     {
@@ -7062,13 +7062,6 @@
       "droppedVersion": "2.10.3.0"
     },
     {
-      "internalName": "Influx",
-      "kept": "MEGA Repository",
-      "dropped": "McVaxius / TheDumpsterFire",
-      "keptVersion": "4.2",
-      "droppedVersion": "7.5.4"
-    },
-    {
       "internalName": "vnavmesh",
       "kept": "Veyn (BossMod)",
       "dropped": "nihil-string / puppys-plugins",
@@ -7356,13 +7349,6 @@
       "droppedVersion": "1.7.1.3"
     },
     {
-      "internalName": "WigglyQuest",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "7.5.30",
-      "droppedVersion": "7.5.30"
-    },
-    {
       "internalName": "Influx",
       "kept": "MEGA Repository",
       "dropped": "WigglyCorp / DalamudPlugins",
@@ -7370,53 +7356,11 @@
       "droppedVersion": "7.5.4"
     },
     {
-      "internalName": "QSTCompanion",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "1.1.31.0",
-      "droppedVersion": "1.1.31.0"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
       "keptVersion": "15.756.3.55",
       "droppedVersion": "99.0.0.0"
-    },
-    {
-      "internalName": "AethertekPluginManager",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.6",
-      "droppedVersion": "0.0.0.6"
-    },
-    {
-      "internalName": "XADatabase",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.47",
-      "droppedVersion": "0.0.0.47"
-    },
-    {
-      "internalName": "XASlave",
-      "kept": "xa-io / MyDalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
-      "keptVersion": "0.0.0.57",
-      "droppedVersion": "0.0.0.55"
-    },
-    {
-      "internalName": "XAHudNavigator",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.10",
-      "droppedVersion": "0.0.0.10"
-    },
-    {
-      "internalName": "XAZod",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.6",
-      "droppedVersion": "0.0.0.6"
     },
     {
       "internalName": "ICE",

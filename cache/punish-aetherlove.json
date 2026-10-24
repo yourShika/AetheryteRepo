@@ -1,12 +1,12 @@
 {
   "sourceId": "punish-aetherlove",
   "url": "https://puni.sh/api/repository/aetherlove",
-  "fetchedAt": "2026-09-18",
+  "fetchedAt": "2026-10-24",
   "count": 1,
   "plugins": [
     {
       "Author": "Astraea, nihal_shadescale",
-      "Name": "AetherLove - AetherOS",
+      "Name": "AetherOS",
       "Punchline": "Your phone, your OS, matchmaking and more",
       "Description": "FFXIV in-game dating and matchmaking — swipe, match, and chat with other adventurers. /aos opens the phone.",
       "Tags": [
@@ -17,11 +17,11 @@
       ],
       "InternalName": "AetherLovePlugin",
       "RepoUrl": "https://github.com/FFXIV-Aetherlove/Aetherlove",
-      "DownloadCount": 138156,
-      "LastUpdate": 1789751350,
-      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/154/AetherLovePlugin/versions/2.7.2.0/install/latest.zip",
-      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/154/AetherLovePlugin/versions/2.7.2.0/update/latest.zip",
-      "AssemblyVersion": "2.7.2.0",
+      "DownloadCount": 143812,
+      "LastUpdate": 1792844912,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/154/AetherLovePlugin/versions/2.8.0.0/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/154/AetherLovePlugin/versions/2.8.0.0/update/latest.zip",
+      "AssemblyVersion": "2.8.0.0",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "Changelog": "",
