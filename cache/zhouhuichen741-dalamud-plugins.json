@@ -1,7 +1,7 @@
 {
   "sourceId": "zhouhuichen741-dalamud-plugins",
   "url": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
-  "fetchedAt": "2026-10-23",
+  "fetchedAt": "2026-10-24",
   "count": 21,
   "plugins": [
     {
@@ -396,7 +396,7 @@
       "Name": "AoAoEnergy",
       "Punchline": "将爆发药特效替换为嗷嗷有劲的RGB光效。",
       "InternalName": "AoAoEnergy",
-      "AssemblyVersion": "1.1.7.9",
+      "AssemblyVersion": "1.1.8.1",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "Description": "嗷嗷有劲",
