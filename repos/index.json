@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-24T20:47:58.521Z",
-  "contentHash": "b21245ed9d398230",
+  "generatedAt": "2026-10-24T23:12:44.048Z",
+  "contentHash": "2c7afa005c37cef7",
   "totalPlugins": 618,
   "masterPlugins": 612,
   "currentApiLevel": 15,
@@ -3611,18 +3611,18 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.2.10",
-      "droppedVersion": "6.0.2.10"
-    },
-    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "5.3.3.3",
       "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.2.10",
+      "droppedVersion": "6.0.2.10"
     },
     {
       "internalName": "Questionable",
@@ -3632,18 +3632,18 @@
       "droppedVersion": "15.756.3.55"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.4",
-      "droppedVersion": "1.15.7.4"
-    },
-    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.4",
+      "droppedVersion": "1.15.7.4"
     },
     {
       "internalName": "WrathCombo",
@@ -3660,18 +3660,18 @@
       "droppedVersion": "0.0.0.8"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.5",
-      "droppedVersion": "2.1.2.5"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.5",
+      "droppedVersion": "2.1.2.5"
     },
     {
       "internalName": "Splatoon",
@@ -5553,21 +5553,21 @@
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.18",
+      "keptVersion": "4.2.0.19",
       "droppedVersion": "3.3.4.0"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.18",
+      "keptVersion": "4.2.0.19",
       "droppedVersion": "0.69.1.12"
     },
     {
       "internalName": "BOCCHI",
       "kept": "OhKannaDuh",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.2.0.18",
+      "keptVersion": "4.2.0.19",
       "droppedVersion": "2.1.1.4"
     },
     {
