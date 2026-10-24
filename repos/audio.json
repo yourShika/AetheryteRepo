@@ -314,6 +314,9 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
     "SourceRepo": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/pluginmaster.json",
+    "AlternateSources": [
+      "https://raw.githubusercontent.com/NexusFFXIV/DalamudRepo/main/all-repo.json"
+    ],
     "_SourceId": "williamw1979-ffxiv",
     "_SourceName": "MEGA Repository",
     "_SourceUrl": "https://raw.githubusercontent.com/WilliamW1979/FFXIV/main/repository.json",
