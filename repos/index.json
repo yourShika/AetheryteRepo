@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T20:49:48.783Z",
-  "contentHash": "21754d442121a762",
+  "generatedAt": "2026-10-25T23:16:01.961Z",
+  "contentHash": "297be71125994399",
   "totalPlugins": 619,
   "masterPlugins": 613,
   "currentApiLevel": 15,
@@ -3625,13 +3625,6 @@
       "droppedVersion": "6.0.2.10"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3646,18 +3639,18 @@
       "droppedVersion": "1.15.7.4"
     },
     {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
-    },
-    {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.32",
-      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "Saucy",
@@ -3667,11 +3660,11 @@
       "droppedVersion": "2.1.2.5"
     },
     {
-      "internalName": "Artisan",
+      "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.21"
+      "keptVersion": "3.9.2.32",
+      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "Palantir",
@@ -3679,6 +3672,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.0.0.8",
       "droppedVersion": "0.0.0.8"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.21",
+      "droppedVersion": "4.0.5.21"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4286,8 +4286,8 @@
       "internalName": "Aetherphone",
       "kept": "XeldarAlz",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.3.3.0",
-      "droppedVersion": "1.3.3.0"
+      "keptVersion": "1.4.0.0",
+      "droppedVersion": "1.4.0.0"
     },
     {
       "internalName": "AutoHuntGrinder",
@@ -4720,7 +4720,7 @@
       "internalName": "Aetherphone",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.3.3.0",
+      "keptVersion": "1.4.0.0",
       "droppedVersion": "1.3.3.0"
     },
     {
