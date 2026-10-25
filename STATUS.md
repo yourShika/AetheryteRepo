@@ -1,6 +1,6 @@
 # Status
 
-Zuletzt aktualisiert: **2026-10-25 04:39 UTC**
+Zuletzt aktualisiert: **2026-10-25 11:26 UTC**
 
 - Plugins im Master-Feed: **612**
 - Plugins insgesamt (inkl. 18+): **618**
@@ -333,8 +333,8 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `BossModReborn` | CombatReborn `7.5.7.2` | 44451516-ff14 / BossmodRebornCN `7.5.7.2` |
 | `CustomizePlus` | Sea of Stars `2.2.1.3` | Aether Tools `2.2.1.3` |
 | `Armoire` | Armoire `0.1.1.3` | ElfShelf `0.0.171` |
-| `DailyRoutines` | AtmoOmen / DalamudPlugins `2.2.5.0` | AtmoOmen / DalamudPlugins `2.0.4.4` |
-| `DailyRoutines` | AtmoOmen / DalamudPlugins `2.2.5.0` | AtmoOmen / DalamudPlugins `1.9.3.3` |
+| `DailyRoutines` | AtmoOmen / DalamudPlugins `2.2.5.1` | AtmoOmen / DalamudPlugins `2.0.4.4` |
+| `DailyRoutines` | AtmoOmen / DalamudPlugins `2.2.5.1` | AtmoOmen / DalamudPlugins `1.9.3.3` |
 | `vnavmesh` | Veyn (BossMod) `1.2.3.14` | AtmoOmen / DalamudPlugins `0.8.6.0` |
 | `GatherBuddyReborn` | CombatReborn `7.5.6.1` | AtmoOmen / DalamudPlugins `7.5.0.5` |
 | `BossMod` | Veyn (BossMod) `7.5.7.4` | awgil plugin distribution `0.0.0.122` |
@@ -495,11 +495,11 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.6` | MEGA Repository `1.6.4.6` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.13` | MEGA Repository `2.2.0.13` |
-| `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
 | `AutoHook` | Puni.sh (Ment) `6.0.2.10` | MEGA Repository `6.0.2.10` |
-| `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
-| `YesAlready` | Puni.sh (Ment) `1.15.7.4` | MEGA Repository `1.15.7.4` |
+| `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
 | `Questionable` | Puni.sh (Ment) `15.756.3.55` | MEGA Repository `15.756.3.55` |
+| `YesAlready` | Puni.sh (Ment) `1.15.7.4` | MEGA Repository `1.15.7.4` |
+| `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.27` | MEGA Repository `1.0.4.27` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.5` | MEGA Repository `2.1.2.5` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.21` | MEGA Repository `4.0.5.21` |

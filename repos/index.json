@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T04:39:46.440Z",
-  "contentHash": "b58b345625aa308e",
+  "generatedAt": "2026-10-25T11:26:41.026Z",
+  "contentHash": "435e67e0cace3d5c",
   "totalPlugins": 618,
   "masterPlugins": 612,
   "currentApiLevel": 15,
@@ -2480,14 +2480,14 @@
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.2.5.0",
+      "keptVersion": "2.2.5.1",
       "droppedVersion": "2.0.4.4"
     },
     {
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.2.5.0",
+      "keptVersion": "2.2.5.1",
       "droppedVersion": "1.9.3.3"
     },
     {
@@ -3611,13 +3611,6 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,11 +3618,18 @@
       "droppedVersion": "6.0.2.10"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.3.55",
+      "droppedVersion": "15.756.3.55"
     },
     {
       "internalName": "YesAlready",
@@ -3639,11 +3639,11 @@
       "droppedVersion": "1.15.7.4"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.55",
-      "droppedVersion": "15.756.3.55"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "WrathCombo",
