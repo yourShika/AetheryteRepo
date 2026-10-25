@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T16:16:51.702Z",
-  "contentHash": "20e1892165f860f3",
+  "generatedAt": "2026-10-25T20:49:48.783Z",
+  "contentHash": "21754d442121a762",
   "totalPlugins": 619,
   "masterPlugins": 613,
   "currentApiLevel": 15,
@@ -2075,9 +2075,9 @@
       "id": "kirisamevanilla-github-io-ffxiv-dalamudrepo-json",
       "name": "KirisameVanilla / Radar",
       "url": "https://kirisamevanilla.github.io/ffxiv/dalamudrepo.json",
-      "status": "ok",
+      "status": "stale",
       "count": 7,
-      "note": null
+      "note": "HTTP 404 Not Found"
     },
     {
       "id": "laboon2501-dalamudplugins",
@@ -2565,7 +2565,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
       "keptVersion": "7.5.7.10",
-      "droppedVersion": "7.5.7.4"
+      "droppedVersion": "7.5.7.10"
     },
     {
       "internalName": "Brio",
@@ -3632,18 +3632,18 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.4",
-      "droppedVersion": "1.15.7.4"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "15.756.3.56",
       "droppedVersion": "15.756.3.56"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.4",
+      "droppedVersion": "1.15.7.4"
     },
     {
       "internalName": "WrathCombo",
@@ -3653,11 +3653,11 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Palantir",
+      "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.8",
-      "droppedVersion": "0.0.0.8"
+      "keptVersion": "3.9.2.32",
+      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "Saucy",
@@ -3674,11 +3674,11 @@
       "droppedVersion": "4.0.5.21"
     },
     {
-      "internalName": "Splatoon",
+      "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.32",
-      "droppedVersion": "3.9.2.32"
+      "keptVersion": "0.0.0.8",
+      "droppedVersion": "0.0.0.8"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -7392,9 +7392,9 @@
     },
     {
       "internalName": "XADatabase",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.47",
+      "kept": "xa-io / MyDalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "0.0.0.48",
       "droppedVersion": "0.0.0.47"
     },
     {

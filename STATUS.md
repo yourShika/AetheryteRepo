@@ -1,6 +1,6 @@
 # Status
 
-Zuletzt aktualisiert: **2026-10-25 16:16 UTC**
+Zuletzt aktualisiert: **2026-10-25 20:49 UTC**
 
 - Plugins im Master-Feed: **613**
 - Plugins insgesamt (inkl. 18+): **619**
@@ -270,7 +270,7 @@ Zuletzt aktualisiert: **2026-10-25 16:16 UTC**
 | ✅ | [Just-Chaldea / DalamudPluginRepo](https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/pluginmaster.json) | 3 | ok |
 | ✅ | [Karlin-Z / DalamudPlugins](https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/main/pluginmaster.json) | 3 | ok |
 | ✅ | [kirin-xiv / KirinPlugins](https://raw.githubusercontent.com/kirin-xiv/KirinPlugins/main/pluginmaster.json) | 3 | ok |
-| ✅ | [KirisameVanilla / Radar](https://kirisamevanilla.github.io/ffxiv/dalamudrepo.json) | 7 | ok |
+| ⚠️ | [KirisameVanilla / Radar](https://kirisamevanilla.github.io/ffxiv/dalamudrepo.json) | 7 | stale – `HTTP 404 Not Found` |
 | ✅ | [Laboon2501 / DalamudPlugins](https://raw.githubusercontent.com/Laboon2501/DalamudPlugins/main/repo.json) | 3 | ok |
 | ✅ | [Lzsony / dalamud-plugins-tw](https://raw.githubusercontent.com/Lzsony/dalamud-plugins-tw/main/repo.json) | 9 | ok |
 | ✅ | [McVaxius / TheDumpsterFire](https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json) | 29 | ok |
@@ -345,7 +345,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `AutoDuty` | erdelf `0.0.0.390` | bees-repo `0.0.0.390` |
 | `AutoHook` | Puni.sh (Ment) `6.0.2.10` | bees-repo `6.0.2.10` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.2.14` | bees-repo `4.6.2.14` |
-| `BossMod` | Veyn (BossMod) `7.5.7.10` | bees-repo `7.5.7.4` |
+| `BossMod` | Veyn (BossMod) `7.5.7.10` | bees-repo `7.5.7.10` |
 | `Brio` | Sea of Stars `0.8.0.12` | bees-repo `0.8.0.12` |
 | `CustomizePlus` | Sea of Stars `2.2.1.3` | bees-repo `2.2.1.3` |
 | `GatherBuddyReborn` | CombatReborn `7.5.6.1` | bees-repo `7.5.6.1` |
@@ -498,13 +498,13 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
 | `AutoHook` | Puni.sh (Ment) `6.0.2.10` | MEGA Repository `6.0.2.10` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
-| `YesAlready` | Puni.sh (Ment) `1.15.7.4` | MEGA Repository `1.15.7.4` |
 | `Questionable` | Puni.sh (Ment) `15.756.3.56` | MEGA Repository `15.756.3.56` |
+| `YesAlready` | Puni.sh (Ment) `1.15.7.4` | MEGA Repository `1.15.7.4` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.27` | MEGA Repository `1.0.4.27` |
-| `Palantir` | Puni.sh (Ment) `0.0.0.8` | MEGA Repository `0.0.0.8` |
+| `Splatoon` | Puni.sh (Ment) `3.9.2.32` | MEGA Repository `3.9.2.32` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.5` | MEGA Repository `2.1.2.5` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.21` | MEGA Repository `4.0.5.21` |
-| `Splatoon` | Puni.sh (Ment) `3.9.2.32` | MEGA Repository `3.9.2.32` |
+| `Palantir` | Puni.sh (Ment) `0.0.0.8` | MEGA Repository `0.0.0.8` |
 | `XIVComboExpanded` | daemitus MyDalamudPlugins `2.0.6.3` | MEGA Repository `2.0.6.3` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | MEGA Repository `1.3.1.4` |
 | `AutoPillion` | Aida-Enna XIVPlugins `1.0.0.5` | MEGA Repository `1.0.0.5` |
@@ -1035,7 +1035,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `QSTCompanion` | McVaxius / TheDumpsterFire `1.1.31.0` | WigglyCorp / DalamudPlugins `1.1.31.0` |
 | `Questionable` | Puni.sh (Ment) `15.756.3.56` | WigglyCorp / DalamudPlugins `99.0.0.0` |
 | `AethertekPluginManager` | McVaxius / TheDumpsterFire `0.0.0.6` | xa-io / MyDalamudPlugins `0.0.0.6` |
-| `XADatabase` | McVaxius / TheDumpsterFire `0.0.0.47` | xa-io / MyDalamudPlugins `0.0.0.47` |
+| `XADatabase` | xa-io / MyDalamudPlugins `0.0.0.48` | McVaxius / TheDumpsterFire `0.0.0.47` |
 | `XASlave` | xa-io / MyDalamudPlugins `0.0.0.58` | McVaxius / TheDumpsterFire `0.0.0.57` |
 | `XAHudNavigator` | xa-io / MyDalamudPlugins `0.0.0.11` | McVaxius / TheDumpsterFire `0.0.0.10` |
 | `XAZod` | McVaxius / TheDumpsterFire `0.0.0.6` | xa-io / MyDalamudPlugins `0.0.0.6` |
