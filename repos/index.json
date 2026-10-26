@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-26T13:00:32.553Z",
-  "contentHash": "af13f883e6870965",
-  "totalPlugins": 620,
-  "masterPlugins": 614,
+  "generatedAt": "2026-10-26T20:29:14.175Z",
+  "contentHash": "bfeec57c1a45115b",
+  "totalPlugins": 621,
+  "masterPlugins": 615,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -1995,9 +1995,9 @@
       "id": "karou-ca-xiv-repo-json",
       "name": "Glorou / Texture Overlayer",
       "url": "https://karou.ca/xiv/repo.json",
-      "status": "ok",
+      "status": "stale",
       "count": 1,
-      "note": null
+      "note": "fetch failed"
     },
     {
       "id": "haselnussbomber-dalamudplugins",
@@ -2100,7 +2100,7 @@
       "name": "McVaxius / TheDumpsterFire",
       "url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
       "status": "ok",
-      "count": 29,
+      "count": 30,
       "note": null
     },
     {
@@ -2350,7 +2350,7 @@
       "name": "Kampf & Rotation",
       "emoji": "⚔️",
       "description": "Rotationen, Boss-Timeline, Combos, PvP",
-      "count": 73,
+      "count": 74,
       "file": "repos/combat.json"
     },
     {
@@ -2452,7 +2452,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "44451516 / ffxiv_bossmod",
-      "keptVersion": "7.5.7.11",
+      "keptVersion": "7.5.7.12",
       "droppedVersion": "7.5.7.4"
     },
     {
@@ -2508,7 +2508,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "awgil plugin distribution",
-      "keptVersion": "7.5.7.11",
+      "keptVersion": "7.5.7.12",
       "droppedVersion": "0.0.0.122"
     },
     {
@@ -2564,7 +2564,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
-      "keptVersion": "7.5.7.11",
+      "keptVersion": "7.5.7.12",
       "droppedVersion": "7.5.7.11"
     },
     {
@@ -2837,7 +2837,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "7.5.7.11",
+      "keptVersion": "7.5.7.12",
       "droppedVersion": "0.0.0.77"
     },
     {
@@ -3653,11 +3653,11 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Palantir",
+      "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.8",
-      "droppedVersion": "0.0.0.8"
+      "keptVersion": "2.1.2.5",
+      "droppedVersion": "2.1.2.5"
     },
     {
       "internalName": "Splatoon",
@@ -3667,18 +3667,18 @@
       "droppedVersion": "3.9.2.32"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.5",
-      "droppedVersion": "2.1.2.5"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.8",
+      "droppedVersion": "0.0.0.8"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3936,8 +3936,8 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.7.11",
-      "droppedVersion": "7.5.7.11"
+      "keptVersion": "7.5.7.12",
+      "droppedVersion": "7.5.7.12"
     },
     {
       "internalName": "vfallguy",
@@ -4244,8 +4244,8 @@
       "internalName": "TimeMemoriaV3",
       "kept": "LegendsOfTheGame / TimeMemoriaV3",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.9.0.15",
-      "droppedVersion": "3.9.0.15"
+      "keptVersion": "3.10.0.15",
+      "droppedVersion": "3.10.0.15"
     },
     {
       "internalName": "PvpAutoLb",
@@ -4874,7 +4874,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.7.11",
+      "keptVersion": "7.5.7.12",
       "droppedVersion": "7.5.7.11"
     },
     {
@@ -5777,7 +5777,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.7.11",
+      "keptVersion": "7.5.7.12",
       "droppedVersion": "0.0.0.281"
     },
     {
@@ -7392,24 +7392,24 @@
     },
     {
       "internalName": "XADatabase",
-      "kept": "xa-io / MyDalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
       "keptVersion": "0.0.0.48",
-      "droppedVersion": "0.0.0.47"
+      "droppedVersion": "0.0.0.48"
     },
     {
       "internalName": "XASlave",
-      "kept": "xa-io / MyDalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
       "keptVersion": "0.0.0.58",
-      "droppedVersion": "0.0.0.57"
+      "droppedVersion": "0.0.0.58"
     },
     {
       "internalName": "XAHudNavigator",
-      "kept": "xa-io / MyDalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
       "keptVersion": "0.0.0.11",
-      "droppedVersion": "0.0.0.10"
+      "droppedVersion": "0.0.0.11"
     },
     {
       "internalName": "XAZod",
