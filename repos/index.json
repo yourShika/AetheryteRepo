@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-26T04:45:18.369Z",
-  "contentHash": "9fef59390aeeb90a",
-  "totalPlugins": 619,
-  "masterPlugins": 613,
+  "generatedAt": "2026-10-26T13:00:32.553Z",
+  "contentHash": "af13f883e6870965",
+  "totalPlugins": 620,
+  "masterPlugins": 614,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -1076,7 +1076,7 @@
       "name": "MeowZWR / DalamudPlugin",
       "url": "https://raw.githubusercontent.com/MeowZWR/DalamudPlugin/main/repo.json",
       "status": "ok",
-      "count": 15,
+      "count": 16,
       "note": null
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 19,
+      "count": 20,
       "file": "repos/misc.json"
     }
   ],
@@ -2565,7 +2565,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
       "keptVersion": "7.5.7.11",
-      "droppedVersion": "7.5.7.10"
+      "droppedVersion": "7.5.7.11"
     },
     {
       "internalName": "Brio",
@@ -3611,18 +3611,18 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "6.0.2.10",
       "droppedVersion": "6.0.2.10"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "Marketbuddy",
@@ -3653,13 +3653,6 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.21"
-    },
-    {
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3679,6 +3672,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.5",
       "droppedVersion": "2.1.2.5"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.21",
+      "droppedVersion": "4.0.5.21"
     },
     {
       "internalName": "XIVComboExpanded",
