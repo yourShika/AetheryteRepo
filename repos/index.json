@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T15:21:18.901Z",
-  "contentHash": "71d922e757df9f2e",
+  "generatedAt": "2026-10-27T22:13:20.952Z",
+  "contentHash": "aa8d87ed46973272",
   "totalPlugins": 621,
   "masterPlugins": 615,
   "currentApiLevel": 15,
@@ -2452,7 +2452,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "44451516 / ffxiv_bossmod",
-      "keptVersion": "7.5.7.12",
+      "keptVersion": "7.5.7.14",
       "droppedVersion": "7.5.7.4"
     },
     {
@@ -2508,7 +2508,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "awgil plugin distribution",
-      "keptVersion": "7.5.7.12",
+      "keptVersion": "7.5.7.14",
       "droppedVersion": "0.0.0.122"
     },
     {
@@ -2564,7 +2564,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
-      "keptVersion": "7.5.7.12",
+      "keptVersion": "7.5.7.14",
       "droppedVersion": "7.5.7.12"
     },
     {
@@ -2641,7 +2641,7 @@
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.8",
+      "keptVersion": "0.0.0.9",
       "droppedVersion": "0.0.0.8"
     },
     {
@@ -2837,7 +2837,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "7.5.7.12",
+      "keptVersion": "7.5.7.14",
       "droppedVersion": "0.0.0.77"
     },
     {
@@ -3611,6 +3611,13 @@
       "droppedVersion": "2.2.0.13"
     },
     {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3618,11 +3625,11 @@
       "droppedVersion": "6.0.2.10"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Questionable",
@@ -3639,18 +3646,25 @@
       "droppedVersion": "1.15.7.4"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.9",
+      "droppedVersion": "0.0.0.9"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.32",
+      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "Saucy",
@@ -3665,20 +3679,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
-    },
-    {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.8",
-      "droppedVersion": "0.0.0.8"
-    },
-    {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.32",
-      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3936,8 +3936,8 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.7.12",
-      "droppedVersion": "7.5.7.12"
+      "keptVersion": "7.5.7.14",
+      "droppedVersion": "7.5.7.14"
     },
     {
       "internalName": "vfallguy",
@@ -4286,8 +4286,8 @@
       "internalName": "Aetherphone",
       "kept": "XeldarAlz",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.4.0.0",
-      "droppedVersion": "1.4.0.0"
+      "keptVersion": "1.4.1.0",
+      "droppedVersion": "1.4.1.0"
     },
     {
       "internalName": "AutoHuntGrinder",
@@ -4720,7 +4720,7 @@
       "internalName": "Aetherphone",
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.4.0.0",
+      "keptVersion": "1.4.1.0",
       "droppedVersion": "1.4.0.0"
     },
     {
@@ -4874,7 +4874,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.7.12",
+      "keptVersion": "7.5.7.14",
       "droppedVersion": "7.5.7.12"
     },
     {
@@ -5154,7 +5154,7 @@
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "0.0.0.8",
+      "keptVersion": "0.0.0.9",
       "droppedVersion": "0.0.0.8"
     },
     {
@@ -5777,7 +5777,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.7.12",
+      "keptVersion": "7.5.7.14",
       "droppedVersion": "0.0.0.281"
     },
     {
@@ -6701,7 +6701,7 @@
       "internalName": "Snappy",
       "kept": "Snappy",
       "dropped": "astrodoobs / plugins",
-      "keptVersion": "0.5.2.11",
+      "keptVersion": "0.5.2.12",
       "droppedVersion": "0.1.0"
     },
     {
