@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T20:29:14.175Z",
-  "contentHash": "bfeec57c1a45115b",
+  "generatedAt": "2026-10-27T00:25:32.459Z",
+  "contentHash": "d211564bc8032759",
   "totalPlugins": 621,
   "masterPlugins": 615,
   "currentApiLevel": 15,
@@ -2565,7 +2565,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
       "keptVersion": "7.5.7.12",
-      "droppedVersion": "7.5.7.11"
+      "droppedVersion": "7.5.7.12"
     },
     {
       "internalName": "Brio",
@@ -3611,13 +3611,6 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.2.10",
-      "droppedVersion": "6.0.2.10"
-    },
-    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,11 +3618,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "6.0.2.10",
+      "droppedVersion": "6.0.2.10"
     },
     {
       "internalName": "Questionable",
@@ -3646,6 +3639,13 @@
       "droppedVersion": "1.15.7.4"
     },
     {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3660,6 +3660,13 @@
       "droppedVersion": "2.1.2.5"
     },
     {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.8",
+      "droppedVersion": "0.0.0.8"
+    },
+    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3672,13 +3679,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
-    },
-    {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.8",
-      "droppedVersion": "0.0.0.8"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4041,8 +4041,8 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "69.223",
-      "droppedVersion": "69.223"
+      "keptVersion": "69.224",
+      "droppedVersion": "69.224"
     },
     {
       "internalName": "GlamourLog",
@@ -4244,8 +4244,8 @@
       "internalName": "TimeMemoriaV3",
       "kept": "LegendsOfTheGame / TimeMemoriaV3",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.10.0.15",
-      "droppedVersion": "3.10.0.15"
+      "keptVersion": "3.10.1.15",
+      "droppedVersion": "3.10.1.15"
     },
     {
       "internalName": "PvpAutoLb",
@@ -5805,7 +5805,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "69.223",
+      "keptVersion": "69.224",
       "droppedVersion": "69.55"
     },
     {
@@ -7371,9 +7371,9 @@
     },
     {
       "internalName": "QSTCompanion",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "1.1.31.0",
+      "kept": "WigglyCorp / DalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "1.1.32.0",
       "droppedVersion": "1.1.31.0"
     },
     {

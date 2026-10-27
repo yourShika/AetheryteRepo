@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-10-26",
+  "fetchedAt": "2026-10-27",
   "count": 45,
   "plugins": [
     {
@@ -153,10 +153,10 @@
       "InternalName": "BossMod",
       "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
       "DownloadCount": 69696969,
-      "LastUpdate": 1792978095,
+      "LastUpdate": 1793043100,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/BossMod.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/BossMod.zip",
-      "AssemblyVersion": "7.5.7.11",
+      "AssemblyVersion": "7.5.7.12",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "Changelog": "",
