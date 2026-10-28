@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T22:13:20.952Z",
-  "contentHash": "aa8d87ed46973272",
+  "generatedAt": "2026-10-28T05:41:20.050Z",
+  "contentHash": "f72f755b78c3f0b3",
   "totalPlugins": 621,
   "masterPlugins": 615,
   "currentApiLevel": 15,
@@ -2452,7 +2452,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "44451516 / ffxiv_bossmod",
-      "keptVersion": "7.5.7.14",
+      "keptVersion": "7.5.7.15",
       "droppedVersion": "7.5.7.4"
     },
     {
@@ -2508,7 +2508,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "awgil plugin distribution",
-      "keptVersion": "7.5.7.14",
+      "keptVersion": "7.5.7.15",
       "droppedVersion": "0.0.0.122"
     },
     {
@@ -2564,8 +2564,8 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
-      "keptVersion": "7.5.7.14",
-      "droppedVersion": "7.5.7.12"
+      "keptVersion": "7.5.7.15",
+      "droppedVersion": "7.5.7.14"
     },
     {
       "internalName": "Brio",
@@ -2642,7 +2642,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "0.0.0.9",
-      "droppedVersion": "0.0.0.8"
+      "droppedVersion": "0.0.0.9"
     },
     {
       "internalName": "PandorasBox",
@@ -2837,7 +2837,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "7.5.7.14",
+      "keptVersion": "7.5.7.15",
       "droppedVersion": "0.0.0.77"
     },
     {
@@ -3583,18 +3583,18 @@
       "droppedVersion": "1.1.0.2"
     },
     {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.2.14",
-      "droppedVersion": "4.6.2.14"
-    },
-    {
       "internalName": "Orbwalker",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.1.10",
       "droppedVersion": "1.0.1.10"
+    },
+    {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.2.14",
+      "droppedVersion": "4.6.2.14"
     },
     {
       "internalName": "PandorasBox",
@@ -3625,13 +3625,6 @@
       "droppedVersion": "6.0.2.10"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3644,6 +3637,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.7.4",
       "droppedVersion": "1.15.7.4"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "WrathCombo",
@@ -3936,8 +3936,8 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.7.14",
-      "droppedVersion": "7.5.7.14"
+      "keptVersion": "7.5.7.15",
+      "droppedVersion": "7.5.7.15"
     },
     {
       "internalName": "vfallguy",
@@ -4441,7 +4441,7 @@
       "kept": "ICE (Island Sanctuary)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.0.6",
-      "droppedVersion": "1.0.0.5"
+      "droppedVersion": "1.0.0.6"
     },
     {
       "internalName": "IINACT",
@@ -4721,7 +4721,7 @@
       "kept": "XeldarAlz",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.4.1.0",
-      "droppedVersion": "1.4.0.0"
+      "droppedVersion": "1.4.1.0"
     },
     {
       "internalName": "AIRoleplay",
@@ -4874,8 +4874,8 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.7.14",
-      "droppedVersion": "7.5.7.12"
+      "keptVersion": "7.5.7.15",
+      "droppedVersion": "7.5.7.15"
     },
     {
       "internalName": "BossModReborn",
@@ -5015,7 +5015,7 @@
       "kept": "ICE (Island Sanctuary)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.0.0.6",
-      "droppedVersion": "1.0.0.5"
+      "droppedVersion": "1.0.0.6"
     },
     {
       "internalName": "IINACT",
@@ -5155,7 +5155,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.0.0.9",
-      "droppedVersion": "0.0.0.8"
+      "droppedVersion": "0.0.0.9"
     },
     {
       "internalName": "PandorasBox",
@@ -5267,7 +5267,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.7.9",
-      "droppedVersion": "7.5.7.8"
+      "droppedVersion": "7.5.7.9"
     },
     {
       "internalName": "Saucy",
@@ -5777,7 +5777,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.7.14",
+      "keptVersion": "7.5.7.15",
       "droppedVersion": "0.0.0.281"
     },
     {
@@ -7392,16 +7392,16 @@
     },
     {
       "internalName": "XADatabase",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.48",
+      "kept": "xa-io / MyDalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "0.0.0.49",
       "droppedVersion": "0.0.0.48"
     },
     {
       "internalName": "XASlave",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.58",
+      "kept": "xa-io / MyDalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "0.0.0.59",
       "droppedVersion": "0.0.0.58"
     },
     {
