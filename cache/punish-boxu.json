@@ -1,7 +1,7 @@
 {
   "sourceId": "punish-boxu",
   "url": "https://puni.sh/api/repository/boxu",
-  "fetchedAt": "2026-08-15",
+  "fetchedAt": "2026-10-28",
   "count": 1,
   "plugins": [
     {
@@ -18,16 +18,16 @@
       ],
       "InternalName": "Skippy",
       "RepoUrl": "https://github.com/BoxuChan/Skippy",
-      "DownloadCount": 2609,
-      "LastUpdate": 1778506288,
-      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/install/latest.zip",
-      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/update/latest.zip",
-      "AssemblyVersion": "2.2.4.2",
+      "DownloadCount": 4187,
+      "LastUpdate": 1793215440,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.5.0/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.5.0/update/latest.zip",
+      "AssemblyVersion": "2.2.5.0",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "Global: (Bugfix) Fixed Porta Decumana cutscene not skipping even with the right toggles on.\nGlobal: (Bugfix) Hopefully properly fixed skip categories spilling over other categories and affecting their skipping abilities.\nLogger: Enhanced the logging capabilities of Skippy for research purposes.\nUI: Added a button to the topbar to toggle the Tester badge visibility on/off.",
-      "TestingAssemblyVersion": "2.2.4.2",
-      "DownloadLinkTesting": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.4.2/install/testing.zip",
+      "Changelog": "Global: (Bugfix) Fixed MSQ Roulette Cutscenes being skipped by using different categories.\nGlobal: (Bugfix) Fixed Risky Skips from overflowing into other categories and being skipped without the user's approval.\nLogger: (Bugfix) Fixed the delay and slowness of the plugin to connect/read/write with its datasheet.\nGold Saucer: Added Keybound Brawler to the options.",
+      "TestingAssemblyVersion": "2.2.5.0",
+      "DownloadLinkTesting": "https://puni.sh/api/plugins/download/130/Skippy/versions/2.2.5.0/install/testing.zip",
       "TestingDalamudApiLevel": "15",
       "IconUrl": "https://puni.sh/api/plugins/icon/130",
       "ImageUrls": [
