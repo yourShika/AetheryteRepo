@@ -1,8 +1,8 @@
 {
   "sourceId": "zhouhuichen741-dalamud-plugins",
   "url": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json",
-  "fetchedAt": "2026-10-26",
-  "count": 21,
+  "fetchedAt": "2026-10-28",
+  "count": 22,
   "plugins": [
     {
       "Author": "Haselnussbomber,cyf5119(汉化),zhouhuichen741(汉化&本地化维护)",
@@ -22,6 +22,27 @@
       "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/icon.png",
       "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
       "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
+      "_SourceId": "zhouhuichen741-dalamud-plugins",
+      "_SourceName": "zhouhuichen741/dalamud-plugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json"
+    },
+    {
+      "Author": "tynia",
+      "Name": "Key King",
+      "Punchline": "自动完成打字小游戏",
+      "Description": "自动完成打字小游戏：进入魔光键影打字游戏后，自动读取敌人名字并直接注入输入框完成输入，支持自定义运行间隔。",
+      "InternalName": "KeyKing",
+      "AssemblyVersion": "1.0.1.4",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 15,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadCount": 0,
+      "LastUpdate": 0,
+      "LoadPriority": 69420,
+      "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/KeyKing/KeyKing.zip",
+      "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/KeyKing/KeyKing.zip",
+      "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/KeyKing/KeyKing.zip",
       "_SourceId": "zhouhuichen741-dalamud-plugins",
       "_SourceName": "zhouhuichen741/dalamud-plugins",
       "_SourceUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json"
