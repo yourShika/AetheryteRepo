@@ -1,7 +1,7 @@
 {
   "sourceId": "devoreofox-foxs-hollow",
   "url": "https://raw.githubusercontent.com/devoreofox/foxs-hollow/main/repo.json",
-  "fetchedAt": "2026-10-01",
+  "fetchedAt": "2026-10-29",
   "count": 3,
   "plugins": [
     {
@@ -18,8 +18,8 @@
         "utility"
       ],
       "DalamudApiLevel": 15,
-      "AssemblyVersion": "2.0.1.0",
-      "Version": "2.0.1.0",
+      "AssemblyVersion": "2.1.0.0",
+      "Version": "2.1.0.0",
       "ApplicableVersion": "any",
       "DownloadLinkInstall": "https://github.com/devoreofox/Silkstring/releases/latest/download/Silkstring.zip",
       "DownloadLinkUpdate": "https://github.com/devoreofox/Silkstring/releases/latest/download/Silkstring.zip",
@@ -69,8 +69,8 @@
         "utility"
       ],
       "DalamudApiLevel": 15,
-      "AssemblyVersion": "0.0.0.3",
-      "Version": "0.0.0.3",
+      "AssemblyVersion": "0.0.0.4",
+      "Version": "0.0.0.4",
       "ApplicableVersion": "any",
       "DownloadLinkInstall": "https://github.com/devoreofox/persona/releases/latest/download/persona.zip",
       "DownloadLinkUpdate": "https://github.com/devoreofox/persona/releases/latest/download/persona.zip",
