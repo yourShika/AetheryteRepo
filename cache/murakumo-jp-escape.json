@@ -1,7 +1,7 @@
 {
   "sourceId": "murakumo-jp-escape",
   "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
-  "fetchedAt": "2026-10-26",
+  "fetchedAt": "2026-10-29",
   "count": 13,
   "plugins": [
     {
@@ -387,8 +387,8 @@
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "Changelog": "## What's Changed\r\n* Knightshopper Loop Action by @erdelf in https://github.com/erdelf/AutoDuty/pull/609\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.389...0.0.0.390",
-      "TestingAssemblyVersion": "0.0.0.392",
-      "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.392/install/testing.zip",
+      "TestingAssemblyVersion": "0.0.0.393",
+      "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.393/install/testing.zip",
       "TestingDalamudApiLevel": "15",
       "IconUrl": "https://puni.sh/api/plugins/icon/54",
       "ImageUrls": [
