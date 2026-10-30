@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T17:59:42.646Z",
-  "contentHash": "cf9d068fed5725bc",
+  "generatedAt": "2026-10-30T22:18:16.999Z",
+  "contentHash": "2c852968c9c9d6e5",
   "totalPlugins": 623,
   "masterPlugins": 617,
   "currentApiLevel": 15,
@@ -1172,7 +1172,7 @@
       "name": "NexusFFXIV DalamudRepo",
       "url": "https://raw.githubusercontent.com/NexusFFXIV/DalamudRepo/main/all-repo.json",
       "status": "ok",
-      "count": 88,
+      "count": 103,
       "note": null
     },
     {
@@ -3611,13 +3611,6 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,11 +3618,11 @@
       "droppedVersion": "6.0.3.0"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "YesAlready",
@@ -3644,6 +3637,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "15.756.3.58",
       "droppedVersion": "15.756.3.58"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "WrathCombo",
@@ -3667,18 +3667,18 @@
       "droppedVersion": "3.9.2.32"
     },
     {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.9",
-      "droppedVersion": "0.0.0.9"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.9",
       "droppedVersion": "2.1.2.9"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.9",
+      "droppedVersion": "0.0.0.9"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3964,8 +3964,8 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.7.12",
-      "droppedVersion": "7.5.7.12"
+      "keptVersion": "7.5.7.13",
+      "droppedVersion": "7.5.7.13"
     },
     {
       "internalName": "BossModReborn",
@@ -4745,11 +4745,60 @@
       "droppedVersion": "4.0.5.21"
     },
     {
+      "internalName": "AutoDailyTribes",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.11.3.0",
+      "droppedVersion": "2.11.3.0"
+    },
+    {
+      "internalName": "AutoFateGrind",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.22.0.0",
+      "droppedVersion": "2.22.0.0"
+    },
+    {
+      "internalName": "AutoGcSupply",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.1.0.0",
+      "droppedVersion": "1.1.0.0"
+    },
+    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "6.0.3.0",
       "droppedVersion": "6.0.3.0"
+    },
+    {
+      "internalName": "AutoHouseLottery",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.2.1.0",
+      "droppedVersion": "1.2.1.0"
+    },
+    {
+      "internalName": "AutoHuntGrinder",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.11.0.0",
+      "droppedVersion": "1.11.0.0"
+    },
+    {
+      "internalName": "AutoHuntTrain",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.4.1.0",
+      "droppedVersion": "1.4.1.0"
+    },
+    {
+      "internalName": "AutoKeyboundBrawler",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.5.2.0",
+      "droppedVersion": "1.5.2.0"
     },
     {
       "internalName": "AutoLogin",
@@ -4759,11 +4808,53 @@
       "droppedVersion": "1.3.1.4"
     },
     {
+      "internalName": "AutoPvpSeriesGrind",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.13.1.0",
+      "droppedVersion": "2.13.1.0"
+    },
+    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "4.6.2.14",
       "droppedVersion": "4.6.2.14"
+    },
+    {
+      "internalName": "AutoSeller",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.1.0.0",
+      "droppedVersion": "1.1.0.0"
+    },
+    {
+      "internalName": "AutoShopper",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.4.0.0",
+      "droppedVersion": "1.4.0.0"
+    },
+    {
+      "internalName": "AutoSightseeingLog",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.12.1.0",
+      "droppedVersion": "1.12.1.0"
+    },
+    {
+      "internalName": "AutoTreasureMaps",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.3.0.0",
+      "droppedVersion": "1.3.0.0"
+    },
+    {
+      "internalName": "AutoTripleTriadGrind",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.3.1.0",
+      "droppedVersion": "1.3.1.0"
     },
     {
       "internalName": "Avarice",
@@ -4990,6 +5081,13 @@
       "droppedVersion": "3.3.0"
     },
     {
+      "internalName": "Mahjong.Plugin.Dalamud",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.2.0.0",
+      "droppedVersion": "0.2.0.0"
+    },
+    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -5116,6 +5214,13 @@
       "droppedVersion": "0.5.16.0"
     },
     {
+      "internalName": "PvpAutoLb",
+      "kept": "XeldarAlz",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.5.0.0",
+      "droppedVersion": "1.5.0.0"
+    },
+    {
       "internalName": "Quack",
       "kept": "anya-hichu/DalamudPluginRepo",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -5168,8 +5273,8 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.7.12",
-      "droppedVersion": "7.5.7.12"
+      "keptVersion": "7.5.7.13",
+      "droppedVersion": "7.5.7.13"
     },
     {
       "internalName": "Saucy",
@@ -5973,7 +6078,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.7.12",
+      "keptVersion": "7.5.7.13",
       "droppedVersion": "7.1.5.38"
     },
     {
@@ -6778,7 +6883,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.7.12",
+      "keptVersion": "7.5.7.13",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -6911,7 +7016,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "7.5.7.12",
+      "keptVersion": "7.5.7.13",
       "droppedVersion": "7.2.5.122"
     },
     {
@@ -7273,9 +7378,9 @@
     },
     {
       "internalName": "QSTCompanion",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "1.1.32.0",
+      "kept": "WigglyCorp / DalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "1.1.33.0",
       "droppedVersion": "1.1.32.0"
     },
     {
@@ -7336,9 +7441,9 @@
     },
     {
       "internalName": "MasterOfPuppets",
-      "kept": "pffxivtools / ffxiv-bard-plugins-linux",
-      "dropped": "zunetrix / DalamudPlugins",
-      "keptVersion": "1.15.0.239",
+      "kept": "zunetrix / DalamudPlugins",
+      "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
+      "keptVersion": "1.15.0.240",
       "droppedVersion": "1.15.0.239"
     }
   ]
