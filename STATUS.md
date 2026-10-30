@@ -1,9 +1,9 @@
 # Status
 
-Zuletzt aktualisiert: **2026-10-30 09:59 UTC**
+Zuletzt aktualisiert: **2026-10-30 17:59 UTC**
 
-- Plugins im Master-Feed: **618**
-- Plugins insgesamt (inkl. 18+): **624**
+- Plugins im Master-Feed: **617**
+- Plugins insgesamt (inkl. 18+): **623**
 - Quellen: **291**
 - Aktuelles Dalamud-API-Level: **15** (aufgenommen ab 13)
 - Als veraltet aussortiert: **352** → `repos/legacy.json`
@@ -236,7 +236,7 @@ Zuletzt aktualisiert: **2026-10-30 09:59 UTC**
 | ✅ | [Aschmies / AschyQOL](https://raw.githubusercontent.com/Aschmies/AschyQOL/main/pluginmaster.json) | 7 | ok |
 | ✅ | [astrodoobs / plugins](https://raw.githubusercontent.com/astrodoobs/plugins/main/Plugins.json) | 2 | ok |
 | ✅ | [Ayoubsn93 / ne](https://raw.githubusercontent.com/Ayoubsn93/ne/main/pluginmaster.json) | 6 | ok |
-| ✅ | [BoxuChan / Hako](https://raw.githubusercontent.com/BoxuChan/Hako/main/repo.json) | 5 | ok |
+| ✅ | [BoxuChan / Hako](https://raw.githubusercontent.com/BoxuChan/Hako/main/repo.json) | 4 | ok |
 | ✅ | [Catphinaud / DalamudPlugins](https://raw.githubusercontent.com/Catphinaud/DalamudPlugins/main/pluginmaster.json) | 9 | ok |
 | ✅ | [chika's repo](https://puni.sh/api/repository/chika) | 1 | ok |
 | ✅ | [Cloa / resonant](https://raw.githubusercontent.com/Cloa/resonant/main/repo/latest.json) | 1 | ok |
@@ -260,7 +260,7 @@ Zuletzt aktualisiert: **2026-10-30 09:59 UTC**
 | ✅ | [GiR-Zippo / PluginMaster](https://raw.githubusercontent.com/GiR-Zippo/PluginMaster/main/pluginmaster.json) | 3 | ok |
 | ✅ | [GitPaulo / DalamudRepo](https://raw.githubusercontent.com/GitPaulo/DalamudRepo/main/pluginmaster.json) | 4 | ok |
 | ✅ | [Glaives-of-Eorzea / FFXIV.Plugin.Distribution](https://raw.githubusercontent.com/Glaives-of-Eorzea/FFXIV.Plugin.Distribution/main/pluginmaster.json) | 3 | ok |
-| ⚠️ | [Glorou / Texture Overlayer](https://karou.ca/xiv/repo.json) | 1 | stale – `fetch failed` |
+| ✅ | [Glorou / Texture Overlayer](https://karou.ca/xiv/repo.json) | 1 | ok |
 | ✅ | [Haselnussbomber / DalamudPlugins](https://raw.githubusercontent.com/Haselnussbomber/DalamudPlugins/main/repo.json) | 3 | ok |
 | ✅ | [HoshinoCorp / DalamudPlugins](https://raw.githubusercontent.com/HoshinoCorp/DalamudPlugins/main/pluginmaster.json) | 2 | ok |
 | ✅ | [ifan0927 / FFXIVTC_Plugins_Pack](https://raw.githubusercontent.com/ifan0927/FFXIVTC_Plugins_Pack/main/repo.json) | 2 | ok |
@@ -309,8 +309,8 @@ Zuletzt aktualisiert: **2026-10-30 09:59 UTC**
 | Kategorie | Plugins | Feed |
 |---|---:|---|
 | 👗 Glamour & Charakter | 99 | `repos/glamour.json` |
-| ⚔️ Kampf & Rotation | 75 | `repos/combat.json` |
-| 🤖 Automatisierung | 131 | `repos/automation.json` |
+| ⚔️ Kampf & Rotation | 74 | `repos/combat.json` |
+| 🤖 Automatisierung | 130 | `repos/automation.json` |
 | ⚒️ Crafting & Gathering | 27 | `repos/crafting.json` |
 | ✨ Quality of Life & UI | 156 | `repos/qol.json` |
 | 🎭 Social & Roleplay | 51 | `repos/social.json` |
@@ -318,7 +318,7 @@ Zuletzt aktualisiert: **2026-10-30 09:59 UTC**
 | 🏡 Housing & Deko | 19 | `repos/housing.json` |
 | 🔊 Audio & Voice | 19 | `repos/audio.json` |
 | 🛠️ Developer & Data | 21 | `repos/dev.json` |
-| 📦 Sonstiges | 20 | `repos/misc.json` |
+| 📦 Sonstiges | 21 | `repos/misc.json` |
 
 ## Aufgeloeste Duplikate
 
@@ -491,8 +491,8 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `MareSynchronos` | Mare Synchronos `1.11.0` | Mare Synchronos `1.11.0.0` |
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | Marketbuddy `0.2.4.1` |
 | `StartupCommands` | Maxunit / MyDalamudPlugins `1.3.0.1` | DalamudRepoCollection `1.1.0.2` |
-| `AutoRetainer` | Puni.sh (Ment) `4.6.2.14` | MEGA Repository `4.6.2.14` |
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
+| `AutoRetainer` | Puni.sh (Ment) `4.6.2.14` | MEGA Repository `4.6.2.14` |
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.6` | MEGA Repository `1.6.4.6` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.13` | MEGA Repository `2.2.0.13` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
@@ -501,9 +501,9 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `YesAlready` | Puni.sh (Ment) `1.15.7.4` | MEGA Repository `1.15.7.4` |
 | `Questionable` | Puni.sh (Ment) `15.756.3.58` | MEGA Repository `15.756.3.58` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.27` | MEGA Repository `1.0.4.27` |
-| `Palantir` | Puni.sh (Ment) `0.0.0.9` | MEGA Repository `0.0.0.9` |
-| `Splatoon` | Puni.sh (Ment) `3.9.2.32` | MEGA Repository `3.9.2.32` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.21` | MEGA Repository `4.0.5.21` |
+| `Splatoon` | Puni.sh (Ment) `3.9.2.32` | MEGA Repository `3.9.2.32` |
+| `Palantir` | Puni.sh (Ment) `0.0.0.9` | MEGA Repository `0.0.0.9` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.9` | MEGA Repository `2.1.2.9` |
 | `XIVComboExpanded` | daemitus MyDalamudPlugins `2.0.6.3` | MEGA Repository `2.0.6.3` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | MEGA Repository `1.3.1.4` |
@@ -556,7 +556,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `NoSillyReborn` | CombatReborn `7.5.5.0` | MEGA Repository `7.5.5.0` |
 | `Understudy` | CombatReborn `1.0.0.8` | MEGA Repository `1.0.0.8` |
 | `SomethingNeedDoing` | Croizat's Repo `15.12` | MEGA Repository `15.12` |
-| `Automaton` | Croizat's Repo `69.225` | MEGA Repository `69.225` |
+| `Automaton` | Croizat's Repo `69.226` | MEGA Repository `69.226` |
 | `GlamourLog` | Croizat's Repo `15.75` | MEGA Repository `15.75` |
 | `BattleLog` | KangasZ / DalamudPluginRepository `0.0.0.7` | MEGA Repository `0.0.0.7` |
 | `SkipCutscene` | KangasZ / DalamudPluginRepository `3.0.1.5` | MEGA Repository `3.0.1.5` |
@@ -585,7 +585,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Copycat` | MEGA Repository `7.5.0.0` | DalamudRepoCollection `6.2.51.0` |
 | `XIVComboVX` | MEGA Repository `9.35.3` | DalamudRepoCollection `7.0.8381.8868` |
 | `TinyCmds` | MEGA Repository `8.10.4` | DalamudRepoCollection `6.0.8356.19977` |
-| `TimeMemoriaV3` | LegendsOfTheGame / TimeMemoriaV3 `3.10.1.15` | MEGA Repository `3.10.1.15` |
+| `TimeMemoriaV3` | LegendsOfTheGame / TimeMemoriaV3 `3.11.0.15` | MEGA Repository `3.11.0.15` |
 | `PvpAutoLb` | XeldarAlz `1.5.0.0` | MEGA Repository `1.5.0.0` |
 | `Mahjong.Plugin.Dalamud` | XeldarAlz `0.2.0.0` | MEGA Repository `0.2.0.0` |
 | `AutoDailyTribes` | XeldarAlz `2.11.3.0` | MEGA Repository `2.11.3.0` |
@@ -794,7 +794,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `BossModReborn` | CombatReborn `7.5.7.2` | nite-cat / the-giga-repo `7.2.0.261` |
 | `Brio` | Sea of Stars `0.8.0.12` | nite-cat / the-giga-repo `0.4.3.1` |
 | `Cammy` | bees-repo `2.1.1.2` | nite-cat / the-giga-repo `2.1.0.10` |
-| `Automaton` | Croizat's Repo `69.225` | nite-cat / the-giga-repo `69.55` |
+| `Automaton` | Croizat's Repo `69.226` | nite-cat / the-giga-repo `69.55` |
 | `CustomizePlus` | Sea of Stars `2.2.1.3` | nite-cat / the-giga-repo `2.0.7.12` |
 | `DalamudRepoBrowser` | MEGA Repository `2.0.3.3` | nite-cat / the-giga-repo `2.0.3.3` |
 | `ARDiscard` | a1hena/PluginRepository `8.3` | nite-cat / the-giga-repo `7.0` |
@@ -1016,13 +1016,13 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Brio` | Sea of Stars `0.8.0.12` | twelvehouse / DalamudPlugins `0.8.0.11` |
 | `GatherBuddyReborn` | CombatReborn `7.5.6.1` | wasdcxz / DalamudPlugins `7.5.6.1` |
 | `Glamourer` | Glamourer `1.7.1.3` | wasdcxz / DalamudPlugins `1.7.1.3` |
-| `WigglyQuest` | WigglyCorp / DalamudPlugins `7.5.31` | McVaxius / TheDumpsterFire `7.5.30` |
+| `WigglyQuest` | McVaxius / TheDumpsterFire `7.5.31` | WigglyCorp / DalamudPlugins `7.5.31` |
 | `Influx` | MEGA Repository `4.2` | WigglyCorp / DalamudPlugins `7.5.4` |
 | `QSTCompanion` | McVaxius / TheDumpsterFire `1.1.32.0` | WigglyCorp / DalamudPlugins `1.1.32.0` |
 | `Questionable` | Puni.sh (Ment) `15.756.3.58` | WigglyCorp / DalamudPlugins `99.0.0.0` |
-| `AethertekPluginManager` | xa-io / MyDalamudPlugins `0.0.0.7` | McVaxius / TheDumpsterFire `0.0.0.6` |
+| `AethertekPluginManager` | McVaxius / TheDumpsterFire `0.0.0.7` | xa-io / MyDalamudPlugins `0.0.0.7` |
 | `XADatabase` | McVaxius / TheDumpsterFire `0.0.0.49` | xa-io / MyDalamudPlugins `0.0.0.49` |
-| `XASlave` | xa-io / MyDalamudPlugins `0.0.0.60` | McVaxius / TheDumpsterFire `0.0.0.59` |
+| `XASlave` | McVaxius / TheDumpsterFire `0.0.0.60` | xa-io / MyDalamudPlugins `0.0.0.60` |
 | `XAHudNavigator` | McVaxius / TheDumpsterFire `0.0.0.11` | xa-io / MyDalamudPlugins `0.0.0.11` |
 | `XAZod` | McVaxius / TheDumpsterFire `0.0.0.6` | xa-io / MyDalamudPlugins `0.0.0.6` |
 | `ICE` | ICE (Island Sanctuary) `1.0.0.6` | xivhub / pluginmaster `1.0.0.7` |
