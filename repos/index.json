@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30T22:18:16.999Z",
-  "contentHash": "2c852968c9c9d6e5",
-  "totalPlugins": 623,
-  "masterPlugins": 617,
+  "generatedAt": "2026-10-31T05:39:00.008Z",
+  "contentHash": "cb595099efda87d0",
+  "totalPlugins": 621,
+  "masterPlugins": 615,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -2100,7 +2100,7 @@
       "name": "McVaxius / TheDumpsterFire",
       "url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
       "status": "ok",
-      "count": 30,
+      "count": 20,
       "note": null
     },
     {
@@ -2350,7 +2350,7 @@
       "name": "Kampf & Rotation",
       "emoji": "⚔️",
       "description": "Rotationen, Boss-Timeline, Combos, PvP",
-      "count": 74,
+      "count": 73,
       "file": "repos/combat.json"
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 130,
+      "count": 132,
       "file": "repos/automation.json"
     },
     {
@@ -2374,7 +2374,7 @@
       "name": "Quality of Life & UI",
       "emoji": "✨",
       "description": "Tweaks, Interface, Chat, Inventar, Karten",
-      "count": 156,
+      "count": 155,
       "file": "repos/qol.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 21,
+      "count": 19,
       "file": "repos/misc.json"
     }
   ],
@@ -3583,18 +3583,18 @@
       "droppedVersion": "1.1.0.2"
     },
     {
-      "internalName": "Orbwalker",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.0.1.10",
-      "droppedVersion": "1.0.1.10"
-    },
-    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.6.2.14",
       "droppedVersion": "4.6.2.14"
+    },
+    {
+      "internalName": "Orbwalker",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.1.10",
+      "droppedVersion": "1.0.1.10"
     },
     {
       "internalName": "PandorasBox",
@@ -3653,18 +3653,18 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.21"
-    },
-    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.32",
       "droppedVersion": "3.9.2.32"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.9",
+      "droppedVersion": "0.0.0.9"
     },
     {
       "internalName": "Saucy",
@@ -3674,11 +3674,11 @@
       "droppedVersion": "2.1.2.9"
     },
     {
-      "internalName": "Palantir",
+      "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.9",
-      "droppedVersion": "0.0.0.9"
+      "keptVersion": "4.0.5.21",
+      "droppedVersion": "4.0.5.21"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4041,8 +4041,8 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "69.226",
-      "droppedVersion": "69.226"
+      "keptVersion": "69.228",
+      "droppedVersion": "69.228"
     },
     {
       "internalName": "GlamourLog",
@@ -5812,7 +5812,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "69.226",
+      "keptVersion": "69.228",
       "droppedVersion": "69.55"
     },
     {
@@ -7069,13 +7069,6 @@
       "droppedVersion": "2.10.3.0"
     },
     {
-      "internalName": "Influx",
-      "kept": "MEGA Repository",
-      "dropped": "McVaxius / TheDumpsterFire",
-      "keptVersion": "4.2",
-      "droppedVersion": "7.5.4"
-    },
-    {
       "internalName": "vnavmesh",
       "kept": "Veyn (BossMod)",
       "dropped": "nihil-string / puppys-plugins",
@@ -7363,13 +7356,6 @@
       "droppedVersion": "1.7.1.3"
     },
     {
-      "internalName": "WigglyQuest",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "7.5.31",
-      "droppedVersion": "7.5.31"
-    },
-    {
       "internalName": "Influx",
       "kept": "MEGA Repository",
       "dropped": "WigglyCorp / DalamudPlugins",
@@ -7377,53 +7363,11 @@
       "droppedVersion": "7.5.4"
     },
     {
-      "internalName": "QSTCompanion",
-      "kept": "WigglyCorp / DalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
-      "keptVersion": "1.1.33.0",
-      "droppedVersion": "1.1.32.0"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
       "keptVersion": "15.756.3.58",
       "droppedVersion": "99.0.0.0"
-    },
-    {
-      "internalName": "AethertekPluginManager",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.7",
-      "droppedVersion": "0.0.0.7"
-    },
-    {
-      "internalName": "XADatabase",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.49",
-      "droppedVersion": "0.0.0.49"
-    },
-    {
-      "internalName": "XASlave",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.60",
-      "droppedVersion": "0.0.0.60"
-    },
-    {
-      "internalName": "XAHudNavigator",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.11",
-      "droppedVersion": "0.0.0.11"
-    },
-    {
-      "internalName": "XAZod",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.6",
-      "droppedVersion": "0.0.0.6"
     },
     {
       "internalName": "ICE",
