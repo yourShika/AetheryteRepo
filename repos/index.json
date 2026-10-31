@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T05:39:00.008Z",
-  "contentHash": "cb595099efda87d0",
+  "generatedAt": "2026-10-31T12:26:13.349Z",
+  "contentHash": "ee7df97556ed3590",
   "totalPlugins": 621,
   "masterPlugins": 615,
   "currentApiLevel": 15,
@@ -2697,7 +2697,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "1.15.7.4",
+      "keptVersion": "1.15.7.6",
       "droppedVersion": "1.15.7.4"
     },
     {
@@ -3173,7 +3173,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "1.15.7.4",
+      "keptVersion": "1.15.7.6",
       "droppedVersion": "1.2.2.3"
     },
     {
@@ -3625,18 +3625,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.4",
-      "droppedVersion": "1.15.7.4"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.58",
-      "droppedVersion": "15.756.3.58"
+      "keptVersion": "15.756.3.59",
+      "droppedVersion": "15.756.3.59"
     },
     {
       "internalName": "Marketbuddy",
@@ -3646,11 +3639,25 @@
       "droppedVersion": "0.2.4.2"
     },
     {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.6",
+      "droppedVersion": "1.15.7.6"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.21",
+      "droppedVersion": "4.0.5.21"
     },
     {
       "internalName": "Splatoon",
@@ -3660,13 +3667,6 @@
       "droppedVersion": "3.9.2.32"
     },
     {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.9",
-      "droppedVersion": "0.0.0.9"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3674,11 +3674,11 @@
       "droppedVersion": "2.1.2.9"
     },
     {
-      "internalName": "Artisan",
+      "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.21"
+      "keptVersion": "0.0.0.9",
+      "droppedVersion": "0.0.0.9"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4048,8 +4048,8 @@
       "internalName": "GlamourLog",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.75",
-      "droppedVersion": "15.75"
+      "keptVersion": "15.76",
+      "droppedVersion": "15.76"
     },
     {
       "internalName": "BattleLog",
@@ -4671,7 +4671,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MyDalamudPlugins",
-      "keptVersion": "1.15.7.4",
+      "keptVersion": "1.15.7.6",
       "droppedVersion": "1.2.2.1"
     },
     {
@@ -5231,7 +5231,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.756.3.58",
+      "keptVersion": "15.756.3.59",
       "droppedVersion": "15.756.3.58"
     },
     {
@@ -5420,7 +5420,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.15.7.4",
+      "keptVersion": "1.15.7.6",
       "droppedVersion": "1.15.7.4"
     },
     {
@@ -6057,7 +6057,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.756.3.58",
+      "keptVersion": "15.756.3.59",
       "droppedVersion": "4.13"
     },
     {
@@ -6204,7 +6204,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.15.7.4",
+      "keptVersion": "1.15.7.6",
       "droppedVersion": "1.9.0"
     },
     {
@@ -7100,7 +7100,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "15.756.3.58",
+      "keptVersion": "15.756.3.59",
       "droppedVersion": "5.31"
     },
     {
@@ -7226,7 +7226,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "OpaqueReptile / daemitus_MyDalamudPlugins",
-      "keptVersion": "1.15.7.4",
+      "keptVersion": "1.15.7.6",
       "droppedVersion": "1.2.2.1"
     },
     {
@@ -7366,7 +7366,7 @@
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "15.756.3.58",
+      "keptVersion": "15.756.3.59",
       "droppedVersion": "99.0.0.0"
     },
     {
@@ -7385,10 +7385,10 @@
     },
     {
       "internalName": "MasterOfPuppets",
-      "kept": "zunetrix / DalamudPlugins",
-      "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
+      "kept": "pffxivtools / ffxiv-bard-plugins-linux",
+      "dropped": "zunetrix / DalamudPlugins",
       "keptVersion": "1.15.0.240",
-      "droppedVersion": "1.15.0.239"
+      "droppedVersion": "1.15.0.240"
     }
   ]
 }
