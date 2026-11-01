@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T13:21:51.568Z",
-  "contentHash": "0fca5895c287afb0",
+  "generatedAt": "2026-11-01T19:39:22.263Z",
+  "contentHash": "a4d061537884d9f5",
   "totalPlugins": 623,
   "masterPlugins": 617,
   "currentApiLevel": 15,
@@ -2551,7 +2551,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "6.0.3.1",
-      "droppedVersion": "6.0.3.0"
+      "droppedVersion": "6.0.3.1"
     },
     {
       "internalName": "AutoRetainer",
@@ -3604,6 +3604,13 @@
       "droppedVersion": "1.6.4.6"
     },
     {
+      "internalName": "Avarice",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
+    },
+    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3616,20 +3623,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "6.0.3.1",
       "droppedVersion": "6.0.3.1"
-    },
-    {
-      "internalName": "Avarice",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
-    },
-    {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.7",
-      "droppedVersion": "1.15.7.7"
     },
     {
       "internalName": "Questionable",
@@ -3646,11 +3639,25 @@
       "droppedVersion": "0.2.4.2"
     },
     {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.7",
+      "droppedVersion": "1.15.7.7"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.32",
+      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "Artisan",
@@ -3660,13 +3667,6 @@
       "droppedVersion": "4.0.5.21"
     },
     {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.9",
-      "droppedVersion": "0.0.0.9"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3674,11 +3674,11 @@
       "droppedVersion": "2.1.2.9"
     },
     {
-      "internalName": "Splatoon",
+      "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.32",
-      "droppedVersion": "3.9.2.32"
+      "keptVersion": "0.0.0.9",
+      "droppedVersion": "0.0.0.9"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4244,8 +4244,8 @@
       "internalName": "TimeMemoriaV3",
       "kept": "LegendsOfTheGame / TimeMemoriaV3",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.11.0.15",
-      "droppedVersion": "3.11.0.15"
+      "keptVersion": "3.11.1.15",
+      "droppedVersion": "3.11.1.15"
     },
     {
       "internalName": "Snowcloak",
@@ -7371,10 +7371,10 @@
     },
     {
       "internalName": "QSTCompanion",
-      "kept": "WigglyCorp / DalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "WigglyCorp / DalamudPlugins",
       "keptVersion": "1.1.34.0",
-      "droppedVersion": "1.1.33.0"
+      "droppedVersion": "1.1.34.0"
     },
     {
       "internalName": "Questionable",
@@ -7434,9 +7434,9 @@
     },
     {
       "internalName": "MasterOfPuppets",
-      "kept": "pffxivtools / ffxiv-bard-plugins-linux",
-      "dropped": "zunetrix / DalamudPlugins",
-      "keptVersion": "1.15.0.243",
+      "kept": "zunetrix / DalamudPlugins",
+      "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
+      "keptVersion": "1.15.0.244",
       "droppedVersion": "1.15.0.243"
     }
   ]
