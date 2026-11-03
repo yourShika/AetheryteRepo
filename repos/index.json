@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-02T21:42:07.070Z",
-  "contentHash": "07ba053bfaf68cbd",
-  "totalPlugins": 624,
-  "masterPlugins": 618,
+  "generatedAt": "2026-11-03T06:45:51.951Z",
+  "contentHash": "b5c9cb147aad10e1",
+  "totalPlugins": 625,
+  "masterPlugins": 619,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -2268,7 +2268,7 @@
       "name": "twelvehouse / DalamudPlugins",
       "url": "https://raw.githubusercontent.com/twelvehouse/DalamudPlugins/main/pluginmaster.json",
       "status": "ok",
-      "count": 5,
+      "count": 6,
       "note": null
     },
     {
@@ -2374,7 +2374,7 @@
       "name": "Quality of Life & UI",
       "emoji": "✨",
       "description": "Tweaks, Interface, Chat, Inventar, Karten",
-      "count": 156,
+      "count": 157,
       "file": "repos/qol.json"
     },
     {
@@ -2565,7 +2565,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
       "keptVersion": "7.5.7.19",
-      "droppedVersion": "7.5.7.16"
+      "droppedVersion": "7.5.7.19"
     },
     {
       "internalName": "Brio",
@@ -3611,18 +3611,18 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "6.0.3.1",
       "droppedVersion": "6.0.3.1"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "Marketbuddy",
@@ -3632,13 +3632,6 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.7",
-      "droppedVersion": "1.15.7.7"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3646,11 +3639,32 @@
       "droppedVersion": "15.756.3.60"
     },
     {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.7",
+      "droppedVersion": "1.15.7.7"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.9",
+      "droppedVersion": "0.0.0.9"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.32",
+      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "Saucy",
@@ -3665,20 +3679,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
-    },
-    {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.32",
-      "droppedVersion": "3.9.2.32"
-    },
-    {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.9",
-      "droppedVersion": "0.0.0.9"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3964,8 +3964,8 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.7.13",
-      "droppedVersion": "7.5.7.13"
+      "keptVersion": "7.5.7.14",
+      "droppedVersion": "7.5.7.14"
     },
     {
       "internalName": "BossModReborn",
@@ -4875,7 +4875,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.7.19",
-      "droppedVersion": "7.5.7.16"
+      "droppedVersion": "7.5.7.19"
     },
     {
       "internalName": "BossModReborn",
@@ -5266,8 +5266,8 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.7.13",
-      "droppedVersion": "7.5.7.13"
+      "keptVersion": "7.5.7.14",
+      "droppedVersion": "7.5.7.14"
     },
     {
       "internalName": "Saucy",
@@ -6071,7 +6071,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.7.13",
+      "keptVersion": "7.5.7.14",
       "droppedVersion": "7.1.5.38"
     },
     {
@@ -6876,7 +6876,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.7.13",
+      "keptVersion": "7.5.7.14",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -7009,7 +7009,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "7.5.7.13",
+      "keptVersion": "7.5.7.14",
       "droppedVersion": "7.2.5.122"
     },
     {
