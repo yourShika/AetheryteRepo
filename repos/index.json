@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T06:19:19.549Z",
-  "contentHash": "f1edf5840dae53fc",
+  "generatedAt": "2026-11-04T17:13:51.594Z",
+  "contentHash": "e0c90cb6216c341d",
   "totalPlugins": 626,
   "masterPlugins": 620,
   "currentApiLevel": 15,
@@ -1172,7 +1172,7 @@
       "name": "NexusFFXIV DalamudRepo",
       "url": "https://raw.githubusercontent.com/NexusFFXIV/DalamudRepo/main/all-repo.json",
       "status": "ok",
-      "count": 103,
+      "count": 104,
       "note": null
     },
     {
@@ -2495,7 +2495,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "AtmoOmen / DalamudPlugins",
       "keptVersion": "1.2.3.14",
-      "droppedVersion": "0.8.6.0"
+      "droppedVersion": "0.8.7.0"
     },
     {
       "internalName": "GatherBuddyReborn",
@@ -2522,7 +2522,7 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "awgil plugin distribution",
-      "keptVersion": "0.0.0.151",
+      "keptVersion": "0.0.0.152",
       "droppedVersion": "0.0.0.16"
     },
     {
@@ -2565,7 +2565,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
       "keptVersion": "7.5.7.20",
-      "droppedVersion": "7.5.7.19"
+      "droppedVersion": "7.5.7.20"
     },
     {
       "internalName": "Brio",
@@ -2683,7 +2683,7 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.151",
+      "keptVersion": "0.0.0.152",
       "droppedVersion": "0.0.0.151"
     },
     {
@@ -3180,7 +3180,7 @@
       "internalName": "vsatisfy",
       "kept": "Veyn (BossMod)",
       "dropped": "decorwdyun / DalamudPlugins",
-      "keptVersion": "0.0.0.37",
+      "keptVersion": "0.0.0.38",
       "droppedVersion": "0.0.0.37"
     },
     {
@@ -3257,8 +3257,8 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.151",
-      "droppedVersion": "0.0.0.151"
+      "keptVersion": "0.0.0.152",
+      "droppedVersion": "0.0.0.152"
     },
     {
       "internalName": "vnavmesh",
@@ -3590,13 +3590,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.6",
-      "droppedVersion": "1.6.4.6"
-    },
-    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3604,11 +3597,18 @@
       "droppedVersion": "4.6.2.18"
     },
     {
-      "internalName": "Avarice",
+      "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
+      "keptVersion": "1.6.4.6",
+      "droppedVersion": "1.6.4.6"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.4.0",
+      "droppedVersion": "6.0.4.0"
     },
     {
       "internalName": "LazyLoot",
@@ -3618,11 +3618,18 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.4.0",
-      "droppedVersion": "6.0.4.0"
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "YesAlready",
@@ -3639,25 +3646,11 @@
       "droppedVersion": "15.756.3.60"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
-    },
-    {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.32",
-      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "Palantir",
@@ -3672,6 +3665,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.21",
       "droppedVersion": "4.0.5.21"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.32",
+      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "Saucy",
@@ -3915,15 +3915,15 @@
       "internalName": "vsatisfy",
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.37",
-      "droppedVersion": "0.0.0.37"
+      "keptVersion": "0.0.0.38",
+      "droppedVersion": "0.0.0.38"
     },
     {
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.151",
-      "droppedVersion": "0.0.0.151"
+      "keptVersion": "0.0.0.152",
+      "droppedVersion": "0.0.0.152"
     },
     {
       "internalName": "vfaux",
@@ -4342,7 +4342,7 @@
       "internalName": "AutoPvpSeriesGrind",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "2.14.0.0",
+      "keptVersion": "2.15.0.0",
       "droppedVersion": "2.13.1.0"
     },
     {
@@ -4804,8 +4804,8 @@
       "internalName": "AutoPvpSeriesGrind",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.14.0.0",
-      "droppedVersion": "2.14.0.0"
+      "keptVersion": "2.15.0.0",
+      "droppedVersion": "2.15.0.0"
     },
     {
       "internalName": "AutoRetainer",
@@ -5037,6 +5037,13 @@
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.4.1.2",
       "droppedVersion": "0.4.1.2"
+    },
+    {
+      "internalName": "Kupopop",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.2.1.0",
+      "droppedVersion": "1.2.1.0"
     },
     {
       "internalName": "LazyLoot",
@@ -5364,8 +5371,8 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "0.0.0.151",
-      "droppedVersion": "0.0.0.151"
+      "keptVersion": "0.0.0.152",
+      "droppedVersion": "0.0.0.152"
     },
     {
       "internalName": "vnavmesh",
@@ -5378,8 +5385,8 @@
       "internalName": "vsatisfy",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "0.0.0.37",
-      "droppedVersion": "0.0.0.37"
+      "keptVersion": "0.0.0.38",
+      "droppedVersion": "0.0.0.38"
     },
     {
       "internalName": "WExtras",
@@ -6078,7 +6085,7 @@
       "internalName": "vsatisfy",
       "kept": "Veyn (BossMod)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.37",
+      "keptVersion": "0.0.0.38",
       "droppedVersion": "0.0.0.10"
     },
     {
@@ -6155,7 +6162,7 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.151",
+      "keptVersion": "0.0.0.152",
       "droppedVersion": "0.0.0.131"
     },
     {
@@ -6904,7 +6911,7 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "Glaives-of-Eorzea / FFXIV.Plugin.Distribution",
-      "keptVersion": "0.0.0.151",
+      "keptVersion": "0.0.0.152",
       "droppedVersion": "0.0.0.143"
     },
     {
