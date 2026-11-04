@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-03T23:22:16.856Z",
-  "contentHash": "244708be3cca3913",
-  "totalPlugins": 625,
-  "masterPlugins": 619,
+  "generatedAt": "2026-11-04T06:19:19.549Z",
+  "contentHash": "f1edf5840dae53fc",
+  "totalPlugins": 626,
+  "masterPlugins": 620,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -1892,7 +1892,7 @@
       "name": "dexcss / DalamudPlugins",
       "url": "https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "note": null
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 130,
+      "count": 131,
       "file": "repos/automation.json"
     },
     {
@@ -2452,7 +2452,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "44451516 / ffxiv_bossmod",
-      "keptVersion": "7.5.7.19",
+      "keptVersion": "7.5.7.20",
       "droppedVersion": "7.5.7.4"
     },
     {
@@ -2508,7 +2508,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "awgil plugin distribution",
-      "keptVersion": "7.5.7.19",
+      "keptVersion": "7.5.7.20",
       "droppedVersion": "0.0.0.122"
     },
     {
@@ -2557,14 +2557,14 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "4.6.2.14",
+      "keptVersion": "4.6.2.18",
       "droppedVersion": "4.6.2.14"
     },
     {
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
-      "keptVersion": "7.5.7.19",
+      "keptVersion": "7.5.7.20",
       "droppedVersion": "7.5.7.19"
     },
     {
@@ -2809,7 +2809,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "4.6.2.14",
+      "keptVersion": "4.6.2.18",
       "droppedVersion": "2.2.0.0"
     },
     {
@@ -2837,7 +2837,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "7.5.7.19",
+      "keptVersion": "7.5.7.20",
       "droppedVersion": "0.0.0.77"
     },
     {
@@ -3600,15 +3600,8 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.6.2.14",
-      "droppedVersion": "4.6.2.14"
-    },
-    {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "4.6.2.18",
+      "droppedVersion": "4.6.2.18"
     },
     {
       "internalName": "Avarice",
@@ -3618,6 +3611,13 @@
       "droppedVersion": "2.2.0.13"
     },
     {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,18 +3625,18 @@
       "droppedVersion": "6.0.4.0"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.60",
-      "droppedVersion": "15.756.3.60"
-    },
-    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.7.7",
       "droppedVersion": "1.15.7.7"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.3.60",
+      "droppedVersion": "15.756.3.60"
     },
     {
       "internalName": "Marketbuddy",
@@ -3660,6 +3660,13 @@
       "droppedVersion": "3.9.2.32"
     },
     {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.9",
+      "droppedVersion": "0.0.0.9"
+    },
+    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3672,13 +3679,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.9",
       "droppedVersion": "2.1.2.9"
-    },
-    {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.9",
-      "droppedVersion": "0.0.0.9"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3936,8 +3936,8 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.7.19",
-      "droppedVersion": "7.5.7.19"
+      "keptVersion": "7.5.7.20",
+      "droppedVersion": "7.5.7.20"
     },
     {
       "internalName": "vfallguy",
@@ -4291,72 +4291,72 @@
     },
     {
       "internalName": "AutoDailyTribes",
-      "kept": "XeldarAlz",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.11.3.0",
+      "kept": "MEGA Repository",
+      "dropped": "XeldarAlz",
+      "keptVersion": "2.11.4.0",
       "droppedVersion": "2.11.3.0"
     },
     {
       "internalName": "AutoFateGrind",
-      "kept": "XeldarAlz",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.22.0.0",
+      "kept": "MEGA Repository",
+      "dropped": "XeldarAlz",
+      "keptVersion": "2.23.0.0",
       "droppedVersion": "2.22.0.0"
     },
     {
       "internalName": "AutoGcSupply",
-      "kept": "XeldarAlz",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.1.0.0",
+      "kept": "MEGA Repository",
+      "dropped": "XeldarAlz",
+      "keptVersion": "1.3.0.0",
       "droppedVersion": "1.1.0.0"
     },
     {
       "internalName": "AutoHouseLottery",
-      "kept": "XeldarAlz",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.2.1.0",
+      "kept": "MEGA Repository",
+      "dropped": "XeldarAlz",
+      "keptVersion": "1.3.0.0",
       "droppedVersion": "1.2.1.0"
     },
     {
       "internalName": "AutoHuntGrinder",
-      "kept": "XeldarAlz",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.11.0.0",
+      "kept": "MEGA Repository",
+      "dropped": "XeldarAlz",
+      "keptVersion": "1.12.0.0",
       "droppedVersion": "1.11.0.0"
     },
     {
       "internalName": "AutoHuntTrain",
-      "kept": "XeldarAlz",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.4.1.0",
+      "kept": "MEGA Repository",
+      "dropped": "XeldarAlz",
+      "keptVersion": "1.5.0.0",
       "droppedVersion": "1.4.1.0"
     },
     {
       "internalName": "AutoKeyboundBrawler",
-      "kept": "XeldarAlz",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.5.2.0",
+      "kept": "MEGA Repository",
+      "dropped": "XeldarAlz",
+      "keptVersion": "1.6.0.0",
       "droppedVersion": "1.5.2.0"
     },
     {
       "internalName": "AutoPvpSeriesGrind",
-      "kept": "XeldarAlz",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.13.1.0",
+      "kept": "MEGA Repository",
+      "dropped": "XeldarAlz",
+      "keptVersion": "2.14.0.0",
       "droppedVersion": "2.13.1.0"
     },
     {
       "internalName": "AutoSeller",
-      "kept": "XeldarAlz",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.1.0.0",
+      "kept": "MEGA Repository",
+      "dropped": "XeldarAlz",
+      "keptVersion": "1.3.0.0",
       "droppedVersion": "1.1.0.0"
     },
     {
       "internalName": "AutoShopper",
-      "kept": "XeldarAlz",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.4.0.0",
+      "kept": "MEGA Repository",
+      "dropped": "XeldarAlz",
+      "keptVersion": "1.5.0.0",
       "droppedVersion": "1.4.0.0"
     },
     {
@@ -4368,16 +4368,16 @@
     },
     {
       "internalName": "AutoTreasureMaps",
-      "kept": "XeldarAlz",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.3.0.0",
+      "kept": "MEGA Repository",
+      "dropped": "XeldarAlz",
+      "keptVersion": "1.5.0.0",
       "droppedVersion": "1.3.0.0"
     },
     {
       "internalName": "AutoTripleTriadGrind",
-      "kept": "XeldarAlz",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.3.1.0",
+      "kept": "MEGA Repository",
+      "dropped": "XeldarAlz",
+      "keptVersion": "1.3.2.0",
       "droppedVersion": "1.3.1.0"
     },
     {
@@ -4440,8 +4440,8 @@
       "internalName": "LightlessSync",
       "kept": "Lightless Sync",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.3.1.1",
-      "droppedVersion": "3.3.1.1"
+      "keptVersion": "3.3.1.2",
+      "droppedVersion": "3.3.1.2"
     },
     {
       "internalName": "LMeter",
@@ -4452,9 +4452,9 @@
     },
     {
       "internalName": "Mahjong.Plugin.Dalamud",
-      "kept": "XeldarAlz",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.2.0.0",
+      "kept": "MEGA Repository",
+      "dropped": "XeldarAlz",
+      "keptVersion": "0.2.1.0",
       "droppedVersion": "0.2.0.0"
     },
     {
@@ -4494,9 +4494,9 @@
     },
     {
       "internalName": "PvpAutoLb",
-      "kept": "XeldarAlz",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.5.0.0",
+      "kept": "MEGA Repository",
+      "dropped": "XeldarAlz",
+      "keptVersion": "1.5.1.0",
       "droppedVersion": "1.5.0.0"
     },
     {
@@ -4739,59 +4739,59 @@
     },
     {
       "internalName": "AutoDailyTribes",
-      "kept": "XeldarAlz",
+      "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.11.3.0",
-      "droppedVersion": "2.11.3.0"
+      "keptVersion": "2.11.4.0",
+      "droppedVersion": "2.11.4.0"
     },
     {
       "internalName": "AutoFateGrind",
-      "kept": "XeldarAlz",
+      "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.22.0.0",
-      "droppedVersion": "2.22.0.0"
+      "keptVersion": "2.23.0.0",
+      "droppedVersion": "2.23.0.0"
     },
     {
       "internalName": "AutoGcSupply",
-      "kept": "XeldarAlz",
+      "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.1.0.0",
-      "droppedVersion": "1.1.0.0"
+      "keptVersion": "1.3.0.0",
+      "droppedVersion": "1.3.0.0"
     },
     {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "6.0.4.0",
-      "droppedVersion": "6.0.3.1"
+      "droppedVersion": "6.0.4.0"
     },
     {
       "internalName": "AutoHouseLottery",
-      "kept": "XeldarAlz",
+      "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.2.1.0",
-      "droppedVersion": "1.2.1.0"
+      "keptVersion": "1.3.0.0",
+      "droppedVersion": "1.3.0.0"
     },
     {
       "internalName": "AutoHuntGrinder",
-      "kept": "XeldarAlz",
+      "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.11.0.0",
-      "droppedVersion": "1.11.0.0"
+      "keptVersion": "1.12.0.0",
+      "droppedVersion": "1.12.0.0"
     },
     {
       "internalName": "AutoHuntTrain",
-      "kept": "XeldarAlz",
+      "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.4.1.0",
-      "droppedVersion": "1.4.1.0"
+      "keptVersion": "1.5.0.0",
+      "droppedVersion": "1.5.0.0"
     },
     {
       "internalName": "AutoKeyboundBrawler",
-      "kept": "XeldarAlz",
+      "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.5.2.0",
-      "droppedVersion": "1.5.2.0"
+      "keptVersion": "1.6.0.0",
+      "droppedVersion": "1.6.0.0"
     },
     {
       "internalName": "AutoLogin",
@@ -4802,31 +4802,31 @@
     },
     {
       "internalName": "AutoPvpSeriesGrind",
-      "kept": "XeldarAlz",
+      "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.13.1.0",
-      "droppedVersion": "2.13.1.0"
+      "keptVersion": "2.14.0.0",
+      "droppedVersion": "2.14.0.0"
     },
     {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "4.6.2.14",
-      "droppedVersion": "4.6.2.14"
+      "keptVersion": "4.6.2.18",
+      "droppedVersion": "4.6.2.18"
     },
     {
       "internalName": "AutoSeller",
-      "kept": "XeldarAlz",
+      "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.1.0.0",
-      "droppedVersion": "1.1.0.0"
+      "keptVersion": "1.3.0.0",
+      "droppedVersion": "1.3.0.0"
     },
     {
       "internalName": "AutoShopper",
-      "kept": "XeldarAlz",
+      "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.4.0.0",
-      "droppedVersion": "1.4.0.0"
+      "keptVersion": "1.5.0.0",
+      "droppedVersion": "1.5.0.0"
     },
     {
       "internalName": "AutoSightseeingLog",
@@ -4837,17 +4837,17 @@
     },
     {
       "internalName": "AutoTreasureMaps",
-      "kept": "XeldarAlz",
+      "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.3.0.0",
-      "droppedVersion": "1.3.0.0"
+      "keptVersion": "1.5.0.0",
+      "droppedVersion": "1.5.0.0"
     },
     {
       "internalName": "AutoTripleTriadGrind",
-      "kept": "XeldarAlz",
+      "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.3.1.0",
-      "droppedVersion": "1.3.1.0"
+      "keptVersion": "1.3.2.0",
+      "droppedVersion": "1.3.2.0"
     },
     {
       "internalName": "Avarice",
@@ -4874,8 +4874,8 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.7.19",
-      "droppedVersion": "7.5.7.19"
+      "keptVersion": "7.5.7.20",
+      "droppedVersion": "7.5.7.20"
     },
     {
       "internalName": "BossModReborn",
@@ -5056,8 +5056,8 @@
       "internalName": "LightlessSync",
       "kept": "Lightless Sync",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "3.3.1.1",
-      "droppedVersion": "3.3.1.1"
+      "keptVersion": "3.3.1.2",
+      "droppedVersion": "3.3.1.2"
     },
     {
       "internalName": "LMeter",
@@ -5075,10 +5075,10 @@
     },
     {
       "internalName": "Mahjong.Plugin.Dalamud",
-      "kept": "XeldarAlz",
+      "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "0.2.0.0",
-      "droppedVersion": "0.2.0.0"
+      "keptVersion": "0.2.1.0",
+      "droppedVersion": "0.2.1.0"
     },
     {
       "internalName": "Marketbuddy",
@@ -5208,10 +5208,10 @@
     },
     {
       "internalName": "PvpAutoLb",
-      "kept": "XeldarAlz",
+      "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.5.0.0",
-      "droppedVersion": "1.5.0.0"
+      "keptVersion": "1.5.1.0",
+      "droppedVersion": "1.5.1.0"
     },
     {
       "internalName": "Quack",
@@ -5267,7 +5267,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.7.15",
-      "droppedVersion": "7.5.7.14"
+      "droppedVersion": "7.5.7.15"
     },
     {
       "internalName": "Saucy",
@@ -5756,7 +5756,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "4.6.2.14",
+      "keptVersion": "4.6.2.18",
       "droppedVersion": "4.4.3.9"
     },
     {
@@ -5777,7 +5777,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.7.19",
+      "keptVersion": "7.5.7.20",
       "droppedVersion": "0.0.0.281"
     },
     {
@@ -6603,7 +6603,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "4.6.2.14",
+      "keptVersion": "4.6.2.18",
       "droppedVersion": "4.6.0.8"
     },
     {
@@ -7023,7 +7023,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "4.6.2.14",
+      "keptVersion": "4.6.2.18",
       "droppedVersion": "4.5.1.13"
     },
     {

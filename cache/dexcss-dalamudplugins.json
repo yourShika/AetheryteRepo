@@ -1,8 +1,8 @@
 {
   "sourceId": "dexcss-dalamudplugins",
   "url": "https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json",
-  "fetchedAt": "2026-11-01",
-  "count": 9,
+  "fetchedAt": "2026-11-04",
+  "count": 10,
   "plugins": [
     {
       "Author": "Akari",
@@ -292,6 +292,38 @@
       "DownloadLinkInstall": "https://github.com/dexcss/HousingUnlocked/releases/latest/download/HousingUnlocked.zip",
       "DownloadLinkTesting": "https://github.com/dexcss/HousingUnlocked/releases/latest/download/HousingUnlocked.zip",
       "DownloadLinkUpdate": "https://github.com/dexcss/HousingUnlocked/releases/latest/download/HousingUnlocked.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "_SourceId": "dexcss-dalamudplugins",
+      "_SourceName": "dexcss / DalamudPlugins",
+      "_SourceUrl": "https://raw.githubusercontent.com/dexcss/DalamudPlugins/main/repo.json"
+    },
+    {
+      "Author": "dexcss",
+      "Name": "CruciblePilot",
+      "InternalName": "CruciblePilot",
+      "AssemblyVersion": "0.4.9.0",
+      "TestingAssemblyVersion": "0.4.9.0",
+      "Description": null,
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/dexcss/CruciblePilot",
+      "Tags": [
+        "beastmaster",
+        "crucible",
+        "autoduty",
+        "automation"
+      ],
+      "DalamudApiLevel": 15,
+      "TestingDalamudApiLevel": 15,
+      "DownloadLinkInstall": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.9.0/CruciblePilot.zip",
+      "DownloadLinkTesting": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.9.0/CruciblePilot.zip",
+      "DownloadLinkUpdate": "https://github.com/dexcss/CruciblePilot/releases/download/v0.4.9.0/CruciblePilot.zip",
+      "CategoryTags": [
+        "Utility",
+        "Automation"
+      ],
+      "AcceptsFeedback": true,
+      "Changelog": "v0.4.9.0: board-1 trios keep the fragile Cu Sith out of the first three fights (reserved for the piercing boss) - Bone Knight 5,31,25 / Arch Demon 13,33,25 / Banemite 21,5,25. v0.4.8.0: KO substitution (dead familiars are replaced instead of toggled forever) and a toggle watchdog. v0.4.7.0: config migration to retuned rosters. v0.4.6.0: horn-order enforcement. v0.4.5.0: trios rebuilt from game data. v0.4.4.0: manifest version fix. v0.4.3.0: versioned download URLs.",
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "dexcss-dalamudplugins",
