@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-05T17:23:33.022Z",
-  "contentHash": "0b7a6fd325a02969",
-  "totalPlugins": 627,
-  "masterPlugins": 621,
+  "generatedAt": "2026-11-05T23:37:52.117Z",
+  "contentHash": "965d70b22ed8d36b",
+  "totalPlugins": 628,
+  "masterPlugins": 622,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -1804,7 +1804,7 @@
       "name": "BoxuChan / Hako",
       "url": "https://raw.githubusercontent.com/BoxuChan/Hako/main/repo.json",
       "status": "ok",
-      "count": 4,
+      "count": 5,
       "note": null
     },
     {
@@ -2374,7 +2374,7 @@
       "name": "Quality of Life & UI",
       "emoji": "✨",
       "description": "Tweaks, Interface, Chat, Inventar, Karten",
-      "count": 157,
+      "count": 158,
       "file": "repos/qol.json"
     },
     {
@@ -2480,14 +2480,14 @@
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.2.7.0",
+      "keptVersion": "2.2.7.1",
       "droppedVersion": "2.0.4.4"
     },
     {
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.2.7.0",
+      "keptVersion": "2.2.7.1",
       "droppedVersion": "1.9.3.3"
     },
     {
@@ -2551,7 +2551,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "6.0.4.3",
-      "droppedVersion": "6.0.4.2"
+      "droppedVersion": "6.0.4.3"
     },
     {
       "internalName": "AutoRetainer",
@@ -3180,7 +3180,7 @@
       "internalName": "vsatisfy",
       "kept": "Veyn (BossMod)",
       "dropped": "decorwdyun / DalamudPlugins",
-      "keptVersion": "0.0.0.38",
+      "keptVersion": "0.0.0.39",
       "droppedVersion": "0.0.0.37"
     },
     {
@@ -3604,13 +3604,6 @@
       "droppedVersion": "4.6.2.18"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3623,6 +3616,20 @@
       "dropped": "MEGA Repository",
       "keptVersion": "2.2.0.13",
       "droppedVersion": "2.2.0.13"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Questionable",
@@ -3639,25 +3646,11 @@
       "droppedVersion": "1.15.7.7"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
-    },
-    {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.32",
-      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "Artisan",
@@ -3667,11 +3660,11 @@
       "droppedVersion": "4.0.5.21"
     },
     {
-      "internalName": "Saucy",
+      "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.9",
-      "droppedVersion": "2.1.2.9"
+      "keptVersion": "3.9.2.32",
+      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "Palantir",
@@ -3679,6 +3672,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.0.0.9",
       "droppedVersion": "0.0.0.9"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.9",
+      "droppedVersion": "2.1.2.9"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3915,8 +3915,8 @@
       "internalName": "vsatisfy",
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.38",
-      "droppedVersion": "0.0.0.38"
+      "keptVersion": "0.0.0.39",
+      "droppedVersion": "0.0.0.39"
     },
     {
       "internalName": "visland",
@@ -5385,7 +5385,7 @@
       "internalName": "vsatisfy",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "0.0.0.38",
+      "keptVersion": "0.0.0.39",
       "droppedVersion": "0.0.0.38"
     },
     {
@@ -6085,7 +6085,7 @@
       "internalName": "vsatisfy",
       "kept": "Veyn (BossMod)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.38",
+      "keptVersion": "0.0.0.39",
       "droppedVersion": "0.0.0.10"
     },
     {
@@ -6869,7 +6869,7 @@
       "internalName": "FCTracker",
       "kept": "erdelf",
       "dropped": "dexcss / DalamudPlugins",
-      "keptVersion": "0.0.0.42",
+      "keptVersion": "0.0.0.43",
       "droppedVersion": "1.10.0.0"
     },
     {
