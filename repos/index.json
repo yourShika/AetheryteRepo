@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T16:45:09.197Z",
-  "contentHash": "3631a3f146425881",
+  "generatedAt": "2026-11-06T23:06:58.327Z",
+  "contentHash": "142ad5b63f9600f0",
   "totalPlugins": 628,
   "masterPlugins": 622,
   "currentApiLevel": 15,
@@ -2537,13 +2537,13 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "4.0.5.22",
-      "droppedVersion": "4.0.5.21"
+      "droppedVersion": "4.0.5.22"
     },
     {
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.396",
+      "keptVersion": "0.0.0.397",
       "droppedVersion": "0.0.0.396"
     },
     {
@@ -3306,7 +3306,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.396",
+      "keptVersion": "0.0.0.397",
       "droppedVersion": "0.0.0.396"
     },
     {
@@ -3611,18 +3611,18 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.4.3",
-      "droppedVersion": "6.0.4.3"
-    },
-    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "5.3.3.3",
       "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.4.3",
+      "droppedVersion": "6.0.4.3"
     },
     {
       "internalName": "YesAlready",
@@ -3653,6 +3653,13 @@
       "droppedVersion": "1.0.4.27"
     },
     {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.9",
+      "droppedVersion": "0.0.0.9"
+    },
+    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3665,13 +3672,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.22",
       "droppedVersion": "4.0.5.22"
-    },
-    {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.9",
-      "droppedVersion": "0.0.0.9"
     },
     {
       "internalName": "Splatoon",
@@ -5763,7 +5763,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.396",
+      "keptVersion": "0.0.0.397",
       "droppedVersion": "0.0.0.182"
     },
     {
@@ -7128,7 +7128,7 @@
       "internalName": "AutoDuty",
       "kept": "erdelf",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "0.0.0.396",
+      "keptVersion": "0.0.0.397",
       "droppedVersion": "0.0.0.307"
     },
     {

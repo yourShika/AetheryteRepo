@@ -1,7 +1,7 @@
 {
   "sourceId": "boxuchan-hako",
   "url": "https://raw.githubusercontent.com/BoxuChan/Hako/main/repo.json",
-  "fetchedAt": "2026-11-05",
+  "fetchedAt": "2026-11-06",
   "count": 5,
   "plugins": [
     {
@@ -18,7 +18,7 @@
       "TestingDalamudApiLevel": 15,
       "IsHide": false,
       "IsTestingExclusive": false,
-      "DownloadCount": 1066,
+      "DownloadCount": 1075,
       "LastUpdate": 0,
       "LoadPriority": 0,
       "DownloadLinkInstall": "https://github.com/BoxuChan/Skippy/releases/download/2.2.5.0/Skippy.zip",
@@ -137,8 +137,8 @@
       "Punchline": "The cat sees all!",
       "Description": "A different version of Peeping Tim who's just a different Version of Peeping Tom.",
       "InternalName": "PeepingCat",
-      "AssemblyVersion": "2.2.0.1",
-      "TestingAssemblyVersion": "2.2.0.1",
+      "AssemblyVersion": "2.2.1.1",
+      "TestingAssemblyVersion": "2.2.1.1",
       "RepoUrl": "https://github.com/BoxuChan/PeepingCat",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
@@ -148,9 +148,9 @@
       "DownloadCount": 0,
       "LastUpdate": 0,
       "LoadPriority": 0,
-      "DownloadLinkInstall": "https://github.com/BoxuChan/PeepingCat/releases/download/2.2.0.1/PeepingCat.zip",
-      "DownloadLinkTesting": "https://github.com/BoxuChan/PeepingCat/releases/download/2.2.0.1/PeepingCat.zip",
-      "DownloadLinkUpdate": "https://github.com/BoxuChan/PeepingCat/releases/download/2.2.0.1/PeepingCat.zip",
+      "DownloadLinkInstall": "https://github.com/BoxuChan/PeepingCat/releases/download/2.2.1.1/PeepingCat.zip",
+      "DownloadLinkTesting": "https://github.com/BoxuChan/PeepingCat/releases/download/2.2.1.1/PeepingCat.zip",
+      "DownloadLinkUpdate": "https://github.com/BoxuChan/PeepingCat/releases/download/2.2.1.1/PeepingCat.zip",
       "IconUrl": "https://raw.githubusercontent.com/BoxuChan/PeepingCat/master/PeepingCat/assets/logo.png",
       "Tags": [
         "Peeping Cat",

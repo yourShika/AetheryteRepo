@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-11-05",
+  "fetchedAt": "2026-11-06",
   "count": 45,
   "plugins": [
     {
@@ -38,13 +38,13 @@
       "InternalName": "Artisan",
       "RepoUrl": "https://github.com/PunishXIV/Artisan",
       "DownloadCount": 69696969,
-      "LastUpdate": 1790362692,
+      "LastUpdate": 1793971872,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Artisan.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/Artisan.zip",
-      "AssemblyVersion": "4.0.5.21",
+      "AssemblyVersion": "4.0.5.22",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "- Allow copy of premade lists into user lists.\n- Fix export of premade lists.",
+      "Changelog": "- Add Gather & Chill integration to lists.\n- Improve list ingredients performance.",
       "TestingDalamudApiLevel": "15",
       "IconUrl": "https://puni.sh/api/plugins/icon/6",
       "IsHide": false,
