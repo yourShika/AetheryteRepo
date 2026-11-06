@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T23:37:52.117Z",
-  "contentHash": "965d70b22ed8d36b",
+  "generatedAt": "2026-11-06T06:42:03.514Z",
+  "contentHash": "c943613aa52ca9a0",
   "totalPlugins": 628,
   "masterPlugins": 622,
   "currentApiLevel": 15,
@@ -1060,7 +1060,7 @@
       "name": "MEGA Repository",
       "url": "https://raw.githubusercontent.com/WilliamW1979/FFXIV/main/repository.json",
       "status": "ok",
-      "count": 161,
+      "count": 162,
       "note": null
     },
     {
@@ -1172,7 +1172,7 @@
       "name": "NexusFFXIV DalamudRepo",
       "url": "https://raw.githubusercontent.com/NexusFFXIV/DalamudRepo/main/all-repo.json",
       "status": "ok",
-      "count": 104,
+      "count": 105,
       "note": null
     },
     {
@@ -3604,18 +3604,18 @@
       "droppedVersion": "4.6.2.18"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.4.3",
-      "droppedVersion": "6.0.4.3"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.2.0.13",
       "droppedVersion": "2.2.0.13"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.4.3",
+      "droppedVersion": "6.0.4.3"
     },
     {
       "internalName": "LazyLoot",
@@ -3625,11 +3625,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "1.15.7.7",
+      "droppedVersion": "1.15.7.7"
     },
     {
       "internalName": "Questionable",
@@ -3639,11 +3639,11 @@
       "droppedVersion": "15.756.3.60"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.7",
-      "droppedVersion": "1.15.7.7"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "WrathCombo",
@@ -3651,6 +3651,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.9",
+      "droppedVersion": "2.1.2.9"
     },
     {
       "internalName": "Artisan",
@@ -3672,13 +3679,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.0.0.9",
       "droppedVersion": "0.0.0.9"
-    },
-    {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.9",
-      "droppedVersion": "2.1.2.9"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4392,7 +4392,7 @@
       "kept": "ICE (Island Sanctuary)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.2.0",
-      "droppedVersion": "1.0.1.24"
+      "droppedVersion": "1.0.2.0"
     },
     {
       "internalName": "DeterministicPose",
@@ -4421,6 +4421,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "1.1.0.3",
       "droppedVersion": "1.1.0.3"
+    },
+    {
+      "internalName": "GatherChill",
+      "kept": "ICE (Island Sanctuary)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.0.1",
+      "droppedVersion": "1.0.0.1"
     },
     {
       "internalName": "ICE",
@@ -4581,7 +4588,7 @@
       "kept": "Sea of Stars",
       "dropped": "MeowZWR / DalamudPlugin",
       "keptVersion": "0.8.0.12",
-      "droppedVersion": "0.8.0.12"
+      "droppedVersion": "0.8.0.13"
     },
     {
       "internalName": "Ktisis",
@@ -4763,7 +4770,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "6.0.4.3",
-      "droppedVersion": "6.0.4.2"
+      "droppedVersion": "6.0.4.3"
     },
     {
       "internalName": "AutoHouseLottery",
@@ -4882,7 +4889,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.7.5",
-      "droppedVersion": "7.5.7.2"
+      "droppedVersion": "7.5.7.5"
     },
     {
       "internalName": "Brio",
@@ -4910,7 +4917,7 @@
       "kept": "ICE (Island Sanctuary)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.0.2.0",
-      "droppedVersion": "1.0.1.24"
+      "droppedVersion": "1.0.2.0"
     },
     {
       "internalName": "CrystariumBoutique",
@@ -4988,6 +4995,13 @@
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.6.1",
       "droppedVersion": "7.5.6.1"
+    },
+    {
+      "internalName": "GatherChill",
+      "kept": "ICE (Island Sanctuary)",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.1",
+      "droppedVersion": "1.0.0.1"
     },
     {
       "internalName": "Glamourer",
@@ -5386,7 +5400,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.0.0.39",
-      "droppedVersion": "0.0.0.38"
+      "droppedVersion": "0.0.0.39"
     },
     {
       "internalName": "WExtras",
@@ -7406,9 +7420,9 @@
     },
     {
       "internalName": "XASlave",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.61",
+      "kept": "xa-io / MyDalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "0.0.0.62",
       "droppedVersion": "0.0.0.61"
     },
     {
