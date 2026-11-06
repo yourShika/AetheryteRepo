@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T06:42:03.514Z",
-  "contentHash": "c943613aa52ca9a0",
+  "generatedAt": "2026-11-06T16:45:09.197Z",
+  "contentHash": "3631a3f146425881",
   "totalPlugins": 628,
   "masterPlugins": 622,
   "currentApiLevel": 15,
@@ -2536,7 +2536,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "4.0.5.21",
+      "keptVersion": "4.0.5.22",
       "droppedVersion": "4.0.5.21"
     },
     {
@@ -2788,7 +2788,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "4.0.5.21",
+      "keptVersion": "4.0.5.22",
       "droppedVersion": "1.0.6.1"
     },
     {
@@ -3663,15 +3663,8 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.21"
-    },
-    {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.32",
-      "droppedVersion": "3.9.2.32"
+      "keptVersion": "4.0.5.22",
+      "droppedVersion": "4.0.5.22"
     },
     {
       "internalName": "Palantir",
@@ -3679,6 +3672,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.0.0.9",
       "droppedVersion": "0.0.0.9"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.32",
+      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3842,13 +3842,6 @@
       "droppedVersion": "1.7.4.2"
     },
     {
-      "internalName": "OOBlugin",
-      "kept": "MEGA Repository",
-      "dropped": "DalamudPluginRepo",
-      "keptVersion": "1.1.2.11",
-      "droppedVersion": "1.1.2.7"
-    },
-    {
       "internalName": "Fractionality",
       "kept": "MEGA Repository",
       "dropped": "DalamudPluginRepo",
@@ -3861,6 +3854,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.1.2",
       "droppedVersion": "2.1.1.2"
+    },
+    {
+      "internalName": "NoClippy",
+      "kept": "bees-repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.5.0.24",
+      "droppedVersion": "0.5.0.24"
     },
     {
       "internalName": "DalamudRepoBrowser",
@@ -3877,11 +3877,11 @@
       "droppedVersion": "1.3.5.1"
     },
     {
-      "internalName": "NoClippy",
-      "kept": "bees-repo",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.5.0.24",
-      "droppedVersion": "0.5.0.24"
+      "internalName": "OOBlugin",
+      "kept": "MEGA Repository",
+      "dropped": "DalamudPluginRepo",
+      "keptVersion": "1.1.2.11",
+      "droppedVersion": "1.1.2.7"
     },
     {
       "internalName": "ARControl",
@@ -4741,7 +4741,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "4.0.5.21",
+      "keptVersion": "4.0.5.22",
       "droppedVersion": "4.0.5.21"
     },
     {
@@ -5756,7 +5756,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "4.0.5.21",
+      "keptVersion": "4.0.5.22",
       "droppedVersion": "4.0.2.10"
     },
     {
@@ -6418,13 +6418,6 @@
       "droppedVersion": "7.1.2.24489"
     },
     {
-      "internalName": "OOBlugin",
-      "kept": "MEGA Repository",
-      "dropped": "UnknownX7",
-      "keptVersion": "1.1.2.11",
-      "droppedVersion": "1.1.2.11"
-    },
-    {
       "internalName": "Fractionality",
       "kept": "MEGA Repository",
       "dropped": "UnknownX7",
@@ -6437,6 +6430,13 @@
       "dropped": "UnknownX7",
       "keptVersion": "2.1.1.2",
       "droppedVersion": "2.1.1.2"
+    },
+    {
+      "internalName": "NoClippy",
+      "kept": "bees-repo",
+      "dropped": "UnknownX7",
+      "keptVersion": "0.5.0.24",
+      "droppedVersion": "0.5.0.24"
     },
     {
       "internalName": "DalamudRepoBrowser",
@@ -6453,11 +6453,11 @@
       "droppedVersion": "1.3.5.1"
     },
     {
-      "internalName": "NoClippy",
-      "kept": "bees-repo",
+      "internalName": "OOBlugin",
+      "kept": "MEGA Repository",
       "dropped": "UnknownX7",
-      "keptVersion": "0.5.0.24",
-      "droppedVersion": "0.5.0.24"
+      "keptVersion": "1.1.2.11",
+      "droppedVersion": "1.1.2.11"
     },
     {
       "internalName": "XIVComboVX",
@@ -6597,7 +6597,7 @@
       "kept": "bees-repo",
       "dropped": "zhouhuichen741/dalamud-plugins",
       "keptVersion": "50.0.3.0",
-      "droppedVersion": "50.0.2.1"
+      "droppedVersion": "50.0.2.2"
     },
     {
       "internalName": "PandorasBox",
@@ -6967,7 +6967,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "ifan0927 / FFXIVTC_Plugins_Pack",
-      "keptVersion": "4.0.5.21",
+      "keptVersion": "4.0.5.22",
       "droppedVersion": "4.0.3.59"
     },
     {
@@ -7142,7 +7142,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "4.0.5.21",
+      "keptVersion": "4.0.5.22",
       "droppedVersion": "4.0.5.16"
     },
     {
@@ -7191,7 +7191,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / OLDBAI",
-      "keptVersion": "4.0.5.21",
+      "keptVersion": "4.0.5.22",
       "droppedVersion": "4.0.5.15"
     },
     {
@@ -7420,10 +7420,10 @@
     },
     {
       "internalName": "XASlave",
-      "kept": "xa-io / MyDalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
       "keptVersion": "0.0.0.62",
-      "droppedVersion": "0.0.0.61"
+      "droppedVersion": "0.0.0.62"
     },
     {
       "internalName": "XAHudNavigator",
@@ -7450,8 +7450,8 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "xivhub / pluginmaster",
-      "keptVersion": "4.0.5.21",
-      "droppedVersion": "4.0.5.42"
+      "keptVersion": "4.0.5.22",
+      "droppedVersion": "4.0.5.43"
     },
     {
       "internalName": "MasterOfPuppets",
