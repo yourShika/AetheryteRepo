@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-11-06",
+  "fetchedAt": "2026-11-07",
   "count": 45,
   "plugins": [
     {
@@ -71,13 +71,13 @@
       "InternalName": "AutoDuty",
       "RepoUrl": "https://github.com/erdelf/AutoDuty",
       "DownloadCount": 69696969,
-      "LastUpdate": 1793569739,
+      "LastUpdate": 1793998723,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoDuty.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoDuty.zip",
-      "AssemblyVersion": "0.0.0.396",
+      "AssemblyVersion": "0.0.0.397",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "## What's Changed\r\n* Condition While and Condition After by @erdelf in https://github.com/erdelf/AutoDuty/pull/618\r\n* (1292) Meso Terminal: B3 entrance smoothened by @erdelf in https://github.com/erdelf/AutoDuty/pull/619\r\n* Fix repeated stats table sorting by @NeoGriever in https://github.com/erdelf/AutoDuty/pull/524\r\n\r\n## New Contributors\r\n* @NeoGriever made their first contribution in https://github.com/erdelf/AutoDuty/pull/524\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.395...0.0.0.396",
+      "Changelog": "## What's Changed\r\n* fix Crucible Toggle Ids by @erdelf in https://github.com/erdelf/AutoDuty/pull/623\r\n* fix duty mode backing field by @erdelf in https://github.com/erdelf/AutoDuty/pull/627\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.396...0.0.0.397",
       "TestingDalamudApiLevel": "15",
       "IconUrl": "https://puni.sh/api/plugins/icon/54",
       "ImageUrls": [

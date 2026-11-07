@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T05:56:57.179Z",
-  "contentHash": "647c571d1a491713",
+  "generatedAt": "2026-11-07T12:58:47.166Z",
+  "contentHash": "1ab1358bc6a17a58",
   "totalPlugins": 628,
   "masterPlugins": 622,
   "currentApiLevel": 15,
@@ -2536,7 +2536,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "4.0.5.22",
+      "keptVersion": "4.0.5.23",
       "droppedVersion": "4.0.5.22"
     },
     {
@@ -2544,7 +2544,7 @@
       "kept": "erdelf",
       "dropped": "bees-repo",
       "keptVersion": "0.0.0.397",
-      "droppedVersion": "0.0.0.396"
+      "droppedVersion": "0.0.0.397"
     },
     {
       "internalName": "AutoHook",
@@ -2788,7 +2788,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "4.0.5.22",
+      "keptVersion": "4.0.5.23",
       "droppedVersion": "1.0.6.1"
     },
     {
@@ -3611,13 +3611,6 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,18 +3618,11 @@
       "droppedVersion": "6.0.4.3"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
-      "internalName": "YesAlready",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.7",
-      "droppedVersion": "1.15.7.7"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "Questionable",
@@ -3646,11 +3632,32 @@
       "droppedVersion": "15.756.3.60"
     },
     {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.7",
+      "droppedVersion": "1.15.7.7"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.9",
+      "droppedVersion": "0.0.0.9"
     },
     {
       "internalName": "Splatoon",
@@ -3660,25 +3667,18 @@
       "droppedVersion": "3.9.2.32"
     },
     {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.23",
+      "droppedVersion": "4.0.5.23"
+    },
+    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.9",
       "droppedVersion": "2.1.2.9"
-    },
-    {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.22",
-      "droppedVersion": "4.0.5.22"
-    },
-    {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.9",
-      "droppedVersion": "0.0.0.9"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4741,7 +4741,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "4.0.5.22",
+      "keptVersion": "4.0.5.23",
       "droppedVersion": "4.0.5.22"
     },
     {
@@ -5756,7 +5756,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "4.0.5.22",
+      "keptVersion": "4.0.5.23",
       "droppedVersion": "4.0.2.10"
     },
     {
@@ -6967,7 +6967,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "ifan0927 / FFXIVTC_Plugins_Pack",
-      "keptVersion": "4.0.5.22",
+      "keptVersion": "4.0.5.23",
       "droppedVersion": "4.0.3.59"
     },
     {
@@ -7142,7 +7142,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "4.0.5.22",
+      "keptVersion": "4.0.5.23",
       "droppedVersion": "4.0.5.16"
     },
     {
@@ -7191,7 +7191,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / OLDBAI",
-      "keptVersion": "4.0.5.22",
+      "keptVersion": "4.0.5.23",
       "droppedVersion": "4.0.5.15"
     },
     {
@@ -7450,7 +7450,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "xivhub / pluginmaster",
-      "keptVersion": "4.0.5.22",
+      "keptVersion": "4.0.5.23",
       "droppedVersion": "4.0.5.43"
     },
     {
