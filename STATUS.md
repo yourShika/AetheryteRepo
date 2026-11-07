@@ -1,6 +1,6 @@
 # Status
 
-Zuletzt aktualisiert: **2026-11-06 23:06 UTC**
+Zuletzt aktualisiert: **2026-11-07 05:56 UTC**
 
 - Plugins im Master-Feed: **622**
 - Plugins insgesamt (inkl. 18+): **628**
@@ -451,7 +451,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `TextAdvance` | NightmareXIV `3.3.0.1` | eScape `3.3.0.1` |
 | `DynamicBridge` | Sea of Stars `1.0.8.9` | eScape `1.0.8.9` |
 | `GatherBuddyReborn` | CombatReborn `7.5.6.1` | eScape `7.5.6.1` |
-| `AutoDuty` | erdelf `0.0.0.397` | eScape `0.0.0.396` |
+| `AutoDuty` | erdelf `0.0.0.397` | eScape `0.0.0.397` |
 | `Brio` | Sea of Stars `0.8.0.12` | Etheirys/WorldOfEtheirys `0.8.0.12` |
 | `HidePadlock` | Fr4nsson / MyDalamudPlugins `1.4.0.0` | Caraxi / DalamudPlugins `1.3.0.0` |
 | `EasySort` | Frogworks-Interactive / PluginRepository `0.0.0.5` | DalamudRepoCollection `0.0.0.4` |
@@ -497,14 +497,14 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Avarice` | Puni.sh (Ment) `2.2.0.13` | MEGA Repository `2.2.0.13` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
 | `AutoHook` | Puni.sh (Ment) `6.0.4.3` | MEGA Repository `6.0.4.3` |
+| `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
 | `YesAlready` | Puni.sh (Ment) `1.15.7.7` | MEGA Repository `1.15.7.7` |
 | `Questionable` | Puni.sh (Ment) `15.756.3.60` | MEGA Repository `15.756.3.60` |
-| `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.27` | MEGA Repository `1.0.4.27` |
-| `Palantir` | Puni.sh (Ment) `0.0.0.9` | MEGA Repository `0.0.0.9` |
+| `Splatoon` | Puni.sh (Ment) `3.9.2.32` | MEGA Repository `3.9.2.32` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.9` | MEGA Repository `2.1.2.9` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.22` | MEGA Repository `4.0.5.22` |
-| `Splatoon` | Puni.sh (Ment) `3.9.2.32` | MEGA Repository `3.9.2.32` |
+| `Palantir` | Puni.sh (Ment) `0.0.0.9` | MEGA Repository `0.0.0.9` |
 | `XIVComboExpanded` | daemitus MyDalamudPlugins `2.0.6.3` | MEGA Repository `2.0.6.3` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | MEGA Repository `1.3.1.4` |
 | `AutoPillion` | Aida-Enna XIVPlugins `1.0.0.5` | MEGA Repository `1.0.0.5` |
@@ -547,12 +547,12 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `MBT` | Herculezz's Repo `0.0.0.16` | MEGA Repository `0.0.0.16` |
 | `RotationSolver` | CombatReborn `7.5.7.15` | MEGA Repository `7.5.7.15` |
 | `BossModReborn` | CombatReborn `7.5.7.5` | MEGA Repository `7.5.7.5` |
-| `ActionTimelineReborn` | CombatReborn `7.5.7.4` | MEGA Repository `7.5.7.4` |
+| `ActionTimelineReborn` | CombatReborn `7.5.7.5` | MEGA Repository `7.5.7.5` |
 | `EasyZoomReborn` | CombatReborn `7.5.0.3` | MEGA Repository `7.5.0.3` |
 | `GatherBuddyReborn` | CombatReborn `7.5.6.1` | MEGA Repository `7.5.6.1` |
 | `RebornToolbox` | CombatReborn `7.5.0.0` | MEGA Repository `7.5.0.0` |
 | `ZodiacBuddyReborn` | CombatReborn `7.5.6.1` | MEGA Repository `7.5.6.1` |
-| `PassportCheckerReborn` | CombatReborn `7.5.7.1` | MEGA Repository `7.5.7.1` |
+| `PassportCheckerReborn` | CombatReborn `7.5.7.2` | MEGA Repository `7.5.7.2` |
 | `NoSillyReborn` | CombatReborn `7.5.5.0` | MEGA Repository `7.5.5.0` |
 | `Understudy` | CombatReborn `1.0.0.8` | MEGA Repository `1.0.0.8` |
 | `SomethingNeedDoing` | Croizat's Repo `15.13` | MEGA Repository `15.13` |
@@ -592,19 +592,19 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Armoire` | Armoire `0.1.1.3` | MEGA Repository `0.0.171` |
 | `Weave` | ElfShelf `0.0.171` | MEGA Repository `0.0.171` |
 | `Aetherment` | Aetherment `0.8.10.0` | MEGA Repository `0.8.10.0` |
-| `AutoDailyTribes` | MEGA Repository `2.11.4.0` | XeldarAlz `2.11.3.0` |
-| `AutoFateGrind` | MEGA Repository `2.23.0.0` | XeldarAlz `2.22.0.0` |
-| `AutoGcSupply` | MEGA Repository `1.3.0.0` | XeldarAlz `1.1.0.0` |
-| `AutoHouseLottery` | MEGA Repository `1.3.0.0` | XeldarAlz `1.2.1.0` |
-| `AutoHuntGrinder` | MEGA Repository `1.12.0.0` | XeldarAlz `1.11.0.0` |
-| `AutoHuntTrain` | MEGA Repository `1.5.0.0` | XeldarAlz `1.4.1.0` |
-| `AutoKeyboundBrawler` | MEGA Repository `1.6.0.0` | XeldarAlz `1.5.2.0` |
-| `AutoPvpSeriesGrind` | MEGA Repository `2.15.0.0` | XeldarAlz `2.13.1.0` |
-| `AutoSeller` | MEGA Repository `1.3.0.0` | XeldarAlz `1.1.0.0` |
-| `AutoShopper` | MEGA Repository `1.5.0.0` | XeldarAlz `1.4.0.0` |
+| `AutoDailyTribes` | MEGA Repository `2.12.0.0` | XeldarAlz `2.11.3.0` |
+| `AutoFateGrind` | MEGA Repository `2.24.0.0` | XeldarAlz `2.22.0.0` |
+| `AutoGcSupply` | MEGA Repository `1.4.0.0` | XeldarAlz `1.1.0.0` |
+| `AutoHouseLottery` | MEGA Repository `1.4.0.0` | XeldarAlz `1.2.1.0` |
+| `AutoHuntGrinder` | MEGA Repository `1.13.0.0` | XeldarAlz `1.11.0.0` |
+| `AutoHuntTrain` | MEGA Repository `1.6.0.0` | XeldarAlz `1.4.1.0` |
+| `AutoKeyboundBrawler` | MEGA Repository `1.6.1.0` | XeldarAlz `1.5.2.0` |
+| `AutoPvpSeriesGrind` | MEGA Repository `2.16.1.0` | XeldarAlz `2.13.1.0` |
+| `AutoSeller` | MEGA Repository `1.4.0.0` | XeldarAlz `1.1.0.0` |
+| `AutoShopper` | MEGA Repository `1.6.0.0` | XeldarAlz `1.4.0.0` |
 | `AutoSightseeingLog` | XeldarAlz `1.12.1.0` | MEGA Repository `1.12.1.0` |
-| `AutoTreasureMaps` | MEGA Repository `1.5.0.0` | XeldarAlz `1.3.0.0` |
-| `AutoTripleTriadGrind` | MEGA Repository `1.3.2.0` | XeldarAlz `1.3.1.0` |
+| `AutoTreasureMaps` | MEGA Repository `1.6.0.0` | XeldarAlz `1.3.0.0` |
+| `AutoTripleTriadGrind` | MEGA Repository `1.4.0.0` | XeldarAlz `1.3.1.0` |
 | `ChatDeathRoll` | anya-hichu/DalamudPluginRepo `0.0.6.0` | MEGA Repository `0.0.6.0` |
 | `ChilledLeves` | ICE (Island Sanctuary) `1.0.2.0` | MEGA Repository `1.0.2.0` |
 | `DeterministicPose` | anya-hichu/DalamudPluginRepo `0.0.5.0` | MEGA Repository `0.0.5.0` |
@@ -652,27 +652,27 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `XIVComboExpandedest` | MyDalamudPlugins `1.5.0.95` | DalamudRepoCollection `1.4.0.6` |
 | `Lock` | MyPlugins `1.0.3.0` | DalamudRepoCollection `1.0.1.6` |
 | `IINACT` | bees-repo `2.10.3.11` | MyPlugins `2.1.4.3` |
-| `ActionTimelineReborn` | CombatReborn `7.5.7.4` | NexusFFXIV DalamudRepo `7.5.7.4` |
+| `ActionTimelineReborn` | CombatReborn `7.5.7.5` | NexusFFXIV DalamudRepo `7.5.7.5` |
 | `Aetherment` | Aetherment `0.8.10.0` | NexusFFXIV DalamudRepo `0.8.10.0` |
 | `AIRoleplay` | MEGA Repository `1.0.0.2` | NexusFFXIV DalamudRepo `1.0.0.2` |
 | `AntiAfkKick-Dalamud` | MeowZWR / DalamudPlugin `2.1.0.12` | NexusFFXIV DalamudRepo `2.1.0.11` |
-| `Artisan` | Puni.sh (Ment) `4.0.5.22` | NexusFFXIV DalamudRepo `4.0.5.21` |
-| `AutoDailyTribes` | MEGA Repository `2.11.4.0` | NexusFFXIV DalamudRepo `2.11.4.0` |
-| `AutoFateGrind` | MEGA Repository `2.23.0.0` | NexusFFXIV DalamudRepo `2.23.0.0` |
-| `AutoGcSupply` | MEGA Repository `1.3.0.0` | NexusFFXIV DalamudRepo `1.3.0.0` |
+| `Artisan` | Puni.sh (Ment) `4.0.5.22` | NexusFFXIV DalamudRepo `4.0.5.22` |
+| `AutoDailyTribes` | MEGA Repository `2.12.0.0` | NexusFFXIV DalamudRepo `2.12.0.0` |
+| `AutoFateGrind` | MEGA Repository `2.24.0.0` | NexusFFXIV DalamudRepo `2.24.0.0` |
+| `AutoGcSupply` | MEGA Repository `1.4.0.0` | NexusFFXIV DalamudRepo `1.4.0.0` |
 | `AutoHook` | Puni.sh (Ment) `6.0.4.3` | NexusFFXIV DalamudRepo `6.0.4.3` |
-| `AutoHouseLottery` | MEGA Repository `1.3.0.0` | NexusFFXIV DalamudRepo `1.3.0.0` |
-| `AutoHuntGrinder` | MEGA Repository `1.12.0.0` | NexusFFXIV DalamudRepo `1.12.0.0` |
-| `AutoHuntTrain` | MEGA Repository `1.5.0.0` | NexusFFXIV DalamudRepo `1.5.0.0` |
-| `AutoKeyboundBrawler` | MEGA Repository `1.6.0.0` | NexusFFXIV DalamudRepo `1.6.0.0` |
+| `AutoHouseLottery` | MEGA Repository `1.4.0.0` | NexusFFXIV DalamudRepo `1.4.0.0` |
+| `AutoHuntGrinder` | MEGA Repository `1.13.0.0` | NexusFFXIV DalamudRepo `1.13.0.0` |
+| `AutoHuntTrain` | MEGA Repository `1.6.0.0` | NexusFFXIV DalamudRepo `1.6.0.0` |
+| `AutoKeyboundBrawler` | MEGA Repository `1.6.1.0` | NexusFFXIV DalamudRepo `1.6.1.0` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | NexusFFXIV DalamudRepo `1.3.1.4` |
-| `AutoPvpSeriesGrind` | MEGA Repository `2.15.0.0` | NexusFFXIV DalamudRepo `2.15.0.0` |
+| `AutoPvpSeriesGrind` | MEGA Repository `2.16.1.0` | NexusFFXIV DalamudRepo `2.16.1.0` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.2.18` | NexusFFXIV DalamudRepo `4.6.2.18` |
-| `AutoSeller` | MEGA Repository `1.3.0.0` | NexusFFXIV DalamudRepo `1.3.0.0` |
-| `AutoShopper` | MEGA Repository `1.5.0.0` | NexusFFXIV DalamudRepo `1.5.0.0` |
+| `AutoSeller` | MEGA Repository `1.4.0.0` | NexusFFXIV DalamudRepo `1.4.0.0` |
+| `AutoShopper` | MEGA Repository `1.6.0.0` | NexusFFXIV DalamudRepo `1.6.0.0` |
 | `AutoSightseeingLog` | XeldarAlz `1.12.1.0` | NexusFFXIV DalamudRepo `1.12.1.0` |
-| `AutoTreasureMaps` | MEGA Repository `1.5.0.0` | NexusFFXIV DalamudRepo `1.5.0.0` |
-| `AutoTripleTriadGrind` | MEGA Repository `1.3.2.0` | NexusFFXIV DalamudRepo `1.3.2.0` |
+| `AutoTreasureMaps` | MEGA Repository `1.6.0.0` | NexusFFXIV DalamudRepo `1.6.0.0` |
+| `AutoTripleTriadGrind` | MEGA Repository `1.4.0.0` | NexusFFXIV DalamudRepo `1.4.0.0` |
 | `Avarice` | Puni.sh (Ment) `2.2.0.13` | NexusFFXIV DalamudRepo `2.2.0.13` |
 | `Battlevest` | NightmareXIV `1.0.2.3` | NexusFFXIV DalamudRepo `1.0.2.3` |
 | `BDTHPlugin` | bees-repo `1.7.4.2` | NexusFFXIV DalamudRepo `1.7.4.2` |
@@ -720,7 +720,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | NexusFFXIV DalamudRepo `1.0.1.10` |
 | `Palantir` | Puni.sh (Ment) `0.0.0.9` | NexusFFXIV DalamudRepo `0.0.0.9` |
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.6` | NexusFFXIV DalamudRepo `1.6.4.6` |
-| `PassportCheckerReborn` | CombatReborn `7.5.7.1` | NexusFFXIV DalamudRepo `7.5.7.1` |
+| `PassportCheckerReborn` | CombatReborn `7.5.7.2` | NexusFFXIV DalamudRepo `7.5.7.2` |
 | `PatMeHonorific` | anya-hichu/DalamudPluginRepo `0.0.7.0` | NexusFFXIV DalamudRepo `0.0.7.0` |
 | `Penumbra` | Penumbra `1.7.2.1` | NexusFFXIV DalamudRepo `1.7.2.1` |
 | `PlayerNexusTracker` | MEGA Repository `0.4.1.0` | NexusFFXIV DalamudRepo `0.4.1.0` |

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T23:06:58.327Z",
-  "contentHash": "142ad5b63f9600f0",
+  "generatedAt": "2026-11-07T05:56:57.179Z",
+  "contentHash": "647c571d1a491713",
   "totalPlugins": 628,
   "masterPlugins": 622,
   "currentApiLevel": 15,
@@ -3307,7 +3307,7 @@
       "kept": "erdelf",
       "dropped": "eScape",
       "keptVersion": "0.0.0.397",
-      "droppedVersion": "0.0.0.396"
+      "droppedVersion": "0.0.0.397"
     },
     {
       "internalName": "Brio",
@@ -3625,6 +3625,13 @@
       "droppedVersion": "6.0.4.3"
     },
     {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3639,13 +3646,6 @@
       "droppedVersion": "15.756.3.60"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3653,11 +3653,11 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Palantir",
+      "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.9",
-      "droppedVersion": "0.0.0.9"
+      "keptVersion": "3.9.2.32",
+      "droppedVersion": "3.9.2.32"
     },
     {
       "internalName": "Saucy",
@@ -3674,11 +3674,11 @@
       "droppedVersion": "4.0.5.22"
     },
     {
-      "internalName": "Splatoon",
+      "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.32",
-      "droppedVersion": "3.9.2.32"
+      "keptVersion": "0.0.0.9",
+      "droppedVersion": "0.0.0.9"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3978,8 +3978,8 @@
       "internalName": "ActionTimelineReborn",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.7.4",
-      "droppedVersion": "7.5.7.4"
+      "keptVersion": "7.5.7.5",
+      "droppedVersion": "7.5.7.5"
     },
     {
       "internalName": "EasyZoomReborn",
@@ -4013,8 +4013,8 @@
       "internalName": "PassportCheckerReborn",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.7.1",
-      "droppedVersion": "7.5.7.1"
+      "keptVersion": "7.5.7.2",
+      "droppedVersion": "7.5.7.2"
     },
     {
       "internalName": "NoSillyReborn",
@@ -4293,70 +4293,70 @@
       "internalName": "AutoDailyTribes",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "2.11.4.0",
+      "keptVersion": "2.12.0.0",
       "droppedVersion": "2.11.3.0"
     },
     {
       "internalName": "AutoFateGrind",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "2.23.0.0",
+      "keptVersion": "2.24.0.0",
       "droppedVersion": "2.22.0.0"
     },
     {
       "internalName": "AutoGcSupply",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.3.0.0",
+      "keptVersion": "1.4.0.0",
       "droppedVersion": "1.1.0.0"
     },
     {
       "internalName": "AutoHouseLottery",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.3.0.0",
+      "keptVersion": "1.4.0.0",
       "droppedVersion": "1.2.1.0"
     },
     {
       "internalName": "AutoHuntGrinder",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.12.0.0",
+      "keptVersion": "1.13.0.0",
       "droppedVersion": "1.11.0.0"
     },
     {
       "internalName": "AutoHuntTrain",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.5.0.0",
+      "keptVersion": "1.6.0.0",
       "droppedVersion": "1.4.1.0"
     },
     {
       "internalName": "AutoKeyboundBrawler",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.6.0.0",
+      "keptVersion": "1.6.1.0",
       "droppedVersion": "1.5.2.0"
     },
     {
       "internalName": "AutoPvpSeriesGrind",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "2.15.0.0",
+      "keptVersion": "2.16.1.0",
       "droppedVersion": "2.13.1.0"
     },
     {
       "internalName": "AutoSeller",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.3.0.0",
+      "keptVersion": "1.4.0.0",
       "droppedVersion": "1.1.0.0"
     },
     {
       "internalName": "AutoShopper",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.5.0.0",
+      "keptVersion": "1.6.0.0",
       "droppedVersion": "1.4.0.0"
     },
     {
@@ -4370,14 +4370,14 @@
       "internalName": "AutoTreasureMaps",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.5.0.0",
+      "keptVersion": "1.6.0.0",
       "droppedVersion": "1.3.0.0"
     },
     {
       "internalName": "AutoTripleTriadGrind",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.3.2.0",
+      "keptVersion": "1.4.0.0",
       "droppedVersion": "1.3.1.0"
     },
     {
@@ -4713,8 +4713,8 @@
       "internalName": "ActionTimelineReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.7.4",
-      "droppedVersion": "7.5.7.4"
+      "keptVersion": "7.5.7.5",
+      "droppedVersion": "7.5.7.5"
     },
     {
       "internalName": "Aetherment",
@@ -4742,28 +4742,28 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "4.0.5.22",
-      "droppedVersion": "4.0.5.21"
+      "droppedVersion": "4.0.5.22"
     },
     {
       "internalName": "AutoDailyTribes",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.11.4.0",
-      "droppedVersion": "2.11.4.0"
+      "keptVersion": "2.12.0.0",
+      "droppedVersion": "2.12.0.0"
     },
     {
       "internalName": "AutoFateGrind",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.23.0.0",
-      "droppedVersion": "2.23.0.0"
+      "keptVersion": "2.24.0.0",
+      "droppedVersion": "2.24.0.0"
     },
     {
       "internalName": "AutoGcSupply",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.3.0.0",
-      "droppedVersion": "1.3.0.0"
+      "keptVersion": "1.4.0.0",
+      "droppedVersion": "1.4.0.0"
     },
     {
       "internalName": "AutoHook",
@@ -4776,29 +4776,29 @@
       "internalName": "AutoHouseLottery",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.3.0.0",
-      "droppedVersion": "1.3.0.0"
+      "keptVersion": "1.4.0.0",
+      "droppedVersion": "1.4.0.0"
     },
     {
       "internalName": "AutoHuntGrinder",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.12.0.0",
-      "droppedVersion": "1.12.0.0"
+      "keptVersion": "1.13.0.0",
+      "droppedVersion": "1.13.0.0"
     },
     {
       "internalName": "AutoHuntTrain",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.5.0.0",
-      "droppedVersion": "1.5.0.0"
+      "keptVersion": "1.6.0.0",
+      "droppedVersion": "1.6.0.0"
     },
     {
       "internalName": "AutoKeyboundBrawler",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.6.0.0",
-      "droppedVersion": "1.6.0.0"
+      "keptVersion": "1.6.1.0",
+      "droppedVersion": "1.6.1.0"
     },
     {
       "internalName": "AutoLogin",
@@ -4811,8 +4811,8 @@
       "internalName": "AutoPvpSeriesGrind",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.15.0.0",
-      "droppedVersion": "2.15.0.0"
+      "keptVersion": "2.16.1.0",
+      "droppedVersion": "2.16.1.0"
     },
     {
       "internalName": "AutoRetainer",
@@ -4825,15 +4825,15 @@
       "internalName": "AutoSeller",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.3.0.0",
-      "droppedVersion": "1.3.0.0"
+      "keptVersion": "1.4.0.0",
+      "droppedVersion": "1.4.0.0"
     },
     {
       "internalName": "AutoShopper",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.5.0.0",
-      "droppedVersion": "1.5.0.0"
+      "keptVersion": "1.6.0.0",
+      "droppedVersion": "1.6.0.0"
     },
     {
       "internalName": "AutoSightseeingLog",
@@ -4846,15 +4846,15 @@
       "internalName": "AutoTreasureMaps",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.5.0.0",
-      "droppedVersion": "1.5.0.0"
+      "keptVersion": "1.6.0.0",
+      "droppedVersion": "1.6.0.0"
     },
     {
       "internalName": "AutoTripleTriadGrind",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.3.2.0",
-      "droppedVersion": "1.3.2.0"
+      "keptVersion": "1.4.0.0",
+      "droppedVersion": "1.4.0.0"
     },
     {
       "internalName": "Avarice",
@@ -5189,8 +5189,8 @@
       "internalName": "PassportCheckerReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.7.1",
-      "droppedVersion": "7.5.7.1"
+      "keptVersion": "7.5.7.2",
+      "droppedVersion": "7.5.7.2"
     },
     {
       "internalName": "PatMeHonorific",
