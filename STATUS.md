@@ -1,6 +1,6 @@
 # Status
 
-Zuletzt aktualisiert: **2026-11-07 12:58 UTC**
+Zuletzt aktualisiert: **2026-11-07 19:25 UTC**
 
 - Plugins im Master-Feed: **622**
 - Plugins insgesamt (inkl. 18+): **628**
@@ -341,7 +341,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `vfaux` | Veyn (BossMod) `0.0.0.12` | awgil plugin distribution `0.0.0.4` |
 | `visland` | Veyn (BossMod) `0.0.0.152` | awgil plugin distribution `0.0.0.16` |
 | `AntiAfkKick-Dalamud` | NightmareXIV `2.1.0.11` | bees-repo `2.1.0.11` |
-| `Artisan` | Puni.sh (Ment) `4.0.5.23` | bees-repo `4.0.5.22` |
+| `Artisan` | Puni.sh (Ment) `4.0.5.23` | bees-repo `4.0.5.23` |
 | `AutoDuty` | erdelf `0.0.0.397` | bees-repo `0.0.0.397` |
 | `AutoHook` | Puni.sh (Ment) `6.0.4.3` | bees-repo `6.0.4.3` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.2.18` | bees-repo `4.6.2.18` |
@@ -356,7 +356,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Lifestream` | NightmareXIV `2.6.0.12` | bees-repo `2.6.0.12` |
 | `Marketbuddy` | Puni.sh (Ment) `0.2.4.2` | bees-repo `0.2.4.2` |
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | bees-repo `1.0.1.10` |
-| `Palantir` | Puni.sh (Ment) `0.0.0.9` | bees-repo `0.0.0.9` |
+| `Palantir` | Puni.sh (Ment) `0.0.0.10` | bees-repo `0.0.0.9` |
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.6` | bees-repo `1.6.4.6` |
 | `Penumbra` | Penumbra `1.7.2.1` | bees-repo `1.7.2.1` |
 | `Saucy` | Puni.sh (Ment) `2.1.2.9` | bees-repo `2.1.2.9` |
@@ -492,19 +492,19 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | Marketbuddy `0.2.4.1` |
 | `StartupCommands` | Maxunit / MyDalamudPlugins `1.3.0.1` | DalamudRepoCollection `1.1.0.2` |
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | MEGA Repository `1.0.1.10` |
-| `PandorasBox` | Puni.sh (Ment) `1.6.4.6` | MEGA Repository `1.6.4.6` |
 | `AutoRetainer` | Puni.sh (Ment) `4.6.2.18` | MEGA Repository `4.6.2.18` |
-| `Avarice` | Puni.sh (Ment) `2.2.0.13` | MEGA Repository `2.2.0.13` |
-| `AutoHook` | Puni.sh (Ment) `6.0.4.3` | MEGA Repository `6.0.4.3` |
+| `PandorasBox` | Puni.sh (Ment) `1.6.4.6` | MEGA Repository `1.6.4.6` |
 | `LazyLoot` | Puni.sh (Ment) `5.3.3.3` | MEGA Repository `5.3.3.3` |
+| `AutoHook` | Puni.sh (Ment) `6.0.4.3` | MEGA Repository `6.0.4.3` |
+| `Avarice` | Puni.sh (Ment) `2.2.0.13` | MEGA Repository `2.2.0.13` |
+| `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
 | `Questionable` | Puni.sh (Ment) `15.756.3.60` | MEGA Repository `15.756.3.60` |
 | `YesAlready` | Puni.sh (Ment) `1.15.7.7` | MEGA Repository `1.15.7.7` |
-| `Marketbuddy` | DalamudRepoCollection `0.3.0.0` | MEGA Repository `0.2.4.2` |
 | `WrathCombo` | Puni.sh (Ment) `1.0.4.27` | MEGA Repository `1.0.4.27` |
-| `Palantir` | Puni.sh (Ment) `0.0.0.9` | MEGA Repository `0.0.0.9` |
+| `Saucy` | Puni.sh (Ment) `2.1.2.9` | MEGA Repository `2.1.2.9` |
+| `Palantir` | Puni.sh (Ment) `0.0.0.10` | MEGA Repository `0.0.0.10` |
 | `Splatoon` | Puni.sh (Ment) `3.9.2.32` | MEGA Repository `3.9.2.32` |
 | `Artisan` | Puni.sh (Ment) `4.0.5.23` | MEGA Repository `4.0.5.23` |
-| `Saucy` | Puni.sh (Ment) `2.1.2.9` | MEGA Repository `2.1.2.9` |
 | `XIVComboExpanded` | daemitus MyDalamudPlugins `2.0.6.3` | MEGA Repository `2.0.6.3` |
 | `AutoLogin` | Aida-Enna XIVPlugins `1.3.1.4` | MEGA Repository `1.3.1.4` |
 | `AutoPillion` | Aida-Enna XIVPlugins `1.0.0.5` | MEGA Repository `1.0.0.5` |
@@ -611,7 +611,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `DiscordActivityHonorific` | anya-hichu/DalamudPluginRepo `0.0.5.0` | MEGA Repository `0.0.5.0` |
 | `DisPlacePlugin` | bees-repo `7.5.1.0` | MEGA Repository `7.5.1.0` |
 | `ExplorersIcebox` | ICE (Island Sanctuary) `1.1.0.3` | MEGA Repository `1.1.0.3` |
-| `GatherChill` | ICE (Island Sanctuary) `1.0.0.1` | MEGA Repository `1.0.0.1` |
+| `GatherChill` | ICE (Island Sanctuary) `1.0.0.2` | MEGA Repository `1.0.0.1` |
 | `ICE` | ICE (Island Sanctuary) `1.0.0.6` | MEGA Repository `1.0.0.6` |
 | `IINACT` | bees-repo `2.10.3.11` | MEGA Repository `2.10.3.11` |
 | `LightlessSync` | Lightless Sync `3.3.1.2` | MEGA Repository `3.3.1.2` |
@@ -693,7 +693,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `EasyZoomReborn` | CombatReborn `7.5.0.3` | NexusFFXIV DalamudRepo `7.5.0.3` |
 | `ExplorersIcebox` | ICE (Island Sanctuary) `1.1.0.3` | NexusFFXIV DalamudRepo `1.1.0.3` |
 | `GatherBuddyReborn` | CombatReborn `7.5.6.1` | NexusFFXIV DalamudRepo `7.5.6.1` |
-| `GatherChill` | ICE (Island Sanctuary) `1.0.0.1` | NexusFFXIV DalamudRepo `1.0.0.1` |
+| `GatherChill` | ICE (Island Sanctuary) `1.0.0.2` | NexusFFXIV DalamudRepo `1.0.0.1` |
 | `Glamourer` | Glamourer `1.7.1.3` | NexusFFXIV DalamudRepo `1.7.1.3` |
 | `heliosphere-plugin` | Sea of Stars `4.10.7.0` | NexusFFXIV DalamudRepo `4.10.7.0` |
 | `HuntTrainAssistant` | NightmareXIV `1.0.2.15` | NexusFFXIV DalamudRepo `1.0.2.15` |
@@ -718,7 +718,7 @@ Gleiches Plugin in mehreren Quellen – die hoehere Version gewinnt.
 | `NotesPal` | MEGA Repository `0.2.0.0` | NexusFFXIV DalamudRepo `0.2.0.0` |
 | `ObjectExplorer` | NightmareXIV `1.0.0.11` | NexusFFXIV DalamudRepo `1.0.0.11` |
 | `Orbwalker` | Puni.sh (Ment) `1.0.1.10` | NexusFFXIV DalamudRepo `1.0.1.10` |
-| `Palantir` | Puni.sh (Ment) `0.0.0.9` | NexusFFXIV DalamudRepo `0.0.0.9` |
+| `Palantir` | Puni.sh (Ment) `0.0.0.10` | NexusFFXIV DalamudRepo `0.0.0.9` |
 | `PandorasBox` | Puni.sh (Ment) `1.6.4.6` | NexusFFXIV DalamudRepo `1.6.4.6` |
 | `PassportCheckerReborn` | CombatReborn `7.5.7.2` | NexusFFXIV DalamudRepo `7.5.7.2` |
 | `PatMeHonorific` | anya-hichu/DalamudPluginRepo `0.0.7.0` | NexusFFXIV DalamudRepo `0.0.7.0` |

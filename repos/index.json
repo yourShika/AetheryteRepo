@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T12:58:47.166Z",
-  "contentHash": "1ab1358bc6a17a58",
+  "generatedAt": "2026-11-07T19:25:15.256Z",
+  "contentHash": "77409b46ef8bc3ad",
   "totalPlugins": 628,
   "masterPlugins": 622,
   "currentApiLevel": 15,
@@ -2537,7 +2537,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "4.0.5.23",
-      "droppedVersion": "4.0.5.22"
+      "droppedVersion": "4.0.5.23"
     },
     {
       "internalName": "AutoDuty",
@@ -2641,7 +2641,7 @@
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.9",
+      "keptVersion": "0.0.0.10",
       "droppedVersion": "0.0.0.9"
     },
     {
@@ -3590,13 +3590,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.6",
-      "droppedVersion": "1.6.4.6"
-    },
-    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3604,11 +3597,18 @@
       "droppedVersion": "4.6.2.18"
     },
     {
-      "internalName": "Avarice",
+      "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
+      "keptVersion": "1.6.4.6",
+      "droppedVersion": "1.6.4.6"
+    },
+    {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "AutoHook",
@@ -3618,11 +3618,18 @@
       "droppedVersion": "6.0.4.3"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Questionable",
@@ -3639,13 +3646,6 @@
       "droppedVersion": "1.15.7.7"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3653,11 +3653,18 @@
       "droppedVersion": "1.0.4.27"
     },
     {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.9",
+      "droppedVersion": "2.1.2.9"
+    },
+    {
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.9",
-      "droppedVersion": "0.0.0.9"
+      "keptVersion": "0.0.0.10",
+      "droppedVersion": "0.0.0.10"
     },
     {
       "internalName": "Splatoon",
@@ -3672,13 +3679,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.23",
       "droppedVersion": "4.0.5.23"
-    },
-    {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.9",
-      "droppedVersion": "2.1.2.9"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4426,7 +4426,7 @@
       "internalName": "GatherChill",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.0.0.1",
+      "keptVersion": "1.0.0.2",
       "droppedVersion": "1.0.0.1"
     },
     {
@@ -5000,7 +5000,7 @@
       "internalName": "GatherChill",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.0.1",
+      "keptVersion": "1.0.0.2",
       "droppedVersion": "1.0.0.1"
     },
     {
@@ -5175,7 +5175,7 @@
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "0.0.0.9",
+      "keptVersion": "0.0.0.10",
       "droppedVersion": "0.0.0.9"
     },
     {
