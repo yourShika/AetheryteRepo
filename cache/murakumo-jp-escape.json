@@ -1,7 +1,7 @@
 {
   "sourceId": "murakumo-jp-escape",
   "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
-  "fetchedAt": "2026-11-07",
+  "fetchedAt": "2026-11-08",
   "count": 13,
   "plugins": [
     {
@@ -380,12 +380,12 @@
       ],
       "InternalName": "AutoDuty",
       "RepoUrl": "https://github.com/erdelf/AutoDuty",
-      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.397/install/latest.zip",
-      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.397/update/latest.zip",
-      "AssemblyVersion": "0.0.0.397",
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.398/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.398/update/latest.zip",
+      "AssemblyVersion": "0.0.0.398",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "## What's Changed\r\n* fix Crucible Toggle Ids by @erdelf in https://github.com/erdelf/AutoDuty/pull/623\r\n* fix duty mode backing field by @erdelf in https://github.com/erdelf/AutoDuty/pull/627\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.396...0.0.0.397",
+      "Changelog": "## What's Changed\r\n* (1142) 「Other W2W - タンク以外まとめ」 The Sirensong Sea by @erdelf in https://github.com/erdelf/AutoDuty/pull/629\r\n* fix Until Conditions in Action phase by @erdelf in https://github.com/erdelf/AutoDuty/pull/631\r\n* adjusting overlay and mainbutton lines by @erdelf in https://github.com/erdelf/AutoDuty/pull/632\r\n* Moved Quick action buttons out of overlay config by @erdelf in https://github.com/erdelf/AutoDuty/pull/633\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.397...0.0.0.398",
       "TestingAssemblyVersion": "0.0.0.393",
       "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.393/install/testing.zip",
       "TestingDalamudApiLevel": "15",
