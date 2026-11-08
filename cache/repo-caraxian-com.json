@@ -1,7 +1,7 @@
 {
   "sourceId": "repo-caraxian-com",
   "url": "https://repo.caraxian.com",
-  "fetchedAt": "2026-11-04",
+  "fetchedAt": "2026-11-08",
   "count": 2,
   "plugins": [
     {
@@ -44,12 +44,12 @@
       "CanUnloadAsync": false,
       "LoadPriority": 0,
       "Punchline": "Alternative glamour management",
-      "LastUpdate": 1793778838,
+      "LastUpdate": 1794124524,
       "DownloadLinkInstall": "https://repo.caraxian.com/plugins/SimpleGlamourSwitcher/1.4.0.0.zip",
-      "DownloadLinkTesting": "https://repo.caraxian.com/plugins/SimpleGlamourSwitcher/1.4.1.1.zip",
+      "DownloadLinkTesting": "https://repo.caraxian.com/plugins/SimpleGlamourSwitcher/1.4.1.2.zip",
       "DownloadLinkUpdate": "https://repo.caraxian.com/plugins/SimpleGlamourSwitcher/1.4.0.0.zip",
       "TestingDalamudApiLevel": 15,
-      "TestingAssemblyVersion": "1.4.1.1",
+      "TestingAssemblyVersion": "1.4.1.2",
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "repo-caraxian-com",

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-08T00:34:32.271Z",
-  "contentHash": "de9acc5af0a8107c",
-  "totalPlugins": 628,
-  "masterPlugins": 622,
+  "generatedAt": "2026-11-08T10:19:55.890Z",
+  "contentHash": "90b871db6f81ca1c",
+  "totalPlugins": 630,
+  "masterPlugins": 624,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 352,
@@ -547,9 +547,9 @@
       "id": "daemitus-mydalamudplugins",
       "name": "daemitus MyDalamudPlugins",
       "url": "https://github.com/daemitus/MyDalamudPlugins/raw/master/pluginmaster.json",
-      "status": "ok",
+      "status": "stale",
       "count": 1,
-      "note": null
+      "note": "HTTP 504 Gateway Time-out"
     },
     {
       "id": "deccentric-dalamud-depot",
@@ -1916,7 +1916,7 @@
       "name": "exatrines / DalamudPlugins",
       "url": "https://raw.githubusercontent.com/exatrines/DalamudPlugins/main/pluginmaster.json",
       "status": "ok",
-      "count": 8,
+      "count": 10,
       "note": null
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 131,
+      "count": 133,
       "file": "repos/automation.json"
     },
     {
@@ -2698,7 +2698,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "1.15.7.8",
-      "droppedVersion": "1.15.7.7"
+      "droppedVersion": "1.15.7.8"
     },
     {
       "internalName": "Brio",
@@ -3604,13 +3604,6 @@
       "droppedVersion": "1.6.4.6"
     },
     {
-      "internalName": "Avarice",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
-    },
-    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,18 +3618,11 @@
       "droppedVersion": "6.0.4.3"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.8",
-      "droppedVersion": "1.15.7.8"
-    },
-    {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
     },
     {
       "internalName": "Questionable",
@@ -3646,6 +3632,20 @@
       "droppedVersion": "15.756.3.60"
     },
     {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.8",
+      "droppedVersion": "1.15.7.8"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3653,11 +3653,11 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Palantir",
+      "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.10",
-      "droppedVersion": "0.0.0.10"
+      "keptVersion": "2.1.2.9",
+      "droppedVersion": "2.1.2.9"
     },
     {
       "internalName": "Splatoon",
@@ -3674,11 +3674,11 @@
       "droppedVersion": "4.0.5.23"
     },
     {
-      "internalName": "Saucy",
+      "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.9",
-      "droppedVersion": "2.1.2.9"
+      "keptVersion": "0.0.0.10",
+      "droppedVersion": "0.0.0.10"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4391,8 +4391,8 @@
       "internalName": "ChilledLeves",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.0.2.0",
-      "droppedVersion": "1.0.2.0"
+      "keptVersion": "1.0.2.1",
+      "droppedVersion": "1.0.2.1"
     },
     {
       "internalName": "DeterministicPose",
@@ -4427,7 +4427,7 @@
       "kept": "ICE (Island Sanctuary)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.0.2",
-      "droppedVersion": "1.0.0.1"
+      "droppedVersion": "1.0.0.2"
     },
     {
       "internalName": "ICE",
@@ -4742,7 +4742,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "4.0.5.23",
-      "droppedVersion": "4.0.5.22"
+      "droppedVersion": "4.0.5.23"
     },
     {
       "internalName": "AutoDailyTribes",
@@ -4916,8 +4916,8 @@
       "internalName": "ChilledLeves",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.2.0",
-      "droppedVersion": "1.0.2.0"
+      "keptVersion": "1.0.2.1",
+      "droppedVersion": "1.0.2.1"
     },
     {
       "internalName": "CrystariumBoutique",
@@ -5001,7 +5001,7 @@
       "kept": "ICE (Island Sanctuary)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.0.0.2",
-      "droppedVersion": "1.0.0.1"
+      "droppedVersion": "1.0.0.2"
     },
     {
       "internalName": "Glamourer",
@@ -5176,7 +5176,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.0.0.10",
-      "droppedVersion": "0.0.0.9"
+      "droppedVersion": "0.0.0.10"
     },
     {
       "internalName": "PandorasBox",
@@ -5435,7 +5435,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.15.7.8",
-      "droppedVersion": "1.15.7.7"
+      "droppedVersion": "1.15.7.8"
     },
     {
       "internalName": "ZodiacBuddyReborn",
