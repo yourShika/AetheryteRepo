@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T19:25:15.256Z",
-  "contentHash": "77409b46ef8bc3ad",
+  "generatedAt": "2026-11-08T00:34:32.271Z",
+  "contentHash": "de9acc5af0a8107c",
   "totalPlugins": 628,
   "masterPlugins": 622,
   "currentApiLevel": 15,
@@ -2642,7 +2642,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "0.0.0.10",
-      "droppedVersion": "0.0.0.9"
+      "droppedVersion": "0.0.0.10"
     },
     {
       "internalName": "PandorasBox",
@@ -2697,7 +2697,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "1.15.7.7",
+      "keptVersion": "1.15.7.8",
       "droppedVersion": "1.15.7.7"
     },
     {
@@ -3173,7 +3173,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "1.15.7.7",
+      "keptVersion": "1.15.7.8",
       "droppedVersion": "1.2.2.3"
     },
     {
@@ -3604,6 +3604,13 @@
       "droppedVersion": "1.6.4.6"
     },
     {
+      "internalName": "Avarice",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
+    },
+    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3618,11 +3625,11 @@
       "droppedVersion": "6.0.4.3"
     },
     {
-      "internalName": "Avarice",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
+      "keptVersion": "1.15.7.8",
+      "droppedVersion": "1.15.7.8"
     },
     {
       "internalName": "Marketbuddy",
@@ -3639,25 +3646,11 @@
       "droppedVersion": "15.756.3.60"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.7",
-      "droppedVersion": "1.15.7.7"
-    },
-    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
-    },
-    {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.9",
-      "droppedVersion": "2.1.2.9"
     },
     {
       "internalName": "Palantir",
@@ -3679,6 +3672,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.23",
       "droppedVersion": "4.0.5.23"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.9",
+      "droppedVersion": "2.1.2.9"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4041,8 +4041,8 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "69.229",
-      "droppedVersion": "69.229"
+      "keptVersion": "69.230",
+      "droppedVersion": "69.230"
     },
     {
       "internalName": "GlamourLog",
@@ -4671,7 +4671,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MyDalamudPlugins",
-      "keptVersion": "1.15.7.7",
+      "keptVersion": "1.15.7.8",
       "droppedVersion": "1.2.2.1"
     },
     {
@@ -5434,7 +5434,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.15.7.7",
+      "keptVersion": "1.15.7.8",
       "droppedVersion": "1.15.7.7"
     },
     {
@@ -5826,7 +5826,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "69.229",
+      "keptVersion": "69.230",
       "droppedVersion": "69.55"
     },
     {
@@ -6218,7 +6218,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.15.7.7",
+      "keptVersion": "1.15.7.8",
       "droppedVersion": "1.9.0"
     },
     {
@@ -6351,8 +6351,8 @@
       "internalName": "ProjectGagSpeak",
       "kept": "MEGA Repository",
       "dropped": "Project GagSpeak",
-      "keptVersion": "2.2.4.0",
-      "droppedVersion": "2.2.4.0"
+      "keptVersion": "2.2.5.0",
+      "droppedVersion": "2.2.5.0"
     },
     {
       "internalName": "PuppetMaster",
@@ -7247,7 +7247,7 @@
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "OpaqueReptile / daemitus_MyDalamudPlugins",
-      "keptVersion": "1.15.7.7",
+      "keptVersion": "1.15.7.8",
       "droppedVersion": "1.2.2.1"
     },
     {
