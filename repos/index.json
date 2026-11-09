@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-08T22:03:16.762Z",
-  "contentHash": "63f60a40fda58608",
-  "totalPlugins": 630,
-  "masterPlugins": 624,
+  "generatedAt": "2026-11-09T06:25:17.109Z",
+  "contentHash": "e72b0bca596e4aa8",
+  "totalPlugins": 629,
+  "masterPlugins": 623,
   "currentApiLevel": 15,
   "minApiLevel": 13,
-  "legacyPlugins": 352,
+  "legacyPlugins": 353,
   "sources": [
     {
       "id": "penumbra",
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 133,
+      "count": 132,
       "file": "repos/automation.json"
     },
     {
@@ -2544,7 +2544,7 @@
       "kept": "erdelf",
       "dropped": "bees-repo",
       "keptVersion": "0.0.0.398",
-      "droppedVersion": "0.0.0.397"
+      "droppedVersion": "0.0.0.398"
     },
     {
       "internalName": "AutoHook",
@@ -3349,21 +3349,21 @@
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "Haselnussbomber",
       "keptVersion": "1.75.5.0",
-      "droppedVersion": "1.75.3.0"
+      "droppedVersion": "0.0.0.0"
     },
     {
       "internalName": "HaselTweaks",
       "kept": "bees-repo",
       "dropped": "Haselnussbomber",
       "keptVersion": "50.0.3.0",
-      "droppedVersion": "50.0.3.0"
+      "droppedVersion": "0.0.0.0"
     },
     {
       "internalName": "LeveHelper",
-      "kept": "Haselnussbomber",
-      "dropped": "DalamudRepoCollection",
-      "keptVersion": "2.6.0.0",
-      "droppedVersion": "0.1.3"
+      "kept": "DalamudRepoCollection",
+      "dropped": "Haselnussbomber",
+      "keptVersion": "0.1.3",
+      "droppedVersion": "0.0.0.0"
     },
     {
       "internalName": "Divination.AetheryteLinkInChat",
@@ -3604,11 +3604,11 @@
       "droppedVersion": "1.6.4.6"
     },
     {
-      "internalName": "Avarice",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "AutoHook",
@@ -3618,18 +3618,11 @@
       "droppedVersion": "6.0.4.3"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
     },
     {
       "internalName": "Questionable",
@@ -3637,6 +3630,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "15.756.3.60",
       "droppedVersion": "15.756.3.60"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "YesAlready",
@@ -3651,13 +3651,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
-    },
-    {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.23",
-      "droppedVersion": "4.0.5.23"
     },
     {
       "internalName": "Splatoon",
@@ -3679,6 +3672,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.9",
       "droppedVersion": "2.1.2.9"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.23",
+      "droppedVersion": "4.0.5.23"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3895,21 +3895,21 @@
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "MEGA Repository",
       "keptVersion": "1.75.5.0",
-      "droppedVersion": "1.75.3.0"
+      "droppedVersion": "0.0.0.0"
     },
     {
       "internalName": "HaselTweaks",
       "kept": "bees-repo",
       "dropped": "MEGA Repository",
       "keptVersion": "50.0.3.0",
-      "droppedVersion": "50.0.3.0"
+      "droppedVersion": "0.0.0.0"
     },
     {
       "internalName": "LeveHelper",
-      "kept": "Haselnussbomber",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.6.0.0",
-      "droppedVersion": "2.6.0.0"
+      "keptVersion": "0.1.3",
+      "droppedVersion": "0.0.0.0"
     },
     {
       "internalName": "vsatisfy",
@@ -4426,8 +4426,8 @@
       "internalName": "GatherChill",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.0.0.2",
-      "droppedVersion": "1.0.0.2"
+      "keptVersion": "1.0.0.3",
+      "droppedVersion": "1.0.0.3"
     },
     {
       "internalName": "ICE",
@@ -5000,8 +5000,8 @@
       "internalName": "GatherChill",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.0.2",
-      "droppedVersion": "1.0.0.2"
+      "keptVersion": "1.0.0.3",
+      "droppedVersion": "1.0.0.3"
     },
     {
       "internalName": "Glamourer",
@@ -5400,7 +5400,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.0.0.40",
-      "droppedVersion": "0.0.0.39"
+      "droppedVersion": "0.0.0.40"
     },
     {
       "internalName": "WExtras",
@@ -6933,21 +6933,21 @@
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "Haselnussbomber / DalamudPlugins",
       "keptVersion": "1.75.5.0",
-      "droppedVersion": "1.75.3.0"
+      "droppedVersion": "0.0.0.0"
     },
     {
       "internalName": "HaselTweaks",
       "kept": "bees-repo",
       "dropped": "Haselnussbomber / DalamudPlugins",
       "keptVersion": "50.0.3.0",
-      "droppedVersion": "50.0.3.0"
+      "droppedVersion": "0.0.0.0"
     },
     {
       "internalName": "LeveHelper",
-      "kept": "Haselnussbomber",
+      "kept": "DalamudRepoCollection",
       "dropped": "Haselnussbomber / DalamudPlugins",
-      "keptVersion": "2.6.0.0",
-      "droppedVersion": "2.6.0.0"
+      "keptVersion": "0.1.3",
+      "droppedVersion": "0.0.0.0"
     },
     {
       "internalName": "Visibility",
