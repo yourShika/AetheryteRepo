@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T21:17:21.363Z",
-  "contentHash": "edb12b74e6252c2a",
+  "generatedAt": "2026-11-11T06:16:16.057Z",
+  "contentHash": "722795a7e897c8e8",
   "totalPlugins": 630,
   "masterPlugins": 624,
   "currentApiLevel": 15,
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 133,
+      "count": 134,
       "file": "repos/automation.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 22,
+      "count": 21,
       "file": "repos/misc.json"
     }
   ],
@@ -3353,9 +3353,9 @@
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "bees-repo",
-      "dropped": "Haselnussbomber",
-      "keptVersion": "50.0.3.0",
+      "kept": "Haselnussbomber",
+      "dropped": "bees-repo",
+      "keptVersion": "50.0.4.0",
       "droppedVersion": "50.0.3.0"
     },
     {
@@ -3584,9 +3584,9 @@
     },
     {
       "internalName": "Meddle.Plugin",
-      "kept": "bees-repo",
-      "dropped": "Meddle",
-      "keptVersion": "0.1.57.0",
+      "kept": "Meddle",
+      "dropped": "bees-repo",
+      "keptVersion": "0.1.58.0",
       "droppedVersion": "0.1.57.0"
     },
     {
@@ -3597,13 +3597,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.6",
-      "droppedVersion": "1.6.4.6"
-    },
-    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3611,11 +3604,11 @@
       "droppedVersion": "4.6.2.18"
     },
     {
-      "internalName": "Avarice",
+      "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
+      "keptVersion": "1.6.4.6",
+      "droppedVersion": "1.6.4.6"
     },
     {
       "internalName": "AutoHook",
@@ -3625,25 +3618,18 @@
       "droppedVersion": "6.0.4.3"
     },
     {
+      "internalName": "Avarice",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
+    },
+    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "5.3.3.3",
       "droppedVersion": "5.3.3.3"
-    },
-    {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.60",
-      "droppedVersion": "15.756.3.60"
-    },
-    {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.8",
-      "droppedVersion": "1.15.7.8"
     },
     {
       "internalName": "Marketbuddy",
@@ -3653,11 +3639,32 @@
       "droppedVersion": "0.2.4.2"
     },
     {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.8",
+      "droppedVersion": "1.15.7.8"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.3.60",
+      "droppedVersion": "15.756.3.60"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.23",
+      "droppedVersion": "4.0.5.23"
     },
     {
       "internalName": "Palantir",
@@ -3679,13 +3686,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.9",
       "droppedVersion": "2.1.2.9"
-    },
-    {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.23",
-      "droppedVersion": "4.0.5.23"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3906,10 +3906,10 @@
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "bees-repo",
+      "kept": "Haselnussbomber",
       "dropped": "MEGA Repository",
-      "keptVersion": "50.0.3.0",
-      "droppedVersion": "50.0.3.0"
+      "keptVersion": "50.0.4.0",
+      "droppedVersion": "50.0.4.0"
     },
     {
       "internalName": "LeveHelper",
@@ -4434,7 +4434,7 @@
       "kept": "ICE (Island Sanctuary)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.0.4",
-      "droppedVersion": "1.0.0.3"
+      "droppedVersion": "1.0.0.4"
     },
     {
       "internalName": "ICE",
@@ -4448,7 +4448,7 @@
       "kept": "bees-repo",
       "dropped": "MEGA Repository",
       "keptVersion": "2.10.3.12",
-      "droppedVersion": "2.10.3.11"
+      "droppedVersion": "2.10.3.12"
     },
     {
       "internalName": "LightlessSync",
@@ -4473,10 +4473,10 @@
     },
     {
       "internalName": "Meddle.Plugin",
-      "kept": "bees-repo",
+      "kept": "Meddle",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.1.57.0",
-      "droppedVersion": "0.1.57.0"
+      "keptVersion": "0.1.58.0",
+      "droppedVersion": "0.1.58.0"
     },
     {
       "internalName": "ModSettingCommands",
@@ -5008,7 +5008,7 @@
       "kept": "ICE (Island Sanctuary)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.0.0.4",
-      "droppedVersion": "1.0.0.3"
+      "droppedVersion": "1.0.0.4"
     },
     {
       "internalName": "Glamourer",
@@ -5043,7 +5043,7 @@
       "kept": "bees-repo",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "2.10.3.12",
-      "droppedVersion": "2.10.3.11"
+      "droppedVersion": "2.10.3.12"
     },
     {
       "internalName": "Imagenation",
@@ -5078,7 +5078,7 @@
       "kept": "NightmareXIV",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "2.6.0.13",
-      "droppedVersion": "2.6.0.12"
+      "droppedVersion": "2.6.0.13"
     },
     {
       "internalName": "LightlessSync",
@@ -5117,10 +5117,10 @@
     },
     {
       "internalName": "Meddle.Plugin",
-      "kept": "bees-repo",
+      "kept": "Meddle",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "0.1.57.0",
-      "droppedVersion": "0.1.57.0"
+      "keptVersion": "0.1.58.0",
+      "droppedVersion": "0.1.58.0"
     },
     {
       "internalName": "MidiBard2",
@@ -5337,7 +5337,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "3.9.2.33",
-      "droppedVersion": "3.9.2.32"
+      "droppedVersion": "3.9.2.33"
     },
     {
       "internalName": "StandalonePluginManager",
@@ -5407,7 +5407,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.0.0.46",
-      "droppedVersion": "0.0.0.40"
+      "droppedVersion": "0.0.0.46"
     },
     {
       "internalName": "WExtras",
@@ -6601,9 +6601,9 @@
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "bees-repo",
+      "kept": "Haselnussbomber",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "50.0.3.0",
+      "keptVersion": "50.0.4.0",
       "droppedVersion": "50.0.2.3"
     },
     {
@@ -6944,10 +6944,10 @@
     },
     {
       "internalName": "HaselTweaks",
-      "kept": "bees-repo",
+      "kept": "Haselnussbomber",
       "dropped": "Haselnussbomber / DalamudPlugins",
-      "keptVersion": "50.0.3.0",
-      "droppedVersion": "50.0.3.0"
+      "keptVersion": "50.0.4.0",
+      "droppedVersion": "50.0.4.0"
     },
     {
       "internalName": "LeveHelper",
@@ -7413,9 +7413,9 @@
     },
     {
       "internalName": "AethertekPluginManager",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.7",
+      "kept": "xa-io / MyDalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "0.0.0.8",
       "droppedVersion": "0.0.0.7"
     },
     {
@@ -7464,7 +7464,7 @@
       "internalName": "MasterOfPuppets",
       "kept": "zunetrix / DalamudPlugins",
       "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
-      "keptVersion": "1.15.0.249",
+      "keptVersion": "1.15.0.250",
       "droppedVersion": "1.15.0.248"
     }
   ]
