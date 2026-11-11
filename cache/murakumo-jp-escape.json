@@ -1,7 +1,7 @@
 {
   "sourceId": "murakumo-jp-escape",
   "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
-  "fetchedAt": "2026-11-10",
+  "fetchedAt": "2026-11-11",
   "count": 13,
   "plugins": [
     {
@@ -380,12 +380,12 @@
       ],
       "InternalName": "AutoDuty",
       "RepoUrl": "https://github.com/erdelf/AutoDuty",
-      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.398/install/latest.zip",
-      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.398/update/latest.zip",
-      "AssemblyVersion": "0.0.0.398",
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.399/install/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.399/update/latest.zip",
+      "AssemblyVersion": "0.0.0.399",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
-      "Changelog": "## What's Changed\r\n* (1142) 「Other W2W - タンク以外まとめ」 The Sirensong Sea by @erdelf in https://github.com/erdelf/AutoDuty/pull/629\r\n* fix Until Conditions in Action phase by @erdelf in https://github.com/erdelf/AutoDuty/pull/631\r\n* adjusting overlay and mainbutton lines by @erdelf in https://github.com/erdelf/AutoDuty/pull/632\r\n* Moved Quick action buttons out of overlay config by @erdelf in https://github.com/erdelf/AutoDuty/pull/633\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.397...0.0.0.398",
+      "Changelog": "## What's Changed\r\n* (1044) The Praetorium: Modernized Path by @erdelf in https://github.com/erdelf/AutoDuty/pull/634\r\n* (1048) Porta Decumana: Stabilized P1 and P2 transition by @erdelf in https://github.com/erdelf/AutoDuty/pull/637\r\n* Crucible Update by @erdelf in https://github.com/erdelf/AutoDuty/pull/642\r\n\r\n\r\n**Full Changelog**: https://github.com/erdelf/AutoDuty/compare/0.0.0.398...0.0.0.399",
       "TestingAssemblyVersion": "0.0.0.393",
       "DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.393/install/testing.zip",
       "TestingDalamudApiLevel": "15",
