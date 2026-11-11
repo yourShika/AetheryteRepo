@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-11-10",
+  "fetchedAt": "2026-11-11",
   "count": 46,
   "plugins": [
     {
@@ -513,7 +513,7 @@
       "Author": "Haselnussbomber",
       "Name": "HaselTweaks [Bees]",
       "InternalName": "HaselTweaks",
-      "AssemblyVersion": "50.0.3.0",
+      "AssemblyVersion": "50.0.4.0",
       "Description": "There is a lot of tweaks with a bunch of options.\r\nFor a detailed description please visit the plugins repository or open /haseltweaks when installed.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
@@ -617,9 +617,9 @@
       "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
       "Punchline": "A collection of quality of life tweaks.",
       "AcceptsFeedback": true,
-      "Changelog": "Hide MSQ Complete\n\n- Added: The tweak now also checks if you have access to the expansion required for the next Main Scenario Quest. (Thanks to @alydevs)",
+      "Changelog": "HaselTweaks\n\n- Updated ClientStructs for Patch 7.58.",
       "DownloadCount": 69696969,
-      "LastUpdate": 1793293793,
+      "LastUpdate": 1794363122,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/HaselTweaks.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/HaselTweaks.zip",
       "IsHide": false,
@@ -872,7 +872,7 @@
       "Name": "Meddle [Bees]",
       "InternalName": "Meddle.Plugin",
       "Description": "Did I mention I'm a model? Export models to glTF format.",
-      "AssemblyVersion": "0.1.57.0",
+      "AssemblyVersion": "0.1.58.0",
       "RepoUrl": "https://github.com/PassiveModding/Meddle",
       "IconUrl": "https://github.com/PassiveModding/Meddle/raw/main/icon.png",
       "ApplicableVersion": "any",
