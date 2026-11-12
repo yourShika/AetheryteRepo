@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T21:57:29.312Z",
-  "contentHash": "caf6e690aaee20ca",
+  "generatedAt": "2026-11-12T07:08:00.067Z",
+  "contentHash": "0da4ebb805fabd9e",
   "totalPlugins": 630,
   "masterPlugins": 624,
   "currentApiLevel": 15,
@@ -2495,7 +2495,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "AtmoOmen / DalamudPlugins",
       "keptVersion": "1.2.3.15",
-      "droppedVersion": "0.8.9.0"
+      "droppedVersion": "0.9.0.0"
     },
     {
       "internalName": "GatherBuddyReborn",
@@ -3611,11 +3611,11 @@
       "droppedVersion": "4.6.2.21"
     },
     {
-      "internalName": "Avarice",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "AutoHook",
@@ -3625,25 +3625,11 @@
       "droppedVersion": "6.0.4.3"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.60",
-      "droppedVersion": "15.756.3.60"
-    },
-    {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
     },
     {
       "internalName": "YesAlready",
@@ -3653,25 +3639,25 @@
       "droppedVersion": "1.15.7.8"
     },
     {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.3.60",
+      "droppedVersion": "15.756.3.60"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
-    },
-    {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.10",
-      "droppedVersion": "0.0.0.10"
-    },
-    {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.9",
-      "droppedVersion": "2.1.2.9"
     },
     {
       "internalName": "Artisan",
@@ -3681,11 +3667,25 @@
       "droppedVersion": "4.0.5.23"
     },
     {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.10",
+      "droppedVersion": "0.0.0.10"
+    },
+    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.33",
       "droppedVersion": "3.9.2.33"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.9",
+      "droppedVersion": "2.1.2.9"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4398,8 +4398,8 @@
       "internalName": "ChilledLeves",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.0.2.1",
-      "droppedVersion": "1.0.2.1"
+      "keptVersion": "1.0.2.2",
+      "droppedVersion": "1.0.2.2"
     },
     {
       "internalName": "DeterministicPose",
@@ -4721,7 +4721,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.8.1",
-      "droppedVersion": "7.5.7.5"
+      "droppedVersion": "7.5.8.1"
     },
     {
       "internalName": "Aetherment",
@@ -4826,7 +4826,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "4.6.2.21",
-      "droppedVersion": "4.6.2.18"
+      "droppedVersion": "4.6.2.21"
     },
     {
       "internalName": "AutoSeller",
@@ -4889,14 +4889,14 @@
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.8.0",
-      "droppedVersion": "7.5.7.20"
+      "droppedVersion": "7.5.8.0"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.8.1",
-      "droppedVersion": "7.5.7.5"
+      "droppedVersion": "7.5.8.1"
     },
     {
       "internalName": "Brio",
@@ -4923,8 +4923,8 @@
       "internalName": "ChilledLeves",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.2.1",
-      "droppedVersion": "1.0.2.1"
+      "keptVersion": "1.0.2.2",
+      "droppedVersion": "1.0.2.2"
     },
     {
       "internalName": "CrystariumBoutique",
@@ -5197,7 +5197,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.8.1",
-      "droppedVersion": "7.5.7.2"
+      "droppedVersion": "7.5.8.1"
     },
     {
       "internalName": "PatMeHonorific",
@@ -5295,7 +5295,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.8.1",
-      "droppedVersion": "7.5.7.16"
+      "droppedVersion": "7.5.8.1"
     },
     {
       "internalName": "Saucy",
@@ -7429,7 +7429,7 @@
       "internalName": "XASlave",
       "kept": "xa-io / MyDalamudPlugins",
       "dropped": "McVaxius / TheDumpsterFire",
-      "keptVersion": "0.0.0.63",
+      "keptVersion": "0.0.0.64",
       "droppedVersion": "0.0.0.62"
     },
     {
@@ -7464,7 +7464,7 @@
       "internalName": "MasterOfPuppets",
       "kept": "zunetrix / DalamudPlugins",
       "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
-      "keptVersion": "1.15.0.251",
+      "keptVersion": "1.15.0.253",
       "droppedVersion": "1.15.0.250"
     }
   ]
