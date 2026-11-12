@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-11-11",
+  "fetchedAt": "2026-11-12",
   "count": 46,
   "plugins": [
     {
@@ -153,10 +153,10 @@
       "InternalName": "BossMod",
       "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
       "DownloadCount": 69696969,
-      "LastUpdate": 1794425980,
+      "LastUpdate": 1794505658,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/BossMod.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/BossMod.zip",
-      "AssemblyVersion": "7.5.8.0",
+      "AssemblyVersion": "7.5.8.1",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "Changelog": "",
@@ -872,7 +872,7 @@
       "Name": "Meddle [Bees]",
       "InternalName": "Meddle.Plugin",
       "Description": "Did I mention I'm a model? Export models to glTF format.",
-      "AssemblyVersion": "0.1.58.0",
+      "AssemblyVersion": "0.1.58.1",
       "RepoUrl": "https://github.com/PassiveModding/Meddle",
       "IconUrl": "https://github.com/PassiveModding/Meddle/raw/main/icon.png",
       "ApplicableVersion": "any",

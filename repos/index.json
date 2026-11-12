@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T17:35:03.967Z",
-  "contentHash": "6d99606dd9b34dc7",
+  "generatedAt": "2026-11-12T23:37:57.127Z",
+  "contentHash": "4fd6912b7248f676",
   "totalPlugins": 630,
   "masterPlugins": 624,
   "currentApiLevel": 15,
@@ -2452,7 +2452,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "44451516 / ffxiv_bossmod",
-      "keptVersion": "7.5.8.0",
+      "keptVersion": "7.5.8.1",
       "droppedVersion": "7.5.7.4"
     },
     {
@@ -2508,7 +2508,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "awgil plugin distribution",
-      "keptVersion": "7.5.8.0",
+      "keptVersion": "7.5.8.1",
       "droppedVersion": "0.0.0.122"
     },
     {
@@ -2564,8 +2564,8 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
-      "keptVersion": "7.5.8.0",
-      "droppedVersion": "7.5.8.0"
+      "keptVersion": "7.5.8.1",
+      "droppedVersion": "7.5.8.1"
     },
     {
       "internalName": "Brio",
@@ -2837,7 +2837,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "7.5.8.0",
+      "keptVersion": "7.5.8.1",
       "droppedVersion": "0.0.0.77"
     },
     {
@@ -3584,10 +3584,10 @@
     },
     {
       "internalName": "Meddle.Plugin",
-      "kept": "Meddle",
-      "dropped": "bees-repo",
+      "kept": "bees-repo",
+      "dropped": "Meddle",
       "keptVersion": "0.1.58.1",
-      "droppedVersion": "0.1.58.0"
+      "droppedVersion": "0.1.58.1"
     },
     {
       "internalName": "Orbwalker",
@@ -3611,11 +3611,11 @@
       "droppedVersion": "1.6.4.6"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.4.3",
-      "droppedVersion": "6.0.4.3"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "Avarice",
@@ -3625,11 +3625,11 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "6.0.4.3",
+      "droppedVersion": "6.0.4.3"
     },
     {
       "internalName": "Marketbuddy",
@@ -3660,18 +3660,18 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.33",
-      "droppedVersion": "3.9.2.33"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.9",
       "droppedVersion": "2.1.2.9"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.33",
+      "droppedVersion": "3.9.2.33"
     },
     {
       "internalName": "Artisan",
@@ -3943,8 +3943,8 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.8.0",
-      "droppedVersion": "7.5.8.0"
+      "keptVersion": "7.5.8.1",
+      "droppedVersion": "7.5.8.1"
     },
     {
       "internalName": "vfallguy",
@@ -4473,7 +4473,7 @@
     },
     {
       "internalName": "Meddle.Plugin",
-      "kept": "Meddle",
+      "kept": "bees-repo",
       "dropped": "MEGA Repository",
       "keptVersion": "0.1.58.1",
       "droppedVersion": "0.1.58.0"
@@ -4888,7 +4888,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.8.0",
+      "keptVersion": "7.5.8.1",
       "droppedVersion": "7.5.8.0"
     },
     {
@@ -5117,7 +5117,7 @@
     },
     {
       "internalName": "Meddle.Plugin",
-      "kept": "Meddle",
+      "kept": "bees-repo",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.1.58.1",
       "droppedVersion": "0.1.58.0"
@@ -5805,7 +5805,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.8.0",
+      "keptVersion": "7.5.8.1",
       "droppedVersion": "0.0.0.281"
     },
     {
