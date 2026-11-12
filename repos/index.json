@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T07:08:00.067Z",
-  "contentHash": "0da4ebb805fabd9e",
+  "generatedAt": "2026-11-12T17:35:03.967Z",
+  "contentHash": "6d99606dd9b34dc7",
   "totalPlugins": 630,
   "masterPlugins": 624,
   "currentApiLevel": 15,
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 134,
+      "count": 133,
       "file": "repos/automation.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 21,
+      "count": 22,
       "file": "repos/misc.json"
     }
   ],
@@ -2495,7 +2495,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "AtmoOmen / DalamudPlugins",
       "keptVersion": "1.2.3.15",
-      "droppedVersion": "0.9.0.0"
+      "droppedVersion": "0.9.1.0"
     },
     {
       "internalName": "GatherBuddyReborn",
@@ -3584,9 +3584,9 @@
     },
     {
       "internalName": "Meddle.Plugin",
-      "kept": "bees-repo",
-      "dropped": "Meddle",
-      "keptVersion": "0.1.58.0",
+      "kept": "Meddle",
+      "dropped": "bees-repo",
+      "keptVersion": "0.1.58.1",
       "droppedVersion": "0.1.58.0"
     },
     {
@@ -3597,13 +3597,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.6",
-      "droppedVersion": "1.6.4.6"
-    },
-    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3611,11 +3604,11 @@
       "droppedVersion": "4.6.2.21"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "1.6.4.6",
+      "droppedVersion": "1.6.4.6"
     },
     {
       "internalName": "AutoHook",
@@ -3632,11 +3625,11 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.8",
-      "droppedVersion": "1.15.7.8"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "Marketbuddy",
@@ -3644,6 +3637,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.8",
+      "droppedVersion": "1.15.7.8"
     },
     {
       "internalName": "Questionable",
@@ -3660,20 +3660,6 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.23",
-      "droppedVersion": "4.0.5.23"
-    },
-    {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.10",
-      "droppedVersion": "0.0.0.10"
-    },
-    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3686,6 +3672,20 @@
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.9",
       "droppedVersion": "2.1.2.9"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.23",
+      "droppedVersion": "4.0.5.23"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.10",
+      "droppedVersion": "0.0.0.10"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4048,8 +4048,8 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "69.231",
-      "droppedVersion": "69.231"
+      "keptVersion": "69.232",
+      "droppedVersion": "69.232"
     },
     {
       "internalName": "GlamourLog",
@@ -4454,7 +4454,7 @@
       "internalName": "LightlessSync",
       "kept": "Lightless Sync",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.3.1.2",
+      "keptVersion": "3.3.2.0",
       "droppedVersion": "3.3.1.2"
     },
     {
@@ -4473,9 +4473,9 @@
     },
     {
       "internalName": "Meddle.Plugin",
-      "kept": "bees-repo",
+      "kept": "Meddle",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.1.58.0",
+      "keptVersion": "0.1.58.1",
       "droppedVersion": "0.1.58.0"
     },
     {
@@ -5084,7 +5084,7 @@
       "internalName": "LightlessSync",
       "kept": "Lightless Sync",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "3.3.1.2",
+      "keptVersion": "3.3.2.0",
       "droppedVersion": "3.3.1.2"
     },
     {
@@ -5117,9 +5117,9 @@
     },
     {
       "internalName": "Meddle.Plugin",
-      "kept": "bees-repo",
+      "kept": "Meddle",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "0.1.58.0",
+      "keptVersion": "0.1.58.1",
       "droppedVersion": "0.1.58.0"
     },
     {
@@ -5833,7 +5833,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "69.231",
+      "keptVersion": "69.232",
       "droppedVersion": "69.55"
     },
     {
@@ -7420,31 +7420,31 @@
     },
     {
       "internalName": "XADatabase",
-      "kept": "xa-io / MyDalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
       "keptVersion": "0.0.0.50",
-      "droppedVersion": "0.0.0.49"
+      "droppedVersion": "0.0.0.50"
     },
     {
       "internalName": "XASlave",
-      "kept": "xa-io / MyDalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
-      "keptVersion": "0.0.0.64",
-      "droppedVersion": "0.0.0.62"
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
+      "keptVersion": "0.0.0.65",
+      "droppedVersion": "0.0.0.65"
     },
     {
       "internalName": "XAHudNavigator",
-      "kept": "xa-io / MyDalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
       "keptVersion": "0.0.0.12",
-      "droppedVersion": "0.0.0.11"
+      "droppedVersion": "0.0.0.12"
     },
     {
       "internalName": "XAZod",
-      "kept": "xa-io / MyDalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
       "keptVersion": "0.0.0.8",
-      "droppedVersion": "0.0.0.6"
+      "droppedVersion": "0.0.0.8"
     },
     {
       "internalName": "ICE",
@@ -7462,10 +7462,10 @@
     },
     {
       "internalName": "MasterOfPuppets",
-      "kept": "zunetrix / DalamudPlugins",
-      "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
+      "kept": "pffxivtools / ffxiv-bard-plugins-linux",
+      "dropped": "zunetrix / DalamudPlugins",
       "keptVersion": "1.15.0.253",
-      "droppedVersion": "1.15.0.250"
+      "droppedVersion": "1.15.0.253"
     }
   ]
 }
