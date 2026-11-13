@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T23:37:57.127Z",
-  "contentHash": "4fd6912b7248f676",
+  "generatedAt": "2026-11-13T06:42:43.285Z",
+  "contentHash": "275315f1bfc078ae",
   "totalPlugins": 630,
   "masterPlugins": 624,
   "currentApiLevel": 15,
@@ -3611,6 +3611,13 @@
       "droppedVersion": "1.6.4.6"
     },
     {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.4.3",
+      "droppedVersion": "6.0.4.3"
+    },
+    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,18 +3632,11 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.4.3",
-      "droppedVersion": "6.0.4.3"
-    },
-    {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "15.756.3.60",
+      "droppedVersion": "15.756.3.60"
     },
     {
       "internalName": "YesAlready",
@@ -3646,11 +3646,11 @@
       "droppedVersion": "1.15.7.8"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.60",
-      "droppedVersion": "15.756.3.60"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "WrathCombo",
@@ -3660,13 +3660,6 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.9",
-      "droppedVersion": "2.1.2.9"
-    },
-    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3674,18 +3667,25 @@
       "droppedVersion": "3.9.2.33"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.23",
-      "droppedVersion": "4.0.5.23"
-    },
-    {
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "0.0.0.10",
       "droppedVersion": "0.0.0.10"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.9",
+      "droppedVersion": "2.1.2.9"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.23",
+      "droppedVersion": "4.0.5.23"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4455,7 +4455,7 @@
       "kept": "Lightless Sync",
       "dropped": "MEGA Repository",
       "keptVersion": "3.3.2.0",
-      "droppedVersion": "3.3.1.2"
+      "droppedVersion": "3.3.2.0"
     },
     {
       "internalName": "LMeter",
@@ -4476,7 +4476,7 @@
       "kept": "bees-repo",
       "dropped": "MEGA Repository",
       "keptVersion": "0.1.58.1",
-      "droppedVersion": "0.1.58.0"
+      "droppedVersion": "0.1.58.1"
     },
     {
       "internalName": "ModSettingCommands",
@@ -4889,7 +4889,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.8.1",
-      "droppedVersion": "7.5.8.0"
+      "droppedVersion": "7.5.8.1"
     },
     {
       "internalName": "BossModReborn",
@@ -5085,7 +5085,7 @@
       "kept": "Lightless Sync",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "3.3.2.0",
-      "droppedVersion": "3.3.1.2"
+      "droppedVersion": "3.3.2.0"
     },
     {
       "internalName": "LMeter",
@@ -5120,7 +5120,7 @@
       "kept": "bees-repo",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.1.58.1",
-      "droppedVersion": "0.1.58.0"
+      "droppedVersion": "0.1.58.1"
     },
     {
       "internalName": "MidiBard2",
