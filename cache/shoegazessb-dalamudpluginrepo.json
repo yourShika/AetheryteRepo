@@ -1,9 +1,38 @@
 {
   "sourceId": "shoegazessb-dalamudpluginrepo",
   "url": "https://raw.githubusercontent.com/SHOEGAZEssb/DalamudPluginRepo/master/pluginmaster.json",
-  "fetchedAt": "2026-11-11",
+  "fetchedAt": "2026-11-13",
   "count": 3,
   "plugins": [
+    {
+      "Author": "SHOEGAZEssb",
+      "Name": "AchManager",
+      "Punchline": "Get notifications for achievement progress!",
+      "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
+      "Changelog": "",
+      "InternalName": "AchManager",
+      "AssemblyVersion": "1.7.0.0",
+      "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "achievements"
+      ],
+      "DalamudApiLevel": 15,
+      "IconUrl": "",
+      "ImageUrls": [
+        ""
+      ],
+      "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.7.0.0/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.7.0.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.7.0.0/latest.zip",
+      "DownloadCount": 1588,
+      "LastUpdate": "1777995656",
+      "_SourceId": "shoegazessb-dalamudpluginrepo",
+      "_SourceName": "SHOEGAZEssb DalamudPluginRepo",
+      "_SourceUrl": "https://raw.githubusercontent.com/SHOEGAZEssb/DalamudPluginRepo/master/pluginmaster.json"
+    },
     {
       "Author": "SHOEGAZEssb",
       "Name": "DutyLanguage",
@@ -38,9 +67,9 @@
       "Name": "Dagobert",
       "Punchline": "Penny pinching to the extreme",
       "Description": "Automates market board penny pinching",
-      "Changelog": "",
+      "Changelog": "Fix Auto Pinch skipping normal listings on German, French, and Japanese clients by using the localized context menu action instead of the pricing window title.",
       "InternalName": "Dagobert",
-      "AssemblyVersion": "1.15.0.0",
+      "AssemblyVersion": "1.15.1.0",
       "RepoUrl": "https://github.com/SHOEGAZEssb/Dagobert",
       "ApplicableVersion": "any",
       "Tags": [
@@ -51,42 +80,13 @@
       "ImageUrls": [
         ""
       ],
-      "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.15.0.0/latest.zip",
+      "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.15.1.0/latest.zip",
       "IsHide": false,
       "IsTestingExclusive": false,
-      "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.15.0.0/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.15.0.0/latest.zip",
-      "DownloadCount": 24384,
-      "LastUpdate": "1794415242",
-      "_SourceId": "shoegazessb-dalamudpluginrepo",
-      "_SourceName": "SHOEGAZEssb DalamudPluginRepo",
-      "_SourceUrl": "https://raw.githubusercontent.com/SHOEGAZEssb/DalamudPluginRepo/master/pluginmaster.json"
-    },
-    {
-      "Author": "SHOEGAZEssb",
-      "Name": "AchManager",
-      "Punchline": "Get notifications for achievement progress!",
-      "Description": "Lets you watch achievements that will be checked for progress when certain things happen.",
-      "Changelog": "",
-      "InternalName": "AchManager",
-      "AssemblyVersion": "1.7.0.0",
-      "RepoUrl": "https://github.com/SHOEGAZEssb/AchManager",
-      "ApplicableVersion": "any",
-      "Tags": [
-        "achievements"
-      ],
-      "DalamudApiLevel": 15,
-      "IconUrl": "",
-      "ImageUrls": [
-        ""
-      ],
-      "DownloadLinkInstall": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.7.0.0/latest.zip",
-      "IsHide": false,
-      "IsTestingExclusive": false,
-      "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.7.0.0/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/AchManager/releases/download/v1.7.0.0/latest.zip",
-      "DownloadCount": 1585,
-      "LastUpdate": "1777995656",
+      "DownloadLinkTesting": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.15.1.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/SHOEGAZEssb/Dagobert/releases/download/v1.15.1.0/latest.zip",
+      "DownloadCount": 25734,
+      "LastUpdate": "1794591364",
       "_SourceId": "shoegazessb-dalamudpluginrepo",
       "_SourceName": "SHOEGAZEssb DalamudPluginRepo",
       "_SourceUrl": "https://raw.githubusercontent.com/SHOEGAZEssb/DalamudPluginRepo/master/pluginmaster.json"
