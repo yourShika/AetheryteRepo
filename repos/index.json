@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-14T06:19:50.738Z",
-  "contentHash": "3950b24ef5bad87b",
-  "totalPlugins": 630,
-  "masterPlugins": 624,
+  "generatedAt": "2026-11-14T15:48:16.335Z",
+  "contentHash": "9c0c464d2c4efb6c",
+  "totalPlugins": 634,
+  "masterPlugins": 628,
   "currentApiLevel": 15,
   "minApiLevel": 13,
-  "legacyPlugins": 352,
+  "legacyPlugins": 353,
   "sources": [
     {
       "id": "penumbra",
@@ -1196,7 +1196,7 @@
       "name": "NiGuangOwO / DalamudPlugins",
       "url": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
       "status": "ok",
-      "count": 36,
+      "count": 35,
       "note": null
     },
     {
@@ -2100,7 +2100,7 @@
       "name": "McVaxius / TheDumpsterFire",
       "url": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json",
       "status": "ok",
-      "count": 30,
+      "count": 35,
       "note": null
     },
     {
@@ -2350,7 +2350,7 @@
       "name": "Kampf & Rotation",
       "emoji": "⚔️",
       "description": "Rotationen, Boss-Timeline, Combos, PvP",
-      "count": 74,
+      "count": 73,
       "file": "repos/combat.json"
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 133,
+      "count": 137,
       "file": "repos/automation.json"
     },
     {
@@ -2374,7 +2374,7 @@
       "name": "Quality of Life & UI",
       "emoji": "✨",
       "description": "Tweaks, Interface, Chat, Inventar, Karten",
-      "count": 158,
+      "count": 159,
       "file": "repos/qol.json"
     },
     {
@@ -2565,7 +2565,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
       "keptVersion": "7.5.8.2",
-      "droppedVersion": "7.5.8.1"
+      "droppedVersion": "7.5.8.2"
     },
     {
       "internalName": "Brio",
@@ -3660,13 +3660,6 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.10",
-      "droppedVersion": "0.0.0.10"
-    },
-    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3674,18 +3667,25 @@
       "droppedVersion": "3.9.2.33"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.9",
-      "droppedVersion": "2.1.2.9"
-    },
-    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.23",
       "droppedVersion": "4.0.5.23"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.10",
+      "droppedVersion": "0.0.0.10"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.9",
+      "droppedVersion": "2.1.2.9"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4048,8 +4048,8 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "69.232",
-      "droppedVersion": "69.232"
+      "keptVersion": "69.234",
+      "droppedVersion": "69.234"
     },
     {
       "internalName": "GlamourLog",
@@ -5704,11 +5704,11 @@
       "droppedVersion": "1.14.0.35"
     },
     {
-      "internalName": "PalacePal",
-      "kept": "NiGuangOwO / DalamudPlugins",
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "4.15.0.0",
-      "droppedVersion": "4.14.0.1"
+      "keptVersion": "0.0.0.10",
+      "droppedVersion": "0.0.0.10"
     },
     {
       "internalName": "PandorasBox",
@@ -5833,7 +5833,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "69.232",
+      "keptVersion": "69.234",
       "droppedVersion": "69.55"
     },
     {
@@ -6045,13 +6045,6 @@
       "dropped": "nite-cat / the-giga-repo",
       "keptVersion": "1.0.1.10",
       "droppedVersion": "1.0.1.0"
-    },
-    {
-      "internalName": "PalacePal",
-      "kept": "NiGuangOwO / DalamudPlugins",
-      "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "4.15.0.0",
-      "droppedVersion": "4.11.0.0"
     },
     {
       "internalName": "PandorasBox",
@@ -7427,10 +7420,10 @@
     },
     {
       "internalName": "XASlave",
-      "kept": "xa-io / MyDalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
       "keptVersion": "0.0.0.66",
-      "droppedVersion": "0.0.0.65"
+      "droppedVersion": "0.0.0.66"
     },
     {
       "internalName": "XAHudNavigator",
