@@ -1,7 +1,7 @@
 {
   "sourceId": "murakumo-jp-escape",
   "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
-  "fetchedAt": "2026-11-11",
+  "fetchedAt": "2026-11-14",
   "count": 13,
   "plugins": [
     {
@@ -354,8 +354,8 @@
       "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.5.6.1/GatherbuddyReborn.zip",
       "AssemblyVersion": "7.5.6.1",
       "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.5.6.1/GatherbuddyReborn.zip",
-      "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.4.5.17/GatherbuddyReborn.zip",
-      "TestingAssemblyVersion": "7.4.5.17",
+      "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.5.8.1/GatherbuddyReborn.zip",
+      "TestingAssemblyVersion": "7.5.8.1",
       "Changelog": "## What's Changed\r\n* Autogig fix by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/670\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.6.0...7.5.6.1",
       "IsHide": false,
       "_SourceId": "murakumo-jp-escape",

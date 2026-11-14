@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T23:31:39.334Z",
-  "contentHash": "418f32566428de37",
+  "generatedAt": "2026-11-14T06:19:50.738Z",
+  "contentHash": "3950b24ef5bad87b",
   "totalPlugins": 630,
   "masterPlugins": 624,
   "currentApiLevel": 15,
@@ -2452,14 +2452,14 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "44451516 / ffxiv_bossmod",
-      "keptVersion": "7.5.8.1",
+      "keptVersion": "7.5.8.2",
       "droppedVersion": "7.5.7.4"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "44451516-ff14 / BossmodRebornCN",
-      "keptVersion": "7.5.8.4",
+      "keptVersion": "7.5.8.5",
       "droppedVersion": "7.5.7.2"
     },
     {
@@ -2508,7 +2508,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "awgil plugin distribution",
-      "keptVersion": "7.5.8.1",
+      "keptVersion": "7.5.8.2",
       "droppedVersion": "0.0.0.122"
     },
     {
@@ -2564,7 +2564,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
-      "keptVersion": "7.5.8.1",
+      "keptVersion": "7.5.8.2",
       "droppedVersion": "7.5.8.1"
     },
     {
@@ -2837,7 +2837,7 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "7.5.8.1",
+      "keptVersion": "7.5.8.2",
       "droppedVersion": "0.0.0.77"
     },
     {
@@ -3639,18 +3639,18 @@
       "droppedVersion": "1.15.7.8"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "15.756.3.60",
       "droppedVersion": "15.756.3.60"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "WrathCombo",
@@ -3660,13 +3660,6 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.9",
-      "droppedVersion": "2.1.2.9"
-    },
-    {
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3674,18 +3667,25 @@
       "droppedVersion": "0.0.0.10"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.23",
-      "droppedVersion": "4.0.5.23"
-    },
-    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "3.9.2.33",
       "droppedVersion": "3.9.2.33"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.9",
+      "droppedVersion": "2.1.2.9"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.23",
+      "droppedVersion": "4.0.5.23"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3943,8 +3943,8 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.8.1",
-      "droppedVersion": "7.5.8.1"
+      "keptVersion": "7.5.8.2",
+      "droppedVersion": "7.5.8.2"
     },
     {
       "internalName": "vfallguy",
@@ -3978,8 +3978,8 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.8.4",
-      "droppedVersion": "7.5.8.4"
+      "keptVersion": "7.5.8.5",
+      "droppedVersion": "7.5.8.5"
     },
     {
       "internalName": "ActionTimelineReborn",
@@ -4251,8 +4251,8 @@
       "internalName": "TimeMemoriaV3",
       "kept": "LegendsOfTheGame / TimeMemoriaV3",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.12.0.15",
-      "droppedVersion": "3.12.0.15"
+      "keptVersion": "3.13.0.15",
+      "droppedVersion": "3.13.0.15"
     },
     {
       "internalName": "Snowcloak",
@@ -4399,7 +4399,7 @@
       "kept": "ICE (Island Sanctuary)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.2.3",
-      "droppedVersion": "1.0.2.2"
+      "droppedVersion": "1.0.2.3"
     },
     {
       "internalName": "DeterministicPose",
@@ -4433,8 +4433,8 @@
       "internalName": "GatherChill",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.0.0.4",
-      "droppedVersion": "1.0.0.4"
+      "keptVersion": "1.0.0.5",
+      "droppedVersion": "1.0.0.5"
     },
     {
       "internalName": "ICE",
@@ -4888,15 +4888,15 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.8.1",
-      "droppedVersion": "7.5.8.1"
+      "keptVersion": "7.5.8.2",
+      "droppedVersion": "7.5.8.2"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.8.4",
-      "droppedVersion": "7.5.8.1"
+      "keptVersion": "7.5.8.5",
+      "droppedVersion": "7.5.8.5"
     },
     {
       "internalName": "Brio",
@@ -4924,7 +4924,7 @@
       "kept": "ICE (Island Sanctuary)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.0.2.3",
-      "droppedVersion": "1.0.2.2"
+      "droppedVersion": "1.0.2.3"
     },
     {
       "internalName": "CrystariumBoutique",
@@ -5007,8 +5007,8 @@
       "internalName": "GatherChill",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.0.4",
-      "droppedVersion": "1.0.0.4"
+      "keptVersion": "1.0.0.5",
+      "droppedVersion": "1.0.0.5"
     },
     {
       "internalName": "Glamourer",
@@ -5295,7 +5295,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.8.3",
-      "droppedVersion": "7.5.8.1"
+      "droppedVersion": "7.5.8.3"
     },
     {
       "internalName": "Saucy",
@@ -5602,21 +5602,21 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.8.4",
-      "droppedVersion": "7.5.8.1"
+      "keptVersion": "7.5.8.5",
+      "droppedVersion": "7.5.8.5"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.8.4",
+      "keptVersion": "7.5.8.5",
       "droppedVersion": "7.3.5.27"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.8.4",
+      "keptVersion": "7.5.8.5",
       "droppedVersion": "7.4.5.18"
     },
     {
@@ -5805,14 +5805,14 @@
       "internalName": "BossMod",
       "kept": "Veyn (BossMod)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.8.1",
+      "keptVersion": "7.5.8.2",
       "droppedVersion": "0.0.0.281"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.8.4",
+      "keptVersion": "7.5.8.5",
       "droppedVersion": "7.2.0.261"
     },
     {
@@ -6883,7 +6883,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "dal4kr / Dalamud.Resources",
-      "keptVersion": "7.5.8.4",
+      "keptVersion": "7.5.8.5",
       "droppedVersion": "7.4.5.14"
     },
     {
@@ -6911,7 +6911,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.8.4",
+      "keptVersion": "7.5.8.5",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -7107,7 +7107,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "7.5.8.4",
+      "keptVersion": "7.5.8.5",
       "droppedVersion": "0.0.0.9"
     },
     {
@@ -7163,7 +7163,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "7.5.8.4",
+      "keptVersion": "7.5.8.5",
       "droppedVersion": "7.5.1.23"
     },
     {
