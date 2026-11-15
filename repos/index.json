@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T16:20:12.426Z",
-  "contentHash": "d27629fb254a5de8",
+  "generatedAt": "2026-11-15T22:47:23.020Z",
+  "contentHash": "307502a4f7137d30",
   "totalPlugins": 634,
   "masterPlugins": 628,
   "currentApiLevel": 15,
@@ -2459,7 +2459,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "44451516-ff14 / BossmodRebornCN",
-      "keptVersion": "7.5.8.5",
+      "keptVersion": "7.5.8.6",
       "droppedVersion": "7.5.7.2"
     },
     {
@@ -2495,7 +2495,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "AtmoOmen / DalamudPlugins",
       "keptVersion": "1.2.3.15",
-      "droppedVersion": "0.9.2.0"
+      "droppedVersion": "0.9.3.0"
     },
     {
       "internalName": "GatherBuddyReborn",
@@ -2684,7 +2684,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
       "keptVersion": "0.0.0.153",
-      "droppedVersion": "0.0.0.152"
+      "droppedVersion": "0.0.0.153"
     },
     {
       "internalName": "vnavmesh",
@@ -3258,7 +3258,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "eScape",
       "keptVersion": "0.0.0.153",
-      "droppedVersion": "0.0.0.152"
+      "droppedVersion": "0.0.0.153"
     },
     {
       "internalName": "vnavmesh",
@@ -3611,18 +3611,18 @@
       "droppedVersion": "1.6.4.6"
     },
     {
-      "internalName": "Avarice",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "6.0.4.3",
       "droppedVersion": "6.0.4.3"
+    },
+    {
+      "internalName": "Avarice",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
     },
     {
       "internalName": "LazyLoot",
@@ -3632,18 +3632,18 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.8",
-      "droppedVersion": "1.15.7.8"
-    },
-    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.8",
+      "droppedVersion": "1.15.7.8"
     },
     {
       "internalName": "Questionable",
@@ -3660,11 +3660,11 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Palantir",
+      "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.10",
-      "droppedVersion": "0.0.0.10"
+      "keptVersion": "2.1.2.9",
+      "droppedVersion": "2.1.2.9"
     },
     {
       "internalName": "Artisan",
@@ -3674,11 +3674,11 @@
       "droppedVersion": "4.0.5.23"
     },
     {
-      "internalName": "Saucy",
+      "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.9",
-      "droppedVersion": "2.1.2.9"
+      "keptVersion": "0.0.0.10",
+      "droppedVersion": "0.0.0.10"
     },
     {
       "internalName": "Splatoon",
@@ -3978,8 +3978,8 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.8.5",
-      "droppedVersion": "7.5.8.5"
+      "keptVersion": "7.5.8.6",
+      "droppedVersion": "7.5.8.6"
     },
     {
       "internalName": "ActionTimelineReborn",
@@ -4895,7 +4895,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.8.5",
+      "keptVersion": "7.5.8.6",
       "droppedVersion": "7.5.8.5"
     },
     {
@@ -5602,21 +5602,21 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.8.5",
+      "keptVersion": "7.5.8.6",
       "droppedVersion": "7.5.8.5"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.8.5",
+      "keptVersion": "7.5.8.6",
       "droppedVersion": "7.3.5.27"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.8.5",
+      "keptVersion": "7.5.8.6",
       "droppedVersion": "7.4.5.18"
     },
     {
@@ -5812,7 +5812,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.8.5",
+      "keptVersion": "7.5.8.6",
       "droppedVersion": "7.2.0.261"
     },
     {
@@ -6876,7 +6876,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "dal4kr / Dalamud.Resources",
-      "keptVersion": "7.5.8.5",
+      "keptVersion": "7.5.8.6",
       "droppedVersion": "7.4.5.14"
     },
     {
@@ -6904,7 +6904,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.8.5",
+      "keptVersion": "7.5.8.6",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -7100,7 +7100,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "7.5.8.5",
+      "keptVersion": "7.5.8.6",
       "droppedVersion": "0.0.0.9"
     },
     {
@@ -7156,7 +7156,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "7.5.8.5",
+      "keptVersion": "7.5.8.6",
       "droppedVersion": "7.5.1.23"
     },
     {
@@ -7422,7 +7422,7 @@
       "internalName": "XASlave",
       "kept": "xa-io / MyDalamudPlugins",
       "dropped": "McVaxius / TheDumpsterFire",
-      "keptVersion": "0.0.0.67",
+      "keptVersion": "0.0.0.68",
       "droppedVersion": "0.0.0.66"
     },
     {
