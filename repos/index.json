@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T22:22:39.848Z",
-  "contentHash": "735a207b1a4353d5",
+  "generatedAt": "2026-11-15T06:29:10.950Z",
+  "contentHash": "2e318ea8dd8f8436",
   "totalPlugins": 634,
   "masterPlugins": 628,
   "currentApiLevel": 15,
@@ -2565,7 +2565,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
       "keptVersion": "7.5.8.3",
-      "droppedVersion": "7.5.8.2"
+      "droppedVersion": "7.5.8.3"
     },
     {
       "internalName": "Brio",
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.6.4.6"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.4.3",
-      "droppedVersion": "6.0.4.3"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,11 +3618,25 @@
       "droppedVersion": "2.2.0.13"
     },
     {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.4.3",
+      "droppedVersion": "6.0.4.3"
+    },
+    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "5.3.3.3",
       "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.3.60",
+      "droppedVersion": "15.756.3.60"
     },
     {
       "internalName": "Marketbuddy",
@@ -3646,18 +3653,18 @@
       "droppedVersion": "1.15.7.8"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.60",
-      "droppedVersion": "15.756.3.60"
-    },
-    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.23",
+      "droppedVersion": "4.0.5.23"
     },
     {
       "internalName": "Splatoon",
@@ -3679,13 +3686,6 @@
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.9",
       "droppedVersion": "2.1.2.9"
-    },
-    {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.23",
-      "droppedVersion": "4.0.5.23"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -4826,7 +4826,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "4.6.2.22",
-      "droppedVersion": "4.6.2.21"
+      "droppedVersion": "4.6.2.22"
     },
     {
       "internalName": "AutoSeller",
@@ -4889,7 +4889,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.8.3",
-      "droppedVersion": "7.5.8.2"
+      "droppedVersion": "7.5.8.3"
     },
     {
       "internalName": "BossModReborn",
@@ -5407,7 +5407,7 @@
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.0.0.47",
-      "droppedVersion": "0.0.0.46"
+      "droppedVersion": "0.0.0.47"
     },
     {
       "internalName": "WExtras",
