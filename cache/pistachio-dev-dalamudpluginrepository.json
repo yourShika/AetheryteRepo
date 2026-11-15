@@ -1,7 +1,7 @@
 {
   "sourceId": "pistachio-dev-dalamudpluginrepository",
   "url": "https://raw.githubusercontent.com/Pistachio-dev/DalamudPluginRepository/main/repo.json",
-  "fetchedAt": "2026-11-14",
+  "fetchedAt": "2026-11-15",
   "count": 11,
   "plugins": [
     {
@@ -67,13 +67,13 @@
       "TestingChangelog": "- Added a button to continue the game where you left it. - Added more cards",
       "DownloadLinkTesting": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.5.1.1_testing/CardsAgainstHyurmanity.zip",
       "DalamudApiLevel": 15,
-      "AssemblyVersion": "0.6.3.2",
-      "Changelog": "- Fixed plugin sometimes removing chunks of words it mistook for duplicate article, like \"the allagans\" to \"thellagans\".",
-      "DownloadLinkInstall": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.3.2_release/CardsAgainstHyurmanity.zip",
-      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.3.2_release/CardsAgainstHyurmanity.zip",
-      "LastUpdate": 1794677244,
+      "AssemblyVersion": "0.6.3.3",
+      "Changelog": "- Fixed plugin sometimes removing chunks of words it mistook for duplicate article, like \"the allagans\" to \"thellagans\".\n- Fixed save game feature",
+      "DownloadLinkInstall": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.3.3_release/CardsAgainstHyurmanity.zip",
+      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.3.3_release/CardsAgainstHyurmanity.zip",
+      "LastUpdate": 1794749811,
       "InternalName": "CardsAgainstHyurmanity",
-      "DownloadCount": "205",
+      "DownloadCount": "258",
       "IsHide": false,
       "IsTestingExclusive": false,
       "_SourceId": "pistachio-dev-dalamudpluginrepository",

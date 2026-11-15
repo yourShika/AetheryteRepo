@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T06:29:10.950Z",
-  "contentHash": "2e318ea8dd8f8436",
+  "generatedAt": "2026-11-15T16:20:12.426Z",
+  "contentHash": "d27629fb254a5de8",
   "totalPlugins": 634,
   "masterPlugins": 628,
   "currentApiLevel": 15,
@@ -2522,7 +2522,7 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "awgil plugin distribution",
-      "keptVersion": "0.0.0.152",
+      "keptVersion": "0.0.0.153",
       "droppedVersion": "0.0.0.16"
     },
     {
@@ -2683,7 +2683,7 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "bees-repo",
-      "keptVersion": "0.0.0.152",
+      "keptVersion": "0.0.0.153",
       "droppedVersion": "0.0.0.152"
     },
     {
@@ -3257,7 +3257,7 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "eScape",
-      "keptVersion": "0.0.0.152",
+      "keptVersion": "0.0.0.153",
       "droppedVersion": "0.0.0.152"
     },
     {
@@ -3632,11 +3632,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "Questionable",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.60",
-      "droppedVersion": "15.756.3.60"
+      "keptVersion": "1.15.7.8",
+      "droppedVersion": "1.15.7.8"
     },
     {
       "internalName": "Marketbuddy",
@@ -3646,11 +3646,11 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.8",
-      "droppedVersion": "1.15.7.8"
+      "keptVersion": "15.756.3.60",
+      "droppedVersion": "15.756.3.60"
     },
     {
       "internalName": "WrathCombo",
@@ -3660,20 +3660,6 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.23",
-      "droppedVersion": "4.0.5.23"
-    },
-    {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.33",
-      "droppedVersion": "3.9.2.33"
-    },
-    {
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3681,11 +3667,25 @@
       "droppedVersion": "0.0.0.10"
     },
     {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.23",
+      "droppedVersion": "4.0.5.23"
+    },
+    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.9",
       "droppedVersion": "2.1.2.9"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.33",
+      "droppedVersion": "3.9.2.33"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3929,8 +3929,8 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.152",
-      "droppedVersion": "0.0.0.152"
+      "keptVersion": "0.0.0.153",
+      "droppedVersion": "0.0.0.153"
     },
     {
       "internalName": "vfaux",
@@ -5392,7 +5392,7 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "0.0.0.152",
+      "keptVersion": "0.0.0.153",
       "droppedVersion": "0.0.0.152"
     },
     {
@@ -6176,7 +6176,7 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.152",
+      "keptVersion": "0.0.0.153",
       "droppedVersion": "0.0.0.131"
     },
     {
@@ -6925,7 +6925,7 @@
       "internalName": "visland",
       "kept": "Veyn (BossMod)",
       "dropped": "Glaives-of-Eorzea / FFXIV.Plugin.Distribution",
-      "keptVersion": "0.0.0.152",
+      "keptVersion": "0.0.0.153",
       "droppedVersion": "0.0.0.143"
     },
     {
@@ -7420,9 +7420,9 @@
     },
     {
       "internalName": "XASlave",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.66",
+      "kept": "xa-io / MyDalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "0.0.0.67",
       "droppedVersion": "0.0.0.66"
     },
     {
