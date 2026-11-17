@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T03:52:40.213Z",
-  "contentHash": "b78d607e00f96524",
+  "generatedAt": "2026-11-17T15:58:37.344Z",
+  "contentHash": "4d5f04bf389a6365",
   "totalPlugins": 635,
   "masterPlugins": 629,
   "currentApiLevel": 15,
@@ -2480,14 +2480,14 @@
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.2.8.0",
+      "keptVersion": "2.2.9.0",
       "droppedVersion": "2.0.4.4"
     },
     {
       "internalName": "DailyRoutines",
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "2.2.8.0",
+      "keptVersion": "2.2.9.0",
       "droppedVersion": "1.9.3.3"
     },
     {
@@ -3611,6 +3611,13 @@
       "droppedVersion": "4.6.2.22"
     },
     {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.4.3",
+      "droppedVersion": "6.0.4.3"
+    },
+    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,25 +3632,11 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.4.3",
-      "droppedVersion": "6.0.4.3"
-    },
-    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.7.8",
       "droppedVersion": "1.15.7.8"
-    },
-    {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Questionable",
@@ -3653,25 +3646,18 @@
       "droppedVersion": "15.756.3.60"
     },
     {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
-    },
-    {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.10",
-      "droppedVersion": "0.0.0.10"
-    },
-    {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.33",
-      "droppedVersion": "3.9.2.33"
     },
     {
       "internalName": "Artisan",
@@ -3681,11 +3667,25 @@
       "droppedVersion": "4.0.5.24"
     },
     {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.33",
+      "droppedVersion": "3.9.2.33"
+    },
+    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.9",
       "droppedVersion": "2.1.2.9"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.10",
+      "droppedVersion": "0.0.0.10"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3944,7 +3944,7 @@
       "kept": "44451516 / ffxiv_bossmod",
       "dropped": "MEGA Repository",
       "keptVersion": "7.5.8.5",
-      "droppedVersion": "7.5.8.4"
+      "droppedVersion": "7.5.8.5"
     },
     {
       "internalName": "vfallguy",
@@ -3971,8 +3971,8 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.8.3",
-      "droppedVersion": "7.5.8.3"
+      "keptVersion": "7.5.8.4",
+      "droppedVersion": "7.5.8.4"
     },
     {
       "internalName": "BossModReborn",
@@ -4258,8 +4258,8 @@
       "internalName": "Snowcloak",
       "kept": "ElfShelf",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.2.0.1",
-      "droppedVersion": "5.2.0.1"
+      "keptVersion": "5.2.1.0",
+      "droppedVersion": "5.2.1.0"
     },
     {
       "internalName": "BigMac",
@@ -5155,7 +5155,7 @@
       "kept": "44451516 / ffxiv_bossmod",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.8.5",
-      "droppedVersion": "7.5.8.4"
+      "droppedVersion": "7.5.8.5"
     },
     {
       "internalName": "BossModReborn",
@@ -5798,8 +5798,8 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.8.3",
-      "droppedVersion": "7.5.8.3"
+      "keptVersion": "7.5.8.4",
+      "droppedVersion": "7.5.8.4"
     },
     {
       "internalName": "Saru",
@@ -6008,8 +6008,8 @@
       "internalName": "WahTools",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "20.0.0.53",
-      "droppedVersion": "20.0.0.53"
+      "keptVersion": "20.0.0.55",
+      "droppedVersion": "20.0.0.55"
     },
     {
       "internalName": "wahventory",
@@ -6715,7 +6715,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.8.3",
+      "keptVersion": "7.5.8.4",
       "droppedVersion": "7.1.5.38"
     },
     {
@@ -7044,8 +7044,8 @@
       "internalName": "Snowcloak",
       "kept": "ElfShelf",
       "dropped": "Snowcloak",
-      "keptVersion": "5.2.0.1",
-      "droppedVersion": "5.2.0.1"
+      "keptVersion": "5.2.1.0",
+      "droppedVersion": "5.2.1.0"
     },
     {
       "internalName": "BigMac",
@@ -7329,10 +7329,10 @@
     },
     {
       "internalName": "WahTools",
-      "kept": "wah",
-      "dropped": "MEGA Repository",
-      "keptVersion": "20.0.0.54",
-      "droppedVersion": "20.0.0.53"
+      "kept": "MEGA Repository",
+      "dropped": "wah",
+      "keptVersion": "20.0.0.55",
+      "droppedVersion": "20.0.0.55"
     },
     {
       "internalName": "wahbuttons",
@@ -7695,7 +7695,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.8.3",
+      "keptVersion": "7.5.8.4",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -7828,7 +7828,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "7.5.8.3",
+      "keptVersion": "7.5.8.4",
       "droppedVersion": "7.2.5.122"
     },
     {
@@ -8253,10 +8253,10 @@
     },
     {
       "internalName": "MasterOfPuppets",
-      "kept": "zunetrix / DalamudPlugins",
-      "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
+      "kept": "pffxivtools / ffxiv-bard-plugins-linux",
+      "dropped": "zunetrix / DalamudPlugins",
       "keptVersion": "1.15.0.255",
-      "droppedVersion": "1.15.0.254"
+      "droppedVersion": "1.15.0.255"
     }
   ]
 }
