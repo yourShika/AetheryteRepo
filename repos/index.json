@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T19:35:17.924Z",
-  "contentHash": "05d384da8f6367fc",
+  "generatedAt": "2026-11-17T03:52:40.213Z",
+  "contentHash": "b78d607e00f96524",
   "totalPlugins": 635,
   "masterPlugins": 629,
   "currentApiLevel": 15,
@@ -1060,7 +1060,7 @@
       "name": "MEGA Repository",
       "url": "https://raw.githubusercontent.com/WilliamW1979/FFXIV/main/repository.json",
       "status": "ok",
-      "count": 162,
+      "count": 216,
       "note": null
     },
     {
@@ -1172,7 +1172,7 @@
       "name": "NexusFFXIV DalamudRepo",
       "url": "https://raw.githubusercontent.com/NexusFFXIV/DalamudRepo/main/all-repo.json",
       "status": "ok",
-      "count": 105,
+      "count": 165,
       "note": null
     },
     {
@@ -2350,7 +2350,7 @@
       "name": "Kampf & Rotation",
       "emoji": "⚔️",
       "description": "Rotationen, Boss-Timeline, Combos, PvP",
-      "count": 73,
+      "count": 72,
       "file": "repos/combat.json"
     },
     {
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 137,
+      "count": 135,
       "file": "repos/automation.json"
     },
     {
@@ -2374,7 +2374,7 @@
       "name": "Quality of Life & UI",
       "emoji": "✨",
       "description": "Tweaks, Interface, Chat, Inventar, Karten",
-      "count": 160,
+      "count": 156,
       "file": "repos/qol.json"
     },
     {
@@ -2382,7 +2382,7 @@
       "name": "Social & Roleplay",
       "emoji": "🎭",
       "description": "RP-Profile, Emotes, Free Company, Discord",
-      "count": 51,
+      "count": 48,
       "file": "repos/social.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 22,
+      "count": 32,
       "file": "repos/misc.json"
     }
   ],
@@ -2537,7 +2537,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "4.0.5.24",
-      "droppedVersion": "4.0.5.23"
+      "droppedVersion": "4.0.5.24"
     },
     {
       "internalName": "AutoDuty",
@@ -3597,13 +3597,6 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "AutoRetainer",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.6.2.22",
-      "droppedVersion": "4.6.2.22"
-    },
-    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3611,11 +3604,11 @@
       "droppedVersion": "1.6.4.6"
     },
     {
-      "internalName": "Avarice",
+      "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
+      "keptVersion": "4.6.2.22",
+      "droppedVersion": "4.6.2.22"
     },
     {
       "internalName": "LazyLoot",
@@ -3623,6 +3616,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "5.3.3.3",
       "droppedVersion": "5.3.3.3"
+    },
+    {
+      "internalName": "Avarice",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
     },
     {
       "internalName": "AutoHook",
@@ -3660,11 +3660,11 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Artisan",
+      "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.24",
-      "droppedVersion": "4.0.5.24"
+      "keptVersion": "0.0.0.10",
+      "droppedVersion": "0.0.0.10"
     },
     {
       "internalName": "Splatoon",
@@ -3674,18 +3674,18 @@
       "droppedVersion": "3.9.2.33"
     },
     {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.24",
+      "droppedVersion": "4.0.5.24"
+    },
+    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.9",
       "droppedVersion": "2.1.2.9"
-    },
-    {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.10",
-      "droppedVersion": "0.0.0.10"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3895,7 +3895,7 @@
       "kept": "a1hena/PluginRepository",
       "dropped": "MEGA Repository",
       "keptVersion": "14.2",
-      "droppedVersion": "7.1"
+      "droppedVersion": "8.7"
     },
     {
       "internalName": "HaselDebug",
@@ -4290,6 +4290,13 @@
       "droppedVersion": "0.0.171"
     },
     {
+      "internalName": "AetherLovePlugin",
+      "kept": "AetherLove",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.8.0.0",
+      "droppedVersion": "2.8.0.0"
+    },
+    {
       "internalName": "Aetherment",
       "kept": "Aetherment",
       "dropped": "MEGA Repository",
@@ -4297,11 +4304,25 @@
       "droppedVersion": "0.8.10.0"
     },
     {
+      "internalName": "ARDiscard",
+      "kept": "MEGA Repository",
+      "dropped": "a1hena/PluginRepository",
+      "keptVersion": "8.5",
+      "droppedVersion": "8.3"
+    },
+    {
       "internalName": "AutoDailyTribes",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
       "keptVersion": "2.12.0.0",
       "droppedVersion": "2.11.3.0"
+    },
+    {
+      "internalName": "AutoDuty",
+      "kept": "erdelf",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.399",
+      "droppedVersion": "0.0.0.399"
     },
     {
       "internalName": "AutoFateGrind",
@@ -4346,6 +4367,13 @@
       "droppedVersion": "1.5.2.0"
     },
     {
+      "internalName": "AutoMinion",
+      "kept": "Asuna's Repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.1.0.10",
+      "droppedVersion": "1.1.0.10"
+    },
+    {
       "internalName": "AutoPvpSeriesGrind",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
@@ -4388,6 +4416,13 @@
       "droppedVersion": "1.3.1.0"
     },
     {
+      "internalName": "Buildingway",
+      "kept": "Abyeon's Repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.1.6",
+      "droppedVersion": "1.0.1.6"
+    },
+    {
       "internalName": "ChatDeathRoll",
       "kept": "anya-hichu/DalamudPluginRepo",
       "dropped": "MEGA Repository",
@@ -4400,6 +4435,20 @@
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.2.3",
       "droppedVersion": "1.0.2.3"
+    },
+    {
+      "internalName": "Chocoholic",
+      "kept": "kawaii's repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.3",
+      "droppedVersion": "0.0.0.3"
+    },
+    {
+      "internalName": "Chroma",
+      "kept": "gigachad gamer hours",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.3.0.0",
+      "droppedVersion": "1.3.0.0"
     },
     {
       "internalName": "DeterministicPose",
@@ -4423,6 +4472,13 @@
       "droppedVersion": "7.5.1.0"
     },
     {
+      "internalName": "Dropbox",
+      "kept": "kawaii's repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.2.15",
+      "droppedVersion": "1.0.2.15"
+    },
+    {
       "internalName": "ExplorersIcebox",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "MEGA Repository",
@@ -4430,11 +4486,39 @@
       "droppedVersion": "1.1.0.3"
     },
     {
+      "internalName": "FCTracker",
+      "kept": "erdelf",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.43",
+      "droppedVersion": "0.0.0.43"
+    },
+    {
       "internalName": "GatherChill",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.0.6",
-      "droppedVersion": "1.0.0.5"
+      "droppedVersion": "1.0.0.6"
+    },
+    {
+      "internalName": "Henchman",
+      "kept": "Knightmore",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.0.1",
+      "droppedVersion": "4.0.0.1"
+    },
+    {
+      "internalName": "HuntAlerts",
+      "kept": "Asuna's Repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.4.1.12",
+      "droppedVersion": "1.4.1.12"
+    },
+    {
+      "internalName": "Hyperborea",
+      "kept": "bees-repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.1.2",
+      "droppedVersion": "1.0.1.2"
     },
     {
       "internalName": "ICE",
@@ -4449,6 +4533,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "2.10.3.12",
       "droppedVersion": "2.10.3.12"
+    },
+    {
+      "internalName": "Knightshopper",
+      "kept": "Knightmore",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.2.0",
+      "droppedVersion": "1.0.2.0"
     },
     {
       "internalName": "LightlessSync",
@@ -4493,6 +4584,13 @@
       "droppedVersion": "1.0.8.12"
     },
     {
+      "internalName": "PartyFinderEx",
+      "kept": "Asuna's Repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.1.0.0",
+      "droppedVersion": "0.1.0.0"
+    },
+    {
       "internalName": "PatMeHonorific",
       "kept": "anya-hichu/DalamudPluginRepo",
       "dropped": "MEGA Repository",
@@ -4521,6 +4619,13 @@
       "droppedVersion": "0.1.5.0"
     },
     {
+      "internalName": "QuickTransfer",
+      "kept": "Kage",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.1.1.2",
+      "droppedVersion": "1.1.1.2"
+    },
+    {
       "internalName": "RaidsRewritten",
       "kept": "Proximity Voice Chat",
       "dropped": "MEGA Repository",
@@ -4542,6 +4647,13 @@
       "droppedVersion": "0.0.3.0"
     },
     {
+      "internalName": "RelicTracker",
+      "kept": "Kage",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.2.7",
+      "droppedVersion": "1.0.2.7"
+    },
+    {
       "internalName": "ReMakePlacePlugin",
       "kept": "ReMakePlace",
       "dropped": "MEGA Repository",
@@ -4549,11 +4661,39 @@
       "droppedVersion": "7.5.1.0"
     },
     {
+      "internalName": "SilenceNoMore",
+      "kept": "bees-repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.4.0.1",
+      "droppedVersion": "1.4.0.1"
+    },
+    {
+      "internalName": "SimpleMiniGames",
+      "kept": "Asuna's Repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.3.1",
+      "droppedVersion": "1.0.3.1"
+    },
+    {
+      "internalName": "Skippy",
+      "kept": "Hako / 箱",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.2.5.0",
+      "droppedVersion": "2.2.5.0"
+    },
+    {
       "internalName": "SmartPings",
       "kept": "Proximity Voice Chat",
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.15.0",
       "droppedVersion": "0.3.15.0"
+    },
+    {
+      "internalName": "TouristMod",
+      "kept": "Aly",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.1000.18",
+      "droppedVersion": "1.15.1000.18"
     },
     {
       "internalName": "NekoLewd",
@@ -4717,11 +4857,81 @@
       "droppedVersion": "2.1.4.3"
     },
     {
+      "internalName": "BetterDeaths",
+      "kept": "MEGA Repository",
+      "dropped": "nainai's repo",
+      "keptVersion": "1.0.0.65",
+      "droppedVersion": "1.0.0.65"
+    },
+    {
+      "internalName": "ChibiChaos",
+      "kept": "MEGA Repository",
+      "dropped": "nainai's repo",
+      "keptVersion": "0.1.17.7",
+      "droppedVersion": "0.1.17.7"
+    },
+    {
+      "internalName": "DMUP4DebuffHelper",
+      "kept": "MEGA Repository",
+      "dropped": "nainai's repo",
+      "keptVersion": "0.1.0.18",
+      "droppedVersion": "0.1.0.18"
+    },
+    {
+      "internalName": "DMUMits",
+      "kept": "MEGA Repository",
+      "dropped": "nainai's repo",
+      "keptVersion": "0.1.0.18",
+      "droppedVersion": "0.1.0.18"
+    },
+    {
+      "internalName": "NalaPF",
+      "kept": "MEGA Repository",
+      "dropped": "Nala's Repo",
+      "keptVersion": "1.1.0.1",
+      "droppedVersion": "1.1.0.1"
+    },
+    {
+      "internalName": "VenueScope",
+      "kept": "MEGA Repository",
+      "dropped": "Nala's Repo",
+      "keptVersion": "1.1.1.1",
+      "droppedVersion": "1.1.1.1"
+    },
+    {
+      "internalName": "Mogmail",
+      "kept": "MEGA Repository",
+      "dropped": "Nexai's Repo",
+      "keptVersion": "1.3.0.0",
+      "droppedVersion": "1.3.0.0"
+    },
+    {
+      "internalName": "FCCH",
+      "kept": "MEGA Repository",
+      "dropped": "Nexai's Repo",
+      "keptVersion": "2.6.0.0",
+      "droppedVersion": "2.6.0.0"
+    },
+    {
       "internalName": "ActionTimelineReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.8.1",
       "droppedVersion": "7.5.8.1"
+    },
+    {
+      "internalName": "ActiveVenueFinder",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.2.0.1",
+      "droppedVersion": "2.2.0.1"
+    },
+    {
+      "internalName": "AetherLovePlugin",
+      "kept": "AetherLove",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.8.0.0",
+      "droppedVersion": "2.8.0.0"
     },
     {
       "internalName": "Aetherment",
@@ -4745,11 +4955,25 @@
       "droppedVersion": "2.1.0.11"
     },
     {
+      "internalName": "ARControl",
+      "kept": "a1hena/PluginRepository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "14.2",
+      "droppedVersion": "8.7"
+    },
+    {
+      "internalName": "ARDiscard",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "8.5",
+      "droppedVersion": "8.5"
+    },
+    {
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "4.0.5.24",
-      "droppedVersion": "4.0.5.23"
+      "droppedVersion": "4.0.5.24"
     },
     {
       "internalName": "AutoDailyTribes",
@@ -4757,6 +4981,13 @@
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "2.12.0.0",
       "droppedVersion": "2.12.0.0"
+    },
+    {
+      "internalName": "AutoDuty",
+      "kept": "erdelf",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.0.399",
+      "droppedVersion": "0.0.0.399"
     },
     {
       "internalName": "AutoFateGrind",
@@ -4813,6 +5044,20 @@
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.3.1.4",
       "droppedVersion": "1.3.1.4"
+    },
+    {
+      "internalName": "Automaton",
+      "kept": "Croizat's Repo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "69.234",
+      "droppedVersion": "69.234"
+    },
+    {
+      "internalName": "AutoMinion",
+      "kept": "Asuna's Repo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.1.0.10",
+      "droppedVersion": "1.1.0.10"
     },
     {
       "internalName": "AutoPvpSeriesGrind",
@@ -4885,6 +5130,27 @@
       "droppedVersion": "1.7.4.2"
     },
     {
+      "internalName": "BetterDeaths",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.65",
+      "droppedVersion": "1.0.0.65"
+    },
+    {
+      "internalName": "BetterDiscordRichPresence",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.5.0",
+      "droppedVersion": "1.0.5.0"
+    },
+    {
+      "internalName": "BlackJackButtler",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.0.0.6",
+      "droppedVersion": "2.0.0.6"
+    },
+    {
       "internalName": "BossMod",
       "kept": "44451516 / ffxiv_bossmod",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -4906,11 +5172,39 @@
       "droppedVersion": "0.8.0.12"
     },
     {
+      "internalName": "BstHelper",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.1.7.0",
+      "droppedVersion": "0.1.7.0"
+    },
+    {
+      "internalName": "Buildingway",
+      "kept": "Abyeon's Repo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.1.6",
+      "droppedVersion": "1.0.1.6"
+    },
+    {
+      "internalName": "Burnout",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.1",
+      "droppedVersion": "1.0.0.1"
+    },
+    {
       "internalName": "CactusWatcher",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.0.0.11",
       "droppedVersion": "1.0.0.11"
+    },
+    {
+      "internalName": "CCAnonymizer",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.4.1.1",
+      "droppedVersion": "0.4.1.1"
     },
     {
       "internalName": "ChatDeathRoll",
@@ -4920,11 +5214,39 @@
       "droppedVersion": "0.0.6.0"
     },
     {
+      "internalName": "ChibiChaos",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.1.17.7",
+      "droppedVersion": "0.1.17.7"
+    },
+    {
       "internalName": "ChilledLeves",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.0.2.3",
       "droppedVersion": "1.0.2.3"
+    },
+    {
+      "internalName": "ChocoboRacingGamba",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.7.0",
+      "droppedVersion": "1.0.7.0"
+    },
+    {
+      "internalName": "Chocoholic",
+      "kept": "kawaii's repo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.0.3",
+      "droppedVersion": "0.0.0.3"
+    },
+    {
+      "internalName": "Chroma",
+      "kept": "gigachad gamer hours",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.3.0.0",
+      "droppedVersion": "1.3.0.0"
     },
     {
       "internalName": "CrystariumBoutique",
@@ -4939,6 +5261,13 @@
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "2.2.1.3",
       "droppedVersion": "2.2.1.3"
+    },
+    {
+      "internalName": "Deliveroo",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "7.5.0.2",
+      "droppedVersion": "7.5.0.2"
     },
     {
       "internalName": "DeterministicPose",
@@ -4962,11 +5291,32 @@
       "droppedVersion": "7.5.1.0"
     },
     {
+      "internalName": "DMUMits",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.1.0.18",
+      "droppedVersion": "0.1.0.18"
+    },
+    {
+      "internalName": "DMUP4DebuffHelper",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.1.0.18",
+      "droppedVersion": "0.1.0.18"
+    },
+    {
       "internalName": "DozeAnywhere",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.2.2.8",
       "droppedVersion": "0.2.2.8"
+    },
+    {
+      "internalName": "Dropbox",
+      "kept": "kawaii's repo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.2.15",
+      "droppedVersion": "1.0.2.15"
     },
     {
       "internalName": "DSREyeLocator",
@@ -4997,6 +5347,34 @@
       "droppedVersion": "1.1.0.3"
     },
     {
+      "internalName": "FCCH",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.6.0.0",
+      "droppedVersion": "2.6.0.0"
+    },
+    {
+      "internalName": "FCTracker",
+      "kept": "erdelf",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.0.43",
+      "droppedVersion": "0.0.0.43"
+    },
+    {
+      "internalName": "FidgetSpinner",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.0.4",
+      "droppedVersion": "0.0.0.4"
+    },
+    {
+      "internalName": "GambaWhere",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.8.0",
+      "droppedVersion": "1.0.8.0"
+    },
+    {
       "internalName": "GatherBuddyReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -5008,7 +5386,14 @@
       "kept": "ICE (Island Sanctuary)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.0.0.6",
-      "droppedVersion": "1.0.0.5"
+      "droppedVersion": "1.0.0.6"
+    },
+    {
+      "internalName": "Gearsetter",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "4.3",
+      "droppedVersion": "4.3"
     },
     {
       "internalName": "Glamourer",
@@ -5018,6 +5403,13 @@
       "droppedVersion": "1.7.1.3"
     },
     {
+      "internalName": "GlamourLog",
+      "kept": "Croizat's Repo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "15.79",
+      "droppedVersion": "15.79"
+    },
+    {
       "internalName": "heliosphere-plugin",
       "kept": "Sea of Stars",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -5025,11 +5417,39 @@
       "droppedVersion": "4.10.7.0"
     },
     {
+      "internalName": "Henchman",
+      "kept": "Knightmore",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "4.0.0.1",
+      "droppedVersion": "4.0.0.1"
+    },
+    {
+      "internalName": "HuntAlerts",
+      "kept": "Asuna's Repo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.4.1.12",
+      "droppedVersion": "1.4.1.12"
+    },
+    {
       "internalName": "HuntTrainAssistant",
       "kept": "NightmareXIV",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.0.2.15",
       "droppedVersion": "1.0.2.15"
+    },
+    {
+      "internalName": "Hyperborea",
+      "kept": "bees-repo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.1.2",
+      "droppedVersion": "1.0.1.2"
+    },
+    {
+      "internalName": "IAmReady",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.1.0.0",
+      "droppedVersion": "1.1.0.0"
     },
     {
       "internalName": "ICE",
@@ -5051,6 +5471,20 @@
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.0.0.11",
       "droppedVersion": "1.0.0.11"
+    },
+    {
+      "internalName": "Interjection",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.0.5",
+      "droppedVersion": "0.0.0.5"
+    },
+    {
+      "internalName": "Knightshopper",
+      "kept": "Knightmore",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.2.0",
+      "droppedVersion": "1.0.2.0"
     },
     {
       "internalName": "Ktisis",
@@ -5130,6 +5564,13 @@
       "droppedVersion": "3.2.5.6"
     },
     {
+      "internalName": "MiniGamesEmporium",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.16.4",
+      "droppedVersion": "0.0.16.4"
+    },
+    {
       "internalName": "ModSettingCommands",
       "kept": "anya-hichu/DalamudPluginRepo",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -5137,11 +5578,25 @@
       "droppedVersion": "0.0.6.0"
     },
     {
+      "internalName": "Mogmail",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.3.0.0",
+      "droppedVersion": "1.3.0.0"
+    },
+    {
       "internalName": "Moodles",
       "kept": "Sea of Stars",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.1.3.5",
       "droppedVersion": "1.1.3.5"
+    },
+    {
+      "internalName": "NalaPF",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.1.0.1",
+      "droppedVersion": "1.1.0.1"
     },
     {
       "internalName": "NecroLens",
@@ -5179,6 +5634,13 @@
       "droppedVersion": "1.0.1.10"
     },
     {
+      "internalName": "PaissaWah",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.7",
+      "droppedVersion": "1.0.0.7"
+    },
+    {
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -5191,6 +5653,13 @@
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.6.4.6",
       "droppedVersion": "1.6.4.6"
+    },
+    {
+      "internalName": "PartyFinderEx",
+      "kept": "Asuna's Repo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.1.0.0",
+      "droppedVersion": "0.1.0.0"
     },
     {
       "internalName": "PassportCheckerReborn",
@@ -5219,6 +5688,13 @@
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.4.1.0",
       "droppedVersion": "0.4.1.0"
+    },
+    {
+      "internalName": "PluginPresetManager",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.7.0",
+      "droppedVersion": "1.0.7.0"
     },
     {
       "internalName": "Prioritizer",
@@ -5256,11 +5732,25 @@
       "droppedVersion": "15.756.3.60"
     },
     {
+      "internalName": "QuickTransfer",
+      "kept": "Kage",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.1.1.2",
+      "droppedVersion": "1.1.1.2"
+    },
+    {
       "internalName": "RaidsRewritten",
       "kept": "Proximity Voice Chat",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.2.2.0",
       "droppedVersion": "1.2.2.0"
+    },
+    {
+      "internalName": "ReActionEx",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.1.2",
+      "droppedVersion": "1.0.1.2"
     },
     {
       "internalName": "RebornToolbox",
@@ -5284,6 +5774,13 @@
       "droppedVersion": "0.0.3.0"
     },
     {
+      "internalName": "RelicTracker",
+      "kept": "Kage",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.2.7",
+      "droppedVersion": "1.0.2.7"
+    },
+    {
       "internalName": "ReMakePlacePlugin",
       "kept": "ReMakePlace",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -5291,11 +5788,25 @@
       "droppedVersion": "7.5.1.0"
     },
     {
+      "internalName": "RepairDeez",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "20.0.0.6",
+      "droppedVersion": "20.0.0.6"
+    },
+    {
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.8.3",
       "droppedVersion": "7.5.8.3"
+    },
+    {
+      "internalName": "Saru",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.3.5",
+      "droppedVersion": "1.0.3.5"
     },
     {
       "internalName": "Saucy",
@@ -5312,11 +5823,25 @@
       "droppedVersion": "1.0.1.12"
     },
     {
+      "internalName": "SilenceNoMore",
+      "kept": "bees-repo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.4.0.1",
+      "droppedVersion": "1.4.0.1"
+    },
+    {
       "internalName": "SimpleHeels",
       "kept": "Sea of Stars",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.11.1.12",
       "droppedVersion": "0.11.1.12"
+    },
+    {
+      "internalName": "SimpleMiniGames",
+      "kept": "Asuna's Repo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.3.1",
+      "droppedVersion": "1.0.3.1"
     },
     {
       "internalName": "SkipCutscene",
@@ -5326,6 +5851,13 @@
       "droppedVersion": "1.2.3.2"
     },
     {
+      "internalName": "Skippy",
+      "kept": "Hako / 箱",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "2.2.5.0",
+      "droppedVersion": "2.2.5.0"
+    },
+    {
       "internalName": "SmartPings",
       "kept": "Proximity Voice Chat",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -5333,11 +5865,25 @@
       "droppedVersion": "0.3.15.0"
     },
     {
+      "internalName": "SomethingNeedDoing",
+      "kept": "Croizat's Repo",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "15.13",
+      "droppedVersion": "15.13"
+    },
+    {
       "internalName": "Splatoon",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "3.9.2.33",
       "droppedVersion": "3.9.2.33"
+    },
+    {
+      "internalName": "Squadronista",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "7.5.0.0",
+      "droppedVersion": "7.5.0.0"
     },
     {
       "internalName": "StandalonePluginManager",
@@ -5361,6 +5907,27 @@
       "droppedVersion": "3.3.0.1"
     },
     {
+      "internalName": "ThrowCrapOut",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.6.0.3",
+      "droppedVersion": "0.6.0.3"
+    },
+    {
+      "internalName": "TouristMod",
+      "kept": "Aly",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.15.1000.18",
+      "droppedVersion": "1.15.1000.18"
+    },
+    {
+      "internalName": "TruthOrDare",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.0",
+      "droppedVersion": "1.0.0.0"
+    },
+    {
       "internalName": "Understudy",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -5373,6 +5940,13 @@
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.0.0.10",
       "droppedVersion": "1.0.0.10"
+    },
+    {
+      "internalName": "VenueScope",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.1.1.1",
+      "droppedVersion": "1.1.1.1"
     },
     {
       "internalName": "vfallguy",
@@ -5396,6 +5970,13 @@
       "droppedVersion": "0.0.0.153"
     },
     {
+      "internalName": "VIWI",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.0.62",
+      "droppedVersion": "0.0.0.62"
+    },
+    {
       "internalName": "vnavmesh",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -5408,6 +5989,41 @@
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "0.0.0.47",
       "droppedVersion": "0.0.0.47"
+    },
+    {
+      "internalName": "wahbuttons",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "20.0.0.2",
+      "droppedVersion": "20.0.0.2"
+    },
+    {
+      "internalName": "WahJumps",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "20.0.0.2",
+      "droppedVersion": "20.0.0.2"
+    },
+    {
+      "internalName": "WahTools",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "20.0.0.53",
+      "droppedVersion": "20.0.0.53"
+    },
+    {
+      "internalName": "wahventory",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "20.0.0.7",
+      "droppedVersion": "20.0.0.7"
+    },
+    {
+      "internalName": "WaymarkStudio",
+      "kept": "MEGA Repository",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "0.0.0.53",
+      "droppedVersion": "0.0.0.53"
     },
     {
       "internalName": "WExtras",
@@ -5851,10 +6467,17 @@
       "droppedVersion": "2.0.3.3"
     },
     {
-      "internalName": "ARDiscard",
-      "kept": "a1hena/PluginRepository",
+      "internalName": "Deliveroo",
+      "kept": "MEGA Repository",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "8.3",
+      "keptVersion": "7.5.0.2",
+      "droppedVersion": "6.4"
+    },
+    {
+      "internalName": "ARDiscard",
+      "kept": "MEGA Repository",
+      "dropped": "nite-cat / the-giga-repo",
+      "keptVersion": "8.5",
       "droppedVersion": "7.0"
     },
     {
@@ -5917,7 +6540,7 @@
       "internalName": "Gearsetter",
       "kept": "MEGA Repository",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "3.1",
+      "keptVersion": "4.3",
       "droppedVersion": "2.3"
     },
     {
@@ -6148,7 +6771,7 @@
       "internalName": "Squadronista",
       "kept": "MEGA Repository",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "6.1",
+      "keptVersion": "7.5.0.0",
       "droppedVersion": "5.0"
     },
     {
@@ -6234,6 +6857,34 @@
       "dropped": "DalamudRepoCollection",
       "keptVersion": "2.0.14.0",
       "droppedVersion": "1.2.1.81"
+    },
+    {
+      "internalName": "TruthOrDare",
+      "kept": "MEGA Repository",
+      "dropped": "OOF Games",
+      "keptVersion": "1.0.0.0",
+      "droppedVersion": "1.0.0.0"
+    },
+    {
+      "internalName": "ChocoboRacingGamba",
+      "kept": "MEGA Repository",
+      "dropped": "OOF Games",
+      "keptVersion": "1.0.7.0",
+      "droppedVersion": "1.0.7.0"
+    },
+    {
+      "internalName": "GambaWhere",
+      "kept": "MEGA Repository",
+      "dropped": "OOF Games",
+      "keptVersion": "1.0.8.0",
+      "droppedVersion": "1.0.8.0"
+    },
+    {
+      "internalName": "MiniGamesEmporium",
+      "kept": "MEGA Repository",
+      "dropped": "OOF Games",
+      "keptVersion": "0.0.16.4",
+      "droppedVersion": "0.0.16.4"
     },
     {
       "internalName": "NeonCastbarPlugin",
@@ -6369,6 +7020,13 @@
       "droppedVersion": "7.5.0.0"
     },
     {
+      "internalName": "BetterDiscordRichPresence",
+      "kept": "MEGA Repository",
+      "dropped": "Raya's Repo",
+      "keptVersion": "1.0.5.0",
+      "droppedVersion": "1.0.5.0"
+    },
+    {
       "internalName": "StartupCommands",
       "kept": "Maxunit / MyDalamudPlugins",
       "dropped": "SaltyCog DalamudPlugins",
@@ -6404,11 +7062,46 @@
       "droppedVersion": "1.1.0.0"
     },
     {
+      "internalName": "FidgetSpinner",
+      "kept": "MEGA Repository",
+      "dropped": "Sourpuh",
+      "keptVersion": "0.0.0.4",
+      "droppedVersion": "0.0.0.4"
+    },
+    {
+      "internalName": "WaymarkStudio",
+      "kept": "MEGA Repository",
+      "dropped": "Sourpuh",
+      "keptVersion": "0.0.0.53",
+      "droppedVersion": "0.0.0.53"
+    },
+    {
+      "internalName": "Interjection",
+      "kept": "MEGA Repository",
+      "dropped": "Sourpuh",
+      "keptVersion": "0.0.0.5",
+      "droppedVersion": "0.0.0.5"
+    },
+    {
       "internalName": "DozeAnywhere",
       "kept": "MEGA Repository",
       "dropped": "SoyaX / SoyaPlugins",
       "keptVersion": "0.2.2.8",
       "droppedVersion": "0.2.2.8"
+    },
+    {
+      "internalName": "CCAnonymizer",
+      "kept": "MEGA Repository",
+      "dropped": "Spider's Repo",
+      "keptVersion": "0.4.1.1",
+      "droppedVersion": "0.4.1.1"
+    },
+    {
+      "internalName": "ReActionEx",
+      "kept": "MEGA Repository",
+      "dropped": "taurenkey's repo",
+      "keptVersion": "1.0.1.2",
+      "droppedVersion": "1.0.1.2"
     },
     {
       "internalName": "Buttplugin",
@@ -6460,6 +7153,48 @@
       "droppedVersion": "1.1.2.11"
     },
     {
+      "internalName": "IAmReady",
+      "kept": "MEGA Repository",
+      "dropped": "Vali's Repo",
+      "keptVersion": "1.1.0.0",
+      "droppedVersion": "1.1.0.0"
+    },
+    {
+      "internalName": "Burnout",
+      "kept": "MEGA Repository",
+      "dropped": "Vali's Repo",
+      "keptVersion": "1.0.0.1",
+      "droppedVersion": "1.0.0.1"
+    },
+    {
+      "internalName": "ActiveVenueFinder",
+      "kept": "MEGA Repository",
+      "dropped": "Vali's Repo",
+      "keptVersion": "2.2.0.1",
+      "droppedVersion": "2.2.0.1"
+    },
+    {
+      "internalName": "Saru",
+      "kept": "MEGA Repository",
+      "dropped": "Vali's Repo",
+      "keptVersion": "1.0.3.5",
+      "droppedVersion": "1.0.3.5"
+    },
+    {
+      "internalName": "BlackJackButtler",
+      "kept": "MEGA Repository",
+      "dropped": "Vali's Repo",
+      "keptVersion": "2.0.0.6",
+      "droppedVersion": "2.0.0.6"
+    },
+    {
+      "internalName": "ThrowCrapOut",
+      "kept": "MEGA Repository",
+      "dropped": "Vali's Repo",
+      "keptVersion": "0.6.0.3",
+      "droppedVersion": "0.6.0.3"
+    },
+    {
       "internalName": "XIVComboVX",
       "kept": "MEGA Repository",
       "dropped": "VariableVixen (PrincessRTFM) / MyDalamudPlugins",
@@ -6496,17 +7231,17 @@
     },
     {
       "internalName": "Deliveroo",
-      "kept": "Vera's Repo",
-      "dropped": "nite-cat / the-giga-repo",
+      "kept": "MEGA Repository",
+      "dropped": "Vera's Repo",
       "keptVersion": "7.5.0.2",
-      "droppedVersion": "6.4"
+      "droppedVersion": "7.5.0.2"
     },
     {
       "internalName": "ARDiscard",
-      "kept": "Vera's Repo",
-      "dropped": "a1hena/PluginRepository",
+      "kept": "MEGA Repository",
+      "dropped": "Vera's Repo",
       "keptVersion": "8.5",
-      "droppedVersion": "8.3"
+      "droppedVersion": "8.5"
     },
     {
       "internalName": "FishNotify",
@@ -6531,17 +7266,80 @@
     },
     {
       "internalName": "Gearsetter",
-      "kept": "Vera's Repo",
-      "dropped": "MEGA Repository",
+      "kept": "MEGA Repository",
+      "dropped": "Vera's Repo",
       "keptVersion": "4.3",
-      "droppedVersion": "3.1"
+      "droppedVersion": "4.3"
     },
     {
       "internalName": "Squadronista",
-      "kept": "Vera's Repo",
-      "dropped": "MEGA Repository",
+      "kept": "MEGA Repository",
+      "dropped": "Vera's Repo",
       "keptVersion": "7.5.0.0",
-      "droppedVersion": "6.1"
+      "droppedVersion": "7.5.0.0"
+    },
+    {
+      "internalName": "VIWI",
+      "kept": "MEGA Repository",
+      "dropped": "Vera's Repo",
+      "keptVersion": "0.0.0.62",
+      "droppedVersion": "0.0.0.62"
+    },
+    {
+      "internalName": "wahventory",
+      "kept": "MEGA Repository",
+      "dropped": "wah",
+      "keptVersion": "20.0.0.7",
+      "droppedVersion": "20.0.0.7"
+    },
+    {
+      "internalName": "WahJumps",
+      "kept": "MEGA Repository",
+      "dropped": "wah",
+      "keptVersion": "20.0.0.2",
+      "droppedVersion": "20.0.0.2"
+    },
+    {
+      "internalName": "PluginPresetManager",
+      "kept": "MEGA Repository",
+      "dropped": "wah",
+      "keptVersion": "1.0.7.0",
+      "droppedVersion": "1.0.7.0"
+    },
+    {
+      "internalName": "PaissaWah",
+      "kept": "MEGA Repository",
+      "dropped": "wah",
+      "keptVersion": "1.0.0.7",
+      "droppedVersion": "1.0.0.7"
+    },
+    {
+      "internalName": "RepairDeez",
+      "kept": "MEGA Repository",
+      "dropped": "wah",
+      "keptVersion": "20.0.0.6",
+      "droppedVersion": "20.0.0.6"
+    },
+    {
+      "internalName": "BstHelper",
+      "kept": "MEGA Repository",
+      "dropped": "wah",
+      "keptVersion": "0.1.7.0",
+      "droppedVersion": "0.1.7.0"
+    },
+    {
+      "internalName": "WahTools",
+      "kept": "wah",
+      "dropped": "MEGA Repository",
+      "keptVersion": "20.0.0.54",
+      "droppedVersion": "20.0.0.53"
+    },
+    {
+      "internalName": "wahbuttons",
+      "kept": "MEGA Repository",
+      "dropped": "wah",
+      "keptVersion": "20.0.0.2",
+      "droppedVersion": "20.0.0.2"
     },
     {
       "internalName": "DozeAnywhere",
@@ -6890,8 +7688,8 @@
       "internalName": "HOutfits",
       "kept": "HOutfits",
       "dropped": "Enceladeum / DalamudPlugins",
-      "keptVersion": "1.1.0.0",
-      "droppedVersion": "1.1.0.0"
+      "keptVersion": "1.2.0.0",
+      "droppedVersion": "1.2.0.0"
     },
     {
       "internalName": "RotationSolver",
@@ -7217,21 +8015,21 @@
     },
     {
       "internalName": "ChocoboRacingGamba",
-      "kept": "OOF Games",
+      "kept": "MEGA Repository",
       "dropped": "OOFGamesss / OOFGamesPlugins",
       "keptVersion": "1.0.7.0",
       "droppedVersion": "1.0.0.1"
     },
     {
       "internalName": "GambaWhere",
-      "kept": "OOF Games",
+      "kept": "MEGA Repository",
       "dropped": "OOFGamesss / OOFGamesPlugins",
       "keptVersion": "1.0.8.0",
       "droppedVersion": "1.0.0.1"
     },
     {
       "internalName": "MiniGamesEmporium",
-      "kept": "OOF Games",
+      "kept": "MEGA Repository",
       "dropped": "OOFGamesss / OOFGamesPlugins",
       "keptVersion": "0.0.16.4",
       "droppedVersion": "0.0.10.1"
@@ -7455,9 +8253,9 @@
     },
     {
       "internalName": "MasterOfPuppets",
-      "kept": "pffxivtools / ffxiv-bard-plugins-linux",
-      "dropped": "zunetrix / DalamudPlugins",
-      "keptVersion": "1.15.0.254",
+      "kept": "zunetrix / DalamudPlugins",
+      "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
+      "keptVersion": "1.15.0.255",
       "droppedVersion": "1.15.0.254"
     }
   ]

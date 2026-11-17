@@ -46,16 +46,16 @@ beliebig mit anderen kombinieren — die Tabelle wird bei jedem Lauf automatisch
 | ⭐ **Master** | Alles außer 18+ | 629 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master.json` |
 | 🌐 **Master inkl. 18+** | Wirklich alles | 635 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master-full.json` |
 | 👗 Glamour & Charakter | Mods, Aussehen, Posing, Sync | 99 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/glamour.json` |
-| ⚔️ Kampf & Rotation | Rotationen, Boss-Timeline, Combos, PvP | 73 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/combat.json` |
-| 🤖 Automatisierung | AutoDuty, Navmesh, Retainer, Questing, Farming | 137 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/automation.json` |
+| ⚔️ Kampf & Rotation | Rotationen, Boss-Timeline, Combos, PvP | 72 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/combat.json` |
+| 🤖 Automatisierung | AutoDuty, Navmesh, Retainer, Questing, Farming | 135 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/automation.json` |
 | ⚒️ Crafting & Gathering | Handwerk, Sammeln, Marktbrett | 28 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/crafting.json` |
-| ✨ Quality of Life & UI | Tweaks, Interface, Chat, Inventar, Karten | 160 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/qol.json` |
-| 🎭 Social & Roleplay | RP-Profile, Emotes, Free Company, Discord | 51 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/social.json` |
+| ✨ Quality of Life & UI | Tweaks, Interface, Chat, Inventar, Karten | 156 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/qol.json` |
+| 🎭 Social & Roleplay | RP-Profile, Emotes, Free Company, Discord | 48 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/social.json` |
 | 🔞 Adult (18+) | Nur fuer Erwachsene – standardmaessig NICHT im Master | 6 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/nsfw.json` |
 | 🏡 Housing & Deko | Moebel, Layouts, Grundstuecke | 19 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/housing.json` |
 | 🔊 Audio & Voice | Voicechat, TTS, Musik, Sound | 19 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/audio.json` |
 | 🛠️ Developer & Data | Debugging, Datenexplorer, Editoren | 21 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/dev.json` |
-| 📦 Sonstiges | Alles ohne klare Zuordnung | 22 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/misc.json` |
+| 📦 Sonstiges | Alles ohne klare Zuordnung | 32 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/misc.json` |
 
 <!-- FEEDS:END -->
 
