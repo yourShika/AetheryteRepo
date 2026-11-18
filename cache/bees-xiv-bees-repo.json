@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-11-17",
+  "fetchedAt": "2026-11-18",
   "count": 46,
   "plugins": [
     {
@@ -487,7 +487,7 @@
       "Author": "Haselnussbomber",
       "Name": "HaselDebug [Bees]",
       "InternalName": "HaselDebug",
-      "AssemblyVersion": "1.75.4.0",
+      "AssemblyVersion": "1.76.0.0",
       "Description": "For developers.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
@@ -498,9 +498,9 @@
       "LoadPriority": 0,
       "Punchline": "Various tools to debug things.",
       "AcceptsFeedback": true,
-      "Changelog": "Update for Patch 7.58.\n\n- Added: Type redirect for DrawObjectType CullingBox.\n- Added: Housing Signboard Packet Log tab to inspect data from that packet.\n- Fixed: Text in the Unlock Links table should no longer overlap due to missing line break when the completed checkbox is drawn on an item icon.\n- Updated: ClientStructs now at 80cb4a7b (compare).",
+      "Changelog": "- Added: Execute Command Log tab to inspect parameters from ExecuteCommand calls.\n- Added: Execute Location Command Log tab to inspect parameters from ExecuteLocationCommandLogTab calls.\n- Changed: Expanded nodes in the Addon Inspector will now stay expanded throughout closing and reopening an addon.\n  - How it works: Instead of relaying on the address of either a AtkUnitBase or AtkResNode, it generates a hash from the addons name and uses the nodes id for the ImGui TreeNode id.",
       "DownloadCount": 69696969,
-      "LastUpdate": 1794308688,
+      "LastUpdate": 1794940036,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/HaselDebug.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/HaselDebug.zip",
       "IsHide": false,

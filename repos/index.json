@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T15:58:37.344Z",
-  "contentHash": "4d5f04bf389a6365",
+  "generatedAt": "2026-11-18T00:56:52.712Z",
+  "contentHash": "c21641155bc2a890",
   "totalPlugins": 635,
   "masterPlugins": 629,
   "currentApiLevel": 15,
@@ -2597,10 +2597,10 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "AtmoOmen / DalamudPlugins",
-      "dropped": "bees-repo",
-      "keptVersion": "1.75.6.0",
-      "droppedVersion": "1.75.4.0"
+      "kept": "bees-repo",
+      "dropped": "AtmoOmen / DalamudPlugins",
+      "keptVersion": "1.76.0.0",
+      "droppedVersion": "1.75.6.0"
     },
     {
       "internalName": "ICE",
@@ -3180,7 +3180,7 @@
       "internalName": "vsatisfy",
       "kept": "Veyn (BossMod)",
       "dropped": "decorwdyun / DalamudPlugins",
-      "keptVersion": "0.0.0.47",
+      "keptVersion": "0.0.0.50",
       "droppedVersion": "0.0.0.37"
     },
     {
@@ -3346,10 +3346,10 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "AtmoOmen / DalamudPlugins",
+      "kept": "bees-repo",
       "dropped": "Haselnussbomber",
-      "keptVersion": "1.75.6.0",
-      "droppedVersion": "1.75.4.0"
+      "keptVersion": "1.76.0.0",
+      "droppedVersion": "1.76.0.0"
     },
     {
       "internalName": "HaselTweaks",
@@ -3611,13 +3611,6 @@
       "droppedVersion": "4.6.2.22"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.0.4.3",
-      "droppedVersion": "6.0.4.3"
-    },
-    {
       "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3632,6 +3625,13 @@
       "droppedVersion": "2.2.0.13"
     },
     {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.0.4.3",
+      "droppedVersion": "6.0.4.3"
+    },
+    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3639,18 +3639,18 @@
       "droppedVersion": "1.15.7.8"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.60",
-      "droppedVersion": "15.756.3.60"
-    },
-    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
       "keptVersion": "0.3.0.0",
       "droppedVersion": "0.2.4.2"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.3.60",
+      "droppedVersion": "15.756.3.60"
     },
     {
       "internalName": "WrathCombo",
@@ -3667,13 +3667,6 @@
       "droppedVersion": "4.0.5.24"
     },
     {
-      "internalName": "Splatoon",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "3.9.2.33",
-      "droppedVersion": "3.9.2.33"
-    },
-    {
       "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3686,6 +3679,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.0.0.10",
       "droppedVersion": "0.0.0.10"
+    },
+    {
+      "internalName": "Splatoon",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "3.9.2.33",
+      "droppedVersion": "3.9.2.33"
     },
     {
       "internalName": "XIVComboExpanded",
@@ -3899,10 +3899,10 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "AtmoOmen / DalamudPlugins",
+      "kept": "bees-repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.75.6.0",
-      "droppedVersion": "1.75.4.0"
+      "keptVersion": "1.76.0.0",
+      "droppedVersion": "1.76.0.0"
     },
     {
       "internalName": "HaselTweaks",
@@ -3922,8 +3922,8 @@
       "internalName": "vsatisfy",
       "kept": "Veyn (BossMod)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.47",
-      "droppedVersion": "0.0.0.47"
+      "keptVersion": "0.0.0.50",
+      "droppedVersion": "0.0.0.50"
     },
     {
       "internalName": "visland",
@@ -4858,9 +4858,9 @@
     },
     {
       "internalName": "BetterDeaths",
-      "kept": "MEGA Repository",
-      "dropped": "nainai's repo",
-      "keptVersion": "1.0.0.65",
+      "kept": "nainai's repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.0.66",
       "droppedVersion": "1.0.0.65"
     },
     {
@@ -5131,9 +5131,9 @@
     },
     {
       "internalName": "BetterDeaths",
-      "kept": "MEGA Repository",
+      "kept": "nainai's repo",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.0.65",
+      "keptVersion": "1.0.0.66",
       "droppedVersion": "1.0.0.65"
     },
     {
@@ -5987,7 +5987,7 @@
       "internalName": "vsatisfy",
       "kept": "Veyn (BossMod)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "0.0.0.47",
+      "keptVersion": "0.0.0.50",
       "droppedVersion": "0.0.0.47"
     },
     {
@@ -6722,7 +6722,7 @@
       "internalName": "vsatisfy",
       "kept": "Veyn (BossMod)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "0.0.0.47",
+      "keptVersion": "0.0.0.50",
       "droppedVersion": "0.0.0.10"
     },
     {
@@ -7728,10 +7728,10 @@
     },
     {
       "internalName": "HaselDebug",
-      "kept": "AtmoOmen / DalamudPlugins",
+      "kept": "bees-repo",
       "dropped": "Haselnussbomber / DalamudPlugins",
-      "keptVersion": "1.75.6.0",
-      "droppedVersion": "1.75.4.0"
+      "keptVersion": "1.76.0.0",
+      "droppedVersion": "1.76.0.0"
     },
     {
       "internalName": "HaselTweaks",
