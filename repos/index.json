@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T11:39:54.788Z",
-  "contentHash": "e4fd68d6c6b4ee03",
+  "generatedAt": "2026-11-18T20:29:41.466Z",
+  "contentHash": "8937a67fdd5cb223",
   "totalPlugins": 635,
   "masterPlugins": 629,
   "currentApiLevel": 15,
@@ -2536,7 +2536,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "4.0.5.25",
+      "keptVersion": "4.0.5.27",
       "droppedVersion": "4.0.5.24"
     },
     {
@@ -2550,7 +2550,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "6.0.4.3",
+      "keptVersion": "6.1.0.0",
       "droppedVersion": "6.0.4.3"
     },
     {
@@ -2725,7 +2725,7 @@
       "internalName": "AutoLogin",
       "kept": "Aida-Enna XIVPlugins",
       "dropped": "Caraxi / MyPlugins",
-      "keptVersion": "1.3.1.4",
+      "keptVersion": "1.3.1.5",
       "droppedVersion": "1.0.0.5"
     },
     {
@@ -2788,7 +2788,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "4.0.5.25",
+      "keptVersion": "4.0.5.27",
       "droppedVersion": "1.0.6.1"
     },
     {
@@ -2802,7 +2802,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "6.0.4.3",
+      "keptVersion": "6.1.0.0",
       "droppedVersion": "2.3.0.3"
     },
     {
@@ -3082,7 +3082,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "15.13",
+      "keptVersion": "15.14",
       "droppedVersion": "1.3.0.8"
     },
     {
@@ -3597,18 +3597,18 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.6",
-      "droppedVersion": "1.6.4.6"
-    },
-    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.6.2.22",
       "droppedVersion": "4.6.2.22"
+    },
+    {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.6",
+      "droppedVersion": "1.6.4.6"
     },
     {
       "internalName": "Avarice",
@@ -3621,8 +3621,8 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.0.4.3",
-      "droppedVersion": "6.0.4.3"
+      "keptVersion": "6.1.0.0",
+      "droppedVersion": "6.1.0.0"
     },
     {
       "internalName": "LazyLoot",
@@ -3632,18 +3632,18 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.7.8",
       "droppedVersion": "1.15.7.8"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Questionable",
@@ -3660,11 +3660,11 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Saucy",
+      "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.9",
-      "droppedVersion": "2.1.2.9"
+      "keptVersion": "4.0.5.27",
+      "droppedVersion": "4.0.5.27"
     },
     {
       "internalName": "Palantir",
@@ -3674,11 +3674,11 @@
       "droppedVersion": "0.0.0.10"
     },
     {
-      "internalName": "Artisan",
+      "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.25",
-      "droppedVersion": "4.0.5.25"
+      "keptVersion": "2.1.2.9",
+      "droppedVersion": "2.1.2.9"
     },
     {
       "internalName": "Splatoon",
@@ -3698,8 +3698,8 @@
       "internalName": "AutoLogin",
       "kept": "Aida-Enna XIVPlugins",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.3.1.4",
-      "droppedVersion": "1.3.1.4"
+      "keptVersion": "1.3.1.5",
+      "droppedVersion": "1.3.1.5"
     },
     {
       "internalName": "AutoPillion",
@@ -3849,11 +3849,11 @@
       "droppedVersion": "1.7.4.2"
     },
     {
-      "internalName": "Fractionality",
-      "kept": "MEGA Repository",
-      "dropped": "DalamudPluginRepo",
-      "keptVersion": "1.0.1.5",
-      "droppedVersion": "1.0.1.3"
+      "internalName": "ReAction",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "69.1.6.5",
+      "droppedVersion": "1.3.5.1"
     },
     {
       "internalName": "Cammy",
@@ -3863,11 +3863,11 @@
       "droppedVersion": "2.1.1.2"
     },
     {
-      "internalName": "NoClippy",
-      "kept": "bees-repo",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.5.0.24",
-      "droppedVersion": "0.5.0.24"
+      "internalName": "OOBlugin",
+      "kept": "MEGA Repository",
+      "dropped": "DalamudPluginRepo",
+      "keptVersion": "1.1.2.11",
+      "droppedVersion": "1.1.2.7"
     },
     {
       "internalName": "DalamudRepoBrowser",
@@ -3877,18 +3877,18 @@
       "droppedVersion": "2.0.2.1"
     },
     {
-      "internalName": "ReAction",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "69.1.6.5",
-      "droppedVersion": "1.3.5.1"
-    },
-    {
-      "internalName": "OOBlugin",
+      "internalName": "Fractionality",
       "kept": "MEGA Repository",
       "dropped": "DalamudPluginRepo",
-      "keptVersion": "1.1.2.11",
-      "droppedVersion": "1.1.2.7"
+      "keptVersion": "1.0.1.5",
+      "droppedVersion": "1.0.1.3"
+    },
+    {
+      "internalName": "NoClippy",
+      "kept": "bees-repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.5.0.24",
+      "droppedVersion": "0.5.0.24"
     },
     {
       "internalName": "ARControl",
@@ -4041,8 +4041,8 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.13",
-      "droppedVersion": "15.13"
+      "keptVersion": "15.14",
+      "droppedVersion": "15.14"
     },
     {
       "internalName": "Automaton",
@@ -4433,7 +4433,7 @@
       "internalName": "ChilledLeves",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.0.2.3",
+      "keptVersion": "1.0.2.4",
       "droppedVersion": "1.0.2.3"
     },
     {
@@ -4496,7 +4496,7 @@
       "internalName": "GatherChill",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.0.0.6",
+      "keptVersion": "1.0.0.8",
       "droppedVersion": "1.0.0.6"
     },
     {
@@ -4832,7 +4832,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "MyDalamudPlugins",
-      "keptVersion": "15.13",
+      "keptVersion": "15.14",
       "droppedVersion": "1.3.0.5"
     },
     {
@@ -4972,7 +4972,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "4.0.5.25",
+      "keptVersion": "4.0.5.27",
       "droppedVersion": "4.0.5.24"
     },
     {
@@ -5007,7 +5007,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "6.0.4.3",
+      "keptVersion": "6.1.0.0",
       "droppedVersion": "6.0.4.3"
     },
     {
@@ -5042,7 +5042,7 @@
       "internalName": "AutoLogin",
       "kept": "Aida-Enna XIVPlugins",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.3.1.4",
+      "keptVersion": "1.3.1.5",
       "droppedVersion": "1.3.1.4"
     },
     {
@@ -5224,7 +5224,7 @@
       "internalName": "ChilledLeves",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.2.3",
+      "keptVersion": "1.0.2.4",
       "droppedVersion": "1.0.2.3"
     },
     {
@@ -5385,7 +5385,7 @@
       "internalName": "GatherChill",
       "kept": "ICE (Island Sanctuary)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.0.6",
+      "keptVersion": "1.0.0.8",
       "droppedVersion": "1.0.0.6"
     },
     {
@@ -5868,7 +5868,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.13",
+      "keptVersion": "15.14",
       "droppedVersion": "15.13"
     },
     {
@@ -6379,7 +6379,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "4.0.5.25",
+      "keptVersion": "4.0.5.27",
       "droppedVersion": "4.0.2.10"
     },
     {
@@ -6393,7 +6393,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "6.0.4.3",
+      "keptVersion": "6.1.0.0",
       "droppedVersion": "4.3.1.10"
     },
     {
@@ -6757,7 +6757,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.13",
+      "keptVersion": "15.14",
       "droppedVersion": "1.62"
     },
     {
@@ -7111,11 +7111,11 @@
       "droppedVersion": "7.1.2.24489"
     },
     {
-      "internalName": "Fractionality",
-      "kept": "MEGA Repository",
+      "internalName": "ReAction",
+      "kept": "DalamudRepoCollection",
       "dropped": "UnknownX7",
-      "keptVersion": "1.0.1.5",
-      "droppedVersion": "1.0.1.5"
+      "keptVersion": "69.1.6.5",
+      "droppedVersion": "1.3.5.1"
     },
     {
       "internalName": "Cammy",
@@ -7125,11 +7125,11 @@
       "droppedVersion": "2.1.1.2"
     },
     {
-      "internalName": "NoClippy",
-      "kept": "bees-repo",
+      "internalName": "OOBlugin",
+      "kept": "MEGA Repository",
       "dropped": "UnknownX7",
-      "keptVersion": "0.5.0.24",
-      "droppedVersion": "0.5.0.24"
+      "keptVersion": "1.1.2.11",
+      "droppedVersion": "1.1.2.11"
     },
     {
       "internalName": "DalamudRepoBrowser",
@@ -7139,18 +7139,18 @@
       "droppedVersion": "2.0.3.3"
     },
     {
-      "internalName": "ReAction",
-      "kept": "DalamudRepoCollection",
-      "dropped": "UnknownX7",
-      "keptVersion": "69.1.6.5",
-      "droppedVersion": "1.3.5.1"
-    },
-    {
-      "internalName": "OOBlugin",
+      "internalName": "Fractionality",
       "kept": "MEGA Repository",
       "dropped": "UnknownX7",
-      "keptVersion": "1.1.2.11",
-      "droppedVersion": "1.1.2.11"
+      "keptVersion": "1.0.1.5",
+      "droppedVersion": "1.0.1.5"
+    },
+    {
+      "internalName": "NoClippy",
+      "kept": "bees-repo",
+      "dropped": "UnknownX7",
+      "keptVersion": "0.5.0.24",
+      "droppedVersion": "0.5.0.24"
     },
     {
       "internalName": "IAmReady",
@@ -7366,7 +7366,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "WorkingRobot (Asriel) / MyDalamudPlugins",
-      "keptVersion": "15.13",
+      "keptVersion": "15.14",
       "droppedVersion": "1.5.1.0"
     },
     {
@@ -7457,7 +7457,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "6.0.4.3",
+      "keptVersion": "6.1.0.0",
       "droppedVersion": "6.0.0.12"
     },
     {
@@ -7492,7 +7492,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "Adalyia / DalamudPlugins",
-      "keptVersion": "15.13",
+      "keptVersion": "15.14",
       "droppedVersion": "1.4.2.1"
     },
     {
@@ -7765,7 +7765,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "ifan0927 / FFXIVTC_Plugins_Pack",
-      "keptVersion": "4.0.5.25",
+      "keptVersion": "4.0.5.27",
       "droppedVersion": "4.0.3.59"
     },
     {
@@ -7856,7 +7856,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "6.0.4.3",
+      "keptVersion": "6.1.0.0",
       "droppedVersion": "4.3.4.1"
     },
     {
@@ -7940,14 +7940,14 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "4.0.5.25",
+      "keptVersion": "4.0.5.27",
       "droppedVersion": "4.0.5.16"
     },
     {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "6.0.4.3",
+      "keptVersion": "6.1.0.0",
       "droppedVersion": "6.0.0.68"
     },
     {
@@ -7989,14 +7989,14 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / OLDBAI",
-      "keptVersion": "4.0.5.25",
+      "keptVersion": "4.0.5.27",
       "droppedVersion": "4.0.5.15"
     },
     {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / OLDBAI",
-      "keptVersion": "6.0.4.3",
+      "keptVersion": "6.1.0.0",
       "droppedVersion": "6.0.0.46"
     },
     {
@@ -8059,7 +8059,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "OpaqueReptile / daemitus_MyDalamudPlugins",
-      "keptVersion": "15.13",
+      "keptVersion": "15.14",
       "droppedVersion": "1.3.0.5"
     },
     {
@@ -8108,8 +8108,8 @@
       "internalName": "AutoLogin",
       "kept": "Aida-Enna XIVPlugins",
       "dropped": "ryonive / XIVPlugins",
-      "keptVersion": "1.3.1.4",
-      "droppedVersion": "1.3.1.4"
+      "keptVersion": "1.3.1.5",
+      "droppedVersion": "1.3.1.5"
     },
     {
       "internalName": "AutoPillion",
@@ -8248,7 +8248,7 @@
       "internalName": "Artisan",
       "kept": "Puni.sh (Ment)",
       "dropped": "xivhub / pluginmaster",
-      "keptVersion": "4.0.5.25",
+      "keptVersion": "4.0.5.27",
       "droppedVersion": "4.0.5.44"
     },
     {
