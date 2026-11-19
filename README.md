@@ -43,10 +43,10 @@ beliebig mit anderen kombinieren — die Tabelle wird bei jedem Lauf automatisch
 
 | Feed | Inhalt | Plugins | URL |
 |---|---|---:|---|
-| ⭐ **Master** | Alles außer 18+ | 629 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master.json` |
-| 🌐 **Master inkl. 18+** | Wirklich alles | 635 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master-full.json` |
+| ⭐ **Master** | Alles außer 18+ | 630 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master.json` |
+| 🌐 **Master inkl. 18+** | Wirklich alles | 636 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master-full.json` |
 | 👗 Glamour & Charakter | Mods, Aussehen, Posing, Sync | 99 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/glamour.json` |
-| ⚔️ Kampf & Rotation | Rotationen, Boss-Timeline, Combos, PvP | 72 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/combat.json` |
+| ⚔️ Kampf & Rotation | Rotationen, Boss-Timeline, Combos, PvP | 73 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/combat.json` |
 | 🤖 Automatisierung | AutoDuty, Navmesh, Retainer, Questing, Farming | 135 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/automation.json` |
 | ⚒️ Crafting & Gathering | Handwerk, Sammeln, Marktbrett | 28 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/crafting.json` |
 | ✨ Quality of Life & UI | Tweaks, Interface, Chat, Inventar, Karten | 156 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/qol.json` |

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-18T20:29:41.466Z",
-  "contentHash": "8937a67fdd5cb223",
-  "totalPlugins": 635,
-  "masterPlugins": 629,
+  "generatedAt": "2026-11-19T02:32:53.322Z",
+  "contentHash": "c147940dd3192796",
+  "totalPlugins": 636,
+  "masterPlugins": 630,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 353,
@@ -1580,7 +1580,7 @@
       "name": "Valiice DalamudPluginRepo",
       "url": "https://raw.githubusercontent.com/Valiice/DalamudPluginRepo/master/repo.json",
       "status": "ok",
-      "count": 12,
+      "count": 13,
       "note": null
     },
     {
@@ -2350,7 +2350,7 @@
       "name": "Kampf & Rotation",
       "emoji": "⚔️",
       "description": "Rotationen, Boss-Timeline, Combos, PvP",
-      "count": 72,
+      "count": 73,
       "file": "repos/combat.json"
     },
     {
@@ -2537,7 +2537,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "4.0.5.27",
-      "droppedVersion": "4.0.5.24"
+      "droppedVersion": "4.0.5.27"
     },
     {
       "internalName": "AutoDuty",
@@ -2551,13 +2551,13 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
       "keptVersion": "6.1.0.0",
-      "droppedVersion": "6.0.4.3"
+      "droppedVersion": "6.1.0.0"
     },
     {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "4.6.2.22",
+      "keptVersion": "4.6.2.24",
       "droppedVersion": "4.6.2.22"
     },
     {
@@ -2809,7 +2809,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "4.6.2.22",
+      "keptVersion": "4.6.2.24",
       "droppedVersion": "2.2.0.0"
     },
     {
@@ -3600,8 +3600,8 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.6.2.22",
-      "droppedVersion": "4.6.2.22"
+      "keptVersion": "4.6.2.24",
+      "droppedVersion": "4.6.2.24"
     },
     {
       "internalName": "PandorasBox",
@@ -3611,11 +3611,11 @@
       "droppedVersion": "1.6.4.6"
     },
     {
-      "internalName": "Avarice",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "AutoHook",
@@ -3625,11 +3625,11 @@
       "droppedVersion": "6.1.0.0"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
     },
     {
       "internalName": "YesAlready",
@@ -3639,18 +3639,18 @@
       "droppedVersion": "1.15.7.8"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
       "internalName": "Questionable",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "15.756.3.60",
       "droppedVersion": "15.756.3.60"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "WrathCombo",
@@ -4251,8 +4251,8 @@
       "internalName": "TimeMemoriaV3",
       "kept": "LegendsOfTheGame / TimeMemoriaV3",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.13.0.15",
-      "droppedVersion": "3.13.0.15"
+      "keptVersion": "3.14.0.15",
+      "droppedVersion": "3.14.0.15"
     },
     {
       "internalName": "Snowcloak",
@@ -4629,7 +4629,7 @@
       "internalName": "RaidsRewritten",
       "kept": "Proximity Voice Chat",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.2.2.0",
+      "keptVersion": "1.2.3.0",
       "droppedVersion": "1.2.2.0"
     },
     {
@@ -5070,7 +5070,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "4.6.2.22",
+      "keptVersion": "4.6.2.24",
       "droppedVersion": "4.6.2.22"
     },
     {
@@ -5742,7 +5742,7 @@
       "internalName": "RaidsRewritten",
       "kept": "Proximity Voice Chat",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.2.2.0",
+      "keptVersion": "1.2.3.0",
       "droppedVersion": "1.2.2.0"
     },
     {
@@ -6400,7 +6400,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "4.6.2.22",
+      "keptVersion": "4.6.2.24",
       "droppedVersion": "4.4.3.9"
     },
     {
@@ -7329,9 +7329,9 @@
     },
     {
       "internalName": "WahTools",
-      "kept": "MEGA Repository",
-      "dropped": "wah",
-      "keptVersion": "20.0.0.55",
+      "kept": "wah",
+      "dropped": "MEGA Repository",
+      "keptVersion": "20.0.0.56",
       "droppedVersion": "20.0.0.55"
     },
     {
@@ -7422,7 +7422,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "4.6.2.22",
+      "keptVersion": "4.6.2.24",
       "droppedVersion": "4.6.0.8"
     },
     {
@@ -7842,7 +7842,7 @@
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "4.6.2.22",
+      "keptVersion": "4.6.2.24",
       "droppedVersion": "4.5.1.13"
     },
     {
