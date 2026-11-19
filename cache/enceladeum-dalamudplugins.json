@@ -1,7 +1,7 @@
 {
   "sourceId": "enceladeum-dalamudplugins",
   "url": "https://raw.githubusercontent.com/Enceladeum/DalamudPlugins/main/repo.json",
-  "fetchedAt": "2026-11-18",
+  "fetchedAt": "2026-11-19",
   "count": 6,
   "plugins": [
     {
@@ -163,7 +163,7 @@
       "InternalName": "HMSync",
       "Punchline": "Explore any zone together.",
       "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
-      "Changelog": "1.1.0.1: Alexandria (old town, no neon) no longer leaves purple light on the walls, and floors made of collision boxes (e.g. The Tower of Babil's spawn platform) stay walkable when HMS removes section walls.",
+      "Changelog": "1.1.0.4: fixes a freeze of up to several minutes when opening a music category (World in particular) on some PCs. A few of the game's level files are empty stubs; HMS now checks and skips them. Same tracks.",
       "Tags": [
         "exploration",
         "zone",
@@ -181,7 +181,7 @@
       "IsTestingExclusive": false,
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/Enceladeum/HMapSync",
-      "AssemblyVersion": "1.1.0.1",
+      "AssemblyVersion": "1.1.0.4",
       "DalamudApiLevel": 15,
       "LoadRequiredState": 0,
       "LoadSync": false,
@@ -189,7 +189,7 @@
       "LoadPriority": 0,
       "AcceptsFeedback": true,
       "DownloadCount": 0,
-      "LastUpdate": 1794973544,
+      "LastUpdate": 1795113429,
       "DownloadLinkInstall": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
       "DownloadLinkUpdate": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
       "DownloadLinkTesting": "https://github.com/Enceladeum/HMapSync/releases/latest/download/latest.zip",
