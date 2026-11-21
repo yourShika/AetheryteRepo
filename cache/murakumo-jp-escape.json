@@ -1,7 +1,7 @@
 {
   "sourceId": "murakumo-jp-escape",
   "url": "https://raw.githubusercontent.com/Murakumo-JP/eScape/main/repo.json",
-  "fetchedAt": "2026-11-17",
+  "fetchedAt": "2026-11-21",
   "count": 13,
   "plugins": [
     {
@@ -351,12 +351,12 @@
       "Punchline": "Simplify Gathering and Fishing to the extreme.",
       "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
       "AcceptsFeedback": true,
-      "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.5.6.1/GatherbuddyReborn.zip",
-      "AssemblyVersion": "7.5.6.1",
-      "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.5.6.1/GatherbuddyReborn.zip",
+      "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.5.8.3/GatherbuddyReborn.zip",
+      "AssemblyVersion": "7.5.8.3",
+      "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.5.8.3/GatherbuddyReborn.zip",
       "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/releases/download/7.5.8.2/GatherbuddyReborn.zip",
       "TestingAssemblyVersion": "7.5.8.2",
-      "Changelog": "## What's Changed\r\n* Autogig fix by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/670\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.6.0...7.5.6.1",
+      "Changelog": "## What's Changed\r\n* Fixes for UI jank, added command shortcut for vendor buylist by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/676\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.8.1...7.5.8.3",
       "IsHide": false,
       "_SourceId": "murakumo-jp-escape",
       "_SourceName": "eScape",
