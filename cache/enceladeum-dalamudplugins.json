@@ -1,7 +1,7 @@
 {
   "sourceId": "enceladeum-dalamudplugins",
   "url": "https://raw.githubusercontent.com/Enceladeum/DalamudPlugins/main/repo.json",
-  "fetchedAt": "2026-11-20",
+  "fetchedAt": "2026-11-21",
   "count": 6,
   "plugins": [
     {
@@ -204,7 +204,7 @@
       "InternalName": "HDM",
       "Punchline": "Wear any monster's face. Client-side mob disguises with a searchable catalog and animation triggers.",
       "Description": "A catalog of every mob in the game (16k+ models, 15.5k named) plus the full set of humanoid NPCs (Glamourer's NPC tab). Apply any mob's or NPC's look to yourself client-side (Brio-style ModelCharaId swap + redraw, or a Glamourer paint for humans), spawn disguised puppets, trigger action timelines for theatrics, and revert cleanly. Self-apply only, like Glamourer — never enforced on other players. Built for DM/event use — no mechanics, just the face.",
-      "Changelog": "1.0.4.0: modern bosses list their special attacks; every mob name gets its own entry (about 1,200 labels corrected, unnamed mobs show an approximated name*); named creature NPCs and mounts as disguises and spawns; emote fixes for puppets, possession and your own emotes; beast-tribe NPC disguises render with head and gear. Sync friends should update too.",
+      "Changelog": "1.0.5.0: the Animations tab is rebuilt into one searchable list by kind; over a thousand NPC poses in groups; talking gestures and entrances for puppets; job skills for every job; hand props (cups, pipes, books, about 800 to pick from); creatures can flinch.",
       "Tags": [
         "disguise",
         "mob",
@@ -221,7 +221,7 @@
       "IsTestingExclusive": false,
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/Enceladeum/HDM",
-      "AssemblyVersion": "1.0.4.0",
+      "AssemblyVersion": "1.0.5.0",
       "DalamudApiLevel": 15,
       "LoadRequiredState": 0,
       "LoadSync": false,
@@ -229,7 +229,7 @@
       "LoadPriority": 0,
       "AcceptsFeedback": true,
       "DownloadCount": 0,
-      "LastUpdate": 1795201972,
+      "LastUpdate": 1795217447,
       "DownloadLinkInstall": "https://github.com/Enceladeum/HDM/releases/latest/download/latest.zip",
       "DownloadLinkUpdate": "https://github.com/Enceladeum/HDM/releases/latest/download/latest.zip",
       "DownloadLinkTesting": "https://github.com/Enceladeum/HDM/releases/latest/download/latest.zip",
