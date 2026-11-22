@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T19:14:04.402Z",
-  "contentHash": "b9f9e3f1481b393a",
+  "generatedAt": "2026-11-22T01:16:57.450Z",
+  "contentHash": "499c675110afddf7",
   "totalPlugins": 637,
   "masterPlugins": 631,
   "currentApiLevel": 15,
@@ -2550,8 +2550,8 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "6.1.1.1",
-      "droppedVersion": "6.1.0.3"
+      "keptVersion": "6.1.1.2",
+      "droppedVersion": "6.1.1.1"
     },
     {
       "internalName": "AutoRetainer",
@@ -2586,7 +2586,7 @@
       "kept": "CombatReborn",
       "dropped": "bees-repo",
       "keptVersion": "7.5.8.3",
-      "droppedVersion": "7.5.6.1"
+      "droppedVersion": "7.5.8.3"
     },
     {
       "internalName": "Glamourer",
@@ -2802,7 +2802,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "6.1.1.1",
+      "keptVersion": "6.1.1.2",
       "droppedVersion": "2.3.0.3"
     },
     {
@@ -3611,11 +3611,18 @@
       "droppedVersion": "1.6.4.7"
     },
     {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.1.1.1",
-      "droppedVersion": "6.1.1.1"
+      "keptVersion": "6.1.1.2",
+      "droppedVersion": "6.1.1.2"
     },
     {
       "internalName": "Avarice",
@@ -3625,11 +3632,11 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "1.15.7.8",
+      "droppedVersion": "1.15.7.8"
     },
     {
       "internalName": "Questionable",
@@ -3646,13 +3653,6 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.8",
-      "droppedVersion": "1.15.7.8"
-    },
-    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3667,18 +3667,18 @@
       "droppedVersion": "2.1.2.9"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.27",
-      "droppedVersion": "4.0.5.27"
-    },
-    {
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "0.0.0.10",
       "droppedVersion": "0.0.0.10"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.27",
+      "droppedVersion": "4.0.5.27"
     },
     {
       "internalName": "Splatoon",
@@ -4048,8 +4048,8 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "69.236",
-      "droppedVersion": "69.236"
+      "keptVersion": "69.237",
+      "droppedVersion": "69.237"
     },
     {
       "internalName": "GlamourLog",
@@ -5007,7 +5007,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "6.1.1.1",
+      "keptVersion": "6.1.1.2",
       "droppedVersion": "6.1.0.3"
     },
     {
@@ -5049,7 +5049,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "69.236",
+      "keptVersion": "69.237",
       "droppedVersion": "69.236"
     },
     {
@@ -6393,7 +6393,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "6.1.1.1",
+      "keptVersion": "6.1.1.2",
       "droppedVersion": "4.3.1.10"
     },
     {
@@ -6449,7 +6449,7 @@
       "internalName": "Automaton",
       "kept": "Croizat's Repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "69.236",
+      "keptVersion": "69.237",
       "droppedVersion": "69.55"
     },
     {
@@ -7331,7 +7331,7 @@
       "internalName": "WahTools",
       "kept": "wah",
       "dropped": "MEGA Repository",
-      "keptVersion": "20.0.0.64",
+      "keptVersion": "20.0.0.65",
       "droppedVersion": "20.0.0.63"
     },
     {
@@ -7457,7 +7457,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "zhouhuichen741/dalamud-plugins",
-      "keptVersion": "6.1.1.1",
+      "keptVersion": "6.1.1.2",
       "droppedVersion": "6.0.0.12"
     },
     {
@@ -7856,7 +7856,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "6.1.1.1",
+      "keptVersion": "6.1.1.2",
       "droppedVersion": "4.3.4.1"
     },
     {
@@ -7947,7 +7947,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "6.1.1.1",
+      "keptVersion": "6.1.1.2",
       "droppedVersion": "6.0.0.68"
     },
     {
@@ -7996,7 +7996,7 @@
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / OLDBAI",
-      "keptVersion": "6.1.1.1",
+      "keptVersion": "6.1.1.2",
       "droppedVersion": "6.0.0.46"
     },
     {

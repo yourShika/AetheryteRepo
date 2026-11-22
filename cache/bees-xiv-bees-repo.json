@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-11-21",
+  "fetchedAt": "2026-11-22",
   "count": 46,
   "plugins": [
     {
@@ -105,10 +105,10 @@
       "InternalName": "AutoHook",
       "RepoUrl": "https://github.com/PunishXIV/AutoHook",
       "DownloadCount": 69696969,
-      "LastUpdate": 1795104756,
+      "LastUpdate": 1795279185,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoHook.zip",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/AutoHook.zip",
-      "AssemblyVersion": "6.1.0.3",
+      "AssemblyVersion": "6.1.1.1",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 15,
       "Changelog": "",
@@ -439,9 +439,9 @@
       "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
       "AcceptsFeedback": true,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-      "AssemblyVersion": "7.5.6.1",
+      "AssemblyVersion": "7.5.8.3",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-      "Changelog": "## What's Changed\r\n* Autogig fix by @Deathbeyond87 in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/670\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.6.0...7.5.6.1",
+      "Changelog": "## What's Changed\r\n* Fixes for UI jank, added command shortcut for vendor buylist by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/676\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.8.1...7.5.8.3",
       "DownloadCount": 69696969,
       "IsHide": false,
       "_SourceId": "bees-xiv-bees-repo",
