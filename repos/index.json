@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T11:22:21.712Z",
-  "contentHash": "1323dbb9937d132a",
+  "generatedAt": "2026-11-22T19:37:48.040Z",
+  "contentHash": "4a9ba2ec0fbcb6e0",
   "totalPlugins": 638,
   "masterPlugins": 632,
   "currentApiLevel": 15,
@@ -2358,7 +2358,7 @@
       "name": "Automatisierung",
       "emoji": "🤖",
       "description": "AutoDuty, Navmesh, Retainer, Questing, Farming",
-      "count": 135,
+      "count": 136,
       "file": "repos/automation.json"
     },
     {
@@ -2422,7 +2422,7 @@
       "name": "Sonstiges",
       "emoji": "📦",
       "description": "Alles ohne klare Zuordnung",
-      "count": 32,
+      "count": 31,
       "file": "repos/misc.json"
     }
   ],
@@ -3300,7 +3300,7 @@
       "kept": "CombatReborn",
       "dropped": "eScape",
       "keptVersion": "7.5.8.4",
-      "droppedVersion": "7.5.8.3"
+      "droppedVersion": "7.5.8.4"
     },
     {
       "internalName": "AutoDuty",
@@ -3618,18 +3618,18 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.1.1.2",
-      "droppedVersion": "6.1.1.2"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.2.0.13",
       "droppedVersion": "2.2.0.13"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.1.1.2",
+      "droppedVersion": "6.1.1.2"
     },
     {
       "internalName": "YesAlready",
@@ -3667,18 +3667,18 @@
       "droppedVersion": "4.0.5.27"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.9",
-      "droppedVersion": "2.1.2.9"
-    },
-    {
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "0.0.0.10",
       "droppedVersion": "0.0.0.10"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.9",
+      "droppedVersion": "2.1.2.9"
     },
     {
       "internalName": "Splatoon",
@@ -8218,10 +8218,10 @@
     },
     {
       "internalName": "XASlave",
-      "kept": "xa-io / MyDalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "xa-io / MyDalamudPlugins",
       "keptVersion": "0.0.0.69",
-      "droppedVersion": "0.0.0.68"
+      "droppedVersion": "0.0.0.69"
     },
     {
       "internalName": "XAHudNavigator",
@@ -8232,9 +8232,9 @@
     },
     {
       "internalName": "XAZod",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.8",
+      "kept": "xa-io / MyDalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "0.0.0.9",
       "droppedVersion": "0.0.0.8"
     },
     {
@@ -8253,9 +8253,9 @@
     },
     {
       "internalName": "MasterOfPuppets",
-      "kept": "pffxivtools / ffxiv-bard-plugins-linux",
-      "dropped": "zunetrix / DalamudPlugins",
-      "keptVersion": "1.15.0.258",
+      "kept": "zunetrix / DalamudPlugins",
+      "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
+      "keptVersion": "1.15.0.259",
       "droppedVersion": "1.15.0.258"
     }
   ]
