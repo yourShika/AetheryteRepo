@@ -43,8 +43,8 @@ beliebig mit anderen kombinieren — die Tabelle wird bei jedem Lauf automatisch
 
 | Feed | Inhalt | Plugins | URL |
 |---|---|---:|---|
-| ⭐ **Master** | Alles außer 18+ | 631 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master.json` |
-| 🌐 **Master inkl. 18+** | Wirklich alles | 637 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master-full.json` |
+| ⭐ **Master** | Alles außer 18+ | 632 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master.json` |
+| 🌐 **Master inkl. 18+** | Wirklich alles | 638 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/master-full.json` |
 | 👗 Glamour & Charakter | Mods, Aussehen, Posing, Sync | 99 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/glamour.json` |
 | ⚔️ Kampf & Rotation | Rotationen, Boss-Timeline, Combos, PvP | 73 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/combat.json` |
 | 🤖 Automatisierung | AutoDuty, Navmesh, Retainer, Questing, Farming | 135 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/automation.json` |
@@ -53,7 +53,7 @@ beliebig mit anderen kombinieren — die Tabelle wird bei jedem Lauf automatisch
 | 🎭 Social & Roleplay | RP-Profile, Emotes, Free Company, Discord | 48 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/social.json` |
 | 🔞 Adult (18+) | Nur fuer Erwachsene – standardmaessig NICHT im Master | 6 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/nsfw.json` |
 | 🏡 Housing & Deko | Moebel, Layouts, Grundstuecke | 19 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/housing.json` |
-| 🔊 Audio & Voice | Voicechat, TTS, Musik, Sound | 19 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/audio.json` |
+| 🔊 Audio & Voice | Voicechat, TTS, Musik, Sound | 20 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/audio.json` |
 | 🛠️ Developer & Data | Debugging, Datenexplorer, Editoren | 21 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/dev.json` |
 | 📦 Sonstiges | Alles ohne klare Zuordnung | 32 | `https://raw.githubusercontent.com/yourShika/AetheryteRepo/main/repos/misc.json` |
 
