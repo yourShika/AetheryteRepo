@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-11-22",
+  "fetchedAt": "2026-11-23",
   "count": 46,
   "plugins": [
     {
@@ -439,9 +439,9 @@
       "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
       "AcceptsFeedback": true,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-      "AssemblyVersion": "7.5.8.3",
+      "AssemblyVersion": "7.5.8.4",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-      "Changelog": "## What's Changed\r\n* Fixes for UI jank, added command shortcut for vendor buylist by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/676\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.8.1...7.5.8.3",
+      "Changelog": "## What's Changed\r\n* Ui tweaks and minor fixes, added icon only sidebar option and tighter compact mode by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/677\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.8.2...7.5.8.4",
       "DownloadCount": 69696969,
       "IsHide": false,
       "_SourceId": "bees-xiv-bees-repo",

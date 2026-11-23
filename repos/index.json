@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T19:37:48.040Z",
-  "contentHash": "4a9ba2ec0fbcb6e0",
+  "generatedAt": "2026-11-23T01:41:33.265Z",
+  "contentHash": "c7f554908b53cd27",
   "totalPlugins": 638,
   "masterPlugins": 632,
   "currentApiLevel": 15,
@@ -2586,7 +2586,7 @@
       "kept": "CombatReborn",
       "dropped": "bees-repo",
       "keptVersion": "7.5.8.4",
-      "droppedVersion": "7.5.8.3"
+      "droppedVersion": "7.5.8.4"
     },
     {
       "internalName": "Glamourer",
@@ -2830,7 +2830,7 @@
       "internalName": "BardToolbox",
       "kept": "BardToolbox / BardToolbox-Release",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "3.0.2.3",
+      "keptVersion": "3.1.0.1",
       "droppedVersion": "1.2.3.0"
     },
     {
@@ -3597,18 +3597,18 @@
       "droppedVersion": "1.0.1.10"
     },
     {
-      "internalName": "PandorasBox",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.7",
-      "droppedVersion": "1.6.4.7"
-    },
-    {
       "internalName": "AutoRetainer",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "4.6.2.24",
       "droppedVersion": "4.6.2.24"
+    },
+    {
+      "internalName": "PandorasBox",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.6.4.7",
+      "droppedVersion": "1.6.4.7"
     },
     {
       "internalName": "LazyLoot",
@@ -3618,13 +3618,6 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "Avarice",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
-    },
-    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3632,11 +3625,18 @@
       "droppedVersion": "6.1.1.2"
     },
     {
-      "internalName": "YesAlready",
+      "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.8",
-      "droppedVersion": "1.15.7.8"
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Questionable",
@@ -3646,11 +3646,11 @@
       "droppedVersion": "15.756.3.64"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "1.15.7.8",
+      "droppedVersion": "1.15.7.8"
     },
     {
       "internalName": "WrathCombo",
@@ -4216,8 +4216,8 @@
       "internalName": "BardToolbox",
       "kept": "BardToolbox / BardToolbox-Release",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.0.2.3",
-      "droppedVersion": "3.0.2.3"
+      "keptVersion": "3.1.0.1",
+      "droppedVersion": "3.1.0.1"
     },
     {
       "internalName": "PuppetMaster",
@@ -4251,8 +4251,8 @@
       "internalName": "TimeMemoriaV3",
       "kept": "LegendsOfTheGame / TimeMemoriaV3",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.15.0.15",
-      "droppedVersion": "3.15.0.15"
+      "keptVersion": "3.16.0.15",
+      "droppedVersion": "3.16.0.15"
     },
     {
       "internalName": "Snowcloak",
@@ -4858,9 +4858,9 @@
     },
     {
       "internalName": "BetterDeaths",
-      "kept": "MEGA Repository",
-      "dropped": "nainai's repo",
-      "keptVersion": "1.0.0.66",
+      "kept": "nainai's repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.0.72",
       "droppedVersion": "1.0.0.66"
     },
     {
@@ -5131,9 +5131,9 @@
     },
     {
       "internalName": "BetterDeaths",
-      "kept": "MEGA Repository",
+      "kept": "nainai's repo",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.0.66",
+      "keptVersion": "1.0.0.72",
       "droppedVersion": "1.0.0.66"
     },
     {
@@ -8066,7 +8066,7 @@
       "internalName": "BardToolbox",
       "kept": "BardToolbox / BardToolbox-Release",
       "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
-      "keptVersion": "3.0.2.3",
+      "keptVersion": "3.1.0.1",
       "droppedVersion": "2.2.5.4"
     },
     {
