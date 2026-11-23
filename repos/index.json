@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T01:41:33.265Z",
-  "contentHash": "c7f554908b53cd27",
+  "generatedAt": "2026-11-23T12:35:58.169Z",
+  "contentHash": "caf3c63f9e0340f4",
   "totalPlugins": 638,
   "masterPlugins": 632,
   "currentApiLevel": 15,
@@ -2450,16 +2450,16 @@
     },
     {
       "internalName": "BossMod",
-      "kept": "Veyn (BossMod)",
-      "dropped": "44451516 / ffxiv_bossmod",
-      "keptVersion": "7.5.8.5",
+      "kept": "44451516 / ffxiv_bossmod",
+      "dropped": "Veyn (BossMod)",
+      "keptVersion": "7.5.8.6",
       "droppedVersion": "7.5.8.5"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "44451516-ff14 / BossmodRebornCN",
-      "keptVersion": "7.5.8.7",
+      "keptVersion": "7.5.8.9",
       "droppedVersion": "7.5.7.3"
     },
     {
@@ -2499,16 +2499,16 @@
     },
     {
       "internalName": "GatherBuddyReborn",
-      "kept": "CombatReborn",
-      "dropped": "AtmoOmen / DalamudPlugins",
-      "keptVersion": "7.5.8.4",
-      "droppedVersion": "7.5.0.5"
+      "kept": "AtmoOmen / DalamudPlugins",
+      "dropped": "CombatReborn",
+      "keptVersion": "7.5.8.401",
+      "droppedVersion": "7.5.8.4"
     },
     {
       "internalName": "BossMod",
-      "kept": "Veyn (BossMod)",
+      "kept": "44451516 / ffxiv_bossmod",
       "dropped": "awgil plugin distribution",
-      "keptVersion": "7.5.8.5",
+      "keptVersion": "7.5.8.6",
       "droppedVersion": "0.0.0.122"
     },
     {
@@ -2562,9 +2562,9 @@
     },
     {
       "internalName": "BossMod",
-      "kept": "Veyn (BossMod)",
+      "kept": "44451516 / ffxiv_bossmod",
       "dropped": "bees-repo",
-      "keptVersion": "7.5.8.5",
+      "keptVersion": "7.5.8.6",
       "droppedVersion": "7.5.8.5"
     },
     {
@@ -2583,9 +2583,9 @@
     },
     {
       "internalName": "GatherBuddyReborn",
-      "kept": "CombatReborn",
+      "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "bees-repo",
-      "keptVersion": "7.5.8.4",
+      "keptVersion": "7.5.8.401",
       "droppedVersion": "7.5.8.4"
     },
     {
@@ -2835,9 +2835,9 @@
     },
     {
       "internalName": "BossMod",
-      "kept": "Veyn (BossMod)",
+      "kept": "44451516 / ffxiv_bossmod",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "7.5.8.5",
+      "keptVersion": "7.5.8.6",
       "droppedVersion": "0.0.0.77"
     },
     {
@@ -3082,7 +3082,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "DalamudRepoCollection",
-      "keptVersion": "15.14",
+      "keptVersion": "15.15",
       "droppedVersion": "1.3.0.8"
     },
     {
@@ -3297,9 +3297,9 @@
     },
     {
       "internalName": "GatherBuddyReborn",
-      "kept": "CombatReborn",
+      "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "eScape",
-      "keptVersion": "7.5.8.4",
+      "keptVersion": "7.5.8.401",
       "droppedVersion": "7.5.8.4"
     },
     {
@@ -3618,18 +3618,18 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "AutoHook",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "6.1.1.2",
-      "droppedVersion": "6.1.1.2"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "2.2.0.13",
       "droppedVersion": "2.2.0.13"
+    },
+    {
+      "internalName": "AutoHook",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "6.1.1.2",
+      "droppedVersion": "6.1.1.2"
     },
     {
       "internalName": "Marketbuddy",
@@ -3639,18 +3639,18 @@
       "droppedVersion": "0.2.4.2"
     },
     {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.64",
-      "droppedVersion": "15.756.3.64"
-    },
-    {
       "internalName": "YesAlready",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.15.7.8",
       "droppedVersion": "1.15.7.8"
+    },
+    {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.3.64",
+      "droppedVersion": "15.756.3.64"
     },
     {
       "internalName": "WrathCombo",
@@ -3660,18 +3660,18 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.27",
-      "droppedVersion": "4.0.5.27"
-    },
-    {
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "0.0.0.10",
       "droppedVersion": "0.0.0.10"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.27",
+      "droppedVersion": "4.0.5.27"
     },
     {
       "internalName": "Saucy",
@@ -3941,9 +3941,9 @@
     },
     {
       "internalName": "BossMod",
-      "kept": "Veyn (BossMod)",
+      "kept": "44451516 / ffxiv_bossmod",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.8.5",
+      "keptVersion": "7.5.8.6",
       "droppedVersion": "7.5.8.5"
     },
     {
@@ -3971,22 +3971,22 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.8.8",
-      "droppedVersion": "7.5.8.8"
+      "keptVersion": "7.5.8.9",
+      "droppedVersion": "7.5.8.9"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.8.7",
-      "droppedVersion": "7.5.8.7"
+      "keptVersion": "7.5.8.9",
+      "droppedVersion": "7.5.8.9"
     },
     {
       "internalName": "ActionTimelineReborn",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.8.1",
-      "droppedVersion": "7.5.8.1"
+      "keptVersion": "7.5.8.2",
+      "droppedVersion": "7.5.8.2"
     },
     {
       "internalName": "EasyZoomReborn",
@@ -3997,9 +3997,9 @@
     },
     {
       "internalName": "GatherBuddyReborn",
-      "kept": "CombatReborn",
+      "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.8.4",
+      "keptVersion": "7.5.8.401",
       "droppedVersion": "7.5.8.4"
     },
     {
@@ -4020,8 +4020,8 @@
       "internalName": "PassportCheckerReborn",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.8.1",
-      "droppedVersion": "7.5.8.1"
+      "keptVersion": "7.5.8.2",
+      "droppedVersion": "7.5.8.2"
     },
     {
       "internalName": "NoSillyReborn",
@@ -4041,8 +4041,8 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "15.14",
-      "droppedVersion": "15.14"
+      "keptVersion": "15.15",
+      "droppedVersion": "15.15"
     },
     {
       "internalName": "Automaton",
@@ -4314,7 +4314,7 @@
       "internalName": "AutoDailyTribes",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "2.12.0.0",
+      "keptVersion": "2.14.0.0",
       "droppedVersion": "2.11.3.0"
     },
     {
@@ -4328,42 +4328,42 @@
       "internalName": "AutoFateGrind",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "2.24.0.0",
+      "keptVersion": "2.25.0.0",
       "droppedVersion": "2.22.0.0"
     },
     {
       "internalName": "AutoGcSupply",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.4.0.0",
+      "keptVersion": "1.8.1.0",
       "droppedVersion": "1.1.0.0"
     },
     {
       "internalName": "AutoHouseLottery",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.4.0.0",
+      "keptVersion": "1.5.0.0",
       "droppedVersion": "1.2.1.0"
     },
     {
       "internalName": "AutoHuntGrinder",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.13.0.0",
+      "keptVersion": "1.14.0.0",
       "droppedVersion": "1.11.0.0"
     },
     {
       "internalName": "AutoHuntTrain",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.6.0.0",
+      "keptVersion": "1.8.0.0",
       "droppedVersion": "1.4.1.0"
     },
     {
       "internalName": "AutoKeyboundBrawler",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.6.1.0",
+      "keptVersion": "1.7.0.0",
       "droppedVersion": "1.5.2.0"
     },
     {
@@ -4377,21 +4377,21 @@
       "internalName": "AutoPvpSeriesGrind",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "2.17.0.0",
+      "keptVersion": "2.18.1.0",
       "droppedVersion": "2.13.1.0"
     },
     {
       "internalName": "AutoSeller",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.4.0.0",
+      "keptVersion": "1.8.1.0",
       "droppedVersion": "1.1.0.0"
     },
     {
       "internalName": "AutoShopper",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.6.0.0",
+      "keptVersion": "1.10.1.0",
       "droppedVersion": "1.4.0.0"
     },
     {
@@ -4405,14 +4405,14 @@
       "internalName": "AutoTreasureMaps",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.6.0.0",
+      "keptVersion": "1.7.1.0",
       "droppedVersion": "1.3.0.0"
     },
     {
       "internalName": "AutoTripleTriadGrind",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.4.0.0",
+      "keptVersion": "1.4.1.0",
       "droppedVersion": "1.3.1.0"
     },
     {
@@ -4608,7 +4608,7 @@
       "internalName": "PvpAutoLb",
       "kept": "MEGA Repository",
       "dropped": "XeldarAlz",
-      "keptVersion": "1.5.1.0",
+      "keptVersion": "1.6.0.0",
       "droppedVersion": "1.5.0.0"
     },
     {
@@ -4623,7 +4623,7 @@
       "kept": "Kage",
       "dropped": "MEGA Repository",
       "keptVersion": "2.0.0.0",
-      "droppedVersion": "1.1.1.2"
+      "droppedVersion": "2.0.0.0"
     },
     {
       "internalName": "RaidsRewritten",
@@ -4832,7 +4832,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "MyDalamudPlugins",
-      "keptVersion": "15.14",
+      "keptVersion": "15.15",
       "droppedVersion": "1.3.0.5"
     },
     {
@@ -4858,10 +4858,10 @@
     },
     {
       "internalName": "BetterDeaths",
-      "kept": "nainai's repo",
-      "dropped": "MEGA Repository",
+      "kept": "MEGA Repository",
+      "dropped": "nainai's repo",
       "keptVersion": "1.0.0.72",
-      "droppedVersion": "1.0.0.66"
+      "droppedVersion": "1.0.0.72"
     },
     {
       "internalName": "ChibiChaos",
@@ -4916,8 +4916,8 @@
       "internalName": "ActionTimelineReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.8.1",
-      "droppedVersion": "7.5.8.1"
+      "keptVersion": "7.5.8.2",
+      "droppedVersion": "7.5.8.2"
     },
     {
       "internalName": "ActiveVenueFinder",
@@ -4979,8 +4979,8 @@
       "internalName": "AutoDailyTribes",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.12.0.0",
-      "droppedVersion": "2.12.0.0"
+      "keptVersion": "2.14.0.0",
+      "droppedVersion": "2.14.0.0"
     },
     {
       "internalName": "AutoDuty",
@@ -4993,50 +4993,50 @@
       "internalName": "AutoFateGrind",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.24.0.0",
-      "droppedVersion": "2.24.0.0"
+      "keptVersion": "2.25.0.0",
+      "droppedVersion": "2.25.0.0"
     },
     {
       "internalName": "AutoGcSupply",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.4.0.0",
-      "droppedVersion": "1.4.0.0"
+      "keptVersion": "1.8.1.0",
+      "droppedVersion": "1.8.1.0"
     },
     {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "6.1.1.2",
-      "droppedVersion": "6.1.0.3"
+      "droppedVersion": "6.1.1.2"
     },
     {
       "internalName": "AutoHouseLottery",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.4.0.0",
-      "droppedVersion": "1.4.0.0"
+      "keptVersion": "1.5.0.0",
+      "droppedVersion": "1.5.0.0"
     },
     {
       "internalName": "AutoHuntGrinder",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.13.0.0",
-      "droppedVersion": "1.13.0.0"
+      "keptVersion": "1.14.0.0",
+      "droppedVersion": "1.14.0.0"
     },
     {
       "internalName": "AutoHuntTrain",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.6.0.0",
-      "droppedVersion": "1.6.0.0"
+      "keptVersion": "1.8.0.0",
+      "droppedVersion": "1.8.0.0"
     },
     {
       "internalName": "AutoKeyboundBrawler",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.6.1.0",
-      "droppedVersion": "1.6.1.0"
+      "keptVersion": "1.7.0.0",
+      "droppedVersion": "1.7.0.0"
     },
     {
       "internalName": "AutoLogin",
@@ -5050,7 +5050,7 @@
       "kept": "Croizat's Repo",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "69.237",
-      "droppedVersion": "69.236"
+      "droppedVersion": "69.237"
     },
     {
       "internalName": "AutoMinion",
@@ -5063,8 +5063,8 @@
       "internalName": "AutoPvpSeriesGrind",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "2.17.0.0",
-      "droppedVersion": "2.17.0.0"
+      "keptVersion": "2.18.1.0",
+      "droppedVersion": "2.18.1.0"
     },
     {
       "internalName": "AutoRetainer",
@@ -5077,15 +5077,15 @@
       "internalName": "AutoSeller",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.4.0.0",
-      "droppedVersion": "1.4.0.0"
+      "keptVersion": "1.8.1.0",
+      "droppedVersion": "1.8.1.0"
     },
     {
       "internalName": "AutoShopper",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.6.0.0",
-      "droppedVersion": "1.6.0.0"
+      "keptVersion": "1.10.1.0",
+      "droppedVersion": "1.10.1.0"
     },
     {
       "internalName": "AutoSightseeingLog",
@@ -5098,15 +5098,15 @@
       "internalName": "AutoTreasureMaps",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.6.0.0",
-      "droppedVersion": "1.6.0.0"
+      "keptVersion": "1.7.1.0",
+      "droppedVersion": "1.7.1.0"
     },
     {
       "internalName": "AutoTripleTriadGrind",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.4.0.0",
-      "droppedVersion": "1.4.0.0"
+      "keptVersion": "1.4.1.0",
+      "droppedVersion": "1.4.1.0"
     },
     {
       "internalName": "Avarice",
@@ -5131,10 +5131,10 @@
     },
     {
       "internalName": "BetterDeaths",
-      "kept": "nainai's repo",
+      "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.0.0.72",
-      "droppedVersion": "1.0.0.66"
+      "droppedVersion": "1.0.0.72"
     },
     {
       "internalName": "BetterDiscordRichPresence",
@@ -5152,17 +5152,17 @@
     },
     {
       "internalName": "BossMod",
-      "kept": "Veyn (BossMod)",
+      "kept": "44451516 / ffxiv_bossmod",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.8.5",
+      "keptVersion": "7.5.8.6",
       "droppedVersion": "7.5.8.5"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.8.7",
-      "droppedVersion": "7.5.8.6"
+      "keptVersion": "7.5.8.9",
+      "droppedVersion": "7.5.8.8"
     },
     {
       "internalName": "Brio",
@@ -5376,10 +5376,10 @@
     },
     {
       "internalName": "GatherBuddyReborn",
-      "kept": "CombatReborn",
+      "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.8.4",
-      "droppedVersion": "7.5.6.1"
+      "keptVersion": "7.5.8.401",
+      "droppedVersion": "7.5.8.4"
     },
     {
       "internalName": "GatherChill",
@@ -5407,7 +5407,7 @@
       "kept": "Croizat's Repo",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "15.81",
-      "droppedVersion": "15.79"
+      "droppedVersion": "15.81"
     },
     {
       "internalName": "heliosphere-plugin",
@@ -5665,8 +5665,8 @@
       "internalName": "PassportCheckerReborn",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.8.1",
-      "droppedVersion": "7.5.8.1"
+      "keptVersion": "7.5.8.2",
+      "droppedVersion": "7.5.8.2"
     },
     {
       "internalName": "PatMeHonorific",
@@ -5714,8 +5714,8 @@
       "internalName": "PvpAutoLb",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.5.1.0",
-      "droppedVersion": "1.5.1.0"
+      "keptVersion": "1.6.0.0",
+      "droppedVersion": "1.6.0.0"
     },
     {
       "internalName": "Quack",
@@ -5736,7 +5736,7 @@
       "kept": "Kage",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "2.0.0.0",
-      "droppedVersion": "1.1.1.2"
+      "droppedVersion": "2.0.0.0"
     },
     {
       "internalName": "RaidsRewritten",
@@ -5798,8 +5798,8 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.8.8",
-      "droppedVersion": "7.5.8.7"
+      "keptVersion": "7.5.8.9",
+      "droppedVersion": "7.5.8.9"
     },
     {
       "internalName": "Saru",
@@ -5868,7 +5868,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "15.14",
+      "keptVersion": "15.15",
       "droppedVersion": "15.14"
     },
     {
@@ -6008,15 +6008,15 @@
       "internalName": "WahTools",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "20.0.0.63",
-      "droppedVersion": "20.0.0.63"
+      "keptVersion": "20.0.0.65",
+      "droppedVersion": "20.0.0.65"
     },
     {
       "internalName": "wahventory",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "20.0.0.7",
-      "droppedVersion": "20.0.0.7"
+      "keptVersion": "20.0.0.8",
+      "droppedVersion": "20.0.0.8"
     },
     {
       "internalName": "WaymarkStudio",
@@ -6218,21 +6218,21 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.8.7",
-      "droppedVersion": "7.5.8.7"
+      "keptVersion": "7.5.8.9",
+      "droppedVersion": "7.5.8.9"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.8.7",
+      "keptVersion": "7.5.8.9",
       "droppedVersion": "7.3.5.27"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.8.7",
+      "keptVersion": "7.5.8.9",
       "droppedVersion": "7.4.5.18"
     },
     {
@@ -6419,16 +6419,16 @@
     },
     {
       "internalName": "BossMod",
-      "kept": "Veyn (BossMod)",
+      "kept": "44451516 / ffxiv_bossmod",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.8.5",
+      "keptVersion": "7.5.8.6",
       "droppedVersion": "0.0.0.281"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.8.7",
+      "keptVersion": "7.5.8.9",
       "droppedVersion": "7.2.0.261"
     },
     {
@@ -6531,9 +6531,9 @@
     },
     {
       "internalName": "GatherbuddyReborn",
-      "kept": "CombatReborn",
+      "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.8.4",
+      "keptVersion": "7.5.8.401",
       "droppedVersion": "7.2.2.16"
     },
     {
@@ -6715,7 +6715,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.8.8",
+      "keptVersion": "7.5.8.9",
       "droppedVersion": "7.1.5.38"
     },
     {
@@ -6757,7 +6757,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "15.14",
+      "keptVersion": "15.15",
       "droppedVersion": "1.62"
     },
     {
@@ -7287,10 +7287,10 @@
     },
     {
       "internalName": "wahventory",
-      "kept": "wah",
-      "dropped": "MEGA Repository",
+      "kept": "MEGA Repository",
+      "dropped": "wah",
       "keptVersion": "20.0.0.8",
-      "droppedVersion": "20.0.0.7"
+      "droppedVersion": "20.0.0.8"
     },
     {
       "internalName": "WahJumps",
@@ -7329,10 +7329,10 @@
     },
     {
       "internalName": "WahTools",
-      "kept": "wah",
-      "dropped": "MEGA Repository",
+      "kept": "MEGA Repository",
+      "dropped": "wah",
       "keptVersion": "20.0.0.65",
-      "droppedVersion": "20.0.0.63"
+      "droppedVersion": "20.0.0.65"
     },
     {
       "internalName": "wahbuttons",
@@ -7366,7 +7366,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "WorkingRobot (Asriel) / MyDalamudPlugins",
-      "keptVersion": "15.14",
+      "keptVersion": "15.15",
       "droppedVersion": "1.5.1.0"
     },
     {
@@ -7492,7 +7492,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "Adalyia / DalamudPlugins",
-      "keptVersion": "15.14",
+      "keptVersion": "15.15",
       "droppedVersion": "1.4.2.1"
     },
     {
@@ -7674,7 +7674,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "dal4kr / Dalamud.Resources",
-      "keptVersion": "7.5.8.7",
+      "keptVersion": "7.5.8.9",
       "droppedVersion": "7.4.5.14"
     },
     {
@@ -7695,14 +7695,14 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.8.8",
+      "keptVersion": "7.5.8.9",
       "droppedVersion": "99.0.1.0"
     },
     {
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.8.7",
+      "keptVersion": "7.5.8.9",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -7828,7 +7828,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "7.5.8.8",
+      "keptVersion": "7.5.8.9",
       "droppedVersion": "7.2.5.122"
     },
     {
@@ -7898,7 +7898,7 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "nihil-string / puppys-plugins",
-      "keptVersion": "7.5.8.7",
+      "keptVersion": "7.5.8.9",
       "droppedVersion": "0.0.0.9"
     },
     {
@@ -7954,14 +7954,14 @@
       "internalName": "BossModReborn",
       "kept": "CombatReborn",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "7.5.8.7",
+      "keptVersion": "7.5.8.9",
       "droppedVersion": "7.5.1.23"
     },
     {
       "internalName": "GatherBuddyReborn",
-      "kept": "CombatReborn",
+      "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "7.5.8.4",
+      "keptVersion": "7.5.8.401",
       "droppedVersion": "7.5.0.3"
     },
     {
@@ -8001,9 +8001,9 @@
     },
     {
       "internalName": "GatherBuddyReborn",
-      "kept": "CombatReborn",
+      "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "OLDBAI213 / OLDBAI",
-      "keptVersion": "7.5.8.4",
+      "keptVersion": "7.5.8.401",
       "droppedVersion": "7.5.0.2"
     },
     {
@@ -8059,7 +8059,7 @@
       "internalName": "SomethingNeedDoing",
       "kept": "Croizat's Repo",
       "dropped": "OpaqueReptile / daemitus_MyDalamudPlugins",
-      "keptVersion": "15.14",
+      "keptVersion": "15.15",
       "droppedVersion": "1.3.0.5"
     },
     {
@@ -8162,9 +8162,9 @@
     },
     {
       "internalName": "GatherBuddyReborn",
-      "kept": "CombatReborn",
+      "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "wasdcxz / DalamudPlugins",
-      "keptVersion": "7.5.8.4",
+      "keptVersion": "7.5.8.401",
       "droppedVersion": "7.5.6.1"
     },
     {
@@ -8253,10 +8253,10 @@
     },
     {
       "internalName": "MasterOfPuppets",
-      "kept": "zunetrix / DalamudPlugins",
-      "dropped": "pffxivtools / ffxiv-bard-plugins-linux",
+      "kept": "pffxivtools / ffxiv-bard-plugins-linux",
+      "dropped": "zunetrix / DalamudPlugins",
       "keptVersion": "1.15.0.259",
-      "droppedVersion": "1.15.0.258"
+      "droppedVersion": "1.15.0.259"
     }
   ]
 }
