@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T02:11:54.959Z",
-  "contentHash": "beb2e7eeb503630a",
+  "generatedAt": "2026-11-24T13:40:41.142Z",
+  "contentHash": "90937263edf20515",
   "totalPlugins": 638,
   "masterPlugins": 632,
   "currentApiLevel": 15,
@@ -1580,7 +1580,7 @@
       "name": "Valiice DalamudPluginRepo",
       "url": "https://raw.githubusercontent.com/Valiice/DalamudPluginRepo/master/repo.json",
       "status": "ok",
-      "count": 14,
+      "count": 15,
       "note": null
     },
     {
@@ -2308,7 +2308,7 @@
       "name": "xivhub / pluginmaster",
       "url": "https://plugins.xivhub.net/pluginmaster.json",
       "status": "ok",
-      "count": 10,
+      "count": 9,
       "note": null
     },
     {
@@ -2374,7 +2374,7 @@
       "name": "Quality of Life & UI",
       "emoji": "✨",
       "description": "Tweaks, Interface, Chat, Inventar, Karten",
-      "count": 158,
+      "count": 157,
       "file": "repos/qol.json"
     },
     {
@@ -2382,7 +2382,7 @@
       "name": "Social & Roleplay",
       "emoji": "🎭",
       "description": "RP-Profile, Emotes, Free Company, Discord",
-      "count": 48,
+      "count": 49,
       "file": "repos/social.json"
     },
     {
@@ -3611,11 +3611,11 @@
       "droppedVersion": "1.6.4.7"
     },
     {
-      "internalName": "Avarice",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
+      "keptVersion": "6.1.1.2",
+      "droppedVersion": "6.1.1.2"
     },
     {
       "internalName": "LazyLoot",
@@ -3625,11 +3625,18 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.1.1.2",
-      "droppedVersion": "6.1.1.2"
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
+    },
+    {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Questionable",
@@ -3646,25 +3653,11 @@
       "droppedVersion": "1.15.7.8"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
-    },
-    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
-    },
-    {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.10",
-      "droppedVersion": "0.0.0.10"
     },
     {
       "internalName": "Saucy",
@@ -3679,6 +3672,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "4.0.5.27",
       "droppedVersion": "4.0.5.27"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.10",
+      "droppedVersion": "0.0.0.10"
     },
     {
       "internalName": "Splatoon",
@@ -3849,18 +3849,18 @@
       "droppedVersion": "1.7.4.2"
     },
     {
-      "internalName": "ReAction",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "69.1.6.5",
-      "droppedVersion": "1.3.5.1"
-    },
-    {
       "internalName": "Cammy",
       "kept": "bees-repo",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.1.2",
       "droppedVersion": "2.1.1.2"
+    },
+    {
+      "internalName": "NoClippy",
+      "kept": "bees-repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.5.0.24",
+      "droppedVersion": "0.5.0.24"
     },
     {
       "internalName": "OOBlugin",
@@ -3870,11 +3870,11 @@
       "droppedVersion": "1.1.2.7"
     },
     {
-      "internalName": "DalamudRepoBrowser",
-      "kept": "MEGA Repository",
-      "dropped": "DalamudRepoCollection",
-      "keptVersion": "2.0.3.3",
-      "droppedVersion": "2.0.2.1"
+      "internalName": "ReAction",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "69.1.6.5",
+      "droppedVersion": "1.3.5.1"
     },
     {
       "internalName": "Fractionality",
@@ -3884,11 +3884,11 @@
       "droppedVersion": "1.0.1.3"
     },
     {
-      "internalName": "NoClippy",
-      "kept": "bees-repo",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.5.0.24",
-      "droppedVersion": "0.5.0.24"
+      "internalName": "DalamudRepoBrowser",
+      "kept": "MEGA Repository",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.0.3.3",
+      "droppedVersion": "2.0.2.1"
     },
     {
       "internalName": "ARControl",
@@ -4546,7 +4546,7 @@
       "kept": "Lightless Sync",
       "dropped": "MEGA Repository",
       "keptVersion": "3.3.3.0",
-      "droppedVersion": "3.3.2.0"
+      "droppedVersion": "3.3.3.0"
     },
     {
       "internalName": "LMeter",
@@ -5162,7 +5162,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.8.10",
-      "droppedVersion": "7.5.8.8"
+      "droppedVersion": "7.5.8.10"
     },
     {
       "internalName": "Brio",
@@ -5379,7 +5379,7 @@
       "kept": "AtmoOmen / DalamudPlugins",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.8.401",
-      "droppedVersion": "7.5.8.4"
+      "droppedVersion": "7.5.8.5"
     },
     {
       "internalName": "GatherChill",
@@ -5519,7 +5519,7 @@
       "kept": "Lightless Sync",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "3.3.3.0",
-      "droppedVersion": "3.3.2.0"
+      "droppedVersion": "3.3.3.0"
     },
     {
       "internalName": "LMeter",
@@ -5799,7 +5799,7 @@
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "7.5.8.10",
-      "droppedVersion": "7.5.8.9"
+      "droppedVersion": "7.5.8.10"
     },
     {
       "internalName": "Saru",
@@ -5869,7 +5869,7 @@
       "kept": "Croizat's Repo",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "15.15",
-      "droppedVersion": "15.14"
+      "droppedVersion": "15.15"
     },
     {
       "internalName": "Splatoon",
@@ -6008,8 +6008,8 @@
       "internalName": "WahTools",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "20.0.0.65",
-      "droppedVersion": "20.0.0.65"
+      "keptVersion": "20.0.0.67",
+      "droppedVersion": "20.0.0.67"
     },
     {
       "internalName": "wahventory",
@@ -6219,7 +6219,7 @@
       "kept": "CombatReborn",
       "dropped": "NiGuangOwO / DalamudPlugins",
       "keptVersion": "7.5.8.10",
-      "droppedVersion": "7.5.8.9"
+      "droppedVersion": "7.5.8.10"
     },
     {
       "internalName": "BossModReborn",
@@ -7111,18 +7111,18 @@
       "droppedVersion": "7.1.2.24489"
     },
     {
-      "internalName": "ReAction",
-      "kept": "DalamudRepoCollection",
-      "dropped": "UnknownX7",
-      "keptVersion": "69.1.6.5",
-      "droppedVersion": "1.3.5.1"
-    },
-    {
       "internalName": "Cammy",
       "kept": "bees-repo",
       "dropped": "UnknownX7",
       "keptVersion": "2.1.1.2",
       "droppedVersion": "2.1.1.2"
+    },
+    {
+      "internalName": "NoClippy",
+      "kept": "bees-repo",
+      "dropped": "UnknownX7",
+      "keptVersion": "0.5.0.24",
+      "droppedVersion": "0.5.0.24"
     },
     {
       "internalName": "OOBlugin",
@@ -7132,11 +7132,11 @@
       "droppedVersion": "1.1.2.11"
     },
     {
-      "internalName": "DalamudRepoBrowser",
-      "kept": "MEGA Repository",
+      "internalName": "ReAction",
+      "kept": "DalamudRepoCollection",
       "dropped": "UnknownX7",
-      "keptVersion": "2.0.3.3",
-      "droppedVersion": "2.0.3.3"
+      "keptVersion": "69.1.6.5",
+      "droppedVersion": "1.3.5.1"
     },
     {
       "internalName": "Fractionality",
@@ -7146,11 +7146,11 @@
       "droppedVersion": "1.0.1.5"
     },
     {
-      "internalName": "NoClippy",
-      "kept": "bees-repo",
+      "internalName": "DalamudRepoBrowser",
+      "kept": "MEGA Repository",
       "dropped": "UnknownX7",
-      "keptVersion": "0.5.0.24",
-      "droppedVersion": "0.5.0.24"
+      "keptVersion": "2.0.3.3",
+      "droppedVersion": "2.0.3.3"
     },
     {
       "internalName": "IAmReady",
@@ -7329,10 +7329,10 @@
     },
     {
       "internalName": "WahTools",
-      "kept": "wah",
-      "dropped": "MEGA Repository",
-      "keptVersion": "20.0.0.66",
-      "droppedVersion": "20.0.0.65"
+      "kept": "MEGA Repository",
+      "dropped": "wah",
+      "keptVersion": "20.0.0.67",
+      "droppedVersion": "20.0.0.67"
     },
     {
       "internalName": "wahbuttons",
@@ -8190,9 +8190,9 @@
     },
     {
       "internalName": "QSTCompanion",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "WigglyCorp / DalamudPlugins",
-      "keptVersion": "1.1.34.0",
+      "kept": "WigglyCorp / DalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "1.1.35.0",
       "droppedVersion": "1.1.34.0"
     },
     {
