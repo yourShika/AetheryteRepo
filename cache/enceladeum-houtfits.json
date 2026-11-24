@@ -1,7 +1,7 @@
 {
   "sourceId": "enceladeum-houtfits",
   "url": "https://raw.githubusercontent.com/Enceladeum/HOutfits/main/repo.json",
-  "fetchedAt": "2026-11-17",
+  "fetchedAt": "2026-11-24",
   "count": 1,
   "plugins": [
     {
@@ -10,7 +10,7 @@
       "InternalName": "HOutfits",
       "Punchline": "Apply full sets, loose pieces, facewear and weapons to your character in Glamourer with a single click.",
       "Description": "Browse the game's named sets, sets recovered by item name, every other wearable piece, facewear and weapons, with large icon previews on hover, and apply a whole set or any single piece to your character through Glamourer, instead of picking each item from a dropdown.",
-      "Changelog": "1.2.0: Override on the Weapons tab puts another class's weapon in your hands outside GPose (only what is drawn changes; Restore, changing class or unticking Override puts your class weapon back), and it stays on after a redraw. In an HMapSync session (1.0.9.0+) the others see it too.",
+      "Changelog": "1.4.0: Dress your HDM puppets. HDM's Dress... button opens HOutfits on a puppet, and every set, piece, NPC look, face and Revert goes to it until you click Back to me (shown at the top of the window). Weapons load on a puppet for any class, and the Faces tab follows the puppet's body. HOutfits returns to dressing you when the puppet goes away or you change zone.",
       "Tags": [
         "glamour",
         "glamourer",
@@ -27,7 +27,7 @@
       "IsTestingExclusive": false,
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/Enceladeum/HOutfits",
-      "AssemblyVersion": "1.2.0.0",
+      "AssemblyVersion": "1.4.0.0",
       "DalamudApiLevel": 15,
       "LoadRequiredState": 0,
       "LoadSync": false,
@@ -35,7 +35,7 @@
       "LoadPriority": 0,
       "AcceptsFeedback": true,
       "DownloadCount": 0,
-      "LastUpdate": 1794868143,
+      "LastUpdate": 1795559774,
       "DownloadLinkInstall": "https://github.com/Enceladeum/HOutfits/releases/latest/download/latest.zip",
       "DownloadLinkUpdate": "https://github.com/Enceladeum/HOutfits/releases/latest/download/latest.zip",
       "DownloadLinkTesting": "https://github.com/Enceladeum/HOutfits/releases/latest/download/latest.zip",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T13:40:41.142Z",
-  "contentHash": "90937263edf20515",
+  "generatedAt": "2026-11-24T23:53:38.695Z",
+  "contentHash": "cfe927af336bb6c6",
   "totalPlugins": 638,
   "masterPlugins": 632,
   "currentApiLevel": 15,
@@ -123,9 +123,9 @@
       "id": "punish-knightmore",
       "name": "Knightmore",
       "url": "https://puni.sh/api/repository/knightmore",
-      "status": "ok",
+      "status": "stale",
       "count": 2,
-      "note": null
+      "note": "Feed ist leer, hatte vorher aber Plugins"
     },
     {
       "id": "xeldaralz",
@@ -2648,8 +2648,8 @@
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "bees-repo",
-      "keptVersion": "1.6.4.7",
-      "droppedVersion": "1.6.4.7"
+      "keptVersion": "1.6.4.8",
+      "droppedVersion": "1.6.4.8"
     },
     {
       "internalName": "Penumbra",
@@ -3607,8 +3607,8 @@
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.6.4.7",
-      "droppedVersion": "1.6.4.7"
+      "keptVersion": "1.6.4.8",
+      "droppedVersion": "1.6.4.8"
     },
     {
       "internalName": "AutoHook",
@@ -3618,13 +3618,6 @@
       "droppedVersion": "6.1.1.2"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3632,11 +3625,11 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "Questionable",
@@ -3653,6 +3646,13 @@
       "droppedVersion": "1.15.7.8"
     },
     {
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3660,11 +3660,11 @@
       "droppedVersion": "1.0.4.27"
     },
     {
-      "internalName": "Saucy",
+      "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.9",
-      "droppedVersion": "2.1.2.9"
+      "keptVersion": "0.0.0.10",
+      "droppedVersion": "0.0.0.10"
     },
     {
       "internalName": "Artisan",
@@ -3674,11 +3674,11 @@
       "droppedVersion": "4.0.5.27"
     },
     {
-      "internalName": "Palantir",
+      "internalName": "Saucy",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.10",
-      "droppedVersion": "0.0.0.10"
+      "keptVersion": "2.1.2.9",
+      "droppedVersion": "2.1.2.9"
     },
     {
       "internalName": "Splatoon",
@@ -5651,7 +5651,7 @@
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.6.4.7",
+      "keptVersion": "1.6.4.8",
       "droppedVersion": "1.6.4.7"
     },
     {
@@ -6330,21 +6330,21 @@
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "1.6.4.7",
+      "keptVersion": "1.6.4.8",
       "droppedVersion": "1.6.4.3"
     },
     {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "1.6.4.7",
+      "keptVersion": "1.6.4.8",
       "droppedVersion": "1.6.3.18"
     },
     {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "1.6.4.7",
+      "keptVersion": "1.6.4.8",
       "droppedVersion": "1.6.3.24"
     },
     {
@@ -6673,7 +6673,7 @@
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.6.4.7",
+      "keptVersion": "1.6.4.8",
       "droppedVersion": "1.6.2.2"
     },
     {
@@ -7329,9 +7329,9 @@
     },
     {
       "internalName": "WahTools",
-      "kept": "MEGA Repository",
-      "dropped": "wah",
-      "keptVersion": "20.0.0.67",
+      "kept": "wah",
+      "dropped": "MEGA Repository",
+      "keptVersion": "20.0.0.71",
       "droppedVersion": "20.0.0.67"
     },
     {
@@ -7402,7 +7402,7 @@
       "kept": "zhouhuichen741/dalamud-plugins",
       "dropped": "Puni.sh (Ment)",
       "keptVersion": "1.6.4.17",
-      "droppedVersion": "1.6.4.7"
+      "droppedVersion": "1.6.4.8"
     },
     {
       "internalName": "FishersIntuition",
@@ -7688,8 +7688,8 @@
       "internalName": "HOutfits",
       "kept": "HOutfits",
       "dropped": "Enceladeum / DalamudPlugins",
-      "keptVersion": "1.2.0.0",
-      "droppedVersion": "1.2.0.0"
+      "keptVersion": "1.4.0.0",
+      "droppedVersion": "1.4.0.0"
     },
     {
       "internalName": "RotationSolver",
@@ -8190,10 +8190,10 @@
     },
     {
       "internalName": "QSTCompanion",
-      "kept": "WigglyCorp / DalamudPlugins",
-      "dropped": "McVaxius / TheDumpsterFire",
+      "kept": "McVaxius / TheDumpsterFire",
+      "dropped": "WigglyCorp / DalamudPlugins",
       "keptVersion": "1.1.35.0",
-      "droppedVersion": "1.1.34.0"
+      "droppedVersion": "1.1.35.0"
     },
     {
       "internalName": "Questionable",

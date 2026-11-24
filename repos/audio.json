@@ -82,7 +82,7 @@
     "LastUpdate": 1795368916,
     "Changelog": "- Load bundled UI fonts when opening plugin windows on Windows and Wine.\r\n",
     "IsTestingExclusive": false,
-    "DownloadCount": 1021,
+    "DownloadCount": 1023,
     "RepoTitle": "Dhog",
     "RepoUrl": "https://github.com/McVaxius/dheacon",
     "SourceRepoName": "dheacon",
