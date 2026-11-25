@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T08:30:27.257Z",
-  "contentHash": "9c5322301e1e334a",
+  "generatedAt": "2026-11-25T19:14:38.882Z",
+  "contentHash": "7f83844411ed1f45",
   "totalPlugins": 640,
   "masterPlugins": 634,
   "currentApiLevel": 15,
@@ -3611,13 +3611,6 @@
       "droppedVersion": "1.6.4.8"
     },
     {
-      "internalName": "LazyLoot",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
-    },
-    {
       "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3625,18 +3618,18 @@
       "droppedVersion": "2.2.0.13"
     },
     {
+      "internalName": "LazyLoot",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
+    },
+    {
       "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "6.1.1.2",
       "droppedVersion": "6.1.1.2"
-    },
-    {
-      "internalName": "Questionable",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "15.756.3.64",
-      "droppedVersion": "15.756.3.64"
     },
     {
       "internalName": "Marketbuddy",
@@ -3653,18 +3646,18 @@
       "droppedVersion": "1.15.7.8"
     },
     {
+      "internalName": "Questionable",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "15.756.3.64",
+      "droppedVersion": "15.756.3.64"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.0.4.27",
-      "droppedVersion": "1.0.4.27"
-    },
-    {
-      "internalName": "Artisan",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "4.0.5.27",
-      "droppedVersion": "4.0.5.27"
+      "keptVersion": "1.0.4.28",
+      "droppedVersion": "1.0.4.28"
     },
     {
       "internalName": "Saucy",
@@ -3679,6 +3672,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.0.0.10",
       "droppedVersion": "0.0.0.10"
+    },
+    {
+      "internalName": "Artisan",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.0.5.27",
+      "droppedVersion": "4.0.5.27"
     },
     {
       "internalName": "Splatoon",
@@ -4503,7 +4503,7 @@
       "internalName": "Henchman",
       "kept": "Knightmore",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.0.0.2",
+      "keptVersion": "4.0.0.4",
       "droppedVersion": "4.0.0.2"
     },
     {
@@ -4538,7 +4538,7 @@
       "internalName": "Knightshopper",
       "kept": "Knightmore",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.1.0.0",
+      "keptVersion": "1.1.0.1",
       "droppedVersion": "1.1.0.0"
     },
     {
@@ -4566,7 +4566,7 @@
       "internalName": "MappingTheRealm",
       "kept": "Knightmore",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.0.0.0",
+      "keptVersion": "1.0.0.1",
       "droppedVersion": "1.0.0.0"
     },
     {
@@ -4587,7 +4587,7 @@
       "internalName": "MogVault",
       "kept": "Knightmore",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.0.0.0",
+      "keptVersion": "1.0.0.1",
       "droppedVersion": "1.0.0.0"
     },
     {
@@ -4664,7 +4664,7 @@
       "internalName": "RelicTracker",
       "kept": "Kage",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.0.2.7",
+      "keptVersion": "2.0.0.0",
       "droppedVersion": "1.0.2.7"
     },
     {
@@ -5434,7 +5434,7 @@
       "internalName": "Henchman",
       "kept": "Knightmore",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "4.0.0.2",
+      "keptVersion": "4.0.0.4",
       "droppedVersion": "4.0.0.2"
     },
     {
@@ -5497,7 +5497,7 @@
       "internalName": "Knightshopper",
       "kept": "Knightmore",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.1.0.0",
+      "keptVersion": "1.1.0.1",
       "droppedVersion": "1.1.0.0"
     },
     {
@@ -5560,7 +5560,7 @@
       "internalName": "MappingTheRealm",
       "kept": "Knightmore",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.0.0",
+      "keptVersion": "1.0.0.1",
       "droppedVersion": "1.0.0.0"
     },
     {
@@ -5609,7 +5609,7 @@
       "internalName": "MogVault",
       "kept": "Knightmore",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.0.0",
+      "keptVersion": "1.0.0.1",
       "droppedVersion": "1.0.0.0"
     },
     {
@@ -5805,7 +5805,7 @@
       "internalName": "RelicTracker",
       "kept": "Kage",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.2.7",
+      "keptVersion": "2.0.0.0",
       "droppedVersion": "1.0.2.7"
     },
     {
@@ -6064,7 +6064,7 @@
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.4.27",
+      "keptVersion": "1.0.4.28",
       "droppedVersion": "1.0.4.27"
     },
     {
@@ -6862,7 +6862,7 @@
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "1.0.4.27",
+      "keptVersion": "1.0.4.28",
       "droppedVersion": "1.0.0.8"
     },
     {
@@ -7315,9 +7315,9 @@
     },
     {
       "internalName": "wahventory",
-      "kept": "MEGA Repository",
-      "dropped": "wah",
-      "keptVersion": "20.0.0.8",
+      "kept": "wah",
+      "dropped": "MEGA Repository",
+      "keptVersion": "20.0.0.11",
       "droppedVersion": "20.0.0.8"
     },
     {
@@ -7357,9 +7357,9 @@
     },
     {
       "internalName": "WahTools",
-      "kept": "MEGA Repository",
-      "dropped": "wah",
-      "keptVersion": "20.0.0.73",
+      "kept": "wah",
+      "dropped": "MEGA Repository",
+      "keptVersion": "20.0.0.76",
       "droppedVersion": "20.0.0.73"
     },
     {
@@ -8003,7 +8003,7 @@
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "OLDBAI213 / ff14-dalamud-plugin-zh",
-      "keptVersion": "1.0.4.27",
+      "keptVersion": "1.0.4.28",
       "droppedVersion": "1.0.4.13"
     },
     {
