@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-24T23:53:38.695Z",
-  "contentHash": "cfe927af336bb6c6",
-  "totalPlugins": 638,
-  "masterPlugins": 632,
+  "generatedAt": "2026-11-25T08:30:27.257Z",
+  "contentHash": "9c5322301e1e334a",
+  "totalPlugins": 640,
+  "masterPlugins": 634,
   "currentApiLevel": 15,
   "minApiLevel": 13,
   "legacyPlugins": 353,
@@ -123,9 +123,9 @@
       "id": "punish-knightmore",
       "name": "Knightmore",
       "url": "https://puni.sh/api/repository/knightmore",
-      "status": "stale",
-      "count": 2,
-      "note": "Feed ist leer, hatte vorher aber Plugins"
+      "status": "ok",
+      "count": 4,
+      "note": null
     },
     {
       "id": "xeldaralz",
@@ -1060,7 +1060,7 @@
       "name": "MEGA Repository",
       "url": "https://raw.githubusercontent.com/WilliamW1979/FFXIV/main/repository.json",
       "status": "ok",
-      "count": 216,
+      "count": 218,
       "note": null
     },
     {
@@ -1172,7 +1172,7 @@
       "name": "NexusFFXIV DalamudRepo",
       "url": "https://raw.githubusercontent.com/NexusFFXIV/DalamudRepo/main/all-repo.json",
       "status": "ok",
-      "count": 165,
+      "count": 167,
       "note": null
     },
     {
@@ -2342,7 +2342,7 @@
       "name": "Glamour & Charakter",
       "emoji": "👗",
       "description": "Mods, Aussehen, Posing, Sync",
-      "count": 99,
+      "count": 100,
       "file": "repos/glamour.json"
     },
     {
@@ -2374,7 +2374,7 @@
       "name": "Quality of Life & UI",
       "emoji": "✨",
       "description": "Tweaks, Interface, Chat, Inventar, Karten",
-      "count": 157,
+      "count": 158,
       "file": "repos/qol.json"
     },
     {
@@ -3611,11 +3611,11 @@
       "droppedVersion": "1.6.4.8"
     },
     {
-      "internalName": "AutoHook",
+      "internalName": "LazyLoot",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "6.1.1.2",
-      "droppedVersion": "6.1.1.2"
+      "keptVersion": "5.3.3.3",
+      "droppedVersion": "5.3.3.3"
     },
     {
       "internalName": "Avarice",
@@ -3625,11 +3625,11 @@
       "droppedVersion": "2.2.0.13"
     },
     {
-      "internalName": "LazyLoot",
+      "internalName": "AutoHook",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.3.3.3",
-      "droppedVersion": "5.3.3.3"
+      "keptVersion": "6.1.1.2",
+      "droppedVersion": "6.1.1.2"
     },
     {
       "internalName": "Questionable",
@@ -3639,13 +3639,6 @@
       "droppedVersion": "15.756.3.64"
     },
     {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.7.8",
-      "droppedVersion": "1.15.7.8"
-    },
-    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
@@ -3653,18 +3646,18 @@
       "droppedVersion": "0.2.4.2"
     },
     {
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.15.7.8",
+      "droppedVersion": "1.15.7.8"
+    },
+    {
       "internalName": "WrathCombo",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "1.0.4.27",
       "droppedVersion": "1.0.4.27"
-    },
-    {
-      "internalName": "Palantir",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.0.0.10",
-      "droppedVersion": "0.0.0.10"
     },
     {
       "internalName": "Artisan",
@@ -3679,6 +3672,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.2.9",
       "droppedVersion": "2.1.2.9"
+    },
+    {
+      "internalName": "Palantir",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.0.0.10",
+      "droppedVersion": "0.0.0.10"
     },
     {
       "internalName": "Splatoon",
@@ -3849,18 +3849,18 @@
       "droppedVersion": "1.7.4.2"
     },
     {
+      "internalName": "ReAction",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "69.1.6.5",
+      "droppedVersion": "1.3.5.1"
+    },
+    {
       "internalName": "Cammy",
       "kept": "bees-repo",
       "dropped": "MEGA Repository",
       "keptVersion": "2.1.1.2",
       "droppedVersion": "2.1.1.2"
-    },
-    {
-      "internalName": "NoClippy",
-      "kept": "bees-repo",
-      "dropped": "MEGA Repository",
-      "keptVersion": "0.5.0.24",
-      "droppedVersion": "0.5.0.24"
     },
     {
       "internalName": "OOBlugin",
@@ -3870,11 +3870,11 @@
       "droppedVersion": "1.1.2.7"
     },
     {
-      "internalName": "ReAction",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "69.1.6.5",
-      "droppedVersion": "1.3.5.1"
+      "internalName": "DalamudRepoBrowser",
+      "kept": "MEGA Repository",
+      "dropped": "DalamudRepoCollection",
+      "keptVersion": "2.0.3.3",
+      "droppedVersion": "2.0.2.1"
     },
     {
       "internalName": "Fractionality",
@@ -3884,11 +3884,11 @@
       "droppedVersion": "1.0.1.3"
     },
     {
-      "internalName": "DalamudRepoBrowser",
-      "kept": "MEGA Repository",
-      "dropped": "DalamudRepoCollection",
-      "keptVersion": "2.0.3.3",
-      "droppedVersion": "2.0.2.1"
+      "internalName": "NoClippy",
+      "kept": "bees-repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "0.5.0.24",
+      "droppedVersion": "0.5.0.24"
     },
     {
       "internalName": "ARControl",
@@ -3971,8 +3971,8 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "MEGA Repository",
-      "keptVersion": "7.5.8.10",
-      "droppedVersion": "7.5.8.10"
+      "keptVersion": "7.5.8.11",
+      "droppedVersion": "7.5.8.11"
     },
     {
       "internalName": "BossModReborn",
@@ -4251,8 +4251,8 @@
       "internalName": "TimeMemoriaV3",
       "kept": "LegendsOfTheGame / TimeMemoriaV3",
       "dropped": "MEGA Repository",
-      "keptVersion": "3.16.0.15",
-      "droppedVersion": "3.16.0.15"
+      "keptVersion": "3.17.0.15",
+      "droppedVersion": "3.17.0.15"
     },
     {
       "internalName": "Snowcloak",
@@ -4503,8 +4503,8 @@
       "internalName": "Henchman",
       "kept": "Knightmore",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.0.0.1",
-      "droppedVersion": "4.0.0.1"
+      "keptVersion": "4.0.0.2",
+      "droppedVersion": "4.0.0.2"
     },
     {
       "internalName": "HuntAlerts",
@@ -4538,8 +4538,8 @@
       "internalName": "Knightshopper",
       "kept": "Knightmore",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.0.2.0",
-      "droppedVersion": "1.0.2.0"
+      "keptVersion": "1.1.0.0",
+      "droppedVersion": "1.1.0.0"
     },
     {
       "internalName": "LightlessSync",
@@ -4563,6 +4563,13 @@
       "droppedVersion": "0.2.0.0"
     },
     {
+      "internalName": "MappingTheRealm",
+      "kept": "Knightmore",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.0.0",
+      "droppedVersion": "1.0.0.0"
+    },
+    {
       "internalName": "Meddle.Plugin",
       "kept": "bees-repo",
       "dropped": "MEGA Repository",
@@ -4575,6 +4582,13 @@
       "dropped": "MEGA Repository",
       "keptVersion": "0.0.6.0",
       "droppedVersion": "0.0.6.0"
+    },
+    {
+      "internalName": "MogVault",
+      "kept": "Knightmore",
+      "dropped": "MEGA Repository",
+      "keptVersion": "1.0.0.0",
+      "droppedVersion": "1.0.0.0"
     },
     {
       "internalName": "NecroLens",
@@ -5420,8 +5434,8 @@
       "internalName": "Henchman",
       "kept": "Knightmore",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "4.0.0.1",
-      "droppedVersion": "4.0.0.1"
+      "keptVersion": "4.0.0.2",
+      "droppedVersion": "4.0.0.2"
     },
     {
       "internalName": "HuntAlerts",
@@ -5483,8 +5497,8 @@
       "internalName": "Knightshopper",
       "kept": "Knightmore",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.2.0",
-      "droppedVersion": "1.0.2.0"
+      "keptVersion": "1.1.0.0",
+      "droppedVersion": "1.1.0.0"
     },
     {
       "internalName": "Ktisis",
@@ -5543,6 +5557,13 @@
       "droppedVersion": "0.2.1.0"
     },
     {
+      "internalName": "MappingTheRealm",
+      "kept": "Knightmore",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.0",
+      "droppedVersion": "1.0.0.0"
+    },
+    {
       "internalName": "Marketbuddy",
       "kept": "DalamudRepoCollection",
       "dropped": "NexusFFXIV DalamudRepo",
@@ -5583,6 +5604,13 @@
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.3.0.0",
       "droppedVersion": "1.3.0.0"
+    },
+    {
+      "internalName": "MogVault",
+      "kept": "Knightmore",
+      "dropped": "NexusFFXIV DalamudRepo",
+      "keptVersion": "1.0.0.0",
+      "droppedVersion": "1.0.0.0"
     },
     {
       "internalName": "Moodles",
@@ -5652,7 +5680,7 @@
       "kept": "Puni.sh (Ment)",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "1.6.4.8",
-      "droppedVersion": "1.6.4.7"
+      "droppedVersion": "1.6.4.8"
     },
     {
       "internalName": "PartyFinderEx",
@@ -5798,8 +5826,8 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "7.5.8.10",
-      "droppedVersion": "7.5.8.10"
+      "keptVersion": "7.5.8.11",
+      "droppedVersion": "7.5.8.11"
     },
     {
       "internalName": "Saru",
@@ -6008,8 +6036,8 @@
       "internalName": "WahTools",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "20.0.0.67",
-      "droppedVersion": "20.0.0.67"
+      "keptVersion": "20.0.0.73",
+      "droppedVersion": "20.0.0.73"
     },
     {
       "internalName": "wahventory",
@@ -6176,21 +6204,21 @@
       "internalName": "AetheryteLinkInChat",
       "kept": "MEGA Repository",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.1.0",
+      "keptVersion": "7.5.2.0",
       "droppedVersion": "7.5.0.0"
     },
     {
       "internalName": "AetheryteLinkInChat",
       "kept": "MEGA Repository",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.1.0",
+      "keptVersion": "7.5.2.0",
       "droppedVersion": "7.3.0.0"
     },
     {
       "internalName": "AetheryteLinkInChat",
       "kept": "MEGA Repository",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "7.5.1.0",
+      "keptVersion": "7.5.2.0",
       "droppedVersion": "7.3.1.41"
     },
     {
@@ -6715,7 +6743,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "nite-cat / the-giga-repo",
-      "keptVersion": "7.5.8.10",
+      "keptVersion": "7.5.8.11",
       "droppedVersion": "7.1.5.38"
     },
     {
@@ -7111,18 +7139,18 @@
       "droppedVersion": "7.1.2.24489"
     },
     {
+      "internalName": "ReAction",
+      "kept": "DalamudRepoCollection",
+      "dropped": "UnknownX7",
+      "keptVersion": "69.1.6.5",
+      "droppedVersion": "1.3.5.1"
+    },
+    {
       "internalName": "Cammy",
       "kept": "bees-repo",
       "dropped": "UnknownX7",
       "keptVersion": "2.1.1.2",
       "droppedVersion": "2.1.1.2"
-    },
-    {
-      "internalName": "NoClippy",
-      "kept": "bees-repo",
-      "dropped": "UnknownX7",
-      "keptVersion": "0.5.0.24",
-      "droppedVersion": "0.5.0.24"
     },
     {
       "internalName": "OOBlugin",
@@ -7132,11 +7160,11 @@
       "droppedVersion": "1.1.2.11"
     },
     {
-      "internalName": "ReAction",
-      "kept": "DalamudRepoCollection",
+      "internalName": "DalamudRepoBrowser",
+      "kept": "MEGA Repository",
       "dropped": "UnknownX7",
-      "keptVersion": "69.1.6.5",
-      "droppedVersion": "1.3.5.1"
+      "keptVersion": "2.0.3.3",
+      "droppedVersion": "2.0.3.3"
     },
     {
       "internalName": "Fractionality",
@@ -7146,11 +7174,11 @@
       "droppedVersion": "1.0.1.5"
     },
     {
-      "internalName": "DalamudRepoBrowser",
-      "kept": "MEGA Repository",
+      "internalName": "NoClippy",
+      "kept": "bees-repo",
       "dropped": "UnknownX7",
-      "keptVersion": "2.0.3.3",
-      "droppedVersion": "2.0.3.3"
+      "keptVersion": "0.5.0.24",
+      "droppedVersion": "0.5.0.24"
     },
     {
       "internalName": "IAmReady",
@@ -7329,10 +7357,10 @@
     },
     {
       "internalName": "WahTools",
-      "kept": "wah",
-      "dropped": "MEGA Repository",
-      "keptVersion": "20.0.0.71",
-      "droppedVersion": "20.0.0.67"
+      "kept": "MEGA Repository",
+      "dropped": "wah",
+      "keptVersion": "20.0.0.73",
+      "droppedVersion": "20.0.0.73"
     },
     {
       "internalName": "wahbuttons",
@@ -7434,10 +7462,10 @@
     },
     {
       "internalName": "AetheryteLinkInChat",
-      "kept": "zhouhuichen741/dalamud-plugins",
-      "dropped": "MEGA Repository",
-      "keptVersion": "7.5.1.4",
-      "droppedVersion": "7.5.1.0"
+      "kept": "MEGA Repository",
+      "dropped": "zhouhuichen741/dalamud-plugins",
+      "keptVersion": "7.5.2.0",
+      "droppedVersion": "7.5.1.4"
     },
     {
       "internalName": "AutoJailMarker",
@@ -7695,7 +7723,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "fenk19 / DalamudPluginRepo",
-      "keptVersion": "7.5.8.10",
+      "keptVersion": "7.5.8.11",
       "droppedVersion": "99.0.1.0"
     },
     {
@@ -7828,7 +7856,7 @@
       "internalName": "RotationSolver",
       "kept": "CombatReborn",
       "dropped": "Lzsony / dalamud-plugins-tw",
-      "keptVersion": "7.5.8.10",
+      "keptVersion": "7.5.8.11",
       "droppedVersion": "7.2.5.122"
     },
     {
