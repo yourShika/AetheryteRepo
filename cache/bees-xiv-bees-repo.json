@@ -1,7 +1,7 @@
 {
   "sourceId": "bees-xiv-bees-repo",
   "url": "https://raw.githubusercontent.com/bees-xiv/bees-repo/main/repo.json",
-  "fetchedAt": "2026-11-24",
+  "fetchedAt": "2026-11-26",
   "count": 46,
   "plugins": [
     {
@@ -439,9 +439,9 @@
       "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
       "AcceptsFeedback": true,
       "DownloadLinkInstall": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-      "AssemblyVersion": "7.5.8.5",
+      "AssemblyVersion": "7.5.8.6",
       "DownloadLinkUpdate": "https://github.com/bees-xiv/bees-repo/releases/latest/download/GatherBuddyReborn.zip",
-      "Changelog": "## What's Changed\r\n* Fix pinning issue by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/679\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.8.4...7.5.8.5",
+      "Changelog": "## What's Changed\r\n* Minor fixes to text fields and column sizing by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/680\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.5.8.5...7.5.8.6",
       "DownloadCount": 69696969,
       "IsHide": false,
       "_SourceId": "bees-xiv-bees-repo",
