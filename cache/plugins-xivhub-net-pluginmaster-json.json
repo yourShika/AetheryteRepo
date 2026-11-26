@@ -1,7 +1,7 @@
 {
   "sourceId": "plugins-xivhub-net-pluginmaster-json",
   "url": "https://plugins.xivhub.net/pluginmaster.json",
-  "fetchedAt": "2026-11-24",
+  "fetchedAt": "2026-11-26",
   "count": 9,
   "plugins": [
     {
@@ -163,35 +163,6 @@
       "_SourceUrl": "https://plugins.xivhub.net/pluginmaster.json"
     },
     {
-      "Author": "xivhub",
-      "Name": "Artisan (XivHub fork)",
-      "Punchline": "Crafting automation. This fork adds saved FC Workshop presets and fixes under-crafted intermediates.",
-      "Description": "Crafting lists, macros and automation. This XivHub fork improves FC Workshop crafting: you can add parts or phases to the open list and save workshop presets. It also fixes intermediates being under-crafted, the craft order, and progress and ETA when steps are skipped.",
-      "InternalName": "Artisan",
-      "AssemblyVersion": "4.0.5.44",
-      "RepoUrl": "https://github.com/XivHub/Artisan",
-      "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
-      "ApplicableVersion": "any",
-      "Tags": [
-        "crafting"
-      ],
-      "DalamudApiLevel": 15,
-      "DownloadLinkInstall": "https://edgl.dev/share/zhyra/artisan/4.0.5.44.zip",
-      "DownloadLinkUpdate": "https://edgl.dev/share/zhyra/artisan/4.0.5.44.zip",
-      "DownloadLinkTesting": "https://edgl.dev/share/zhyra/artisan/4.0.5.44.zip",
-      "DownloadCount": 89,
-      "LastUpdate": 1794827792,
-      "IsHide": false,
-      "IsTestingExclusive": false,
-      "LoadRequiredState": 0,
-      "LoadSync": false,
-      "LoadPriority": 0,
-      "AcceptsFeedback": true,
-      "_SourceId": "plugins-xivhub-net-pluginmaster-json",
-      "_SourceName": "xivhub / pluginmaster",
-      "_SourceUrl": "https://plugins.xivhub.net/pluginmaster.json"
-    },
-    {
       "Author": "XivHub",
       "Name": "RetainerReach",
       "Punchline": "Shows all your retainers' items in one grid and retrieves them in one click. Needs AllaganTools.",
@@ -276,6 +247,35 @@
       "DownloadLinkTesting": "https://edgl.dev/share/zhyra/autopincher/0.2.4.0.zip",
       "DownloadCount": 432,
       "LastUpdate": 1795475553,
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "LoadPriority": 0,
+      "AcceptsFeedback": true,
+      "_SourceId": "plugins-xivhub-net-pluginmaster-json",
+      "_SourceName": "xivhub / pluginmaster",
+      "_SourceUrl": "https://plugins.xivhub.net/pluginmaster.json"
+    },
+    {
+      "Author": "xivhub",
+      "Name": "Artisan (XivHub fork)",
+      "Punchline": "Crafting automation. This fork adds saved FC Workshop presets and fixes under-crafted intermediates.",
+      "Description": "Crafting lists, macros and automation. This XivHub fork improves FC Workshop crafting: you can add parts or phases to the open list and save workshop presets. It also fixes intermediates being under-crafted, the craft order, and progress and ETA when steps are skipped.",
+      "InternalName": "Artisan",
+      "AssemblyVersion": "4.0.5.45",
+      "RepoUrl": "https://github.com/XivHub/Artisan",
+      "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "crafting"
+      ],
+      "DalamudApiLevel": 15,
+      "DownloadLinkInstall": "https://edgl.dev/share/zhyra/artisan/4.0.5.45.zip",
+      "DownloadLinkUpdate": "https://edgl.dev/share/zhyra/artisan/4.0.5.45.zip",
+      "DownloadLinkTesting": "https://edgl.dev/share/zhyra/artisan/4.0.5.45.zip",
+      "DownloadCount": 90,
+      "LastUpdate": 1795695061,
       "IsHide": false,
       "IsTestingExclusive": false,
       "LoadRequiredState": 0,
