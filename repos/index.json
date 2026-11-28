@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T21:24:00.422Z",
-  "contentHash": "3989f84da228a5c0",
+  "generatedAt": "2026-11-28T07:46:11.753Z",
+  "contentHash": "ea700baebbc1e491",
   "totalPlugins": 641,
   "masterPlugins": 635,
   "currentApiLevel": 15,
@@ -3597,6 +3597,13 @@
       "droppedVersion": "1.0.1.10"
     },
     {
+      "internalName": "AutoRetainer",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "4.6.2.27",
+      "droppedVersion": "4.6.2.27"
+    },
+    {
       "internalName": "PandorasBox",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
@@ -3604,11 +3611,11 @@
       "droppedVersion": "1.6.4.8"
     },
     {
-      "internalName": "AutoRetainer",
+      "internalName": "Avarice",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.6.2.27",
-      "droppedVersion": "4.6.2.27"
+      "keptVersion": "2.2.0.13",
+      "droppedVersion": "2.2.0.13"
     },
     {
       "internalName": "AutoHook",
@@ -3625,18 +3632,11 @@
       "droppedVersion": "5.3.3.3"
     },
     {
-      "internalName": "Avarice",
-      "kept": "Puni.sh (Ment)",
+      "internalName": "Marketbuddy",
+      "kept": "DalamudRepoCollection",
       "dropped": "MEGA Repository",
-      "keptVersion": "2.2.0.13",
-      "droppedVersion": "2.2.0.13"
-    },
-    {
-      "internalName": "YesAlready",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "1.15.8.0",
-      "droppedVersion": "1.15.8.0"
+      "keptVersion": "0.3.0.0",
+      "droppedVersion": "0.2.4.2"
     },
     {
       "internalName": "Questionable",
@@ -3646,11 +3646,11 @@
       "droppedVersion": "15.756.3.64"
     },
     {
-      "internalName": "Marketbuddy",
-      "kept": "DalamudRepoCollection",
+      "internalName": "YesAlready",
+      "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
-      "keptVersion": "0.3.0.0",
-      "droppedVersion": "0.2.4.2"
+      "keptVersion": "1.15.8.0",
+      "droppedVersion": "1.15.8.0"
     },
     {
       "internalName": "WrathCombo",
@@ -3660,18 +3660,18 @@
       "droppedVersion": "1.0.4.28"
     },
     {
-      "internalName": "Saucy",
-      "kept": "Puni.sh (Ment)",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.2.9",
-      "droppedVersion": "2.1.2.9"
-    },
-    {
       "internalName": "Palantir",
       "kept": "Puni.sh (Ment)",
       "dropped": "MEGA Repository",
       "keptVersion": "0.0.0.10",
       "droppedVersion": "0.0.0.10"
+    },
+    {
+      "internalName": "Saucy",
+      "kept": "Puni.sh (Ment)",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.2.9",
+      "droppedVersion": "2.1.2.9"
     },
     {
       "internalName": "Artisan",
@@ -3849,32 +3849,11 @@
       "droppedVersion": "1.7.4.2"
     },
     {
-      "internalName": "Cammy",
-      "kept": "bees-repo",
-      "dropped": "MEGA Repository",
-      "keptVersion": "2.1.1.2",
-      "droppedVersion": "2.1.1.2"
-    },
-    {
       "internalName": "NoClippy",
       "kept": "bees-repo",
       "dropped": "MEGA Repository",
       "keptVersion": "0.5.0.24",
       "droppedVersion": "0.5.0.24"
-    },
-    {
-      "internalName": "OOBlugin",
-      "kept": "MEGA Repository",
-      "dropped": "DalamudPluginRepo",
-      "keptVersion": "1.1.2.11",
-      "droppedVersion": "1.1.2.7"
-    },
-    {
-      "internalName": "ReAction",
-      "kept": "DalamudRepoCollection",
-      "dropped": "MEGA Repository",
-      "keptVersion": "69.1.6.5",
-      "droppedVersion": "1.3.5.1"
     },
     {
       "internalName": "Fractionality",
@@ -3884,11 +3863,32 @@
       "droppedVersion": "1.0.1.3"
     },
     {
+      "internalName": "ReAction",
+      "kept": "DalamudRepoCollection",
+      "dropped": "MEGA Repository",
+      "keptVersion": "69.1.6.5",
+      "droppedVersion": "1.3.5.1"
+    },
+    {
+      "internalName": "Cammy",
+      "kept": "bees-repo",
+      "dropped": "MEGA Repository",
+      "keptVersion": "2.1.1.2",
+      "droppedVersion": "2.1.1.2"
+    },
+    {
       "internalName": "DalamudRepoBrowser",
       "kept": "MEGA Repository",
       "dropped": "DalamudRepoCollection",
       "keptVersion": "2.0.3.3",
       "droppedVersion": "2.0.2.1"
+    },
+    {
+      "internalName": "OOBlugin",
+      "kept": "MEGA Repository",
+      "dropped": "DalamudPluginRepo",
+      "keptVersion": "1.1.2.11",
+      "droppedVersion": "1.1.2.7"
     },
     {
       "internalName": "ARControl",
@@ -4265,8 +4265,8 @@
       "internalName": "Snowcloak",
       "kept": "ElfShelf",
       "dropped": "MEGA Repository",
-      "keptVersion": "5.2.2.1",
-      "droppedVersion": "5.2.2.1"
+      "keptVersion": "5.2.3.0",
+      "droppedVersion": "5.2.3.0"
     },
     {
       "internalName": "BigMac",
@@ -4510,15 +4510,15 @@
       "internalName": "Henchman",
       "kept": "Knightmore",
       "dropped": "MEGA Repository",
-      "keptVersion": "4.0.0.5",
-      "droppedVersion": "4.0.0.4"
+      "keptVersion": "4.0.0.6",
+      "droppedVersion": "4.0.0.6"
     },
     {
       "internalName": "HuntAlerts",
       "kept": "Asuna's Repo",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.4.1.12",
-      "droppedVersion": "1.4.1.12"
+      "keptVersion": "1.4.1.13",
+      "droppedVersion": "1.4.1.13"
     },
     {
       "internalName": "Hyperborea",
@@ -4573,8 +4573,8 @@
       "internalName": "MappingTheRealm",
       "kept": "Knightmore",
       "dropped": "MEGA Repository",
-      "keptVersion": "1.0.0.8",
-      "droppedVersion": "1.0.0.5"
+      "keptVersion": "1.0.0.9",
+      "droppedVersion": "1.0.0.9"
     },
     {
       "internalName": "Meddle.Plugin",
@@ -4881,8 +4881,8 @@
       "internalName": "BetterDeaths",
       "kept": "MEGA Repository",
       "dropped": "nainai's repo",
-      "keptVersion": "1.0.0.75",
-      "droppedVersion": "1.0.0.75"
+      "keptVersion": "1.0.0.76",
+      "droppedVersion": "1.0.0.76"
     },
     {
       "internalName": "ChibiChaos",
@@ -5154,8 +5154,8 @@
       "internalName": "BetterDeaths",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.0.75",
-      "droppedVersion": "1.0.0.75"
+      "keptVersion": "1.0.0.76",
+      "droppedVersion": "1.0.0.76"
     },
     {
       "internalName": "BetterDiscordRichPresence",
@@ -5441,15 +5441,15 @@
       "internalName": "Henchman",
       "kept": "Knightmore",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "4.0.0.5",
-      "droppedVersion": "4.0.0.4"
+      "keptVersion": "4.0.0.6",
+      "droppedVersion": "4.0.0.6"
     },
     {
       "internalName": "HuntAlerts",
       "kept": "Asuna's Repo",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.4.1.12",
-      "droppedVersion": "1.4.1.12"
+      "keptVersion": "1.4.1.13",
+      "droppedVersion": "1.4.1.13"
     },
     {
       "internalName": "HuntBuddyReborn",
@@ -5574,8 +5574,8 @@
       "internalName": "MappingTheRealm",
       "kept": "Knightmore",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "1.0.0.8",
-      "droppedVersion": "1.0.0.5"
+      "keptVersion": "1.0.0.9",
+      "droppedVersion": "1.0.0.9"
     },
     {
       "internalName": "Marketbuddy",
@@ -5911,7 +5911,7 @@
       "kept": "Croizat's Repo",
       "dropped": "NexusFFXIV DalamudRepo",
       "keptVersion": "15.17",
-      "droppedVersion": "15.16"
+      "droppedVersion": "15.17"
     },
     {
       "internalName": "Splatoon",
@@ -5952,8 +5952,8 @@
       "internalName": "ThrowCrapOut",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "0.6.0.3",
-      "droppedVersion": "0.6.0.3"
+      "keptVersion": "0.6.0.4",
+      "droppedVersion": "0.6.0.4"
     },
     {
       "internalName": "TouristMod",
@@ -6050,8 +6050,8 @@
       "internalName": "WahTools",
       "kept": "MEGA Repository",
       "dropped": "NexusFFXIV DalamudRepo",
-      "keptVersion": "20.0.0.80",
-      "droppedVersion": "20.0.0.80"
+      "keptVersion": "20.0.0.81",
+      "droppedVersion": "20.0.0.81"
     },
     {
       "internalName": "wahventory",
@@ -6351,14 +6351,14 @@
       "internalName": "NyaDraw",
       "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "1.15.1.8",
+      "keptVersion": "1.15.1.9",
       "droppedVersion": "1.13.1.8"
     },
     {
       "internalName": "NyaDraw",
       "kept": "NiGuangOwO / DalamudPlugins",
       "dropped": "NiGuangOwO / DalamudPlugins",
-      "keptVersion": "1.15.1.8",
+      "keptVersion": "1.15.1.9",
       "droppedVersion": "1.14.0.35"
     },
     {
@@ -7086,8 +7086,8 @@
       "internalName": "Snowcloak",
       "kept": "ElfShelf",
       "dropped": "Snowcloak",
-      "keptVersion": "5.2.2.1",
-      "droppedVersion": "5.2.2.1"
+      "keptVersion": "5.2.3.0",
+      "droppedVersion": "5.2.3.0"
     },
     {
       "internalName": "BigMac",
@@ -7153,32 +7153,11 @@
       "droppedVersion": "7.1.2.24489"
     },
     {
-      "internalName": "Cammy",
-      "kept": "bees-repo",
-      "dropped": "UnknownX7",
-      "keptVersion": "2.1.1.2",
-      "droppedVersion": "2.1.1.2"
-    },
-    {
       "internalName": "NoClippy",
       "kept": "bees-repo",
       "dropped": "UnknownX7",
       "keptVersion": "0.5.0.24",
       "droppedVersion": "0.5.0.24"
-    },
-    {
-      "internalName": "OOBlugin",
-      "kept": "MEGA Repository",
-      "dropped": "UnknownX7",
-      "keptVersion": "1.1.2.11",
-      "droppedVersion": "1.1.2.11"
-    },
-    {
-      "internalName": "ReAction",
-      "kept": "DalamudRepoCollection",
-      "dropped": "UnknownX7",
-      "keptVersion": "69.1.6.5",
-      "droppedVersion": "1.3.5.1"
     },
     {
       "internalName": "Fractionality",
@@ -7188,11 +7167,32 @@
       "droppedVersion": "1.0.1.5"
     },
     {
+      "internalName": "ReAction",
+      "kept": "DalamudRepoCollection",
+      "dropped": "UnknownX7",
+      "keptVersion": "69.1.6.5",
+      "droppedVersion": "1.3.5.1"
+    },
+    {
+      "internalName": "Cammy",
+      "kept": "bees-repo",
+      "dropped": "UnknownX7",
+      "keptVersion": "2.1.1.2",
+      "droppedVersion": "2.1.1.2"
+    },
+    {
       "internalName": "DalamudRepoBrowser",
       "kept": "MEGA Repository",
       "dropped": "UnknownX7",
       "keptVersion": "2.0.3.3",
       "droppedVersion": "2.0.3.3"
+    },
+    {
+      "internalName": "OOBlugin",
+      "kept": "MEGA Repository",
+      "dropped": "UnknownX7",
+      "keptVersion": "1.1.2.11",
+      "droppedVersion": "1.1.2.11"
     },
     {
       "internalName": "IAmReady",
@@ -7231,10 +7231,10 @@
     },
     {
       "internalName": "ThrowCrapOut",
-      "kept": "Vali's Repo",
-      "dropped": "MEGA Repository",
+      "kept": "MEGA Repository",
+      "dropped": "Vali's Repo",
       "keptVersion": "0.6.0.4",
-      "droppedVersion": "0.6.0.3"
+      "droppedVersion": "0.6.0.4"
     },
     {
       "internalName": "XIVComboVX",
@@ -7373,8 +7373,8 @@
       "internalName": "WahTools",
       "kept": "MEGA Repository",
       "dropped": "wah",
-      "keptVersion": "20.0.0.80",
-      "droppedVersion": "20.0.0.80"
+      "keptVersion": "20.0.0.81",
+      "droppedVersion": "20.0.0.81"
     },
     {
       "internalName": "wahbuttons",
@@ -8253,16 +8253,16 @@
     },
     {
       "internalName": "XADatabase",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.50",
+      "kept": "xa-io / MyDalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "0.0.0.51",
       "droppedVersion": "0.0.0.50"
     },
     {
       "internalName": "XASlave",
-      "kept": "McVaxius / TheDumpsterFire",
-      "dropped": "xa-io / MyDalamudPlugins",
-      "keptVersion": "0.0.0.70",
+      "kept": "xa-io / MyDalamudPlugins",
+      "dropped": "McVaxius / TheDumpsterFire",
+      "keptVersion": "0.0.0.71",
       "droppedVersion": "0.0.0.70"
     },
     {
